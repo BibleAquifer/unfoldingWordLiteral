@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.1">
+<book code="PRO" style="id">- unfoldingWord Literal -</book>
+<para style="h">Proverbs</para>
+<para style="toc1">Proverbs</para>
+<para style="toc2">Proverbs</para>
+<para style="mt1">Proverbs</para>
+<chapter number="1" style="c" sid="PRO 1"/>
+<para style="p"><verse number="1" style="v" sid="PRO 1:1"/>The proverbs of Solomon, the son of David, the king of Israel:<verse eid="PRO 1:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 1:2"/>To know wisdom and instruction, to understand sayings of understanding;<verse eid="PRO 1:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 1:3"/>to receive instruction of insight, righteousness and justice and integrity;<verse eid="PRO 1:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 1:4"/>to give to naive ones prudence, to a young man knowledge and discretion<verse eid="PRO 1:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 1:5"/>(a wise one will hear and increase learning, and the understanding one will acquire directions),<verse eid="PRO 1:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 1:6"/>to understand a proverb and a satire, the words of the wise ones and their riddles.<verse eid="PRO 1:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 1:7"/>The fear of Yahweh {is} the beginning of knowledge, fools despise wisdom and instruction.<verse eid="PRO 1:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 1:8"/>Hear, my son, the instruction of your father and do not forsake the law of your mother.<verse eid="PRO 1:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 1:9"/>For, they {are} a garland of grace for your head and pendants for your neck.<verse eid="PRO 1:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 1:10"/>My son, if sinners entice you, do not consent.<verse eid="PRO 1:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 1:11"/>If they say, “Come with us! Let us lie in wait for blood. Let us hide to ambush the innocent one without cause.<verse eid="PRO 1:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 1:12"/>Let us swallow them, the living ones, like Sheol, and the whole ones like those going down to a pit.<verse eid="PRO 1:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 1:13"/>We will find all precious wealth. We will fill our houses {with} spoil.<verse eid="PRO 1:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 1:14"/>You must cause your lot to fall in our midst; one purse will be for all of us.”<verse eid="PRO 1:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 1:15"/>My son, do not walk in the way with them; restrain your foot from their path.<verse eid="PRO 1:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 1:16"/>For their feet run to evil, and they hurry to pour out blood.<verse eid="PRO 1:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 1:17"/>Surely in vain {is} the net spread out in the eyes of any owner of wing,<verse eid="PRO 1:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 1:18"/>but they lie in wait for their blood; they hide in ambush for their lives.<verse eid="PRO 1:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 1:19"/>So {are} the paths of all who unjustly gain unjust gain; it takes the life of its owner.<verse eid="PRO 1:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 1:20"/>Wisdom cries out outside, she gives her voice in the open areas.<verse eid="PRO 1:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 1:21"/>At the head of the tumultuous places she calls out; at the opening of the gates in the city, she says her sayings,<verse eid="PRO 1:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 1:22"/>“Until when will naive ones love naiveté and mockers delight {in} mockery for themselves and stupid ones hate knowledge?<verse eid="PRO 1:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 1:23"/>Turn to my rebuke. Behold, I shall allow my spirit to gush forth to you, I shall cause you to know my words.<verse eid="PRO 1:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 1:24"/>Because I have called and you have refused, I have stretched out my hand and there was no one listening attentively,<verse eid="PRO 1:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 1:25"/>and you have ignored all my counsel, and my rebuke you did not accept,<verse eid="PRO 1:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 1:26"/>I too shall laugh at your calamity, I shall mock when your dread comes,<verse eid="PRO 1:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 1:27"/>when your dread comes like a storm and your calamity happens like a whirlwind, when distress and anguish come upon you.<verse eid="PRO 1:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 1:28"/>Then they will call out to me, but I will not answer. They will diligently seek me, but they will not find me,<verse eid="PRO 1:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 1:29"/>for the reason that they hate knowledge and the fear of Yahweh they did not choose,<verse eid="PRO 1:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 1:30"/>they did not want my counsel, and they despised my every rebuke.<verse eid="PRO 1:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 1:31"/>And they will eat from the fruit of their way, and from their plans they will be satisfied.<verse eid="PRO 1:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 1:32"/>For the turning away of the naive ones will slay them and {false} security will lead stupid ones to ruin.<verse eid="PRO 1:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 1:33"/>But the one who listens to me will dwell securely and will be at ease from the dread of evil.”<verse eid="PRO 1:33"/></para>
+<chapter eid="PRO 1"/>
+<chapter number="2" style="c" sid="PRO 2"/>
+<para style="p"><verse number="1" style="v" sid="PRO 2:1"/>My son, if you receive my sayings, and my commandments you store up with you,<verse eid="PRO 2:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 2:2"/>to cause your ear to be attentive to wisdom, incline your heart to understanding—<verse eid="PRO 2:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 2:3"/>indeed, if for understanding you call out, for perception you lift up your voice,<verse eid="PRO 2:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 2:4"/>if you seek it like silver and like hidden treasures you search for it,<verse eid="PRO 2:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 2:5"/>then you will understand the fear of Yahweh and the knowledge of God you will find.<verse eid="PRO 2:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 2:6"/>For Yahweh gives wisdom, from his mouth {are} knowledge and understanding.<verse eid="PRO 2:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 2:7"/>And he stores up for the upright ones sound wisdom; a shield for those walking {with} integrity,<verse eid="PRO 2:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 2:8"/>to guard the paths of justice, and the way of his faithful ones he will preserve.<verse eid="PRO 2:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 2:9"/>Then you will understand righteousness and justice and integrity—every good track.<verse eid="PRO 2:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 2:10"/>For wisdom will enter into your heart, and knowledge will be pleasant to your soul.<verse eid="PRO 2:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 2:11"/>Discretion will watch over you, understanding will guard you,<verse eid="PRO 2:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 2:12"/>to rescue you from the way of evil, from a man who speaks perverse things,<verse eid="PRO 2:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 2:13"/>the ones who forsake the paths of straightness to walk in the ways of darkness,<verse eid="PRO 2:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 2:14"/>the ones who are glad to do evil, they rejoice in perverse things of evil,<verse eid="PRO 2:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 2:15"/>whose paths {are} crooked and who go astray in their tracks;<verse eid="PRO 2:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 2:16"/>to rescue you from a strange woman, from a foreign woman who makes her sayings smooth,<verse eid="PRO 2:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 2:17"/>the one who forsakes the companion of her youth, and the covenant of her God, she has forgotten.<verse eid="PRO 2:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 2:18"/>For her house sinks down to death and her tracks to the spirits of dead ones.<verse eid="PRO 2:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 2:19"/>All those who enter her will not return and they will not reach the paths of life.<verse eid="PRO 2:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 2:20"/>So you shall walk in the way of the good ones and the paths of the righteous ones you shall keep.<verse eid="PRO 2:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 2:21"/>For the upright ones will dwell {in} the land, and the blameless ones will remain in it,<verse eid="PRO 2:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 2:22"/>but wicked ones will be cut off from the land, and the treacherous ones will be torn away from it.<verse eid="PRO 2:22"/></para>
+<chapter eid="PRO 2"/>
+<chapter number="3" style="c" sid="PRO 3"/>
+<para style="p"><verse number="1" style="v" sid="PRO 3:1"/>My son, do not forget my law, and my commandments let your heart guard.<verse eid="PRO 3:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 3:2"/>For length of days and years of life and peace, they will add to you.<verse eid="PRO 3:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 3:3"/>Do not let covenant faithfulness and trustworthiness leave you, tie them on your neck, write them on the tablet of your heart,<verse eid="PRO 3:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 3:4"/>and find favor and good insight in the eyes of God and man!<verse eid="PRO 3:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 3:5"/>Trust in Yahweh with all your heart and on your understanding do not lean.<verse eid="PRO 3:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 3:6"/>In all your ways acknowledge him, and he himself will straighten your paths.<verse eid="PRO 3:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 3:7"/>Do not be wise in your eyes; fear Yahweh and turn away from evil.<verse eid="PRO 3:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 3:8"/>It will be healing for your navel and refreshment for your bones.<verse eid="PRO 3:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 3:9"/>Honor Yahweh from your wealth and from the first of all your produce,<verse eid="PRO 3:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 3:10"/>and your storehouses will be filled with plenty, and with new wine, your wine vats will burst open.<verse eid="PRO 3:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 3:11"/>The correction of Yahweh, my son, do not reject, and do not abhor his rebuke.<verse eid="PRO 3:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 3:12"/>For whom Yahweh loves, he rebukes, and like a father, a son he is pleased with.<verse eid="PRO 3:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 3:13"/>Happy {is} a man who finds wisdom and a man who obtains understanding.<verse eid="PRO 3:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 3:14"/>For better {is} its profit than the profit of silver, and than gold its produce.<verse eid="PRO 3:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 3:15"/>She is more precious than corals, and all your desired things do not compare with her.<verse eid="PRO 3:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 3:16"/>Length of days {is} in her right hand, in her left hand {are} riches and honor.<verse eid="PRO 3:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 3:17"/>Her ways {are} ways of pleasantness and all her beaten paths {are} peace.<verse eid="PRO 3:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 3:18"/>She {is} a tree of life to the ones who take hold of her, and those who grasp her {are} happy.<verse eid="PRO 3:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 3:19"/>Yahweh by wisdom founded the earth, he established the heavens by understanding.<verse eid="PRO 3:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 3:20"/>By his knowledge the depths broke open and the clouds dripped dew.<verse eid="PRO 3:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 3:21"/>My son, do not let them depart from your eyes, guard prudence and discretion;<verse eid="PRO 3:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 3:22"/>and they will be life for your soul and grace for your neck.<verse eid="PRO 3:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 3:23"/>Then you will walk your way to security and your foot will not stumble.<verse eid="PRO 3:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 3:24"/>If you lie down, you will not be in dread, and you will lie down, and your sleep will be pleasant.<verse eid="PRO 3:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 3:25"/>Do not be afraid of sudden dread and of the devastation of the wicked ones when it comes.<verse eid="PRO 3:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 3:26"/>For Yahweh will be your confidence, and he will keep your foot from capture.<verse eid="PRO 3:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 3:27"/>Do not withhold good from its owners, when it is in the power of your hand to act.<verse eid="PRO 3:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 3:28"/>Do not say to your neighbor, “Go and return, and tomorrow I will give {it},” and it is with you.<verse eid="PRO 3:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 3:29"/>Do not plot evil against your neighbor, and he who is dwelling securely with you.<verse eid="PRO 3:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 3:30"/>Do not contend with a man without cause, if he has not done you evil.<verse eid="PRO 3:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 3:31"/>Do not be envious of a man of violence and do not choose any of his ways.<verse eid="PRO 3:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 3:32"/>For an abomination to Yahweh {is} he who goes astray, but with the upright ones {is} his secret counsel.<verse eid="PRO 3:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 3:33"/>The curse of Yahweh {is} on the house of the wicked one, but he blesses the abode of the righteous ones.<verse eid="PRO 3:33"/></para>
+<para style="p"><verse number="34" style="v" sid="PRO 3:34"/>Though to the mockers he himself mocks, yet to the humble ones he gives favor.<verse eid="PRO 3:34"/></para>
+<para style="p"><verse number="35" style="v" sid="PRO 3:35"/>Wise ones will inherit honor, but stupid ones lift up dishonor.<verse eid="PRO 3:35"/></para>
+<chapter eid="PRO 3"/>
+<chapter number="4" style="c" sid="PRO 4"/>
+<para style="p"><verse number="1" style="v" sid="PRO 4:1"/>Hear, sons, the instruction of a father, and listen attentively in order to know understanding.<verse eid="PRO 4:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 4:2"/>For I give good teaching to you; do not forsake my law.<verse eid="PRO 4:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 4:3"/>When I was a son of my father, the tender and only one before the face of my mother,<verse eid="PRO 4:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 4:4"/>then he taught me and said to me, “Let your heart grasp my words; keep my commandments and live!<verse eid="PRO 4:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 4:5"/>Acquire wisdom, acquire understanding; do not forget and do not veer from the sayings of my mouth.<verse eid="PRO 4:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 4:6"/>Do not forsake her and she will preserve you; love her and she will guard you.<verse eid="PRO 4:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 4:7"/>The beginning of wisdom: acquire wisdom! And with all your acquisition acquire understanding!<verse eid="PRO 4:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 4:8"/>Cherish her and she will raise you up; she will honor you when you embrace her.<verse eid="PRO 4:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 4:9"/>She will give for your head a garland of grace; {with} a crown of splendor she will cover you.”<verse eid="PRO 4:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 4:10"/>Hear, my son, and receive my sayings, and they will multiply for you the years of life.<verse eid="PRO 4:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 4:11"/>In the way of wisdom I taught you; I caused you to tread in the tracks of uprightness.<verse eid="PRO 4:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 4:12"/>When you walk, your step will not be restricted; and if you run, you will not stumble.<verse eid="PRO 4:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 4:13"/>Grasp on to instruction, do not let go; guard it, for it {is} your life.<verse eid="PRO 4:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 4:14"/>On the path of wicked ones do not go and do not advance on the way of evil ones.<verse eid="PRO 4:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 4:15"/>Avoid it, do not pass through it; veer from it and pass on!<verse eid="PRO 4:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 4:16"/>For they do not sleep if they do not do evil and their sleep is robbed if they do not cause stumbling.<verse eid="PRO 4:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 4:17"/>For they eat the bread of wickedness and the wine of violent {acts}, they drink.<verse eid="PRO 4:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 4:18"/>But the path of the righteous ones {is} like the light of brightness, going and shining until the day {is} established.<verse eid="PRO 4:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 4:19"/>The way of the wicked ones {is} like the darkness; they do not know on what they stumble.<verse eid="PRO 4:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 4:20"/>My son, listen attentively to my words; incline your ear to my sayings.<verse eid="PRO 4:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 4:21"/>Do not let them depart from your eyes; keep them in the midst of your heart.<verse eid="PRO 4:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 4:22"/>For they {are} life to those who find them and healing to all of his flesh.<verse eid="PRO 4:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 4:23"/>Guard your heart more than all {that} is protected, for from it {are} the sources of life.<verse eid="PRO 4:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 4:24"/>Remove from you perversity of mouth, and the deviousness of lips put far away from you.<verse eid="PRO 4:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 4:25"/>Cause your eyes to gaze to the front, and cause your eyelids to be straight in front of you.<verse eid="PRO 4:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 4:26"/>Make level the track of your foot and all your ways will be firm.<verse eid="PRO 4:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 4:27"/>Do not veer right or left; cause your foot to turn away from evil.<verse eid="PRO 4:27"/></para>
+<chapter eid="PRO 4"/>
+<chapter number="5" style="c" sid="PRO 5"/>
+<para style="p"><verse number="1" style="v" sid="PRO 5:1"/>My son, listen attentively to my wisdom, incline your ear to my understanding<verse eid="PRO 5:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 5:2"/>in order to keep discretion, and your lips may guard knowledge.<verse eid="PRO 5:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 5:3"/>For the lips of a strange woman drip fresh honey and smoother than oil {is} her palate,<verse eid="PRO 5:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 5:4"/>but her aftermath {is} bitter like wormwood, sharp like a sword of mouths.<verse eid="PRO 5:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 5:5"/>Her feet are going down {to} death; her steps take hold of Sheol.<verse eid="PRO 5:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 5:6"/>Lest she observe the path of life, she does not know her tracks {are} unstable.<verse eid="PRO 5:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 5:7"/>And now, sons, listen to me; and do not turn away from the sayings of my mouth.<verse eid="PRO 5:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 5:8"/>Keep your way far from her and do not come near to the opening of her house.<verse eid="PRO 5:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 5:9"/>Lest you give to others your splendor and your years to a cruel one.<verse eid="PRO 5:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 5:10"/>Lest strangers be satisfied with your strength and your toils {be} in the house of a foreigner,<verse eid="PRO 5:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 5:11"/>and you groan at your end when your flesh and your body are finished.<verse eid="PRO 5:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 5:12"/>And you will say, “How I hated correction and my heart despised rebuke!<verse eid="PRO 5:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 5:13"/>And I did not listen to the voice of my teachers and to my instructors, I did not incline my ear.<verse eid="PRO 5:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 5:14"/>I was almost in all evil in the midst of the assembly and the congregation.”<verse eid="PRO 5:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 5:15"/>Drink water from your cistern and flowing waters from the midst of your well.<verse eid="PRO 5:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 5:16"/>Should your springs overflow outside, channels of water in the open areas?<verse eid="PRO 5:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 5:17"/>Let them be for you, for you alone, and not for strangers with you.<verse eid="PRO 5:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 5:18"/>May your fountain be blessed, and be glad because of the wife of your youth!<verse eid="PRO 5:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 5:19"/>A doe of loves and a mountain goat of grace, may her breasts drench you on every occasion; may you continually stagger in her love.<verse eid="PRO 5:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 5:20"/>And why would you stagger, my son, with a strange woman, or embrace the bosom of a foreign woman?<verse eid="PRO 5:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 5:21"/>For in front of the eyes of Yahweh {are} the ways of a man, and all of his paths he observes.<verse eid="PRO 5:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 5:22"/>His iniquities capture him, the wicked one; and by the cords of his sin he is grasped.<verse eid="PRO 5:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 5:23"/>He will die because there is no correction; and in the abundance of his folly he staggers.<verse eid="PRO 5:23"/></para>
+<chapter eid="PRO 5"/>
+<chapter number="6" style="c" sid="PRO 6"/>
+<para style="p"><verse number="1" style="v" sid="PRO 6:1"/>My son, if you pledge for your neighbor, you clasp your palms for a stranger,<verse eid="PRO 6:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 6:2"/>you are ensnared by the sayings of your mouth, you are caught by the sayings of your mouth,<verse eid="PRO 6:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 6:3"/>then do this, my son, and rescue yourself: Since you have come into the palm of your neighbor, go, humble yourself, and press your neighbor.<verse eid="PRO 6:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 6:4"/>Do not give sleep to your eyes and slumber to your eyelids.<verse eid="PRO 6:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 6:5"/>Rescue yourself like a gazelle from a hand, and like a bird from the hand of the trapper.<verse eid="PRO 6:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 6:6"/>Go to the ant, lazy one! See its ways and be wise,<verse eid="PRO 6:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 6:7"/>which, without a commander, officer, or ruler for it,<verse eid="PRO 6:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 6:8"/>prepares its bread in the summer; it gathers its food in the harvest.<verse eid="PRO 6:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 6:9"/>Until when, lazy one, will you lie down? When will you rise from your sleep?<verse eid="PRO 6:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 6:10"/>“A little sleep, a little slumber, a little folding of the hands to lie down”—<verse eid="PRO 6:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 6:11"/>and your poverty will come like one who walks and your lack like a man of shield.<verse eid="PRO 6:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 6:12"/>A man of worthlessness, a man of iniquity, {is} one who walks {with} perversity of mouth,<verse eid="PRO 6:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 6:13"/>one who winks with his eye, one who rubs with his foot, one who points with his fingers.<verse eid="PRO 6:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 6:14"/>Perverse things {are} in his heart, plotting evil on every occasion; he sends forth quarrels.<verse eid="PRO 6:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 6:15"/>Therefore his calamity will come instantly, suddenly he will be broken and without healing.<verse eid="PRO 6:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 6:16"/>Six {are} they Yahweh hates, and seven {are} abominations to his self:<verse eid="PRO 6:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 6:17"/>uplifted eyes, a tongue of falsehood, and hands pouring out innocent blood,<verse eid="PRO 6:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 6:18"/>a heart devising plans of iniquity, feet hurrying to run to evil,<verse eid="PRO 6:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 6:19"/>a witness of falsehood who breathes out lies and who sends forth quarrels between brothers.<verse eid="PRO 6:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 6:20"/>Guard, my son, the commandment of your father and do not forsake the law of your mother.<verse eid="PRO 6:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 6:21"/>Bind them on your heart continually; tie them around your neck.<verse eid="PRO 6:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 6:22"/>When you walk about, it will guide you; when you lie down, it will preserve you; and you will wake up, it will converse with you.<verse eid="PRO 6:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 6:23"/>For the commandment {is} a lamp and the law {is} a light, and the rebukes of instruction {are} the way of life,<verse eid="PRO 6:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 6:24"/>to keep you from a woman of evil, from the smoothness of the tongue of a foreign woman.<verse eid="PRO 6:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 6:25"/>Do not desire her beauty in your heart and do not let her take you with her eyelashes.<verse eid="PRO 6:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 6:26"/>For the price of a prostitute woman {is} as a loaf of bread, but the wife of a man hunts a precious life.<verse eid="PRO 6:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 6:27"/>Could a man carry a fire on his chest and his clothes not be burned?<verse eid="PRO 6:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 6:28"/>If a man walks on coals then will his feet not be scorched?<verse eid="PRO 6:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 6:29"/>So is the one going to the wife of his neighbor: Every one who touches her will not remain blameless.<verse eid="PRO 6:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 6:30"/>They do not despise the thief if he steals to satisfy his appetite when he is hungry.<verse eid="PRO 6:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 6:31"/>But if he is found, he must repay sevenfold; all the wealth of his house he must give.<verse eid="PRO 6:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 6:32"/>One who commits adultery {with} a woman {is} lacking of heart; destroying his life, he does it.<verse eid="PRO 6:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 6:33"/>He will find a wound and disgrace and his shame will not be wiped out.<verse eid="PRO 6:33"/></para>
+<para style="p"><verse number="34" style="v" sid="PRO 6:34"/>For jealousy is the heat of a man, and he will not spare in the day of vengeance.<verse eid="PRO 6:34"/></para>
+<para style="p"><verse number="35" style="v" sid="PRO 6:35"/>He will not lift up the face of any ransom, and he will not be willing if you increase the bribe.<verse eid="PRO 6:35"/></para>
+<chapter eid="PRO 6"/>
+<chapter number="7" style="c" sid="PRO 7"/>
+<para style="p"><verse number="1" style="v" sid="PRO 7:1"/>My son, keep my sayings and store up my commandments with you.<verse eid="PRO 7:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 7:2"/>Keep my commandments and live, and my law as the pupil of your eyes.<verse eid="PRO 7:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 7:3"/>Tie them on your fingers; write them on the tablet of your heart.<verse eid="PRO 7:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 7:4"/>Say to wisdom, “You {are} my sister,” and call to understanding, “Kinsman,”<verse eid="PRO 7:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 7:5"/>in order to keep you from the strange woman, from the foreign woman who makes her sayings smooth.<verse eid="PRO 7:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 7:6"/>For at the window of my house, through the window lattice I looked down.<verse eid="PRO 7:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 7:7"/>And I saw among the naive ones, I discerned among the sons a young man lacking of heart<verse eid="PRO 7:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 7:8"/>passing through the lane beside her corner, and he steps {in} the way of her house,<verse eid="PRO 7:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 7:9"/>in the twilight breeze, in the evening of day, in the pupil of the night and darkness.<verse eid="PRO 7:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 7:10"/>And behold, {there is} a woman to meet him, {with} the garment of a prostitute and guarded of heart.<verse eid="PRO 7:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 7:11"/>(She {is} a loud and rebellious one; her feet do not stay in her house.<verse eid="PRO 7:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 7:12"/>At {one} time in the street, at {another} time in the open areas, and beside every corner she lies in wait.)<verse eid="PRO 7:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 7:13"/>And she grabs him and kisses him, she strengthens her face and says to him,<verse eid="PRO 7:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 7:14"/>“The sacrifices of peace offerings {are} with me; today I paid my vows.<verse eid="PRO 7:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 7:15"/>Therefore, I came out to meet you, to diligently seek your face, and I found you.<verse eid="PRO 7:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 7:16"/>I have spread my couch {with} coverings, colored linen of Egypt.<verse eid="PRO 7:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 7:17"/>I have sprinkled my bed {with} myrrh, aloes, and cinnamon.<verse eid="PRO 7:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 7:18"/>Come, let us be drenched {with} lusts until the morning; let us delight ourselves with loves.<verse eid="PRO 7:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 7:19"/>For the man is not in his house; he went on a road far away.<verse eid="PRO 7:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 7:20"/>He took the bag of the silver in his hand; on the day of the full moon he will enter his house.”<verse eid="PRO 7:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 7:21"/>She leads him astray with the abundance of her teaching; with the smoothness of her lips she compels him.<verse eid="PRO 7:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 7:22"/>Following after her suddenly, like an ox to slaughter he goes, and like an ankle chain to the correction of a fool,<verse eid="PRO 7:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 7:23"/>until an arrow splits his liver, like a bird rushing into a trap, and he did not know that it {was} for his life.<verse eid="PRO 7:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 7:24"/>And now, sons, listen to me; and listen attentively to the sayings of my mouth.<verse eid="PRO 7:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 7:25"/>Do not let your heart turn aside to her ways; do not wander into her tracks.<verse eid="PRO 7:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 7:26"/>For she has caused many pierced ones to fall, and numerous {are} all her slain ones.<verse eid="PRO 7:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 7:27"/>Her house {is} the ways of Sheol, descending to the rooms of death.<verse eid="PRO 7:27"/></para>
+<chapter eid="PRO 7"/>
+<chapter number="8" style="c" sid="PRO 8"/>
+<para style="p"><verse number="1" style="v" sid="PRO 8:1"/>Does not wisdom call out and understanding give her voice?<verse eid="PRO 8:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 8:2"/>At the head of the heights beside the road, the house of the paths, she stations herself.<verse eid="PRO 8:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 8:3"/>At the hand of the gates, at the mouth of the city, the entrance of the openings, she cries out.<verse eid="PRO 8:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 8:4"/>“To you, men, I call; and my voice {is} to the sons of man.<verse eid="PRO 8:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 8:5"/>Understand prudence, naive ones, and stupid ones, understand heart.<verse eid="PRO 8:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 8:6"/>Listen, for noble things I will speak, and the opening of my lips {will be} upright things.<verse eid="PRO 8:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 8:7"/>For my palate will utter truth, and wickedness {is} an abomination to my lips.<verse eid="PRO 8:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 8:8"/>All the words of my mouth {are} in righteousness; there is nothing twisted or crooked in them.<verse eid="PRO 8:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 8:9"/>All of them {are} straightforward things for the understanding one and upright things for finders of knowledge.<verse eid="PRO 8:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 8:10"/>Take my instruction and not silver, and knowledge rather than choice gold.<verse eid="PRO 8:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 8:11"/>For wisdom {is} better than corals and all desired things do not compare with her.<verse eid="PRO 8:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 8:12"/>I, Wisdom, I dwell with prudence, and knowledge of discretion I find.<verse eid="PRO 8:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 8:13"/>The fear of Yahweh {is} to hate evil. Pride and arrogance and the evil way and the mouth of perverse things I hate.<verse eid="PRO 8:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 8:14"/>Counsel and sound wisdom {are} mine; I {am} understanding; strength {is} mine.<verse eid="PRO 8:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 8:15"/>By me kings reign and dignitaries decree righteousness.<verse eid="PRO 8:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 8:16"/>By me princes rule, and nobles, all judges of righteousness.<verse eid="PRO 8:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 8:17"/>I myself love those who love me, and those who diligently seek me will find me.<verse eid="PRO 8:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 8:18"/>Riches and honor {are} with me, lasting wealth and righteousness.<verse eid="PRO 8:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 8:19"/>My fruit {is} better than gold and than refined gold, and my produce than choice silver.<verse eid="PRO 8:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 8:20"/>I walk in the path of righteousness, in the midst of the beaten paths of justice,<verse eid="PRO 8:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 8:21"/>to cause those who love me to inherit property; and their treasuries I will fill.<verse eid="PRO 8:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 8:22"/>Yahweh possessed me {at} the beginning of his way, before his works from then.<verse eid="PRO 8:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 8:23"/>From eternity I was poured out, from the head, from the ancient times of the earth.<verse eid="PRO 8:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 8:24"/>When there were no watery depths, I was brought forth, when there were no springs heavy with water.<verse eid="PRO 8:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 8:25"/>Before the mountains were sunk, before the face of the hills, I was brought forth,<verse eid="PRO 8:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 8:26"/>before he made the earth or the outside places or the head of the loose soil of the world.<verse eid="PRO 8:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 8:27"/>When he established the heavens, I {was} there, when he inscribed a circle over the face of the watery deep,<verse eid="PRO 8:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 8:28"/>when he made firm the clouds above, when the springs of the watery deep became strong,<verse eid="PRO 8:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 8:29"/>when he set up for the sea its statute, so waters do not cross over his mouth, when he inscribed the foundations of the earth.<verse eid="PRO 8:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 8:30"/>Then I was beside him {as} a skilled worker, and I was a delight day {by} day, frolicking before his face at every time.<verse eid="PRO 8:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 8:31"/>Frolicking in the world of his earth, and my delights {were} with the sons of man.<verse eid="PRO 8:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 8:32"/>And now, sons, listen to me, and happy {are} they {who} keep my ways.<verse eid="PRO 8:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 8:33"/>Hear instruction, and be wise, and do not neglect {it}.<verse eid="PRO 8:33"/></para>
+<para style="p"><verse number="34" style="v" sid="PRO 8:34"/>Happy {is} the man listening to me, keeping vigil over my doors day {by} day, keeping watch {over} the doorposts of my entrances.<verse eid="PRO 8:34"/></para>
+<para style="p"><verse number="35" style="v" sid="PRO 8:35"/>For finders of me {are} finders of life, and he obtains favor from Yahweh.<verse eid="PRO 8:35"/></para>
+<para style="p"><verse number="36" style="v" sid="PRO 8:36"/>But a sinner {against} me does violence to his life; all haters of me love death.”<verse eid="PRO 8:36"/></para>
+<chapter eid="PRO 8"/>
+<chapter number="9" style="c" sid="PRO 9"/>
+<para style="p"><verse number="1" style="v" sid="PRO 9:1"/>Wisdom has built her house; she has hewn out her seven pillars.<verse eid="PRO 9:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 9:2"/>She has slaughtered her slaughter, she has mixed her wine, also she has arranged her table.<verse eid="PRO 9:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 9:3"/>She has sent out her young women, she calls out on the tops of the heights of the city.<verse eid="PRO 9:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 9:4"/>“Whoever {is} naive, let him turn aside here,” she says to him lacking of heart.<verse eid="PRO 9:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 9:5"/>“Come, eat my bread, and drink the wine I have mixed.<verse eid="PRO 9:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 9:6"/>Forsake naive things and live; and stride on the way of understanding.<verse eid="PRO 9:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 9:7"/>The instructor of a mocker receives disgrace for himself, and the rebuker of a wicked one, his injury.<verse eid="PRO 9:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 9:8"/>Do not rebuke a mocker, lest he hate you; rebuke a wise one and he will love you.<verse eid="PRO 9:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 9:9"/>Give to a wise one and he will become more wise; inform a righteous one, and he will increase learning.<verse eid="PRO 9:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 9:10"/>The beginning of wisdom {is} the fear of Yahweh and knowledge of holy things {is} understanding.<verse eid="PRO 9:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 9:11"/>For by me your days will increase, and years of life will be added to you.<verse eid="PRO 9:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 9:12"/>If you are wise, you are wise for yourself, and {if} you mock, you alone will bear {it}.”<verse eid="PRO 9:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 9:13"/>The woman of stupidity {is} loud, naive, and she does not know anything.<verse eid="PRO 9:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 9:14"/>And she sits at the opening of her house, on a seat {by} the heights of the city,<verse eid="PRO 9:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 9:15"/>to call to those who pass over the way, the ones going straight {on} their paths.<verse eid="PRO 9:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 9:16"/>“Whoever {is} naive, let him turn aside here!” And she says to him, the lacking of heart,<verse eid="PRO 9:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 9:17"/>“Stolen waters are sweet, and bread of secrecies is pleasant.”<verse eid="PRO 9:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 9:18"/>But he does not know that the spirits of the dead {are} there; in the depths of Sheol {are} her called ones.<verse eid="PRO 9:18"/></para>
+<chapter eid="PRO 9"/>
+<chapter number="10" style="c" sid="PRO 10"/>
+<para style="p"><verse number="1" style="v" sid="PRO 10:1"/>The proverbs of Solomon: A wise son gladdens a father, but a stupid son {is} the grief of his mother.<verse eid="PRO 10:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 10:2"/>Treasures of wickedness do not profit, but righteousness delivers from death.<verse eid="PRO 10:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 10:3"/>Yahweh does not let the life of the righteous one starve but the desire of the wicked ones he thrusts away.<verse eid="PRO 10:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 10:4"/>A palm of idleness makes poverty, but the hand of the diligent ones makes rich.<verse eid="PRO 10:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 10:5"/>One who gathers in the summer {is} a son who has insight, but one who sleeps in the harvest {is} a son who acts shamefully.<verse eid="PRO 10:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 10:6"/>Blessings {are} for the head of the righteous one, but the mouth of the wicked ones covers violence.<verse eid="PRO 10:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 10:7"/>The memory of the righteous one {is} for a blessing, but the name of the wicked ones will rot.<verse eid="PRO 10:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 10:8"/>The one wise of heart receives commands, but the one foolish of lips will be thrown down.<verse eid="PRO 10:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 10:9"/>One who walks with integrity will walk securely, but one who causes his ways to be crooked will be known.<verse eid="PRO 10:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 10:10"/>One who winks an eye gives pain, and the one foolish of lips will be thrown down.<verse eid="PRO 10:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 10:11"/>A fountain of life {is} the mouth of the righteous one, but the mouth of the wicked ones covers violence.<verse eid="PRO 10:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 10:12"/>Hatred stirs up quarrels, but love covers over all transgressions.<verse eid="PRO 10:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 10:13"/>On the lips of the discerning one wisdom is found, but a rod {is} for the back of the one lacking of heart.<verse eid="PRO 10:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 10:14"/>Wise ones store up knowledge, but the mouth of a fool {is} near ruin.<verse eid="PRO 10:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 10:15"/>The wealth of the rich one {is} the city of his strength; the ruin of lowly ones {is} their poverty.<verse eid="PRO 10:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 10:16"/>The wage of the righteous one {is} to life; the income of the wicked one {is} to sin.<verse eid="PRO 10:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 10:17"/>{On} a path to life {is} one who keeps instruction, but one who forsakes rebuke goes astray.<verse eid="PRO 10:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 10:18"/>One who covers hate {has} lips of falsehood, and one who causes an evil report to go forth, he {is} a stupid one.<verse eid="PRO 10:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 10:19"/>With a multitude of words transgression does not cease, but one who restrains his lips is insightful.<verse eid="PRO 10:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 10:20"/>Choice silver {is} the tongue of the righteous one; the heart of the wicked ones {is} like little.<verse eid="PRO 10:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 10:21"/>The lips of the righteous one shepherd many, but fools die by lack of heart.<verse eid="PRO 10:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 10:22"/>The blessing of Yahweh, it causes riches, and he does not add pain with it.<verse eid="PRO 10:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 10:23"/>Like laughter for a stupid one {is} doing a wicked plan, but wisdom, for a man of understanding.<verse eid="PRO 10:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 10:24"/>The terror of the wicked one, it will come to him, but the desire of the righteous ones will be given.<verse eid="PRO 10:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 10:25"/>At the passing over of a whirlwind, and there is no wicked one, but a righteous one {is} a foundation of eternity.<verse eid="PRO 10:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 10:26"/>Like vinegar to the teeth and smoke to the eyes, so {is} the lazy one to one who sends him.<verse eid="PRO 10:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 10:27"/>The fear of Yahweh will add days, but the years of the wicked ones will be short.<verse eid="PRO 10:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 10:28"/>The hope of the righteous ones {is} joy, but the expectation of the wicked ones will perish.<verse eid="PRO 10:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 10:29"/>A stronghold for the one with integrity {is} the way of Yahweh, but ruin for doers of iniquity.<verse eid="PRO 10:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 10:30"/>A righteous one will not falter to eternity, but wicked ones will not dwell {in} the land.<verse eid="PRO 10:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 10:31"/>The mouth of the righteous one bears the fruit of wisdom, but the tongue of the perverse ones will be cut off.<verse eid="PRO 10:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 10:32"/>The lips of the righteous one know favor, but the mouth of the wicked ones, perverse things.<verse eid="PRO 10:32"/></para>
+<chapter eid="PRO 10"/>
+<chapter number="11" style="c" sid="PRO 11"/>
+<para style="p"><verse number="1" style="v" sid="PRO 11:1"/>Scales of deceit {are} an abomination to Yahweh but a whole stone {is} his delight.<verse eid="PRO 11:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 11:2"/>When presumptuousness comes, then disgrace comes, but {with} modest ones {is} wisdom.<verse eid="PRO 11:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 11:3"/>The integrity of the upright ones will guide them, but the crookedness of the treacherous ones will destroy them.<verse eid="PRO 11:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 11:4"/>Wealth will not profit in the day of rage, but righteousness will deliver from death.<verse eid="PRO 11:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 11:5"/>The righteousness of a blameless one will make his way straight, but by his wickedness, a wicked one will fall.<verse eid="PRO 11:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 11:6"/>The righteousness of the upright ones will deliver them, but by the desire of the treacherous ones they will be captured.<verse eid="PRO 11:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 11:7"/>At the death of a wicked man expectation will perish, and the hope of strong ones perishes.<verse eid="PRO 11:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 11:8"/>A righteous one is drawn away from distress, but a wicked one enters instead of him.<verse eid="PRO 11:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 11:9"/>With a mouth a godless one destroys his neighbor, but with knowledge, righteous ones will be delivered.<verse eid="PRO 11:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 11:10"/>In the good of the righteous ones a city exults; and when wicked ones perish, a shout of joy.<verse eid="PRO 11:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 11:11"/>With the blessing of the upright ones a city is raised up, but with the mouth of the wicked ones it is torn down.<verse eid="PRO 11:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 11:12"/>One who despises his neighbor {is} lacking of heart, but a man of understanding will keep quiet.<verse eid="PRO 11:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 11:13"/>A gossip goes about uncovering a secret, but one who is faithful of spirit {is} one who covers a matter.<verse eid="PRO 11:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 11:14"/>When there are no directions a people falls, but salvation {is} in an abundance of counsel.<verse eid="PRO 11:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 11:15"/>One will surely suffer if he pledges for a stranger, but one who hates hand clasps {is} secure.<verse eid="PRO 11:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 11:16"/>A woman of grace will grasp honor, but ruthless ones will grasp riches.<verse eid="PRO 11:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 11:17"/>A man of covenant faithfulness deals fully with his soul, but a cruel one troubles his flesh.<verse eid="PRO 11:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 11:18"/>A wicked one makes a wage of falsehood, but one who sows righteousness, a wage of truth.<verse eid="PRO 11:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 11:19"/>Veritable righteousness {is} to life, but one who pursues evil {is} to his death.<verse eid="PRO 11:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 11:20"/>An abomination to Yahweh {is} those crooked of heart, but his delight {is} those blameless of way.<verse eid="PRO 11:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 11:21"/>Hand to hand, a wicked one will not remain blameless, but the seed of the righteous ones will safely escape.<verse eid="PRO 11:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 11:22"/>A ring of gold in the nose of a pig {is} a beautiful woman that turns away {from} discretion.<verse eid="PRO 11:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 11:23"/>The desire of the righteous ones {is} only good; the expectation of the wicked ones {is} rage.<verse eid="PRO 11:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 11:24"/>There is one who scatters and adds more, but one who withholds more than {what is} right, only for lack.<verse eid="PRO 11:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 11:25"/>A life of blessing will be fattened, and the one who drenches, he also will be drenched.<verse eid="PRO 11:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 11:26"/>One who withholds grain, people will curse him, but a blessing {is} for the head of the seller.<verse eid="PRO 11:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 11:27"/>One who diligently seeks good seeks favor, but one who searches {for} evil, it will come {to} him.<verse eid="PRO 11:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 11:28"/>One who trusts in his riches, he himself will fall, but like a leaf righteous ones will sprout.<verse eid="PRO 11:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 11:29"/>One who troubles his house will inherit wind, and a fool {will be} a slave to the wise of heart.<verse eid="PRO 11:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 11:30"/>The fruit of the righteous one {is} a tree of life, and the taker of souls is wise.<verse eid="PRO 11:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 11:31"/>Behold, a righteous one in the land will be repaid, how much more a wicked one and a sinner!<verse eid="PRO 11:31"/></para>
+<chapter eid="PRO 11"/>
+<chapter number="12" style="c" sid="PRO 12"/>
+<para style="p"><verse number="1" style="v" sid="PRO 12:1"/>The lover of correction loves knowledge, but the hater of rebuke {is} stupid.<verse eid="PRO 12:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 12:2"/>A good one obtains favor from Yahweh, but a man of schemes he will condemn.<verse eid="PRO 12:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 12:3"/>A man will not be established by wickedness, but the root of the righteous ones will not be shaken.<verse eid="PRO 12:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 12:4"/>A wife of worth {is} the crown of her husband, but she who causes shame {is} like rottenness in his bones.<verse eid="PRO 12:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 12:5"/>The plans of the righteous ones {are} justice; the directions of the wicked ones {are} deceit.<verse eid="PRO 12:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 12:6"/>The words of the wicked ones lie in wait {for} blood, but the mouth of the upright ones will deliver them.<verse eid="PRO 12:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 12:7"/>Wicked ones are overthrown, and they are naught, but the house of the righteous ones will stand.<verse eid="PRO 12:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 12:8"/>For the mouth of his insight a man will be praised, but one who is twisted of heart will be for contempt.<verse eid="PRO 12:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 12:9"/>Better {is} the one dishonored and has a servant than the one honoring himself and lacking of bread.<verse eid="PRO 12:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 12:10"/>A righteous one knows the life of his animal, but the compassion of the wicked ones {is} cruel.<verse eid="PRO 12:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 12:11"/>Bread will satisfy one who works his ground, but one who pursues empty things {is} lacking of heart.<verse eid="PRO 12:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 12:12"/>A wicked one desires the snare of evil ones, but the root of the righteous ones will give.<verse eid="PRO 12:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 12:13"/>In the transgression of lips {is} the snare of the evil one, but the righteous one will go out from distress.<verse eid="PRO 12:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 12:14"/>From the fruit of the mouth of a man will he be satisfied {with} good, and the accomplishment of the hands of a man will return to him.<verse eid="PRO 12:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 12:15"/>The way of a fool {is} right in his eyes, but a wise one listens to counsel.<verse eid="PRO 12:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 12:16"/>A fool, his anger is known on the day, but a prudent one covers dishonor.<verse eid="PRO 12:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 12:17"/>He who breathes out faithfulness tells righteousness, but a witness of falsehoods, deceit.<verse eid="PRO 12:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 12:18"/>There is one who speaks thoughtlessly like the thrusts of a sword, but the tongue of the wise ones {causes} healing.<verse eid="PRO 12:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 12:19"/>A lip of truth will be established to perpetuity, but a tongue of falsehood as long as I would blink.<verse eid="PRO 12:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 12:20"/>Deceit {is} in the heart of devisers of evil, but joy {is} for advisers of peace.<verse eid="PRO 12:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 12:21"/>Any iniquity will not be allowed to happen to the righteous one, but wicked ones are full of evil.<verse eid="PRO 12:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 12:22"/>An abomination to Yahweh {are} lips of falsehood, but doers of faithfulness {are} his delight.<verse eid="PRO 12:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 12:23"/>A prudent man covers knowledge, but the heart of stupid ones calls out folly.<verse eid="PRO 12:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 12:24"/>The hand of the diligent ones will rule, but an idle one will become a forced laborer.<verse eid="PRO 12:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 12:25"/>Concern in the heart of a man weighs it down, but a good word gladdens it.<verse eid="PRO 12:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 12:26"/>A righteous one searches out from his neighbor, but the way of the wicked ones will lead them astray.<verse eid="PRO 12:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 12:27"/>A negligent one will not roast his game, but the wealth of a man {is} precious for a diligent one.<verse eid="PRO 12:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 12:28"/>In the path of righteousness {is} life, and the way of the beaten path {is} no death.<verse eid="PRO 12:28"/></para>
+<chapter eid="PRO 12"/>
+<chapter number="13" style="c" sid="PRO 13"/>
+<para style="p"><verse number="1" style="v" sid="PRO 13:1"/>A wise son, the instruction of a father, but a mocker does not listen to rebuke.<verse eid="PRO 13:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 13:2"/>From the fruit of the mouth of a man he eats good, but the appetite of the treacherous ones {is for} violence.<verse eid="PRO 13:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 13:3"/>One who guards his mouth keeps his life; one who opens his lips, ruin for him.<verse eid="PRO 13:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 13:4"/>A lazy one, his appetite is craving and there is nothing, but the appetite of the diligent ones will be fattened.<verse eid="PRO 13:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 13:5"/>A righteous one hates a word of falsehood, but a wicked one causes a stink and causes embarrassment.<verse eid="PRO 13:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 13:6"/>Righteousness guards the blameless of way, but wickedness leads a sinful one astray.<verse eid="PRO 13:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 13:7"/>There is one who pretends to be rich but there is nothing {at} all; one who pretends to be poor but {has} much wealth.<verse eid="PRO 13:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 13:8"/>The ransom of the life of a man {is} his riches, but a poor one does not hear a rebuke.<verse eid="PRO 13:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 13:9"/>The light of the righteous ones will be glad, but the lamp of the wicked ones will be extinguished.<verse eid="PRO 13:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 13:10"/>With presumptuousness comes only contention, but with those who are counseled, wisdom.<verse eid="PRO 13:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 13:11"/>Wealth from emptiness will dwindle, but one who gathers by hand will increase.<verse eid="PRO 13:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 13:12"/>Hope deferred makes a heart sick, but a desire fulfilled {is} a tree of life.<verse eid="PRO 13:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 13:13"/>One who despises a word will be pledged to pay for it, but {he with} fear of a command, he himself will be rewarded.<verse eid="PRO 13:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 13:14"/>The law of the wise {is} a fountain of life, to turn away from the snares of death.<verse eid="PRO 13:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 13:15"/>Good insight gives favor, but the way of treacherous ones {is} permanent.<verse eid="PRO 13:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 13:16"/>Every prudent one acts with knowledge, but a stupid one spreads folly.<verse eid="PRO 13:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 13:17"/>A wicked messenger falls into evil, but an envoy of faithfulness {causes} healing.<verse eid="PRO 13:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 13:18"/>Poverty and shame {are for} one who avoids correction, but one who keeps a rebuke will be honored.<verse eid="PRO 13:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 13:19"/>A desire {that} occurs will be pleasing to the self, but the abomination to stupid ones {is} turning away from evil.<verse eid="PRO 13:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 13:20"/>One who walks {with} wise ones will be wise, but one who associates with stupid ones will suffer.<verse eid="PRO 13:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 13:21"/>Evil will pursue sinners, but goodness will reward righteous ones.<verse eid="PRO 13:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 13:22"/>A good one will cause sons of sons to inherit, but the wealth of a sinner is stored up for the righteous one.<verse eid="PRO 13:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 13:23"/>Much food {is in} the unplowed field of poor ones, but there is a being swept away by no justice.<verse eid="PRO 13:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 13:24"/>One who withholds his rod hates his son, but one who loves him diligently seeks him {with} discipline.<verse eid="PRO 13:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 13:25"/>A righteous one eats to the satisfaction of his appetite, but the stomach of the wicked ones will lack.<verse eid="PRO 13:25"/></para>
+<chapter eid="PRO 13"/>
+<chapter number="14" style="c" sid="PRO 14"/>
+<para style="p"><verse number="1" style="v" sid="PRO 14:1"/>The wisest of women builds her house, but a foolish woman tears it down with her hands.<verse eid="PRO 14:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 14:2"/>One who walks in his uprightness fears Yahweh, but one who is crooked in his ways despises him.<verse eid="PRO 14:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 14:3"/>In the mouth of a fool {is} a rod of pride, but the lips of the wise ones will preserve them.<verse eid="PRO 14:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 14:4"/>Where there are no cattle {is} a trough of cleanness, but an abundance of produce {is} by the strength of an ox.<verse eid="PRO 14:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 14:5"/>A witness of faithfulness will not lie, but a witness of falsehood breathes out lies.<verse eid="PRO 14:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 14:6"/>A mocker seeks wisdom and there is none, but knowledge is easy for the understanding one.<verse eid="PRO 14:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 14:7"/>Go from before a man of stupidity, for you will not know lips of knowledge.<verse eid="PRO 14:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 14:8"/>The wisdom of a prudent one causes understanding {of} his way, but the folly of stupid ones {is} deceit.<verse eid="PRO 14:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 14:9"/>Fools mock the guilt offering, but among upright ones {is} favor.<verse eid="PRO 14:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 14:10"/>A heart knows the bitterness of itself, and in its joy a stranger will not share.<verse eid="PRO 14:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 14:11"/>The house of the wicked ones will be destroyed, but the tent of the upright ones will flourish.<verse eid="PRO 14:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 14:12"/>There is a right way before the face of a man, but its end {is} the ways of death.<verse eid="PRO 14:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 14:13"/>Even in laughter a heart may be in pain, and the end of joy may be grief.<verse eid="PRO 14:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 14:14"/>The turning away of heart will be filled from his ways, but a good man from himself.<verse eid="PRO 14:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 14:15"/>A naive one believes every word, but a prudent one considers his step.<verse eid="PRO 14:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 14:16"/>A wise one fears and turns away from evil, but a stupid one infuriates himself and {is} confident.<verse eid="PRO 14:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 14:17"/>One short of nostrils does folly, and a man of schemes is hated.<verse eid="PRO 14:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 14:18"/>Naive ones inherit folly, but prudent ones will wear a crown of knowledge.<verse eid="PRO 14:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 14:19"/>Evil ones will bow down before the face of good ones, and wicked ones at the gates of the righteous one.<verse eid="PRO 14:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 14:20"/>One who is poor is hated even by his neighbor, but those who love the rich one {are} many.<verse eid="PRO 14:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 14:21"/>One who sins despises his neighbor, but one who shows favor to afflicted ones, happy {is} he.<verse eid="PRO 14:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 14:22"/>Do not devisers of evil go astray? But covenant faithfulness and trustworthiness {are for} devisers of good.<verse eid="PRO 14:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 14:23"/>With all toil is profit, but the word of lips {is} only for lack.<verse eid="PRO 14:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 14:24"/>The crown of the wise ones {is} their riches; the folly of stupid ones {is} folly.<verse eid="PRO 14:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 14:25"/>A witness of truth rescues lives, but one who breathes out lies {is} deceitful.<verse eid="PRO 14:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 14:26"/>In the fear of Yahweh {is} the confidence of the strong one, and for his sons he will be a refuge.<verse eid="PRO 14:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 14:27"/>The fear of Yahweh {is} a fountain of life, to turn away from the snares of death.<verse eid="PRO 14:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 14:28"/>With the abundance of people {is} the majesty of a king, but with the end of the populace the potentate {is} ruined.<verse eid="PRO 14:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 14:29"/>One long of nostrils {is} abundant {in} understanding, but one short of spirit lifts up folly.<verse eid="PRO 14:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 14:30"/>A heart of healing {is} life to the body, but envy {is} the decay of bones.<verse eid="PRO 14:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 14:31"/>An oppressor of a lowly one taunts his maker, but one showing favor to a needy one honors him.<verse eid="PRO 14:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 14:32"/>By his evil the wicked one is thrust down, but the righteous one finds refuge in his death.<verse eid="PRO 14:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 14:33"/>In the heart of the understanding one rests wisdom, and in the midst of stupid ones she will be known.<verse eid="PRO 14:33"/></para>
+<para style="p"><verse number="34" style="v" sid="PRO 14:34"/>Righteousness raises a nation, but sin {is} shame for peoples.<verse eid="PRO 14:34"/></para>
+<para style="p"><verse number="35" style="v" sid="PRO 14:35"/>The delight of a king {is} for the servant who has insight, but his rage is {for} one who acts shamefully.<verse eid="PRO 14:35"/></para>
+<chapter eid="PRO 14"/>
+<chapter number="15" style="c" sid="PRO 15"/>
+<para style="p"><verse number="1" style="v" sid="PRO 15:1"/>A gentle answer turns back heat, but a word of pain lifts up a nose.<verse eid="PRO 15:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 15:2"/>The tongue of the wise ones makes knowledge good, but the mouth of stupid ones gushes forth folly.<verse eid="PRO 15:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 15:3"/>The eyes of Yahweh {are} in every place, watching evil ones and good ones.<verse eid="PRO 15:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 15:4"/>A healing tongue {is} a tree of life, but crookedness in it {is} a breaking in the spirit.<verse eid="PRO 15:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 15:5"/>A fool despises the correction of his father, but one who keeps rebuke is prudent.<verse eid="PRO 15:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 15:6"/>The house of the righteous one {has} much treasure, but in the produce of the wicked one is being troubled.<verse eid="PRO 15:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 15:7"/>The lips of the wise ones scatter knowledge, but the heart of stupid ones {is} not so.<verse eid="PRO 15:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 15:8"/>The sacrifice of the wicked ones {is} an abomination to Yahweh, but the prayer of the upright ones {is} his delight.<verse eid="PRO 15:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 15:9"/>An abomination to Yahweh {is} the way of the wicked one, but a pursuer of righteousness he loves.<verse eid="PRO 15:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 15:10"/>Severe discipline {is} for one who forsakes the path; one who hates rebuke will die.<verse eid="PRO 15:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 15:11"/>Sheol and Abaddon {are} before Yahweh; how much more the hearts of the sons of man!<verse eid="PRO 15:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 15:12"/>A mocker does not love one who rebukes him; to the wise ones, he will not go.<verse eid="PRO 15:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 15:13"/>A joyful heart makes a face glad, but by pain of heart, a spirit {is} stricken.<verse eid="PRO 15:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 15:14"/>The heart of the understanding one seeks knowledge, but the mouth of stupid ones feeds on folly.<verse eid="PRO 15:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 15:15"/>All the days of the afflicted one {are} evil ones, but the good of heart {has} a feast continually.<verse eid="PRO 15:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 15:16"/>Better {is} a little with the fear of Yahweh than much treasure and anxiety with it.<verse eid="PRO 15:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 15:17"/>Better {is} a portion of vegetables and love there than a fattened ox and hatred with it.<verse eid="PRO 15:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 15:18"/>A man of heat stirs up a quarrel, but one long of nostrils will quiet a dispute.<verse eid="PRO 15:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 15:19"/>The way of the lazy one {is} like a hedge of brier, but the path of the upright ones {is} a built-up highway.<verse eid="PRO 15:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 15:20"/>A wise son gladdens a father, but a stupid man despises his mother.<verse eid="PRO 15:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 15:21"/>Folly {is} a joy to the lacking of heart, but the man of understanding makes to go straight.<verse eid="PRO 15:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 15:22"/>Plans are broken with no counsel, but with a multitude of advisers, it will stand.<verse eid="PRO 15:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 15:23"/>Joy {is} for the man in the answer of his mouth, and how good {is} a word in its time.<verse eid="PRO 15:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 15:24"/>The path of life {is} upward for the insightful one, in order to turn away from Sheol below.<verse eid="PRO 15:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 15:25"/>Yahweh will tear down the house of the proud ones, but he will set up the boundary of the widow.<verse eid="PRO 15:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 15:26"/>Evil thoughts {are} an abomination to Yahweh, but words of pleasantness {are} pure ones.<verse eid="PRO 15:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 15:27"/>One who unjustly gains unjust gain troubles his house, but one who hates bribes will live.<verse eid="PRO 15:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 15:28"/>The heart of the righteous one considers {how} to answer, but the mouth of the wicked ones gushes forth evils.<verse eid="PRO 15:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 15:29"/>Yahweh {is} far from the wicked ones, but the prayer of the righteous ones he hears.<verse eid="PRO 15:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 15:30"/>The luminary of the eyes gladdens the heart; good news fattens the bone.<verse eid="PRO 15:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 15:31"/>An ear hearing the rebuke of life will lodge in the midst of the wise ones.<verse eid="PRO 15:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 15:32"/>One who avoids correction rejects his life, but one who hears rebuke acquires heart.<verse eid="PRO 15:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 15:33"/>The fear of Yahweh {is} instruction of wisdom, and before the face of honor {is} humility.<verse eid="PRO 15:33"/></para>
+<chapter eid="PRO 15"/>
+<chapter number="16" style="c" sid="PRO 16"/>
+<para style="p"><verse number="1" style="v" sid="PRO 16:1"/>The arrangements of the heart {are} a man’s, but the answer of the tongue {is} from Yahweh.<verse eid="PRO 16:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 16:2"/>All the ways of a man {are} pure in his eyes, but Yahweh examines spirits.<verse eid="PRO 16:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 16:3"/>Roll to Yahweh your works, and your plans will be established.<verse eid="PRO 16:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 16:4"/>Yahweh has made all for its purpose and even a wicked one for the day of evil.<verse eid="PRO 16:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 16:5"/>An abomination to Yahweh {is} each one high of heart, hand to hand he will not remain blameless.<verse eid="PRO 16:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 16:6"/>By covenant faithfulness and trustworthiness iniquity is atoned {for}, and by the fear of Yahweh, one turns away from evil.<verse eid="PRO 16:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 16:7"/>When Yahweh is pleased with the ways of a man, he causes even his enemies to be at peace with him.<verse eid="PRO 16:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 16:8"/>Better {is} a little with righteousness than an abundance of produce with no justice.<verse eid="PRO 16:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 16:9"/>The heart of a man plans his way, but Yahweh establishes his step.<verse eid="PRO 16:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 16:10"/>Divination {is} on the lips of a king, in judgment, his mouth will not act unfaithfully.<verse eid="PRO 16:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 16:11"/>A balance and scales of justice {are} for Yahweh; all the stones of the bag {are} his work.<verse eid="PRO 16:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 16:12"/>An abomination of kings {is} doing wickedness, for by righteousness is a throne established.<verse eid="PRO 16:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 16:13"/>The delight of kings {are} lips of righteousness, and he loves one who speaks upright things.<verse eid="PRO 16:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 16:14"/>The heat of a king {is} messengers of death, but a wise man will atone {for} it.<verse eid="PRO 16:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 16:15"/>In the light of the face of the king {is} life, and his favor {is} like a cloud of spring rain.<verse eid="PRO 16:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 16:16"/>How better {it is} to acquire wisdom than gold, and to acquire understanding is to be chosen {more} than silver.<verse eid="PRO 16:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 16:17"/>The highway of the upright ones turns away from evil; one who protects his life guards his way.<verse eid="PRO 16:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 16:18"/>Before the face of breaking {is} pride, and before the face of a stumbling {is} a height of spirit.<verse eid="PRO 16:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 16:19"/>Better to be lowly of spirit {with} afflicted ones than to share a portion {of} spoil {with} proud ones.<verse eid="PRO 16:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 16:20"/>One who comprehends concerning a matter will find good, and one who trusts in Yahweh, he {is} happy.<verse eid="PRO 16:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 16:21"/>The wise of heart will be called an understanding one, and the sweetness of lips increases learning.<verse eid="PRO 16:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 16:22"/>A fountain of life {is} the insight of its owner, but the instruction of fools {is} folly.<verse eid="PRO 16:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 16:23"/>The heart of the wise makes his mouth insightful, and on his lips it increases learning.<verse eid="PRO 16:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 16:24"/>A dripping of honey {are} words of pleasantness, sweet to the soul and healing to the bone.<verse eid="PRO 16:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 16:25"/>There is a right way before the face of a man and its end {is} the ways of death.<verse eid="PRO 16:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 16:26"/>The appetite of the laborer labors for him, for his mouth presses on him.<verse eid="PRO 16:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 16:27"/>A man of worthlessness digs up evil and on his lips {it is} like a scorching fire.<verse eid="PRO 16:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 16:28"/>A man of perverse things lets loose strife, and a murmurer {is} one who separates a close friend.<verse eid="PRO 16:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 16:29"/>A man of violence entices his neighbor, and he leads him in a way {that is} not good.<verse eid="PRO 16:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 16:30"/>One who shuts his eyes plans perverse things; one who compresses his lips brings evil to completion.<verse eid="PRO 16:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 16:31"/>Gray hair {is} a crown of splendor; in the way of righteousness, it is found.<verse eid="PRO 16:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 16:32"/>Better {is} one long of nostrils than a mighty one, and one who rules his spirit than one who captures a city.<verse eid="PRO 16:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 16:33"/>Into the lap a lot is cast, but its every judgment {is} from Yahweh.<verse eid="PRO 16:33"/></para>
+<chapter eid="PRO 16"/>
+<chapter number="17" style="c" sid="PRO 17"/>
+<para style="p"><verse number="1" style="v" sid="PRO 17:1"/>Better {is} a dry morsel and ease with it than a house full of sacrifices of quarreling.<verse eid="PRO 17:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 17:2"/>A servant who has insight will rule over a son who acts shamefully and in the midst of brothers he will share an inheritance.<verse eid="PRO 17:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 17:3"/>The smelting-pot {is} for the silver and the furnace {is} for the gold, and Yahweh tests hearts.<verse eid="PRO 17:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 17:4"/>The evildoer listens attentively to the lips of iniquity; a liar gives ear to a tongue of destruction.<verse eid="PRO 17:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 17:5"/>A mocker of one who is poor taunts his maker; one glad at calamity will not remain blameless.<verse eid="PRO 17:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 17:6"/>The crown of old ones {is} sons of sons, and the splendor of sons {is} their fathers.<verse eid="PRO 17:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 17:7"/>A lip of excess {is} not suitable for a worthless one; how much less a lip of falsehood for a noble.<verse eid="PRO 17:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 17:8"/>A stone of favor {is} a bribe in the eyes of its owner; he succeeds to all that he turns.<verse eid="PRO 17:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 17:9"/>One who covers a transgression seeks love, but one who repeats a matter separates a close friend.<verse eid="PRO 17:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 17:10"/>A rebuke goes down into an understanding one more than striking a stupid one a hundred {times}.<verse eid="PRO 17:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 17:11"/>An evil one seeks only rebellion, and a cruel messenger will be sent against him.<verse eid="PRO 17:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 17:12"/>Let a female bear robbed of offspring meet a man and not a stupid one in his folly!<verse eid="PRO 17:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 17:13"/>One who returns evil for good, evil will not depart from his house.<verse eid="PRO 17:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 17:14"/>The beginning of a quarrel {is} the releasing of water, so leave the dispute before it breaks out.<verse eid="PRO 17:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 17:15"/>One who declares a wicked one righteous and one who declares a righteous one wicked, even the two of them {are} an abomination to Yahweh.<verse eid="PRO 17:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 17:16"/>Why {is} this: A payment {is} in the hand of a stupid one to acquire wisdom but there is no heart?<verse eid="PRO 17:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 17:17"/>At every time the friend loves, and a brother is born for distress.<verse eid="PRO 17:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 17:18"/>A man lacking of heart {is} one who clasps a palm, pledging a pledge before the face of his neighbor.<verse eid="PRO 17:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 17:19"/>One who loves transgression loves contention; one who makes his opening high seeks a breaking.<verse eid="PRO 17:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 17:20"/>One crooked of heart will not find goodness, and one who is turned away in his tongue will fall into evil.<verse eid="PRO 17:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 17:21"/>One who begets a stupid one, {it is} for grief for him, and the father of a worthless one will not rejoice.<verse eid="PRO 17:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 17:22"/>A joyful heart will make healing good, but a broken spirit dries up bone.<verse eid="PRO 17:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 17:23"/>A wicked one takes a bribe from the bosom to bend the paths of justice.<verse eid="PRO 17:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 17:24"/>Wisdom {is} with the face of an understanding one, but the eyes of a stupid one {are} at the end of the earth.<verse eid="PRO 17:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 17:25"/>A stupid son {is} a grief to his father and bitterness to her who bore him.<verse eid="PRO 17:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 17:26"/>Even to fine the righteous {is} not good, to strike nobles {is} against uprightness.<verse eid="PRO 17:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 17:27"/>One who restrains his words {is} one who knows knowledge, and the cool of spirit {is} a man of understanding.<verse eid="PRO 17:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 17:28"/>Even a fool who keeps silent will be considered wise; one who shuts his lips is an understanding one.<verse eid="PRO 17:28"/></para>
+<chapter eid="PRO 17"/>
+<chapter number="18" style="c" sid="PRO 18"/>
+<para style="p"><verse number="1" style="v" sid="PRO 18:1"/>One who separates himself seeks for desire; against all sound wisdom, he breaks out.<verse eid="PRO 18:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 18:2"/>A stupid one does not delight in understanding but rather in his heart revealing itself.<verse eid="PRO 18:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 18:3"/>When a wicked one comes, contempt also comes, and with shame, reproach.<verse eid="PRO 18:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 18:4"/>The words of the mouth of a man {are} deep waters; a fountain of wisdom {is} a gushing stream.<verse eid="PRO 18:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 18:5"/>{It is} not good to lift the face of the wicked one, to turn aside the righteous one in the judgment.<verse eid="PRO 18:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 18:6"/>The lips of a stupid one enter into a dispute, and his mouth calls for blows.<verse eid="PRO 18:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 18:7"/>The mouth of a stupid one {is} ruin for him, and his lips {are} a snare of his life.<verse eid="PRO 18:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 18:8"/>The words of a murmurer {are} like things swallowed greedily, and they themselves go down into the rooms of the belly.<verse eid="PRO 18:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 18:9"/>Also, one who slacks in his work, he {is} a brother to an owner of destruction.<verse eid="PRO 18:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 18:10"/>The name of Yahweh {is} a tower of strength; the righteous one runs into it and is set on high.<verse eid="PRO 18:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 18:11"/>The wealth of the rich one {is} the city of his strength and like a wall set on high in his imagination.<verse eid="PRO 18:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 18:12"/>Before the face of breaking the heart of a man is exalted, but before the face of honor {is} humility.<verse eid="PRO 18:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 18:13"/>One who returns a word before he listens, it {is} folly to him and shame.<verse eid="PRO 18:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 18:14"/>The spirit of a man will endure his illness, but a crushed spirit, who can lift it?<verse eid="PRO 18:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 18:15"/>The heart of an understanding one acquires knowledge, and the ear of the wise ones seeks knowledge.<verse eid="PRO 18:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 18:16"/>The gift of a man will make room for him, and before the face of great ones it will guide him.<verse eid="PRO 18:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 18:17"/>The first one with his case {is} right, then his neighbor comes and examines him.<verse eid="PRO 18:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 18:18"/>The lot causes quarrels to cease, and between mighty ones, it makes a separation.<verse eid="PRO 18:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 18:19"/>A brother offended {is} more than a city of strength, and quarrels {are} like the gate bar of a fortress.<verse eid="PRO 18:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 18:20"/>From the fruit of the mouth of a man his belly is satisfied; {with} the produce of his lips, he is satisfied.<verse eid="PRO 18:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 18:21"/>Death and life {are} in the hand of the tongue, and those who love it will eat its fruit.<verse eid="PRO 18:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 18:22"/>He who finds a wife finds good, and he obtains favor from Yahweh.<verse eid="PRO 18:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 18:23"/>One who is poor speaks pleas, but a rich one answers harshly.<verse eid="PRO 18:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 18:24"/>A man of companions {is} to be broken, but there is one who loves, clinging more than a brother.<verse eid="PRO 18:24"/></para>
+<chapter eid="PRO 18"/>
+<chapter number="19" style="c" sid="PRO 19"/>
+<para style="p"><verse number="1" style="v" sid="PRO 19:1"/>Better {is} one who is poor who walks in his integrity than one who is crooked {in} his lips and he {is} a stupid one.<verse eid="PRO 19:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 19:2"/>Also, a life with no knowledge {is} not good, and one who hurries with feet sins.<verse eid="PRO 19:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 19:3"/>The folly of a man will lead astray his way, and his heart will rage against Yahweh.<verse eid="PRO 19:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 19:4"/>Wealth adds many companions, but a lowly one is separated from his companions.<verse eid="PRO 19:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 19:5"/>A witness of falsehoods will not be blameless, and he who breathes out lies will not escape.<verse eid="PRO 19:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 19:6"/>Many will entreat the face of a noble, and everyone {is} the friend of a man of gift.<verse eid="PRO 19:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 19:7"/>All the brothers of one who is poor hate him; how much more do his friends go far away from him! He pursues {with} words; they {are} not.<verse eid="PRO 19:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 19:8"/>One who acquires heart loves his life; one who keeps understanding {is} to find good.<verse eid="PRO 19:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 19:9"/>A witness of falsehoods will not be blameless, and one who breathes out lies will perish.<verse eid="PRO 19:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 19:10"/>Luxury {is} not suitable for a stupid one; how much less for a slave to rule over princes!<verse eid="PRO 19:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 19:11"/>The insight of a man makes his nose long, and his splendor {is} to pass over a transgression.<verse eid="PRO 19:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 19:12"/>The rage of a king {is} a growling like the young lion, but his favor {is} like dew on vegetation.<verse eid="PRO 19:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 19:13"/>A stupid son {is} destruction to his father, and a continual dripping, the quarrels of a wife.<verse eid="PRO 19:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 19:14"/>A house and wealth {are} the inheritance of fathers, but from Yahweh {is} a wife who has insight.<verse eid="PRO 19:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 19:15"/>Laziness causes deep sleep to fall, and a life of idleness is hungry.<verse eid="PRO 19:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 19:16"/>One who keeps a commandment keeps his life; one who despises his ways will die.<verse eid="PRO 19:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 19:17"/>One who is gracious {to} a lowly one lends {to} Yahweh, and his dealing he will repay to him.<verse eid="PRO 19:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 19:18"/>Discipline your son when there is hope, and do not lift up your soul to put him to death.<verse eid="PRO 19:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 19:19"/>One great of heat lifts up a fine; for if you rescue, then you will continue to do {so} again.<verse eid="PRO 19:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 19:20"/>Listen to counsel and accept instruction, so that you will become wise in your end.<verse eid="PRO 19:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 19:21"/>Many {are} the plans in the heart of a man, but the counsel of Yahweh, it will stand.<verse eid="PRO 19:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 19:22"/>The desire of a man {is} his covenant faithfulness, and better {is} one who is poor than a man of lying.<verse eid="PRO 19:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 19:23"/>The fear of Yahweh {is} to life and the satisfied one will stay overnight; he will not be visited by evil.<verse eid="PRO 19:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 19:24"/>A lazy one hides his hand in the dish; he will not even return it to his mouth.<verse eid="PRO 19:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 19:25"/>Strike a mocker and a naive one will become prudent, and rebuke an understanding one, he will understand knowledge.<verse eid="PRO 19:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 19:26"/>One who does violence {to} a father, who causes a mother to flee, {is} a son who causes shame and causes embarrassment.<verse eid="PRO 19:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 19:27"/>My son, cease to hear instruction to stray from the words of knowledge.<verse eid="PRO 19:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 19:28"/>A witness of worthlessness mocks justice and the mouth of the wicked ones swallows iniquity.<verse eid="PRO 19:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 19:29"/>Judgments are prepared for the mockers, and blows for the back of stupid ones.<verse eid="PRO 19:29"/></para>
+<chapter eid="PRO 19"/>
+<chapter number="20" style="c" sid="PRO 20"/>
+<para style="p"><verse number="1" style="v" sid="PRO 20:1"/>The wine {is} a mocker, intoxicating drink {is} a brawler, and everyone who staggers by it is not wise.<verse eid="PRO 20:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 20:2"/>The terror of a king {is} a growling like the young lion; one who infuriates him {is} one who wrongs his life.<verse eid="PRO 20:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 20:3"/>Honor for a man {is} cessation from strife, but every fool breaks out.<verse eid="PRO 20:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 20:4"/>A lazy one will not plow from winter, and he begs in the harvest but there is nothing.<verse eid="PRO 20:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 20:5"/>Counsel in the heart of a man {is} deep waters, and a man of understanding will draw it out.<verse eid="PRO 20:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 20:6"/>Many a man proclaims, {each} man, his covenant faithfulness, but a man of faithful acts, who can find?<verse eid="PRO 20:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 20:7"/>A righteous one walks about in his integrity; happy {are} his sons after him.<verse eid="PRO 20:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 20:8"/>A king who sits on the throne of judgment {is} one who winnows all evil with his eyes.<verse eid="PRO 20:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 20:9"/>Who can say, “I have made my heart pure, I am clean from my sin”?<verse eid="PRO 20:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 20:10"/>Stone and stone, ephah and ephah, {are} an abomination to Yahweh, even the two of them.<verse eid="PRO 20:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 20:11"/>Even a young man will make himself known by his deeds, if pure and if upright {is} his behavior.<verse eid="PRO 20:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 20:12"/>A hearing ear and a seeing eye, Yahweh made even the two of them.<verse eid="PRO 20:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 20:13"/>Do not love sleep lest you become impoverished; open your eyes, be satisfied {with} bread.<verse eid="PRO 20:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 20:14"/>“Bad! Bad!” says the buyer, but when he departs on his way, then he praises himself.<verse eid="PRO 20:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 20:15"/>There is gold and an abundance of corals, but lips of knowledge {are} a vessel of preciousness.<verse eid="PRO 20:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 20:16"/>Take his garment when he has pledged {for} a stranger, and on behalf of a foreign woman hold it in pledge.<verse eid="PRO 20:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 20:17"/>Sweet to a man {is} bread of falsehood, but afterward his mouth will be filled {with} gravel.<verse eid="PRO 20:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 20:18"/>Plans by counsel are established, and by guidance make war.<verse eid="PRO 20:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 20:19"/>One who goes about {as} a gossip reveals a secret, and with one who opens his lips do not associate yourself.<verse eid="PRO 20:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 20:20"/>One who curses his father and his mother, his lamp will be extinguished in the pupil of darkness.<verse eid="PRO 20:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 20:21"/>An inheritance gained quickly in the beginning, its end will not be blessed.<verse eid="PRO 20:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 20:22"/>Do not say, “I will repay evil.” Wait for Yahweh and he will save you.<verse eid="PRO 20:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 20:23"/>Stone and stone {are} an abomination to Yahweh, and scales of deceit {are} not good.<verse eid="PRO 20:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 20:24"/>From Yahweh {are} the steps of a strong man, so how can a man understand his way?<verse eid="PRO 20:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 20:25"/>A snare of a man: He says rashly, “{It is} holy,” and after vows, considers.<verse eid="PRO 20:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 20:26"/>A wise king {is} one who winnows wicked ones, and he brings back a wheel over them.<verse eid="PRO 20:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 20:27"/>The breath of a man {is} the lamp of Yahweh, searching all the rooms of the belly.<verse eid="PRO 20:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 20:28"/>Covenant faithfulness and trustworthiness guard a king, and his throne is sustained by covenant faithfulness.<verse eid="PRO 20:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 20:29"/>The splendor of young men {is} their strength and the adornment of old ones {is} gray hair.<verse eid="PRO 20:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 20:30"/>Blows of a wound cleanse away evil and strikes of the rooms of the belly.<verse eid="PRO 20:30"/></para>
+<chapter eid="PRO 20"/>
+<chapter number="21" style="c" sid="PRO 21"/>
+<para style="p"><verse number="1" style="v" sid="PRO 21:1"/>The heart of a king {is} channels of water in the hand of Yahweh; he steers it according to all that he desires.<verse eid="PRO 21:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 21:2"/>Every way of a man {is} right in his eyes, but Yahweh examines hearts.<verse eid="PRO 21:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 21:3"/>To do righteousness and justice is preferred to Yahweh more than a sacrifice.<verse eid="PRO 21:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 21:4"/>Height of eyes and broadness of heart, the lamp of wicked ones, {are} sin.<verse eid="PRO 21:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 21:5"/>The plans of the diligent one surely {are} to profit, but everyone who hurries about surely {is} to lack.<verse eid="PRO 21:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 21:6"/>The making of treasures by a tongue of falsehood {is} scattered vapor, seekers of death.<verse eid="PRO 21:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 21:7"/>The violence of wicked ones will drag them away, for they refuse to do justice.<verse eid="PRO 21:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 21:8"/>Perverse {is} the way of a guilty man, but the pure one, upright {is} his behavior.<verse eid="PRO 21:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 21:9"/>Better to dwell on the corner of a roof than {with} a woman of quarrels and a house of companionship.<verse eid="PRO 21:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 21:10"/>The soul of the wicked one craves evil; his neighbor is not shown grace in his eyes.<verse eid="PRO 21:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 21:11"/>When fining a mocker, a naive one becomes wise, and when giving insight to a wise one, he receives knowledge.<verse eid="PRO 21:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 21:12"/>A righteous one has insight into the house of the wicked one; overturning wicked ones to evil.<verse eid="PRO 21:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 21:13"/>One who shuts his ears from the outcry of a lowly one, he also will cry out but will not be answered.<verse eid="PRO 21:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 21:14"/>A gift in secrecy subdues nose, and a bribe in the bosom, strong heat.<verse eid="PRO 21:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 21:15"/>A joy for the righteous one {is} doing justice, but a terror for doers of iniquity.<verse eid="PRO 21:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 21:16"/>A man wandering from the way of having insight will rest in the assembly of the spirits of dead ones.<verse eid="PRO 21:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 21:17"/>A man of lack loves joy; a lover of wine and oil will not become rich.<verse eid="PRO 21:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 21:18"/>A ransom for the righteous one {is} a wicked one, and instead of upright ones, one who acts treacherously.<verse eid="PRO 21:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 21:19"/>Better to dwell in a land of wilderness than {with} a woman of quarrels and vexation.<verse eid="PRO 21:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 21:20"/>Desirable treasure and oil {are} in the abode of a wise one, but a stupid man swallows it up.<verse eid="PRO 21:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 21:21"/>A pursuer of righteousness and covenant faithfulness will find life, righteousness, and honor.<verse eid="PRO 21:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 21:22"/>A wise one ascends a city of mighty ones and he brings down the strength of its confidence.<verse eid="PRO 21:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 21:23"/>One who keeps his mouth and his tongue keeps his life from distress.<verse eid="PRO 21:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 21:24"/>A presumptuous, haughty one, “Mocker” {is} his name, acting with the rage of presumption.<verse eid="PRO 21:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 21:25"/>The desire of the lazy one causes him to die, for his hands refuse to act.<verse eid="PRO 21:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 21:26"/>All the day he desires desire for himself, but a righteous one gives and does not withhold.<verse eid="PRO 21:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 21:27"/>The sacrifice of the wicked ones {is} an abomination; how much more when he brings it with a wicked plan.<verse eid="PRO 21:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 21:28"/>A witness of lies will perish, but the man who listens will speak to perpetuity.<verse eid="PRO 21:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 21:29"/>A wicked man strengthens his face, but an upright one, he considers his ways.<verse eid="PRO 21:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 21:30"/>There is no wisdom and there is no understanding and there is no counsel in opposition to Yahweh.<verse eid="PRO 21:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 21:31"/>A horse is made ready for the day of battle, but the salvation {is} of Yahweh.<verse eid="PRO 21:31"/></para>
+<chapter eid="PRO 21"/>
+<chapter number="22" style="c" sid="PRO 22"/>
+<para style="p"><verse number="1" style="v" sid="PRO 22:1"/>A name is to be chosen more than abundant riches; favor {is} better than silver and than gold.<verse eid="PRO 22:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 22:2"/>A rich one and a poor one meet together; Yahweh {is} maker of all of them.<verse eid="PRO 22:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 22:3"/>A prudent one sees evil and hides himself, but naive ones pass on and they are fined.<verse eid="PRO 22:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 22:4"/>The result of humility, the fear of Yahweh, {is} riches and honor and life.<verse eid="PRO 22:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 22:5"/>Thorns, traps {are} in the way of the crooked one; one who guards his life will stay far away from them.<verse eid="PRO 22:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 22:6"/>Train up the boy according to his way; even when he is old, he will not turn away from it.<verse eid="PRO 22:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 22:7"/>A rich one rules over those who are poor, and a borrower {is} a slave to a man who lends.<verse eid="PRO 22:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 22:8"/>A sower of iniquity will reap disaster, and the rod of his rage will come to an end.<verse eid="PRO 22:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 22:9"/>The one good of eye, he will be blessed, for he gives from his bread to the lowly one.<verse eid="PRO 22:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 22:10"/>Drive out a mocker and strife will go out, and judgment and dishonor will cease.<verse eid="PRO 22:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 22:11"/>One who loves a pure heart, his lips {are} gracious, the king {is} his friend.<verse eid="PRO 22:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 22:12"/>The eyes of Yahweh guard knowledge, but he overturns the words of one who is treacherous.<verse eid="PRO 22:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 22:13"/>A lazy one says, “A lion {is} outside! I will be killed in the midst of the open areas!”<verse eid="PRO 22:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 22:14"/>The mouth of a strange woman {is} a deep pit; one who is cursed of Yahweh will fall there.<verse eid="PRO 22:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 22:15"/>Folly is bound up in the heart of a boy; the rod of discipline will cause it to be far away from him.<verse eid="PRO 22:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 22:16"/>One who oppresses a lowly one to increase for himself, one who gives to a rich one, surely {will be} to lack.<verse eid="PRO 22:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 22:17"/>Incline your ear and hear the words of the wise ones, and you must set your heart to my knowledge!<verse eid="PRO 22:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 22:18"/>For {it will be} pleasant if you keep them in your inner parts, they are ready together on your lips.<verse eid="PRO 22:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 22:19"/>{For} your trust to be in Yahweh, I have caused you to know today, even you.<verse eid="PRO 22:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 22:20"/>Have I not written for you 30 things with counsels and knowledge,<verse eid="PRO 22:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 22:21"/>to cause you to know the truth of the words of trustworthiness, to return trustworthy words to one who sent you?<verse eid="PRO 22:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 22:22"/>Do not rob a lowly one because he {is} a lowly one, and do not crush an afflicted one at the gate.<verse eid="PRO 22:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 22:23"/>For Yahweh will plead their dispute, and he will plunder of life those who plunder them.<verse eid="PRO 22:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 22:24"/>Do not befriend an owner of nose, and do not go {with} a man of heat,<verse eid="PRO 22:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 22:25"/>lest you learn his paths and you take a snare for your life.<verse eid="PRO 22:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 22:26"/>Do not be among those who clasp a palm, among those who pledge for loans.<verse eid="PRO 22:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 22:27"/>If there is nothing for you to repay, why should he take away your bed from under you?<verse eid="PRO 22:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 22:28"/>Do not move the ancient boundary that your fathers made.<verse eid="PRO 22:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 22:29"/>You see a skilled man in his work. He will station himself before the face of kings; he will not station himself before the face of obscure ones.<verse eid="PRO 22:29"/></para>
+<chapter eid="PRO 22"/>
+<chapter number="23" style="c" sid="PRO 23"/>
+<para style="p"><verse number="1" style="v" sid="PRO 23:1"/>When you sit to eat {with} a ruler, consider carefully what {is} before your face,<verse eid="PRO 23:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 23:2"/>and you should put a knife at your throat if you {are} an owner of appetite.<verse eid="PRO 23:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 23:3"/>Do not desire his delicious morsels; for it {is} bread of lies.<verse eid="PRO 23:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 23:4"/>Do not weary yourself to gain riches; from your understanding cease.<verse eid="PRO 23:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 23:5"/>Will you cause your eyes to fly to it, but it is not there? For making, it will make wings for itself; like an eagle it will fly {into} the sky.<verse eid="PRO 23:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 23:6"/>Do not eat the bread of one evil of eye, and do not desire his delicious morsels.<verse eid="PRO 23:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 23:7"/>For like one who calculates in his soul, so he {is}. “Eat and drink!” he will say to you, but his heart {is} not with you.<verse eid="PRO 23:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 23:8"/>You will vomit up your morsel you ate, and you will ruin your pleasant words.<verse eid="PRO 23:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 23:9"/>Do not speak in the ears of a stupid one, for he will show contempt for the insight of your words.<verse eid="PRO 23:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 23:10"/>Do not move an ancient boundary, and do not enter into the fields of fatherless ones,<verse eid="PRO 23:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 23:11"/>for their redeemer {is} strong; he himself will plead their dispute against you.<verse eid="PRO 23:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 23:12"/>Bring your heart to correction and your ear to words of knowledge.<verse eid="PRO 23:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 23:13"/>Do not withhold discipline from a boy; when you strike him with the rod, he will not die.<verse eid="PRO 23:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 23:14"/>You shall strike him with the rod and you will rescue his life from Sheol.<verse eid="PRO 23:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 23:15"/>My son, if your heart {is} wise, my heart, even myself, will be glad,<verse eid="PRO 23:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 23:16"/>and my inner parts will exult, when your lips speak upright things.<verse eid="PRO 23:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 23:17"/>Do not let your heart be envious of sinners, but rather in the fear of Yahweh all the day.<verse eid="PRO 23:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 23:18"/>Surely there is a future and your hope will not be cut off.<verse eid="PRO 23:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 23:19"/>Listen, you my son, and be wise, and lead your heart in the way.<verse eid="PRO 23:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 23:20"/>Do not be among drinkers of much wine, among gluttonous eaters of flesh for themselves.<verse eid="PRO 23:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 23:21"/>For one who drinks much and one who eats gluttonously will become poor, and slumber will clothe {with} rags.<verse eid="PRO 23:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 23:22"/>Listen to your father, this {one} begot you, and do not despise your mother when she {is} old.<verse eid="PRO 23:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 23:23"/>Acquire truth and do not sell, wisdom and instruction and understanding.<verse eid="PRO 23:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 23:24"/>The father of a righteous one, rejoicing, will rejoice, and one who begets a wise one, he will be glad in him.<verse eid="PRO 23:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 23:25"/>May your father and your mother be glad, and may she who bore you rejoice.<verse eid="PRO 23:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 23:26"/>My son, give your heart to me, and may your eyes watch my ways.<verse eid="PRO 23:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 23:27"/>For a prostitute {is} a deep pit, and a foreign woman {is} a narrow well.<verse eid="PRO 23:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 23:28"/>Surely she herself lies in wait like a robber, and she adds to the treacherous ones among man.<verse eid="PRO 23:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 23:29"/>For whom {is} woe? For whom {is} sorrow? For whom {are} quarrels? For whom {is} a lament? For whom {are} wounds without reason? For whom {is} dullness of eyes?<verse eid="PRO 23:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 23:30"/>For those who linger over wine, for those coming to search out mixed wine.<verse eid="PRO 23:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 23:31"/>Do not look {at} wine when it is red, when its eye gives in the cup, it goes with evenness.<verse eid="PRO 23:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 23:32"/>Its end bites like a snake, and it stings like a viper.<verse eid="PRO 23:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 23:33"/>Your eyes will see strange things, and your heart will speak perverse things.<verse eid="PRO 23:33"/></para>
+<para style="p"><verse number="34" style="v" sid="PRO 23:34"/>And you will be like one who lies down in the heart of the sea and like one who lies down at the head of a mast.<verse eid="PRO 23:34"/></para>
+<para style="p"><verse number="35" style="v" sid="PRO 23:35"/>“They struck me. I was not hurt. They beat me. I did not know. When will I awake? I will add, I will seek it again.”<verse eid="PRO 23:35"/></para>
+<chapter eid="PRO 23"/>
+<chapter number="24" style="c" sid="PRO 24"/>
+<para style="p"><verse number="1" style="v" sid="PRO 24:1"/>Do not be envious of men of evil, and do not desire to be with them.<verse eid="PRO 24:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 24:2"/>For their heart plots violence, and their lips speak trouble.<verse eid="PRO 24:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 24:3"/>By wisdom a house is built, and by understanding it is established.<verse eid="PRO 24:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 24:4"/>And by knowledge the rooms are filled {with} all precious and pleasant wealth.<verse eid="PRO 24:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 24:5"/>A man of wisdom {is} with strength and a man of knowledge strengthens power.<verse eid="PRO 24:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 24:6"/>For by guidance you make war for yourself and salvation {is} in an abundance of counsel.<verse eid="PRO 24:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 24:7"/>Wise things {are too} high for a fool; at the gate he will not open his mouth.<verse eid="PRO 24:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 24:8"/>One who plans to do evil, they will call him an owner of schemes.<verse eid="PRO 24:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 24:9"/>A scheme of folly {is} sin, and a mocker {is} an abomination to man.<verse eid="PRO 24:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 24:10"/>{If} you make yourself slack in the day of distress, your strength {is} narrow.<verse eid="PRO 24:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 24:11"/>Rescue those who are taken for the death, and those who stagger to the slaughter, if only you would hold back!<verse eid="PRO 24:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 24:12"/>If you say, “Behold, we did not know this,” does not he, the examiner of hearts, understand, and he, the guard of your life, know, and will he give back to a man according to his work?<verse eid="PRO 24:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 24:13"/>My son, eat honey because {it is} good and the fresh honey {is} sweet on your palate.<verse eid="PRO 24:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 24:14"/>Know wisdom {is} thus for your soul; if you find {it}, then there will be a future and your hope will not be cut off.<verse eid="PRO 24:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 24:15"/>Do not lie in wait {like} a wicked one against the abode of the righteous one; do not assault his resting place.<verse eid="PRO 24:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 24:16"/>For seven {times} a righteous one falls and rises up, but wicked ones stumble into calamity.<verse eid="PRO 24:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 24:17"/>When your enemy falls, do not be glad, and when he stumbles do not let your heart rejoice,<verse eid="PRO 24:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 24:18"/>lest Yahweh see, and {it is} evil in his eyes, and he turns away his nose from on him.<verse eid="PRO 24:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 24:19"/>Do not make yourself hot because of evildoers; do not envy wicked ones.<verse eid="PRO 24:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 24:20"/>For a future is not for an evil one, the lamp of the wicked ones will be extinguished.<verse eid="PRO 24:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 24:21"/>My son, fear Yahweh and the king; do not associate with ones who change.<verse eid="PRO 24:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 24:22"/>For suddenly their calamity will arise, and who {is} one who knows the destruction of the two of them?<verse eid="PRO 24:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 24:23"/>These also {are} of the wise ones: Recognizing faces in judgment {is} not good.<verse eid="PRO 24:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 24:24"/>One who says to the wicked one, “You {are} righteous,” peoples will curse him, nations will denounce him.<verse eid="PRO 24:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 24:25"/>But for the rebukers it will be pleasant, and over them will come a blessing of goodness.<verse eid="PRO 24:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 24:26"/>He kisses lips who returns straightforward words.<verse eid="PRO 24:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 24:27"/>Prepare your work in the outdoors, and make it ready for yourself in the field, and after you will build your house.<verse eid="PRO 24:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 24:28"/>Do not be a witness without cause against your neighbor. And would you deceive with your lips?<verse eid="PRO 24:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 24:29"/>Do not say, “Just as he did to me, so I will do to him; I will return to the man according to his deed.”<verse eid="PRO 24:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 24:30"/>I passed over the field of a lazy man and over the vineyard of a man lacking of heart.<verse eid="PRO 24:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 24:31"/>And behold, all of it went up {with} thorns, its face was covered {with} weeds, and the wall of its stones was torn down.<verse eid="PRO 24:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 24:32"/>And I myself looked, I set my heart, I saw, I received instruction:<verse eid="PRO 24:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 24:33"/>A little sleep, a little slumber, a little folding of the hands to lie down,<verse eid="PRO 24:33"/></para>
+<para style="p"><verse number="34" style="v" sid="PRO 24:34"/>and your poverty will come {like} one who walks around, and your needs like a man of shield.<verse eid="PRO 24:34"/></para>
+<chapter eid="PRO 24"/>
+<chapter number="25" style="c" sid="PRO 25"/>
+<para style="p"><verse number="1" style="v" sid="PRO 25:1"/>These also {are} proverbs of Solomon, which the men of Hezekiah, king of Judah, copied.<verse eid="PRO 25:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 25:2"/>The glory of God {is} to hide a matter, but the glory of kings {is} to search out a matter.<verse eid="PRO 25:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 25:3"/>Heavens for height and earth for depth, and the heart of kings is not searchable.<verse eid="PRO 25:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 25:4"/>Remove dross from silver and a vessel comes out for the refiner.<verse eid="PRO 25:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 25:5"/>Remove a wicked one before the face of the king, and his throne will be established by righteousness.<verse eid="PRO 25:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 25:6"/>Do not honor yourself before the face of the king, and in the place of the great ones do not stand.<verse eid="PRO 25:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 25:7"/>For, better to say to you, “Come up here,” than to humiliate you before the face of a noble, whom your eyes have seen.<verse eid="PRO 25:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 25:8"/>Do not go out hastily to dispute, or else what will you do in its end when your neighbor humiliates you?<verse eid="PRO 25:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 25:9"/>Dispute your dispute {with} your neighbor and the secret of another do not uncover,<verse eid="PRO 25:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 25:10"/>lest one who hears shames you, and the rumor {of} you does not turn back.<verse eid="PRO 25:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 25:11"/>Apples of gold in sculptures of silver {is} a word spoken according to its circumstance.<verse eid="PRO 25:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 25:12"/>A ring of gold and jewelry of fine gold {is} a wise rebuke to a listening ear.<verse eid="PRO 25:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 25:13"/>Like the coolness of snow in the day of harvest {is} a faithful envoy for his senders, and he brings back the life of his masters.<verse eid="PRO 25:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 25:14"/>Clouds and wind but without rain {is} the man who boasts in a gift of falsehood.<verse eid="PRO 25:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 25:15"/>By length of nostrils a commander may be persuaded, and a soft tongue can break a bone.<verse eid="PRO 25:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 25:16"/>{If} you find honey, eat enough {for} you, lest you become satiated with it and you vomit it up.<verse eid="PRO 25:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 25:17"/>Make rare your foot from the house of your neighbor, lest he become satiated with you and hate you.<verse eid="PRO 25:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 25:18"/>A hammer and a sword and a sharp arrow {is} a man who answers a testimony of falsehood against his neighbor.<verse eid="PRO 25:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 25:19"/>A broken tooth and a shaky foot {is} confidence {in} one who acts treacherously in the day of distress.<verse eid="PRO 25:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 25:20"/>One who removes a garment on a cold day, vinegar on natron, so {is} one who sings with songs to a heart of misery.<verse eid="PRO 25:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 25:21"/>If one who hates you {is} hungry, cause him to eat bread, and if thirsty, cause him to drink water;<verse eid="PRO 25:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 25:22"/>for you are heaping coals on his head, and Yahweh will repay to you.<verse eid="PRO 25:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 25:23"/>The wind of the north brings forth rain, and indignant faces, a tongue of secrecy.<verse eid="PRO 25:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 25:24"/>Better to dwell on the corner of a roof than {with} a wife of quarrels and a house of companionship.<verse eid="PRO 25:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 25:25"/>Cool water over a weary soul, so {is} good news from a distant land.<verse eid="PRO 25:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 25:26"/>A spring muddied by trampling and a fountain spoiled {is} a righteous one swaying before the face of a wicked one.<verse eid="PRO 25:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 25:27"/>To eat much honey {is} not good, and the searching out {of} their honor, honor.<verse eid="PRO 25:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 25:28"/>A breached city without a wall {is} a man who has no restraint for his spirit.<verse eid="PRO 25:28"/></para>
+<chapter eid="PRO 25"/>
+<chapter number="26" style="c" sid="PRO 26"/>
+<para style="p"><verse number="1" style="v" sid="PRO 26:1"/>Like the snow in the summer and like the rain in the harvest, so honor {is} not suitable for a stupid one.<verse eid="PRO 26:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 26:2"/>Like the bird for fluttering, like the swallow for flying, so a curse without cause does not come.<verse eid="PRO 26:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 26:3"/>A whip for the horse, a bridle for the donkey, and a rod for the back of stupid ones.<verse eid="PRO 26:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 26:4"/>Do not answer a stupid one according to his folly, lest you yourself also become like him.<verse eid="PRO 26:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 26:5"/>Answer a stupid one according to his folly, lest he become wise in his eyes.<verse eid="PRO 26:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 26:6"/>One who cuts off feet, one who drinks violence, {is} one who sends words by the hand of a stupid one.<verse eid="PRO 26:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 26:7"/>Legs dangle from a lame one, and a proverb in the mouth of stupid ones.<verse eid="PRO 26:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 26:8"/>Like tying a stone in a sling, so {is} one who gives honor to a stupid one.<verse eid="PRO 26:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 26:9"/>A thorn goes up into the hand of a drunkard, and a proverb in the mouth of stupid ones.<verse eid="PRO 26:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 26:10"/>An archer who pierces everyone, so {is} one who hires a stupid one and hires those passing by.<verse eid="PRO 26:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 26:11"/>Like a dog returning to its vomit {is} a stupid one who repeats his folly.<verse eid="PRO 26:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 26:12"/>You see a man wise in his eyes. {There is more} hope for a stupid one than him.<verse eid="PRO 26:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 26:13"/>A lazy one says, “A young lion {is} on the road! A lion {is} between the open areas!”<verse eid="PRO 26:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 26:14"/>The door turns on its hinge, and a lazy one on his bed.<verse eid="PRO 26:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 26:15"/>A lazy one hides his hand in the dish; he is {too} weary to return it to his mouth.<verse eid="PRO 26:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 26:16"/>A lazy one {is} wiser in his eyes than seven who return discretion.<verse eid="PRO 26:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 26:17"/>One who grabs the ears of a dog passing by {is} one who infuriates himself over a dispute not for him.<verse eid="PRO 26:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 26:18"/>Like an insane one who shoots firebrands, arrows, and death,<verse eid="PRO 26:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 26:19"/>so {is} a man who deceives his neighbor and says, “Was I not joking?”<verse eid="PRO 26:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 26:20"/>With the end of wood pieces a fire goes out, and when there is no murmurer, a quarrel becomes silent.<verse eid="PRO 26:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 26:21"/>Charcoal to burning coals and wood to fire, so a man of quarrels {is} to kindling of a dispute.<verse eid="PRO 26:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 26:22"/>The words of a murmurer {are} like things swallowed greedily, and they themselves go down into the rooms of the belly.<verse eid="PRO 26:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 26:23"/>Silver of dross overlaid on a clay vessel {are} burning lips and a heart of evil.<verse eid="PRO 26:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 26:24"/>With his lips one who hates disguises himself, but within him he sets deceit.<verse eid="PRO 26:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 26:25"/>When he makes his voice gracious, do not trust in him, for seven abominations {are} in his heart.<verse eid="PRO 26:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 26:26"/>Hatred is covered by guile; his evil will be uncovered in the assembly.<verse eid="PRO 26:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 26:27"/>One who digs a pit will fall into it, and one who rolls a stone, it will come back to him.<verse eid="PRO 26:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 26:28"/>A tongue of falsehood hates its oppressed ones, and a smooth mouth makes calamity.<verse eid="PRO 26:28"/></para>
+<chapter eid="PRO 26"/>
+<chapter number="27" style="c" sid="PRO 27"/>
+<para style="p"><verse number="1" style="v" sid="PRO 27:1"/>Do not boast about the next day, for you do not know what a day will bring forth.<verse eid="PRO 27:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 27:2"/>Let a stranger praise you and not your mouth, a foreigner and not your lips.<verse eid="PRO 27:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 27:3"/>The heaviness of a stone and the weightiness of the sand, yet the vexation of a fool {is} heavier than the two of them.<verse eid="PRO 27:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 27:4"/>Cruelty of heat and a flood of nose, but who can stand before the face of jealousy?<verse eid="PRO 27:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 27:5"/>Better {is} open rebuke than hidden love.<verse eid="PRO 27:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 27:6"/>Faithful {are} the wounds of one who loves, but deceptive {are} the kisses of one who hates.<verse eid="PRO 27:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 27:7"/>A satiated appetite tramples fresh honey, but {for} the appetite of a hungry one everything bitter {is} sweet.<verse eid="PRO 27:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 27:8"/>Like a bird wandering from her nest, so {is} a man who wanders from his place.<verse eid="PRO 27:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 27:9"/>Oil and incense gladden the heart and the sweetness of his friend {is} from the counsel of the soul.<verse eid="PRO 27:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 27:10"/>Do not forsake your friend and the friend of your father, and do not enter the house of your brother in the day of your calamity. Better {is} a nearby inhabitant than a distant brother.<verse eid="PRO 27:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 27:11"/>Be wise, my son, and gladden my heart and I shall return a word to one who reproaches me.<verse eid="PRO 27:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 27:12"/>A prudent one sees evil, he hides himself; naive ones pass on, they are fined.<verse eid="PRO 27:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 27:13"/>Take his garment when he has pledged {for} a stranger, and on behalf of a foreign woman hold it in pledge.<verse eid="PRO 27:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 27:14"/>One who blesses his neighbor with a great voice in the rising morning, it will be considered a curse to him!<verse eid="PRO 27:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 27:15"/>A continual dripping on a day of steady rain and a woman of quarrels are alike.<verse eid="PRO 27:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 27:16"/>The one who hides her hides the wind, and oil meets his right hand.<verse eid="PRO 27:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 27:17"/>Iron sharpens against iron, and a man sharpens the face of his neighbor.<verse eid="PRO 27:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 27:18"/>One who guards a fig tree will eat its fruit, and one who protects his master will be honored.<verse eid="PRO 27:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 27:19"/>As the water, the face to the face, so the heart of the man, to the man.<verse eid="PRO 27:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 27:20"/>Sheol and Abaddon are not satisfied, and the eyes of the man are not satisfied.<verse eid="PRO 27:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 27:21"/>The smelting-pot {is} for the silver and the furnace {is} for the gold, so {is} a man for the mouth of one who praises him.<verse eid="PRO 27:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 27:22"/>Even if you pound a fool in a mortar with a pestle in the midst of ground grains, his folly will not turn away from on him.<verse eid="PRO 27:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 27:23"/>Know well the faces of your flock, set your heart to the herds.<verse eid="PRO 27:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 27:24"/>For treasure {is} not to eternity, nor even a crown for generation and generation.<verse eid="PRO 27:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 27:25"/>The grass disappears, and fresh grass is seen, and the herbs of the mountains are gathered;<verse eid="PRO 27:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 27:26"/>lambs {will be} for your clothing, and male goats the price of a field.<verse eid="PRO 27:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 27:27"/>And {there will be} enough milk of female goats for your food, for the food of your house, and life for your young women.<verse eid="PRO 27:27"/></para>
+<chapter eid="PRO 27"/>
+<chapter number="28" style="c" sid="PRO 28"/>
+<para style="p"><verse number="1" style="v" sid="PRO 28:1"/>The wicked flee and there is no pursuer, but the righteous ones are confident as a young lion.<verse eid="PRO 28:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 28:2"/>By the transgression of a land many {are} its rulers, but by a man who understands, who knows, so it will endure.<verse eid="PRO 28:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 28:3"/>A man who is poor and who oppresses the lowly ones {is} a rain {that} washes away and there is no bread.<verse eid="PRO 28:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 28:4"/>Those who forsake the law praise a wicked one, but those who keep the law strive against them.<verse eid="PRO 28:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 28:5"/>Men of evil do not understand justice, but seekers of Yahweh understand everything.<verse eid="PRO 28:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 28:6"/>Better {is} one who is poor who walks in his integrity than one crooked of ways, yet he {is} rich.<verse eid="PRO 28:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 28:7"/>One who guards the law {is} a son who understands, but one who associates with gluttonous eaters humiliates his father.<verse eid="PRO 28:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 28:8"/>One who increases his wealth by interest and usury gathers it for one who shows favor {to} lowly ones.<verse eid="PRO 28:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 28:9"/>One who turns away his ear from hearing the law, even his prayer {is} an abomination.<verse eid="PRO 28:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 28:10"/>One who leads upright ones astray in the way of evil into his pit he himself will fall, but blameless ones will inherit good.<verse eid="PRO 28:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 28:11"/>A rich man {is} wise in his eyes, but a lowly one who understands will search him out.<verse eid="PRO 28:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 28:12"/>When righteous ones exult, {there is} great splendor, but when wicked ones arise, a man is searched for.<verse eid="PRO 28:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 28:13"/>One who covers his transgressions will not prosper, but one who confesses and forsakes will be shown mercy.<verse eid="PRO 28:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 28:14"/>Happy {is} a man who is in terror continually, but one who hardens his heart will fall into evil.<verse eid="PRO 28:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 28:15"/>A lion growling and a bear charging {is} a wicked ruler over a lowly people.<verse eid="PRO 28:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 28:16"/>A leader lacking of understanding {is} also abundant of oppressions; one who hates unjust gain will lengthen days.<verse eid="PRO 28:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 28:17"/>A man oppressed by the blood of a life will flee as far as a pit; let them not support him.<verse eid="PRO 28:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 28:18"/>One who walks blameless will be saved, but one who is crooked of ways will fall in one.<verse eid="PRO 28:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 28:19"/>One who works his ground will be satisfied {with} bread, but one who pursues empty things will be satisfied {with} poverty.<verse eid="PRO 28:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 28:20"/>A man of faithfulness {has} an abundance of blessings, but one who hurries to become rich will not remain blameless.<verse eid="PRO 28:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 28:21"/>Recognizing faces {is} not good, yet for a bit of bread a man will transgress.<verse eid="PRO 28:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 28:22"/>One who hurries to the wealth {is} a man of an evil eye, but he does not know that lack will come to him.<verse eid="PRO 28:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 28:23"/>One who rebukes a man afterward will find favor more than one who makes the tongue smooth.<verse eid="PRO 28:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 28:24"/>One who robs his father and his mother and says, “There is no transgression,” he {is} the companion of a man of destruction.<verse eid="PRO 28:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 28:25"/>One wide of appetite stirs up strife, but one who trusts in Yahweh will be fattened.<verse eid="PRO 28:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 28:26"/>One who trusts in his heart, he {is} a stupid one, but one who walks in wisdom, he himself will flee.<verse eid="PRO 28:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 28:27"/>One who gives to the one who is poor has no lack, but one who hides his eyes has an abundance of curses.<verse eid="PRO 28:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 28:28"/>When wicked ones arise, a man will hide himself, but when they perish, righteous ones will increase.<verse eid="PRO 28:28"/></para>
+<chapter eid="PRO 28"/>
+<chapter number="29" style="c" sid="PRO 29"/>
+<para style="p"><verse number="1" style="v" sid="PRO 29:1"/>A man of rebukes who stiffens the neck will suddenly be broken and without healing.<verse eid="PRO 29:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 29:2"/>When the righteous ones increase, the people rejoice, but when a wicked one rules, a people groans.<verse eid="PRO 29:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 29:3"/>A man who loves wisdom gladdens his father, but one who associates with prostitutes destroys wealth.<verse eid="PRO 29:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 29:4"/>A king by justice causes the land to stand, but a man of contributions tears it down.<verse eid="PRO 29:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 29:5"/>A man who makes smooth for his neighbor spreads out a net for his feet.<verse eid="PRO 29:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 29:6"/>In the transgression of an evil man {there is} a snare, but a righteous one shouts for joy and is glad.<verse eid="PRO 29:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 29:7"/>A righteous one knows the legal claim of lowly ones; a wicked one does not understand knowledge.<verse eid="PRO 29:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 29:8"/>Men of mockery inflame a city, but wise ones turn away nose.<verse eid="PRO 29:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 29:9"/>A wise man goes to judgment with a foolish man, but he trembles and laughs and there is no rest.<verse eid="PRO 29:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 29:10"/>Men of bloodshed hate a blameless one, but upright ones seek his life.<verse eid="PRO 29:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 29:11"/>A stupid one brings out all his spirit, but a wise one soothes it backward.<verse eid="PRO 29:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 29:12"/>A ruler who listens attentively to a word of falsehood, all his servants {are} wicked ones.<verse eid="PRO 29:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 29:13"/>One who is poor and a man of oppression meet together; the one who enlightens the eyes of them both {is} Yahweh.<verse eid="PRO 29:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 29:14"/>A king who judges lowly ones with truth, his throne will be established to perpetuity.<verse eid="PRO 29:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 29:15"/>A rod and rebuke give wisdom, but a boy who is sent away causes his mother shame.<verse eid="PRO 29:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 29:16"/>When wicked ones increase, transgression increases, but righteous ones will look at their downfall.<verse eid="PRO 29:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 29:17"/>Discipline your son and he will cause you to rest, and he will give delights to your soul.<verse eid="PRO 29:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 29:18"/>When there is no vision, the people are let loose, but one who keeps the law, happy {is} he.<verse eid="PRO 29:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 29:19"/>A servant will not be instructed by words, for he understands but there is no answer.<verse eid="PRO 29:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 29:20"/>You see a man hurrying in his words. {There is more} hope for a stupid one than him.<verse eid="PRO 29:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 29:21"/>{If} one pampers his servant from youth, then his end will be insolence.<verse eid="PRO 29:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 29:22"/>A man of nose stirs up strife, and an owner of heat, much transgression.<verse eid="PRO 29:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 29:23"/>The pride of a man will make him low, but one lowly of spirit will grasp honor.<verse eid="PRO 29:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 29:24"/>One who shares with a thief hates his life; he will hear an oath but will not tell.<verse eid="PRO 29:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 29:25"/>The anxiety of a man sets a snare, but the one who trusts in Yahweh will be set on high.<verse eid="PRO 29:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 29:26"/>Many {are} those who seek the face of a ruler, but from Yahweh {is} justice of a man.<verse eid="PRO 29:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 29:27"/>An abomination to righteous ones {is} a man of injustice, but an abomination to a wicked one {is} one upright of way.<verse eid="PRO 29:27"/></para>
+<chapter eid="PRO 29"/>
+<chapter number="30" style="c" sid="PRO 30"/>
+<para style="p"><verse number="1" style="v" sid="PRO 30:1"/>The words of Agur son of Jakeh, the burden: The declaration of the strong man to Ithiel, to Ithiel and Ucal:<verse eid="PRO 30:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 30:2"/>“Surely, I {am} more stupid than a man, and the understanding of man {is} not mine.<verse eid="PRO 30:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 30:3"/>And I have not learned wisdom, nor the knowledge of holy ones do I know.<verse eid="PRO 30:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 30:4"/>Who has ascended {to} heaven and descended? Who has gathered the wind in the hollow of his hands? Who has wrapped waters in the cloak? Who has raised up all the ends of the earth? What {is} his name? And what {is} the name of his son? Surely you know!<verse eid="PRO 30:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 30:5"/>Every saying of God is refined; he {is} a shield for those who take refuge in him.<verse eid="PRO 30:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 30:6"/>Do not add upon his words, lest he rebuke you and you be shown a liar.<verse eid="PRO 30:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 30:7"/>Two things I ask from with you, do not withhold from me before I die:<verse eid="PRO 30:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 30:8"/>Emptiness and the word of a lie put far away from me. Do not give to me poverty or riches; cause me to receive the bread of my portion.<verse eid="PRO 30:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 30:9"/>Lest I be satiated, and I deny and say, ‘Who {is} Yahweh?’ And lest I become dispossessed and steal, and I seize the name of my God.<verse eid="PRO 30:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 30:10"/>Do not slander a slave to his master, lest he curse you, and you be found guilty.<verse eid="PRO 30:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 30:11"/>{There is} a generation, it curses its father and does not bless its mother.<verse eid="PRO 30:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 30:12"/>{There is} a generation clean in its eyes, but it is not washed from its excrement.<verse eid="PRO 30:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 30:13"/>{There is} a generation, how its eyes are raised up, and its eyelids are lifted up!<verse eid="PRO 30:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 30:14"/>{There is} a generation, its teeth {are} swords and its fangs {are} knives for devouring afflicted ones from the earth and needy ones from man.<verse eid="PRO 30:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 30:15"/>Two daughters {are} for the leech, ‘Give! Give!’ {There are} three, they are not satisfied; four, they do not say, ‘Enough:’<verse eid="PRO 30:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 30:16"/>Sheol, and the closure of the womb, a land not satisfied with water, and a fire does not say, ‘Enough!’<verse eid="PRO 30:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 30:17"/>An eye mocks a father and shows contempt for the obedience {to} a mother; the ravens of the valley will peck it out, and the sons of the vulture will eat it.<verse eid="PRO 30:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 30:18"/>Three things, they {are} too wonderful for me, and four, I do not understand them:<verse eid="PRO 30:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 30:19"/>the way of the eagle in the sky, the way of a snake on a rock, the way of a ship in the heart of the sea, and the way of a young man with a young woman.<verse eid="PRO 30:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 30:20"/>Thus {is} the way of a woman who commits adultery: She eats and wipes her mouth and says, ‘I have not done iniquity.’<verse eid="PRO 30:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 30:21"/>Under three things the earth quakes, and under four it is not able to hold up:<verse eid="PRO 30:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 30:22"/>under a slave when he becomes king and a worthless one when he is satisfied with bread,<verse eid="PRO 30:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 30:23"/>under a hated woman when she is married and a female servant when she dispossesses her mistress.<verse eid="PRO 30:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 30:24"/>Four things, they {are} small things of the earth but they {are} wise things, being made wise:<verse eid="PRO 30:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 30:25"/>The ants {are} a people not strong, but they prepare their food in the summer.<verse eid="PRO 30:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 30:26"/>Rock badgers {are} a people not mighty, but they set their house in the cliff.<verse eid="PRO 30:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 30:27"/>There is no king for the locust, but each of it go out divided {into groups}.<verse eid="PRO 30:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 30:28"/>You can catch a lizard with hands, yet it {is} in the palaces of the king.<verse eid="PRO 30:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 30:29"/>Three things, they are doing well of step, and four are doing well of walking:<verse eid="PRO 30:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 30:30"/>a lion, mighty among the animals, and it will not turn away from the face of anything,<verse eid="PRO 30:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 30:31"/>one girded of loins, or a male goat, and a king against whom one does not rise up.<verse eid="PRO 30:31"/></para>
+<para style="p"><verse number="32" style="v" sid="PRO 30:32"/>If you have been foolish by lifting up yourself, or if you have schemed, a hand {be} to mouth!<verse eid="PRO 30:32"/></para>
+<para style="p"><verse number="33" style="v" sid="PRO 30:33"/>For the squeezing of milk brings out butter, and the squeezing of the nose brings out blood, and the squeezing of nostrils brings out strife.”<verse eid="PRO 30:33"/></para>
+<chapter eid="PRO 30"/>
+<chapter number="31" style="c" sid="PRO 31"/>
+<para style="p"><verse number="1" style="v" sid="PRO 31:1"/>The words of Lemuel the king, a burden that his mother had instructed him:<verse eid="PRO 31:1"/></para>
+<para style="p"><verse number="2" style="v" sid="PRO 31:2"/>What, my son? And what, son of my womb? And what, son of my vows?<verse eid="PRO 31:2"/></para>
+<para style="p"><verse number="3" style="v" sid="PRO 31:3"/>Do not give to women your strength or your ways to cause kings to be wiped out.<verse eid="PRO 31:3"/></para>
+<para style="p"><verse number="4" style="v" sid="PRO 31:4"/>{It is} not for kings, Lemuel, {it is} not for kings to drink wine or for dignitaries or intoxicating drink.<verse eid="PRO 31:4"/></para>
+<para style="p"><verse number="5" style="v" sid="PRO 31:5"/>Lest he drink and forget what has been decreed and pervert the legal claim of all the sons of the afflicted one.<verse eid="PRO 31:5"/></para>
+<para style="p"><verse number="6" style="v" sid="PRO 31:6"/>Give intoxicating drink to the perishing one and wine to those bitter of soul.<verse eid="PRO 31:6"/></para>
+<para style="p"><verse number="7" style="v" sid="PRO 31:7"/>He will drink and forget his poverty, and his trouble he will not remember again.<verse eid="PRO 31:7"/></para>
+<para style="p"><verse number="8" style="v" sid="PRO 31:8"/>Open your mouth for a mute one, for the legal claim of all the sons of the one passing away.<verse eid="PRO 31:8"/></para>
+<para style="p"><verse number="9" style="v" sid="PRO 31:9"/>Open your mouth, judge {with} righteousness, and plead the legal case of the afflicted one and poor one.<verse eid="PRO 31:9"/></para>
+<para style="p"><verse number="10" style="v" sid="PRO 31:10"/>A woman of worth, who can find? And her value {is} far more than corals.<verse eid="PRO 31:10"/></para>
+<para style="p"><verse number="11" style="v" sid="PRO 31:11"/>The heart of her husband trusts in her, and spoil he will not lack.<verse eid="PRO 31:11"/></para>
+<para style="p"><verse number="12" style="v" sid="PRO 31:12"/>She does to him good and not evil all the days of her life.<verse eid="PRO 31:12"/></para>
+<para style="p"><verse number="13" style="v" sid="PRO 31:13"/>She searches {for} wool and linens and works with the delight of her palms.<verse eid="PRO 31:13"/></para>
+<para style="p"><verse number="14" style="v" sid="PRO 31:14"/>She is like the ships of a merchant; she brings her bread from far away.<verse eid="PRO 31:14"/></para>
+<para style="p"><verse number="15" style="v" sid="PRO 31:15"/>And she rises while still night and gives food to her house and a portion to her young women.<verse eid="PRO 31:15"/></para>
+<para style="p"><verse number="16" style="v" sid="PRO 31:16"/>She considers a field and gets it; from the fruit of her palms she plants a vineyard.<verse eid="PRO 31:16"/></para>
+<para style="p"><verse number="17" style="v" sid="PRO 31:17"/>She girds her loins with strength, and she strengthens her arms.<verse eid="PRO 31:17"/></para>
+<para style="p"><verse number="18" style="v" sid="PRO 31:18"/>She perceives that her profit {is} good; her lamp does not go out in the night.<verse eid="PRO 31:18"/></para>
+<para style="p"><verse number="19" style="v" sid="PRO 31:19"/>She stretches out her hands at the distaff, and her palms grasp the spindle.<verse eid="PRO 31:19"/></para>
+<para style="p"><verse number="20" style="v" sid="PRO 31:20"/>She spreads out her palm to the afflicted one, and she stretches out her hands to the poor one.<verse eid="PRO 31:20"/></para>
+<para style="p"><verse number="21" style="v" sid="PRO 31:21"/>She does not fear for her house because of snow, for all her house is clothed {with} crimson.<verse eid="PRO 31:21"/></para>
+<para style="p"><verse number="22" style="v" sid="PRO 31:22"/>She makes for herself coverings, fine linen and purple for her clothing.<verse eid="PRO 31:22"/></para>
+<para style="p"><verse number="23" style="v" sid="PRO 31:23"/>Her husband is known at the gates, when he sits with the elders of the land.<verse eid="PRO 31:23"/></para>
+<para style="p"><verse number="24" style="v" sid="PRO 31:24"/>She makes a linen garment and sells, and a belt she gives to the Canaanite.<verse eid="PRO 31:24"/></para>
+<para style="p"><verse number="25" style="v" sid="PRO 31:25"/>Strength and splendor {are} her clothing, and she laughs at a future day.<verse eid="PRO 31:25"/></para>
+<para style="p"><verse number="26" style="v" sid="PRO 31:26"/>Her mouth opens with wisdom, and the law of covenant faithfulness {is} on her tongue.<verse eid="PRO 31:26"/></para>
+<para style="p"><verse number="27" style="v" sid="PRO 31:27"/>She scans the goings on of her house, and the bread of laziness she does not eat.<verse eid="PRO 31:27"/></para>
+<para style="p"><verse number="28" style="v" sid="PRO 31:28"/>Her sons rise up and call her happy; her husband also praises her.<verse eid="PRO 31:28"/></para>
+<para style="p"><verse number="29" style="v" sid="PRO 31:29"/>“Many daughters have acted {with} worth, but you yourself have ascended over all of them.”<verse eid="PRO 31:29"/></para>
+<para style="p"><verse number="30" style="v" sid="PRO 31:30"/>The charm {is} falsehood and the beauty {is} vapor; a woman fearful of Yahweh, she herself will be praised.<verse eid="PRO 31:30"/></para>
+<para style="p"><verse number="31" style="v" sid="PRO 31:31"/>Give to her from the fruit of her hands and let her works praise her at the gates.<verse eid="PRO 31:31"/></para>
+<chapter eid="PRO 31"/>
+</usx>

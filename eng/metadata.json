@@ -1,0 +1,1096 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Bible",
+    "resource_type": "Bible",
+    "title": "unfoldingWord Literal",
+    "aquifer_name": "unfoldingWord Literal",
+    "version": "1.0.2",
+    "collection_title": "unfoldingWord Literal",
+    "short_name": "ULT",
+    "license_info": {
+      "title": "unfoldingWord® Literal Text",
+      "copyright": {
+        "dates": "2022",
+        "holder": {
+          "name": "unfoldingWord",
+          "url": "https://unfoldingword.org/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "unfoldingWordLiteral",
+    "date_created": "2025-11-20",
+    "language": "eng",
+    "localizations": [],
+    "order": "canonical",
+    "content_type": "Bible"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-11-20T13:40:28.300909"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "unfoldingWordLiteral": {
+            "timestamp": "2025-11-20T13:40:28.300909"
+          }
+        }
+      },
+      "name": {
+        "en": "unfoldingWord Literal"
+      },
+      "abbreviation": {
+        "en": "ULT"
+      }
+    },
+    "languages": [
+      {
+        "tag": "en",
+        "name": {
+          "en": "English"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "scripture",
+        "flavor": {
+          "name": "textTranslation",
+          "audience": "common"
+        },
+        "currentScope": {
+          "GEN": [],
+          "EXO": [],
+          "LEV": [],
+          "NUM": [],
+          "DEU": [],
+          "JOS": [],
+          "JDG": [],
+          "RUT": [],
+          "1SA": [],
+          "2SA": [],
+          "1KI": [],
+          "2KI": [],
+          "1CH": [],
+          "2CH": [],
+          "EZR": [],
+          "NEH": [],
+          "EST": [],
+          "JOB": [],
+          "PSA": [],
+          "PRO": [],
+          "ECC": [],
+          "SNG": [],
+          "ISA": [],
+          "JER": [],
+          "LAM": [],
+          "EZK": [],
+          "DAN": [],
+          "HOS": [],
+          "JOL": [],
+          "AMO": [],
+          "OBA": [],
+          "JON": [],
+          "MIC": [],
+          "NAM": [],
+          "HAB": [],
+          "ZEP": [],
+          "HAG": [],
+          "ZEC": [],
+          "MAL": [],
+          "MAT": [],
+          "MRK": [],
+          "LUK": [],
+          "JHN": [],
+          "ACT": [],
+          "ROM": [],
+          "1CO": [],
+          "2CO": [],
+          "GAL": [],
+          "EPH": [],
+          "PHP": [],
+          "COL": [],
+          "1TH": [],
+          "2TH": [],
+          "1TI": [],
+          "2TI": [],
+          "TIT": [],
+          "PHM": [],
+          "HEB": [],
+          "JAS": [],
+          "1PE": [],
+          "2PE": [],
+          "1JN": [],
+          "2JN": [],
+          "3JN": [],
+          "JUD": [],
+          "REV": []
+        }
+      }
+    },
+    "ingredients": {
+      "usx/01GENULT.usx": {
+        "mimeType": "application/xml",
+        "size": 351529,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "usx/02EXOULT.usx": {
+        "mimeType": "application/xml",
+        "size": 284135,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "usx/03LEVULT.usx": {
+        "mimeType": "application/xml",
+        "size": 211260,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "usx/04NUMULT.usx": {
+        "mimeType": "application/xml",
+        "size": 294902,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "usx/05DEUULT.usx": {
+        "mimeType": "application/xml",
+        "size": 234426,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "usx/06JOSULT.usx": {
+        "mimeType": "application/xml",
+        "size": 164874,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "usx/07JDGULT.usx": {
+        "mimeType": "application/xml",
+        "size": 163138,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "usx/08RUTULT.usx": {
+        "mimeType": "application/xml",
+        "size": 22157,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "usx/091SAULT.usx": {
+        "mimeType": "application/xml",
+        "size": 210905,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "usx/102SAULT.usx": {
+        "mimeType": "application/xml",
+        "size": 177078,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "usx/111KIULT.usx": {
+        "mimeType": "application/xml",
+        "size": 209509,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "usx/122KIULT.usx": {
+        "mimeType": "application/xml",
+        "size": 193742,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "usx/131CHULT.usx": {
+        "mimeType": "application/xml",
+        "size": 196549,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "usx/142CHULT.usx": {
+        "mimeType": "application/xml",
+        "size": 216129,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "usx/15EZRULT.usx": {
+        "mimeType": "application/xml",
+        "size": 65511,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "usx/16NEHULT.usx": {
+        "mimeType": "application/xml",
+        "size": 95488,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "usx/17ESTULT.usx": {
+        "mimeType": "application/xml",
+        "size": 47619,
+        "scope": {
+          "EST": []
+        }
+      },
+      "usx/18JOBULT.usx": {
+        "mimeType": "application/xml",
+        "size": 194336,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "usx/19PSAULT.usx": {
+        "mimeType": "application/xml",
+        "size": 466340,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "usx/20PROULT.usx": {
+        "mimeType": "application/xml",
+        "size": 169007,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "usx/21ECCULT.usx": {
+        "mimeType": "application/xml",
+        "size": 51236,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "usx/22SNGULT.usx": {
+        "mimeType": "application/xml",
+        "size": 25414,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "usx/23ISAULT.usx": {
+        "mimeType": "application/xml",
+        "size": 309496,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "usx/24JERULT.usx": {
+        "mimeType": "application/xml",
+        "size": 354982,
+        "scope": {
+          "JER": []
+        }
+      },
+      "usx/25LAMULT.usx": {
+        "mimeType": "application/xml",
+        "size": 31638,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "usx/26EZKULT.usx": {
+        "mimeType": "application/xml",
+        "size": 325873,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "usx/27DANULT.usx": {
+        "mimeType": "application/xml",
+        "size": 94907,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "usx/28HOSULT.usx": {
+        "mimeType": "application/xml",
+        "size": 45783,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "usx/29JOLULT.usx": {
+        "mimeType": "application/xml",
+        "size": 17570,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "usx/30AMOULT.usx": {
+        "mimeType": "application/xml",
+        "size": 35496,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "usx/31OBAULT.usx": {
+        "mimeType": "application/xml",
+        "size": 5670,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "usx/32JONULT.usx": {
+        "mimeType": "application/xml",
+        "size": 11827,
+        "scope": {
+          "JON": []
+        }
+      },
+      "usx/33MICULT.usx": {
+        "mimeType": "application/xml",
+        "size": 26125,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "usx/34NAMULT.usx": {
+        "mimeType": "application/xml",
+        "size": 11856,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "usx/35HABULT.usx": {
+        "mimeType": "application/xml",
+        "size": 13444,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "usx/36ZEPULT.usx": {
+        "mimeType": "application/xml",
+        "size": 13972,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "usx/37HAGULT.usx": {
+        "mimeType": "application/xml",
+        "size": 9904,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "usx/38ZECULT.usx": {
+        "mimeType": "application/xml",
+        "size": 53499,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "usx/39MALULT.usx": {
+        "mimeType": "application/xml",
+        "size": 14840,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "usx/40MATULT.usx": {
+        "mimeType": "application/xml",
+        "size": 228861,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "usx/41MRKULT.usx": {
+        "mimeType": "application/xml",
+        "size": 145235,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "usx/42LUKULT.usx": {
+        "mimeType": "application/xml",
+        "size": 244301,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "usx/43JHNULT.usx": {
+        "mimeType": "application/xml",
+        "size": 186012,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "usx/44ACTULT.usx": {
+        "mimeType": "application/xml",
+        "size": 225732,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "usx/45ROMULT.usx": {
+        "mimeType": "application/xml",
+        "size": 93374,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "usx/461COULT.usx": {
+        "mimeType": "application/xml",
+        "size": 91454,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "usx/472COULT.usx": {
+        "mimeType": "application/xml",
+        "size": 58222,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "usx/48GALULT.usx": {
+        "mimeType": "application/xml",
+        "size": 30663,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "usx/49EPHULT.usx": {
+        "mimeType": "application/xml",
+        "size": 31409,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "usx/50PHPULT.usx": {
+        "mimeType": "application/xml",
+        "size": 21825,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "usx/51COLULT.usx": {
+        "mimeType": "application/xml",
+        "size": 20090,
+        "scope": {
+          "COL": []
+        }
+      },
+      "usx/521THULT.usx": {
+        "mimeType": "application/xml",
+        "size": 18466,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "usx/532THULT.usx": {
+        "mimeType": "application/xml",
+        "size": 10286,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "usx/541TIULT.usx": {
+        "mimeType": "application/xml",
+        "size": 23350,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "usx/552TIULT.usx": {
+        "mimeType": "application/xml",
+        "size": 17134,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "usx/56TITULT.usx": {
+        "mimeType": "application/xml",
+        "size": 9860,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "usx/57PHMULT.usx": {
+        "mimeType": "application/xml",
+        "size": 5002,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "usx/58HEBULT.usx": {
+        "mimeType": "application/xml",
+        "size": 68562,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "usx/59JASULT.usx": {
+        "mimeType": "application/xml",
+        "size": 22733,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "usx/601PEULT.usx": {
+        "mimeType": "application/xml",
+        "size": 23348,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "usx/612PEULT.usx": {
+        "mimeType": "application/xml",
+        "size": 14763,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "usx/621JNULT.usx": {
+        "mimeType": "application/xml",
+        "size": 23072,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "usx/632JNULT.usx": {
+        "mimeType": "application/xml",
+        "size": 3103,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "usx/643JNULT.usx": {
+        "mimeType": "application/xml",
+        "size": 3281,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "usx/65JUDULT.usx": {
+        "mimeType": "application/xml",
+        "size": 6238,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "usx/66REVULT.usx": {
+        "mimeType": "application/xml",
+        "size": 100924,
+        "scope": {
+          "REV": []
+        }
+      },
+      "usfm/01GENULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 223783,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "usfm/02EXOULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 183119,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "usfm/03LEVULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 139855,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "usfm/04NUMULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 188202,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "usfm/05DEUULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 154618,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "usfm/06JOSULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 110056,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "usfm/07JDGULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 111919,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "usfm/08RUTULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 14999,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "usfm/091SAULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 143280,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "usfm/102SAULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 119236,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "usfm/111KIULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 142127,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "usfm/122KIULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 133969,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "usfm/131CHULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 118594,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "usfm/142CHULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 147275,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "usfm/15EZRULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 42393,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "usfm/16NEHULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 61931,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "usfm/17ESTULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 33611,
+        "scope": {
+          "EST": []
+        }
+      },
+      "usfm/18JOBULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 104890,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "usfm/19PSAULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 255278,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "usfm/20PROULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 92872,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "usfm/21ECCULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 32664,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "usfm/22SNGULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 15516,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "usfm/23ISAULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 200658,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "usfm/24JERULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 241028,
+        "scope": {
+          "JER": []
+        }
+      },
+      "usfm/25LAMULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 18915,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "usfm/26EZKULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 219407,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "usfm/27DANULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 65465,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "usfm/28HOSULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 29065,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "usfm/29JOLULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 11417,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "usfm/30AMOULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 23233,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "usfm/31OBAULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 3767,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "usfm/32JONULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 7629,
+        "scope": {
+          "JON": []
+        }
+      },
+      "usfm/33MICULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 17232,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "usfm/34NAMULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 7783,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "usfm/35HABULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 8651,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "usfm/36ZEPULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 9419,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "usfm/37HAGULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 6596,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "usfm/38ZECULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 35655,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "usfm/39MALULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 10076,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "usfm/40MATULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 140109,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "usfm/41MRKULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 89473,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "usfm/42LUKULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 149571,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "usfm/43JHNULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 113661,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "usfm/44ACTULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 142354,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "usfm/45ROMULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 57472,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "usfm/461COULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 55116,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "usfm/472COULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 36801,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "usfm/48GALULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 18295,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "usfm/49EPHULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 18561,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "usfm/50PHPULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 13147,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "usfm/51COLULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 12132,
+        "scope": {
+          "COL": []
+        }
+      },
+      "usfm/521THULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 10943,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "usfm/532THULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 6213,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "usfm/541TIULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 13862,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "usfm/552TIULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 10136,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "usfm/56TITULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 5867,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "usfm/57PHMULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 2779,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "usfm/58HEBULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 43285,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "usfm/59JASULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 13690,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "usfm/601PEULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 14545,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "usfm/612PEULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 9570,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "usfm/621JNULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 14269,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "usfm/632JNULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 1840,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "usfm/643JNULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 1858,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "usfm/65JUDULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 4015,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "usfm/66REVULT.SFM": {
+        "mimeType": "text/plain",
+        "size": 66846,
+        "scope": {
+          "REV": []
+        }
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>unfoldingWord® Literal Text © 2022 unfoldingWord",
+          "mimetype": "text/html",
+          "lang": "en"
+        }
+      ]
+    }
+  },
+  "article_metadata": {}
+}
