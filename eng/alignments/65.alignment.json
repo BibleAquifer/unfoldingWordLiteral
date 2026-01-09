@@ -1,0 +1,5793 @@
+{
+  "documents": [
+    {
+      "docid": "SBLGNT",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "ULT",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "n65001001001|Ἰούδας"
+      ],
+      "target": [
+        "65001001001|Jude"
+      ],
+      "meta": {
+        "id": "65001001.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001004|δοῦλος"
+      ],
+      "target": [
+        "65001001003|a",
+        "65001001004|servant"
+      ],
+      "meta": {
+        "id": "65001001.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001002|Ἰησοῦ"
+      ],
+      "target": [
+        "65001001005|of",
+        "65001001006|Jesus"
+      ],
+      "meta": {
+        "id": "65001001.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001003|Χριστοῦ"
+      ],
+      "target": [
+        "65001001007|Christ"
+      ],
+      "meta": {
+        "id": "65001001.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001006|δὲ"
+      ],
+      "target": [
+        "65001001008|and"
+      ],
+      "meta": {
+        "id": "65001001.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001005|ἀδελφὸς"
+      ],
+      "target": [
+        "65001001009|a",
+        "65001001010|brother"
+      ],
+      "meta": {
+        "id": "65001001.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001007|Ἰακώβου"
+      ],
+      "target": [
+        "65001001011|of",
+        "65001001012|James"
+      ],
+      "meta": {
+        "id": "65001001.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001008|τοῖς"
+      ],
+      "target": [
+        "65001001014|to",
+        "65001001015|the",
+        "65001001016|ones"
+      ],
+      "meta": {
+        "id": "65001001.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001012|ἠγαπημένοις"
+      ],
+      "target": [
+        "65001001017|loved"
+      ],
+      "meta": {
+        "id": "65001001.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001009|ἐν"
+      ],
+      "target": [
+        "65001001018|in"
+      ],
+      "meta": {
+        "id": "65001001.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001010|θεῷ"
+      ],
+      "target": [
+        "65001001019|God"
+      ],
+      "meta": {
+        "id": "65001001.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001011|πατρὶ"
+      ],
+      "target": [
+        "65001001020|the",
+        "65001001021|Father"
+      ],
+      "meta": {
+        "id": "65001001.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001013|καὶ"
+      ],
+      "target": [
+        "65001001022|and"
+      ],
+      "meta": {
+        "id": "65001001.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001016|τετηρημένοις"
+      ],
+      "target": [
+        "65001001023|kept"
+      ],
+      "meta": {
+        "id": "65001001.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001017|κλητοῖς"
+      ],
+      "target": [
+        "65001001025|and",
+        "65001001027|called"
+      ],
+      "meta": {
+        "id": "65001001.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001015|Χριστῷ"
+      ],
+      "target": [
+        "65001001028|in",
+        "65001001030|Christ"
+      ],
+      "meta": {
+        "id": "65001001.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001001014|Ἰησοῦ"
+      ],
+      "target": [
+        "65001001029|Jesus"
+      ],
+      "meta": {
+        "id": "65001001.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002007|πληθυνθείη"
+      ],
+      "target": [
+        "65001002001|May",
+        "65001002007|be",
+        "65001002008|multiplied"
+      ],
+      "meta": {
+        "id": "65001002.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002001|ἔλεος"
+      ],
+      "target": [
+        "65001002002|mercy"
+      ],
+      "meta": {
+        "id": "65001002.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002003|καὶ"
+      ],
+      "target": [
+        "65001002003|and"
+      ],
+      "meta": {
+        "id": "65001002.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002004|εἰρήνη"
+      ],
+      "target": [
+        "65001002004|peace"
+      ],
+      "meta": {
+        "id": "65001002.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002005|καὶ"
+      ],
+      "target": [
+        "65001002005|and"
+      ],
+      "meta": {
+        "id": "65001002.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002006|ἀγάπη"
+      ],
+      "target": [
+        "65001002006|love"
+      ],
+      "meta": {
+        "id": "65001002.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001002002|ὑμῖν"
+      ],
+      "target": [
+        "65001002009|to",
+        "65001002010|you"
+      ],
+      "meta": {
+        "id": "65001002.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003001|Ἀγαπητοί"
+      ],
+      "target": [
+        "65001003001|Beloved",
+        "65001003002|ones"
+      ],
+      "meta": {
+        "id": "65001003.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003004|ποιούμενος"
+      ],
+      "target": [
+        "65001003004|making"
+      ],
+      "meta": {
+        "id": "65001003.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003002|πᾶσαν"
+      ],
+      "target": [
+        "65001003005|every"
+      ],
+      "meta": {
+        "id": "65001003.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003003|σπουδὴν"
+      ],
+      "target": [
+        "65001003006|effort"
+      ],
+      "meta": {
+        "id": "65001003.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003005|γράφειν"
+      ],
+      "target": [
+        "65001003007|to",
+        "65001003008|write"
+      ],
+      "meta": {
+        "id": "65001003.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003006|ὑμῖν"
+      ],
+      "target": [
+        "65001003009|to",
+        "65001003010|you"
+      ],
+      "meta": {
+        "id": "65001003.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003007|περὶ"
+      ],
+      "target": [
+        "65001003011|about"
+      ],
+      "meta": {
+        "id": "65001003.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003010|ἡμῶν"
+      ],
+      "target": [
+        "65001003012|our"
+      ],
+      "meta": {
+        "id": "65001003.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003009|κοινῆς"
+      ],
+      "target": [
+        "65001003013|common"
+      ],
+      "meta": {
+        "id": "65001003.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003008|τῆς",
+        "n65001003011|σωτηρίας"
+      ],
+      "target": [
+        "65001003014|salvation"
+      ],
+      "meta": {
+        "id": "65001003.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003013|ἔσχον"
+      ],
+      "target": [
+        "65001003016|I",
+        "65001003017|have"
+      ],
+      "meta": {
+        "id": "65001003.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003012|ἀνάγκην"
+      ],
+      "target": [
+        "65001003018|a",
+        "65001003019|necessity"
+      ],
+      "meta": {
+        "id": "65001003.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003014|γράψαι"
+      ],
+      "target": [
+        "65001003020|to",
+        "65001003021|write"
+      ],
+      "meta": {
+        "id": "65001003.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003015|ὑμῖν"
+      ],
+      "target": [
+        "65001003022|to",
+        "65001003023|you"
+      ],
+      "meta": {
+        "id": "65001003.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003016|παρακαλῶν"
+      ],
+      "target": [
+        "65001003025|exhorting"
+      ],
+      "meta": {
+        "id": "65001003.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003017|ἐπαγωνίζεσθαι"
+      ],
+      "target": [
+        "65001003026|to",
+        "65001003027|contend"
+      ],
+      "meta": {
+        "id": "65001003.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003018|τῇ",
+        "n65001003023|πίστει"
+      ],
+      "target": [
+        "65001003028|for",
+        "65001003029|the",
+        "65001003030|faith"
+      ],
+      "meta": {
+        "id": "65001003.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003020|παραδοθείσῃ"
+      ],
+      "target": [
+        "65001003031|delivered"
+      ],
+      "meta": {
+        "id": "65001003.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003019|ἅπαξ"
+      ],
+      "target": [
+        "65001003032|once",
+        "65001003033|for",
+        "65001003034|all"
+      ],
+      "meta": {
+        "id": "65001003.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001003021|τοῖς",
+        "n65001003022|ἁγίοις"
+      ],
+      "target": [
+        "65001003035|to",
+        "65001003036|the",
+        "65001003037|saints"
+      ],
+      "meta": {
+        "id": "65001003.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004002|γάρ"
+      ],
+      "target": [
+        "65001004001|For"
+      ],
+      "meta": {
+        "id": "65001004.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004003|τινες"
+      ],
+      "target": [
+        "65001004002|certain"
+      ],
+      "meta": {
+        "id": "65001004.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004004|ἄνθρωποι"
+      ],
+      "target": [
+        "65001004003|men"
+      ],
+      "meta": {
+        "id": "65001004.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004001|παρεισέδυσαν"
+      ],
+      "target": [
+        "65001004004|have",
+        "65001004005|entered",
+        "65001004006|secretly"
+      ],
+      "meta": {
+        "id": "65001004.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004005|οἱ"
+      ],
+      "target": [
+        "65001004008|the",
+        "65001004009|ones"
+      ],
+      "meta": {
+        "id": "65001004.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004006|πάλαι"
+      ],
+      "target": [
+        "65001004010|long",
+        "65001004011|ago"
+      ],
+      "meta": {
+        "id": "65001004.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004007|προγεγραμμένοι"
+      ],
+      "target": [
+        "65001004012|having",
+        "65001004013|been",
+        "65001004014|designated",
+        "65001004015|beforehand"
+      ],
+      "meta": {
+        "id": "65001004.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004008|εἰς"
+      ],
+      "target": [
+        "65001004016|for"
+      ],
+      "meta": {
+        "id": "65001004.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004009|τοῦτο"
+      ],
+      "target": [
+        "65001004017|this"
+      ],
+      "meta": {
+        "id": "65001004.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004010|τὸ",
+        "n65001004011|κρίμα"
+      ],
+      "target": [
+        "65001004018|condemnation"
+      ],
+      "meta": {
+        "id": "65001004.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004012|ἀσεβεῖς"
+      ],
+      "target": [
+        "65001004020|ungodly",
+        "65001004021|ones"
+      ],
+      "meta": {
+        "id": "65001004.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004018|μετατιθέντες"
+      ],
+      "target": [
+        "65001004023|changing"
+      ],
+      "meta": {
+        "id": "65001004.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004013|τὴν"
+      ],
+      "target": [
+        "65001004024|the"
+      ],
+      "meta": {
+        "id": "65001004.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004017|χάριτα"
+      ],
+      "target": [
+        "65001004025|grace"
+      ],
+      "meta": {
+        "id": "65001004.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004014|τοῦ",
+        "n65001004015|θεοῦ"
+      ],
+      "target": [
+        "65001004026|of",
+        "65001004028|God"
+      ],
+      "meta": {
+        "id": "65001004.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004016|ἡμῶν"
+      ],
+      "target": [
+        "65001004027|our"
+      ],
+      "meta": {
+        "id": "65001004.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004019|εἰς"
+      ],
+      "target": [
+        "65001004029|into"
+      ],
+      "meta": {
+        "id": "65001004.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004020|ἀσέλγειαν"
+      ],
+      "target": [
+        "65001004030|licentiousness"
+      ],
+      "meta": {
+        "id": "65001004.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004021|καὶ"
+      ],
+      "target": [
+        "65001004031|and"
+      ],
+      "meta": {
+        "id": "65001004.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004030|ἀρνούμενοι"
+      ],
+      "target": [
+        "65001004032|denying"
+      ],
+      "meta": {
+        "id": "65001004.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004027|ἡμῶν"
+      ],
+      "target": [
+        "65001004033|our"
+      ],
+      "meta": {
+        "id": "65001004.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004023|μόνον"
+      ],
+      "target": [
+        "65001004034|only"
+      ],
+      "meta": {
+        "id": "65001004.23",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004022|τὸν",
+        "n65001004024|δεσπότην"
+      ],
+      "target": [
+        "65001004035|Master"
+      ],
+      "meta": {
+        "id": "65001004.24",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004025|καὶ"
+      ],
+      "target": [
+        "65001004036|and"
+      ],
+      "meta": {
+        "id": "65001004.25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004026|κύριον"
+      ],
+      "target": [
+        "65001004037|Lord"
+      ],
+      "meta": {
+        "id": "65001004.26",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004028|Ἰησοῦν"
+      ],
+      "target": [
+        "65001004039|Jesus"
+      ],
+      "meta": {
+        "id": "65001004.27",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001004029|Χριστὸν"
+      ],
+      "target": [
+        "65001004040|Christ"
+      ],
+      "meta": {
+        "id": "65001004.28",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005002|δὲ"
+      ],
+      "target": [
+        "65001005001|Now"
+      ],
+      "meta": {
+        "id": "65001005.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005004|βούλομαι"
+      ],
+      "target": [
+        "65001005002|I",
+        "65001005003|want"
+      ],
+      "meta": {
+        "id": "65001005.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005001|Ὑπομνῆσαι"
+      ],
+      "target": [
+        "65001005004|to",
+        "65001005005|remind"
+      ],
+      "meta": {
+        "id": "65001005.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005003|ὑμᾶς"
+      ],
+      "target": [
+        "65001005006|you"
+      ],
+      "meta": {
+        "id": "65001005.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005006|ὑμᾶς"
+      ],
+      "target": [
+        "65001005008|you"
+      ],
+      "meta": {
+        "id": "65001005.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005005|εἰδότας"
+      ],
+      "target": [
+        "65001005009|knowing"
+      ],
+      "meta": {
+        "id": "65001005.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005008|πάντα"
+      ],
+      "target": [
+        "65001005010|all",
+        "65001005011|things"
+      ],
+      "meta": {
+        "id": "65001005.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005007|ἅπαξ"
+      ],
+      "target": [
+        "65001005012|once",
+        "65001005013|for",
+        "65001005014|all"
+      ],
+      "meta": {
+        "id": "65001005.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005009|ὅτι"
+      ],
+      "target": [
+        "65001005016|that"
+      ],
+      "meta": {
+        "id": "65001005.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005010|Ἰησοῦς"
+      ],
+      "target": [
+        "65001005017|Jesus"
+      ],
+      "meta": {
+        "id": "65001005.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005015|σώσας"
+      ],
+      "target": [
+        "65001005019|having",
+        "65001005020|saved"
+      ],
+      "meta": {
+        "id": "65001005.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005011|λαὸν"
+      ],
+      "target": [
+        "65001005021|a",
+        "65001005022|people"
+      ],
+      "meta": {
+        "id": "65001005.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005012|ἐκ"
+      ],
+      "target": [
+        "65001005023|out",
+        "65001005024|of"
+      ],
+      "meta": {
+        "id": "65001005.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005013|γῆς"
+      ],
+      "target": [
+        "65001005025|the",
+        "65001005026|land"
+      ],
+      "meta": {
+        "id": "65001005.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005014|Αἰγύπτου"
+      ],
+      "target": [
+        "65001005027|of",
+        "65001005028|Egypt"
+      ],
+      "meta": {
+        "id": "65001005.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005016|τὸ",
+        "n65001005017|δεύτερον"
+      ],
+      "target": [
+        "65001005030|afterward"
+      ],
+      "meta": {
+        "id": "65001005.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005021|ἀπώλεσεν"
+      ],
+      "target": [
+        "65001005031|destroyed"
+      ],
+      "meta": {
+        "id": "65001005.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005018|τοὺς"
+      ],
+      "target": [
+        "65001005032|the",
+        "65001005033|ones"
+      ],
+      "meta": {
+        "id": "65001005.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005019|μὴ"
+      ],
+      "target": [
+        "65001005034|not"
+      ],
+      "meta": {
+        "id": "65001005.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001005020|πιστεύσαντας"
+      ],
+      "target": [
+        "65001005035|having",
+        "65001005036|believed"
+      ],
+      "meta": {
+        "id": "65001005.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006002|τε"
+      ],
+      "target": [
+        "65001006001|And"
+      ],
+      "meta": {
+        "id": "65001006.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006001|ἀγγέλους"
+      ],
+      "target": [
+        "65001006002|angels"
+      ],
+      "meta": {
+        "id": "65001006.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006004|μὴ"
+      ],
+      "target": [
+        "65001006004|not"
+      ],
+      "meta": {
+        "id": "65001006.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006003|τοὺς",
+        "n65001006005|τηρήσαντας"
+      ],
+      "target": [
+        "65001006005|having",
+        "65001006006|kept"
+      ],
+      "meta": {
+        "id": "65001006.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006006|τὴν"
+      ],
+      "target": [
+        "65001006007|their"
+      ],
+      "meta": {
+        "id": "65001006.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006007|ἑαυτῶν"
+      ],
+      "target": [
+        "65001006008|own"
+      ],
+      "meta": {
+        "id": "65001006.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006008|ἀρχὴν"
+      ],
+      "target": [
+        "65001006009|domain"
+      ],
+      "meta": {
+        "id": "65001006.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006009|ἀλλὰ"
+      ],
+      "target": [
+        "65001006011|but"
+      ],
+      "meta": {
+        "id": "65001006.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006010|ἀπολιπόντας"
+      ],
+      "target": [
+        "65001006012|having",
+        "65001006013|left"
+      ],
+      "meta": {
+        "id": "65001006.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006011|τὸ"
+      ],
+      "target": [
+        "65001006014|their"
+      ],
+      "meta": {
+        "id": "65001006.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006012|ἴδιον"
+      ],
+      "target": [
+        "65001006015|own"
+      ],
+      "meta": {
+        "id": "65001006.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006013|οἰκητήριον"
+      ],
+      "target": [
+        "65001006016|dwelling",
+        "65001006017|place"
+      ],
+      "meta": {
+        "id": "65001006.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006022|τετήρηκεν"
+      ],
+      "target": [
+        "65001006019|he",
+        "65001006020|has",
+        "65001006021|kept"
+      ],
+      "meta": {
+        "id": "65001006.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006018|δεσμοῖς"
+      ],
+      "target": [
+        "65001006022|in",
+        "65001006024|chains"
+      ],
+      "meta": {
+        "id": "65001006.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006019|ἀϊδίοις"
+      ],
+      "target": [
+        "65001006023|eternal"
+      ],
+      "meta": {
+        "id": "65001006.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006020|ὑπὸ"
+      ],
+      "target": [
+        "65001006026|under"
+      ],
+      "meta": {
+        "id": "65001006.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006021|ζόφον"
+      ],
+      "target": [
+        "65001006027|darkness"
+      ],
+      "meta": {
+        "id": "65001006.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006014|εἰς"
+      ],
+      "target": [
+        "65001006029|for"
+      ],
+      "meta": {
+        "id": "65001006.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006015|κρίσιν"
+      ],
+      "target": [
+        "65001006030|judgment"
+      ],
+      "meta": {
+        "id": "65001006.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006017|ἡμέρας"
+      ],
+      "target": [
+        "65001006031|of",
+        "65001006032|the",
+        "65001006034|day"
+      ],
+      "meta": {
+        "id": "65001006.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001006016|μεγάλης"
+      ],
+      "target": [
+        "65001006033|great"
+      ],
+      "meta": {
+        "id": "65001006.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007001|ὡς"
+      ],
+      "target": [
+        "65001007001|as"
+      ],
+      "meta": {
+        "id": "65001007.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007002|Σόδομα"
+      ],
+      "target": [
+        "65001007002|Sodom"
+      ],
+      "meta": {
+        "id": "65001007.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007003|καὶ"
+      ],
+      "target": [
+        "65001007003|and"
+      ],
+      "meta": {
+        "id": "65001007.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007004|Γόμορρα"
+      ],
+      "target": [
+        "65001007004|Gomorrah"
+      ],
+      "meta": {
+        "id": "65001007.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007005|καὶ"
+      ],
+      "target": [
+        "65001007005|and"
+      ],
+      "meta": {
+        "id": "65001007.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007006|αἱ"
+      ],
+      "target": [
+        "65001007006|the"
+      ],
+      "meta": {
+        "id": "65001007.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007009|πόλεις"
+      ],
+      "target": [
+        "65001007007|cities"
+      ],
+      "meta": {
+        "id": "65001007.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007007|περὶ"
+      ],
+      "target": [
+        "65001007008|around"
+      ],
+      "meta": {
+        "id": "65001007.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007008|αὐτὰς"
+      ],
+      "target": [
+        "65001007009|them"
+      ],
+      "meta": {
+        "id": "65001007.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007014|ἐκπορνεύσασαι"
+      ],
+      "target": [
+        "65001007011|having",
+        "65001007012|committed",
+        "65001007013|sexual",
+        "65001007014|immorality"
+      ],
+      "meta": {
+        "id": "65001007.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007012|τρόπον"
+      ],
+      "target": [
+        "65001007015|in",
+        "65001007018|manner"
+      ],
+      "meta": {
+        "id": "65001007.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007010|τὸν"
+      ],
+      "target": [
+        "65001007016|the"
+      ],
+      "meta": {
+        "id": "65001007.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007011|ὅμοιον"
+      ],
+      "target": [
+        "65001007017|same"
+      ],
+      "meta": {
+        "id": "65001007.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007013|τούτοις"
+      ],
+      "target": [
+        "65001007020|as",
+        "65001007022|these"
+      ],
+      "meta": {
+        "id": "65001007.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007015|καὶ"
+      ],
+      "target": [
+        "65001007024|and"
+      ],
+      "meta": {
+        "id": "65001007.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007016|ἀπελθοῦσαι"
+      ],
+      "target": [
+        "65001007025|having",
+        "65001007026|gone"
+      ],
+      "meta": {
+        "id": "65001007.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007017|ὀπίσω"
+      ],
+      "target": [
+        "65001007027|after"
+      ],
+      "meta": {
+        "id": "65001007.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007019|ἑτέρας"
+      ],
+      "target": [
+        "65001007028|other"
+      ],
+      "meta": {
+        "id": "65001007.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007018|σαρκὸς"
+      ],
+      "target": [
+        "65001007029|flesh"
+      ],
+      "meta": {
+        "id": "65001007.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007020|πρόκεινται"
+      ],
+      "target": [
+        "65001007031|are",
+        "65001007032|being",
+        "65001007033|displayed"
+      ],
+      "meta": {
+        "id": "65001007.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007021|δεῖγμα"
+      ],
+      "target": [
+        "65001007035|as",
+        "65001007037|an",
+        "65001007038|example"
+      ],
+      "meta": {
+        "id": "65001007.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007025|ὑπέχουσαι"
+      ],
+      "target": [
+        "65001007040|suffering"
+      ],
+      "meta": {
+        "id": "65001007.23",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007024|δίκην"
+      ],
+      "target": [
+        "65001007041|punishment"
+      ],
+      "meta": {
+        "id": "65001007.24",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007022|πυρὸς"
+      ],
+      "target": [
+        "65001007042|of",
+        "65001007044|fire"
+      ],
+      "meta": {
+        "id": "65001007.25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001007023|αἰωνίου"
+      ],
+      "target": [
+        "65001007043|eternal"
+      ],
+      "meta": {
+        "id": "65001007.26",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008002|μέντοι"
+      ],
+      "target": [
+        "65001008001|Yet"
+      ],
+      "meta": {
+        "id": "65001008.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008001|Ὁμοίως"
+      ],
+      "target": [
+        "65001008002|in",
+        "65001008003|the",
+        "65001008004|same",
+        "65001008005|way"
+      ],
+      "meta": {
+        "id": "65001008.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008003|καὶ"
+      ],
+      "target": [
+        "65001008006|also"
+      ],
+      "meta": {
+        "id": "65001008.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008004|οὗτοι"
+      ],
+      "target": [
+        "65001008008|these"
+      ],
+      "meta": {
+        "id": "65001008.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008005|ἐνυπνιαζόμενοι"
+      ],
+      "target": [
+        "65001008010|dreaming"
+      ],
+      "meta": {
+        "id": "65001008.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008007|μὲν"
+      ],
+      "target": [
+        "65001008012|indeed"
+      ],
+      "meta": {
+        "id": "65001008.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008008|μιαίνουσιν"
+      ],
+      "target": [
+        "65001008013|defile"
+      ],
+      "meta": {
+        "id": "65001008.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008006|σάρκα"
+      ],
+      "target": [
+        "65001008014|the",
+        "65001008015|flesh"
+      ],
+      "meta": {
+        "id": "65001008.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008010|δὲ"
+      ],
+      "target": [
+        "65001008017|but"
+      ],
+      "meta": {
+        "id": "65001008.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008011|ἀθετοῦσιν"
+      ],
+      "target": [
+        "65001008018|reject"
+      ],
+      "meta": {
+        "id": "65001008.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008009|κυριότητα"
+      ],
+      "target": [
+        "65001008019|lordship"
+      ],
+      "meta": {
+        "id": "65001008.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008013|δὲ"
+      ],
+      "target": [
+        "65001008020|and"
+      ],
+      "meta": {
+        "id": "65001008.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008014|βλασφημοῦσιν"
+      ],
+      "target": [
+        "65001008021|slander"
+      ],
+      "meta": {
+        "id": "65001008.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001008012|δόξας"
+      ],
+      "target": [
+        "65001008022|glorious",
+        "65001008023|ones"
+      ],
+      "meta": {
+        "id": "65001008.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009002|δὲ"
+      ],
+      "target": [
+        "65001009001|But"
+      ],
+      "meta": {
+        "id": "65001009.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009001|ὁ",
+        "n65001009003|Μιχαὴλ"
+      ],
+      "target": [
+        "65001009002|Michael"
+      ],
+      "meta": {
+        "id": "65001009.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009004|ὁ"
+      ],
+      "target": [
+        "65001009003|the"
+      ],
+      "meta": {
+        "id": "65001009.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009005|ἀρχάγγελος"
+      ],
+      "target": [
+        "65001009004|archangel"
+      ],
+      "meta": {
+        "id": "65001009.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009006|ὅτε"
+      ],
+      "target": [
+        "65001009006|when"
+      ],
+      "meta": {
+        "id": "65001009.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009009|διακρινόμενος"
+      ],
+      "target": [
+        "65001009007|disputing"
+      ],
+      "meta": {
+        "id": "65001009.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009007|τῷ",
+        "n65001009008|διαβόλῳ"
+      ],
+      "target": [
+        "65001009008|with",
+        "65001009009|the",
+        "65001009010|devil"
+      ],
+      "meta": {
+        "id": "65001009.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009010|διελέγετο"
+      ],
+      "target": [
+        "65001009012|was",
+        "65001009013|arguing"
+      ],
+      "meta": {
+        "id": "65001009.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009011|περὶ"
+      ],
+      "target": [
+        "65001009014|about"
+      ],
+      "meta": {
+        "id": "65001009.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009012|τοῦ"
+      ],
+      "target": [
+        "65001009015|the"
+      ],
+      "meta": {
+        "id": "65001009.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009014|σώματος"
+      ],
+      "target": [
+        "65001009016|body"
+      ],
+      "meta": {
+        "id": "65001009.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009013|Μωϋσέως"
+      ],
+      "target": [
+        "65001009017|of",
+        "65001009018|Moses"
+      ],
+      "meta": {
+        "id": "65001009.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009016|ἐτόλμησεν"
+      ],
+      "target": [
+        "65001009020|he",
+        "65001009021|did",
+        "65001009023|dare"
+      ],
+      "meta": {
+        "id": "65001009.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009015|οὐ"
+      ],
+      "target": [
+        "65001009022|not"
+      ],
+      "meta": {
+        "id": "65001009.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009018|ἐπενεγκεῖν"
+      ],
+      "target": [
+        "65001009024|to",
+        "65001009025|bring",
+        "65001009031|against",
+        "65001009032|him"
+      ],
+      "meta": {
+        "id": "65001009.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009017|κρίσιν"
+      ],
+      "target": [
+        "65001009026|a",
+        "65001009027|judgment"
+      ],
+      "meta": {
+        "id": "65001009.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009019|βλασφημίας"
+      ],
+      "target": [
+        "65001009028|of",
+        "65001009029|slander"
+      ],
+      "meta": {
+        "id": "65001009.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009020|ἀλλὰ"
+      ],
+      "target": [
+        "65001009035|Rather"
+      ],
+      "meta": {
+        "id": "65001009.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009021|εἶπεν"
+      ],
+      "target": [
+        "65001009037|he",
+        "65001009038|said"
+      ],
+      "meta": {
+        "id": "65001009.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009022|Ἐπιτιμήσαι"
+      ],
+      "target": [
+        "65001009041|May",
+        "65001009044|rebuke"
+      ],
+      "meta": {
+        "id": "65001009.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009024|κύριος"
+      ],
+      "target": [
+        "65001009042|the",
+        "65001009043|Lord"
+      ],
+      "meta": {
+        "id": "65001009.23",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001009023|σοι"
+      ],
+      "target": [
+        "65001009045|you"
+      ],
+      "meta": {
+        "id": "65001009.25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010002|δὲ"
+      ],
+      "target": [
+        "65001010001|But"
+      ],
+      "meta": {
+        "id": "65001010.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010001|οὗτοι"
+      ],
+      "target": [
+        "65001010002|these",
+        "65001010003|ones"
+      ],
+      "meta": {
+        "id": "65001010.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010004|μὲν"
+      ],
+      "target": [
+        "65001010004|indeed"
+      ],
+      "meta": {
+        "id": "65001010.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010007|βλασφημοῦσιν"
+      ],
+      "target": [
+        "65001010005|slander"
+      ],
+      "meta": {
+        "id": "65001010.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010003|ὅσα"
+      ],
+      "target": [
+        "65001010006|what"
+      ],
+      "meta": {
+        "id": "65001010.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010006|οἴδασιν"
+      ],
+      "target": [
+        "65001010007|they",
+        "65001010008|do",
+        "65001010010|understand"
+      ],
+      "meta": {
+        "id": "65001010.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010005|οὐ"
+      ],
+      "target": [
+        "65001010009|not"
+      ],
+      "meta": {
+        "id": "65001010.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010009|δὲ"
+      ],
+      "target": [
+        "65001010012|but"
+      ],
+      "meta": {
+        "id": "65001010.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010008|ὅσα"
+      ],
+      "target": [
+        "65001010013|what"
+      ],
+      "meta": {
+        "id": "65001010.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010015|ἐπίστανται"
+      ],
+      "target": [
+        "65001010014|they",
+        "65001010015|understand"
+      ],
+      "meta": {
+        "id": "65001010.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010010|φυσικῶς"
+      ],
+      "target": [
+        "65001010016|by",
+        "65001010017|instinct"
+      ],
+      "meta": {
+        "id": "65001010.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010011|ὡς"
+      ],
+      "target": [
+        "65001010018|as"
+      ],
+      "meta": {
+        "id": "65001010.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010012|τὰ"
+      ],
+      "target": [
+        "65001010019|the"
+      ],
+      "meta": {
+        "id": "65001010.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010013|ἄλογα"
+      ],
+      "target": [
+        "65001010020|unreasoning"
+      ],
+      "meta": {
+        "id": "65001010.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010014|ζῷα"
+      ],
+      "target": [
+        "65001010021|animals"
+      ],
+      "meta": {
+        "id": "65001010.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010016|ἐν"
+      ],
+      "target": [
+        "65001010023|by"
+      ],
+      "meta": {
+        "id": "65001010.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010017|τούτοις"
+      ],
+      "target": [
+        "65001010024|these",
+        "65001010025|things"
+      ],
+      "meta": {
+        "id": "65001010.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001010018|φθείρονται"
+      ],
+      "target": [
+        "65001010026|they",
+        "65001010027|are",
+        "65001010028|being",
+        "65001010029|destroyed"
+      ],
+      "meta": {
+        "id": "65001010.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011001|οὐαὶ"
+      ],
+      "target": [
+        "65001011001|Woe"
+      ],
+      "meta": {
+        "id": "65001011.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011002|αὐτοῖς"
+      ],
+      "target": [
+        "65001011002|to",
+        "65001011003|them"
+      ],
+      "meta": {
+        "id": "65001011.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011003|ὅτι"
+      ],
+      "target": [
+        "65001011005|For"
+      ],
+      "meta": {
+        "id": "65001011.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011008|ἐπορεύθησαν"
+      ],
+      "target": [
+        "65001011006|they",
+        "65001011007|have",
+        "65001011008|gone"
+      ],
+      "meta": {
+        "id": "65001011.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011004|τῇ",
+        "n65001011005|ὁδῷ"
+      ],
+      "target": [
+        "65001011009|in",
+        "65001011010|the",
+        "65001011011|way"
+      ],
+      "meta": {
+        "id": "65001011.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011006|τοῦ",
+        "n65001011007|Κάϊν"
+      ],
+      "target": [
+        "65001011012|of",
+        "65001011013|Cain"
+      ],
+      "meta": {
+        "id": "65001011.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011009|καὶ"
+      ],
+      "target": [
+        "65001011014|and"
+      ],
+      "meta": {
+        "id": "65001011.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011015|ἐξεχύθησαν"
+      ],
+      "target": [
+        "65001011015|have",
+        "65001011016|abandoned",
+        "65001011017|themselves"
+      ],
+      "meta": {
+        "id": "65001011.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011010|τῇ",
+        "n65001011011|πλάνῃ"
+      ],
+      "target": [
+        "65001011018|to",
+        "65001011019|the",
+        "65001011020|error"
+      ],
+      "meta": {
+        "id": "65001011.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011012|τοῦ",
+        "n65001011013|Βαλαὰμ"
+      ],
+      "target": [
+        "65001011021|of",
+        "65001011022|Balaam"
+      ],
+      "meta": {
+        "id": "65001011.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011014|μισθοῦ"
+      ],
+      "target": [
+        "65001011024|for",
+        "65001011026|wages"
+      ],
+      "meta": {
+        "id": "65001011.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011016|καὶ"
+      ],
+      "target": [
+        "65001011028|and"
+      ],
+      "meta": {
+        "id": "65001011.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011017|τῇ",
+        "n65001011018|ἀντιλογίᾳ"
+      ],
+      "target": [
+        "65001011029|in",
+        "65001011030|the",
+        "65001011031|rebellion"
+      ],
+      "meta": {
+        "id": "65001011.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011019|τοῦ",
+        "n65001011020|Κόρε"
+      ],
+      "target": [
+        "65001011032|of",
+        "65001011033|Korah"
+      ],
+      "meta": {
+        "id": "65001011.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001011021|ἀπώλοντο"
+      ],
+      "target": [
+        "65001011034|they",
+        "65001011035|perished"
+      ],
+      "meta": {
+        "id": "65001011.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012001|οὗτοί"
+      ],
+      "target": [
+        "65001012001|These",
+        "65001012002|ones"
+      ],
+      "meta": {
+        "id": "65001012.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012002|εἰσιν"
+      ],
+      "target": [
+        "65001012003|are"
+      ],
+      "meta": {
+        "id": "65001012.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012003|οἱ"
+      ],
+      "target": [
+        "65001012004|the",
+        "65001012005|ones"
+      ],
+      "meta": {
+        "id": "65001012.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012004|ἐν"
+      ],
+      "target": [
+        "65001012006|in"
+      ],
+      "meta": {
+        "id": "65001012.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012007|ὑμῶν"
+      ],
+      "target": [
+        "65001012007|your"
+      ],
+      "meta": {
+        "id": "65001012.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012005|ταῖς",
+        "n65001012006|ἀγάπαις"
+      ],
+      "target": [
+        "65001012008|love",
+        "65001012009|feasts"
+      ],
+      "meta": {
+        "id": "65001012.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012008|σπιλάδες"
+      ],
+      "target": [
+        "65001012011|hidden",
+        "65001012012|reefs"
+      ],
+      "meta": {
+        "id": "65001012.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012010|ἀφόβως"
+      ],
+      "target": [
+        "65001012014|fearlessly"
+      ],
+      "meta": {
+        "id": "65001012.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012009|συνευωχούμενοι"
+      ],
+      "target": [
+        "65001012015|feasting",
+        "65001012016|with",
+        "65001012018|you"
+      ],
+      "meta": {
+        "id": "65001012.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012012|ποιμαίνοντες"
+      ],
+      "target": [
+        "65001012021|shepherding"
+      ],
+      "meta": {
+        "id": "65001012.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012011|ἑαυτοὺς"
+      ],
+      "target": [
+        "65001012022|themselves"
+      ],
+      "meta": {
+        "id": "65001012.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012014|ἄνυδροι"
+      ],
+      "target": [
+        "65001012024|waterless"
+      ],
+      "meta": {
+        "id": "65001012.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012013|νεφέλαι"
+      ],
+      "target": [
+        "65001012025|clouds"
+      ],
+      "meta": {
+        "id": "65001012.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012017|παραφερόμεναι"
+      ],
+      "target": [
+        "65001012027|carried",
+        "65001012028|along"
+      ],
+      "meta": {
+        "id": "65001012.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012015|ὑπὸ"
+      ],
+      "target": [
+        "65001012029|by"
+      ],
+      "meta": {
+        "id": "65001012.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012016|ἀνέμων"
+      ],
+      "target": [
+        "65001012030|winds"
+      ],
+      "meta": {
+        "id": "65001012.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012020|ἄκαρπα"
+      ],
+      "target": [
+        "65001012032|fruitless"
+      ],
+      "meta": {
+        "id": "65001012.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012019|φθινοπωρινὰ"
+      ],
+      "target": [
+        "65001012033|autumn"
+      ],
+      "meta": {
+        "id": "65001012.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012018|δένδρα"
+      ],
+      "target": [
+        "65001012034|trees"
+      ],
+      "meta": {
+        "id": "65001012.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012022|ἀποθανόντα"
+      ],
+      "target": [
+        "65001012036|having",
+        "65001012037|died"
+      ],
+      "meta": {
+        "id": "65001012.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012021|δὶς"
+      ],
+      "target": [
+        "65001012038|twice"
+      ],
+      "meta": {
+        "id": "65001012.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001012023|ἐκριζωθέντα"
+      ],
+      "target": [
+        "65001012040|having",
+        "65001012041|been",
+        "65001012042|uprooted"
+      ],
+      "meta": {
+        "id": "65001012.23",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013002|ἄγρια"
+      ],
+      "target": [
+        "65001013001|wild"
+      ],
+      "meta": {
+        "id": "65001013.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013001|κύματα"
+      ],
+      "target": [
+        "65001013002|waves"
+      ],
+      "meta": {
+        "id": "65001013.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013003|θαλάσσης"
+      ],
+      "target": [
+        "65001013003|of",
+        "65001013004|the",
+        "65001013005|sea"
+      ],
+      "meta": {
+        "id": "65001013.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013004|ἐπαφρίζοντα"
+      ],
+      "target": [
+        "65001013007|foaming",
+        "65001013008|out"
+      ],
+      "meta": {
+        "id": "65001013.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013005|τὰς"
+      ],
+      "target": [
+        "65001013009|their"
+      ],
+      "meta": {
+        "id": "65001013.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013006|ἑαυτῶν"
+      ],
+      "target": [
+        "65001013010|own"
+      ],
+      "meta": {
+        "id": "65001013.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013007|αἰσχύνας"
+      ],
+      "target": [
+        "65001013011|shameful",
+        "65001013012|deeds"
+      ],
+      "meta": {
+        "id": "65001013.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013009|πλανῆται"
+      ],
+      "target": [
+        "65001013014|wandering"
+      ],
+      "meta": {
+        "id": "65001013.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013008|ἀστέρες"
+      ],
+      "target": [
+        "65001013015|stars"
+      ],
+      "meta": {
+        "id": "65001013.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013010|οἷς"
+      ],
+      "target": [
+        "65001013017|for",
+        "65001013018|whom"
+      ],
+      "meta": {
+        "id": "65001013.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013011|ὁ"
+      ],
+      "target": [
+        "65001013019|the"
+      ],
+      "meta": {
+        "id": "65001013.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013012|ζόφος"
+      ],
+      "target": [
+        "65001013020|gloom"
+      ],
+      "meta": {
+        "id": "65001013.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013013|τοῦ",
+        "n65001013014|σκότους"
+      ],
+      "target": [
+        "65001013021|of",
+        "65001013022|darkness"
+      ],
+      "meta": {
+        "id": "65001013.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013017|τετήρηται"
+      ],
+      "target": [
+        "65001013023|has",
+        "65001013024|been",
+        "65001013025|kept"
+      ],
+      "meta": {
+        "id": "65001013.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013015|εἰς"
+      ],
+      "target": [
+        "65001013026|to"
+      ],
+      "meta": {
+        "id": "65001013.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001013016|αἰῶνα"
+      ],
+      "target": [
+        "65001013027|eternity"
+      ],
+      "meta": {
+        "id": "65001013.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014002|δὲ"
+      ],
+      "target": [
+        "65001014001|Now"
+      ],
+      "meta": {
+        "id": "65001014.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014003|καὶ"
+      ],
+      "target": [
+        "65001014002|also"
+      ],
+      "meta": {
+        "id": "65001014.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014008|Ἑνὼχ"
+      ],
+      "target": [
+        "65001014003|Enoch"
+      ],
+      "meta": {
+        "id": "65001014.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014005|ἕβδομος"
+      ],
+      "target": [
+        "65001014005|seventh"
+      ],
+      "meta": {
+        "id": "65001014.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014006|ἀπὸ"
+      ],
+      "target": [
+        "65001014006|from"
+      ],
+      "meta": {
+        "id": "65001014.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014007|Ἀδὰμ"
+      ],
+      "target": [
+        "65001014007|Adam"
+      ],
+      "meta": {
+        "id": "65001014.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014001|Προεφήτευσεν"
+      ],
+      "target": [
+        "65001014009|prophesied"
+      ],
+      "meta": {
+        "id": "65001014.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014004|τούτοις"
+      ],
+      "target": [
+        "65001014010|about",
+        "65001014011|these",
+        "65001014012|ones"
+      ],
+      "meta": {
+        "id": "65001014.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014009|λέγων"
+      ],
+      "target": [
+        "65001014014|saying"
+      ],
+      "meta": {
+        "id": "65001014.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014010|Ἰδοὺ"
+      ],
+      "target": [
+        "65001014017|Behold"
+      ],
+      "meta": {
+        "id": "65001014.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014012|κύριος"
+      ],
+      "target": [
+        "65001014019|The",
+        "65001014020|Lord"
+      ],
+      "meta": {
+        "id": "65001014.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014011|ἦλθεν"
+      ],
+      "target": [
+        "65001014021|came"
+      ],
+      "meta": {
+        "id": "65001014.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014013|ἐν"
+      ],
+      "target": [
+        "65001014022|with"
+      ],
+      "meta": {
+        "id": "65001014.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014015|μυριάσιν"
+      ],
+      "target": [
+        "65001014023|myriads"
+      ],
+      "meta": {
+        "id": "65001014.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014016|αὐτοῦ"
+      ],
+      "target": [
+        "65001014024|of",
+        "65001014025|his"
+      ],
+      "meta": {
+        "id": "65001014.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001014014|ἁγίαις"
+      ],
+      "target": [
+        "65001014026|holy",
+        "65001014027|ones"
+      ],
+      "meta": {
+        "id": "65001014.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015001|ποιῆσαι"
+      ],
+      "target": [
+        "65001015001|to",
+        "65001015002|do"
+      ],
+      "meta": {
+        "id": "65001015.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015002|κρίσιν"
+      ],
+      "target": [
+        "65001015003|judgment"
+      ],
+      "meta": {
+        "id": "65001015.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015003|κατὰ"
+      ],
+      "target": [
+        "65001015004|against"
+      ],
+      "meta": {
+        "id": "65001015.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015004|πάντων"
+      ],
+      "target": [
+        "65001015005|everyone"
+      ],
+      "meta": {
+        "id": "65001015.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015005|καὶ"
+      ],
+      "target": [
+        "65001015006|and"
+      ],
+      "meta": {
+        "id": "65001015.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015006|ἐλέγξαι"
+      ],
+      "target": [
+        "65001015007|to",
+        "65001015008|rebuke"
+      ],
+      "meta": {
+        "id": "65001015.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015007|πάντας"
+      ],
+      "target": [
+        "65001015009|every"
+      ],
+      "meta": {
+        "id": "65001015.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015008|τοὺς"
+      ],
+      "target": [
+        "65001015010|soul"
+      ],
+      "meta": {
+        "id": "65001015.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015009|ἀσεβεῖς"
+      ],
+      "target": [
+        "65001015011|concerning"
+      ],
+      "meta": {
+        "id": "65001015.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015010|περὶ"
+      ],
+      "target": [
+        "65001015012|all"
+      ],
+      "meta": {
+        "id": "65001015.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015014|ἀσεβείας"
+      ],
+      "target": [
+        "65001015013|their"
+      ],
+      "meta": {
+        "id": "65001015.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015011|πάντων",
+        "n65001015012|τῶν"
+      ],
+      "target": [
+        "65001015014|works"
+      ],
+      "meta": {
+        "id": "65001015.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015013|ἔργων"
+      ],
+      "target": [
+        "65001015015|of",
+        "65001015016|ungodliness"
+      ],
+      "meta": {
+        "id": "65001015.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015015|αὐτῶν"
+      ],
+      "target": [
+        "65001015018|which"
+      ],
+      "meta": {
+        "id": "65001015.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015016|ὧν"
+      ],
+      "target": [
+        "65001015019|they",
+        "65001015020|did",
+        "65001015021|in",
+        "65001015022|an",
+        "65001015023|ungodly",
+        "65001015024|way"
+      ],
+      "meta": {
+        "id": "65001015.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015017|ἠσέβησαν"
+      ],
+      "target": [
+        "65001015026|and"
+      ],
+      "meta": {
+        "id": "65001015.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015018|καὶ"
+      ],
+      "target": [
+        "65001015027|concerning"
+      ],
+      "meta": {
+        "id": "65001015.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015019|περὶ"
+      ],
+      "target": [
+        "65001015028|all"
+      ],
+      "meta": {
+        "id": "65001015.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015020|πάντων"
+      ],
+      "target": [
+        "65001015029|the"
+      ],
+      "meta": {
+        "id": "65001015.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015021|τῶν"
+      ],
+      "target": [
+        "65001015030|harsh",
+        "65001015031|things"
+      ],
+      "meta": {
+        "id": "65001015.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015022|σκληρῶν"
+      ],
+      "target": [
+        "65001015032|which"
+      ],
+      "meta": {
+        "id": "65001015.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015023|ὧν"
+      ],
+      "target": [
+        "65001015035|spoke"
+      ],
+      "meta": {
+        "id": "65001015.25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015024|ἐλάλησαν"
+      ],
+      "target": [
+        "65001015036|against"
+      ],
+      "meta": {
+        "id": "65001015.26",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001015025|κατ"
+      ],
+      "target": [
+        "65001015037|him"
+      ],
+      "meta": {
+        "id": "65001015.27",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016001|οὗτοί"
+      ],
+      "target": [
+        "65001016001|These",
+        "65001016002|ones"
+      ],
+      "meta": {
+        "id": "65001016.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016002|εἰσιν"
+      ],
+      "target": [
+        "65001016003|are"
+      ],
+      "meta": {
+        "id": "65001016.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016003|γογγυσταί"
+      ],
+      "target": [
+        "65001016004|murmurers"
+      ],
+      "meta": {
+        "id": "65001016.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016004|μεμψίμοιροι"
+      ],
+      "target": [
+        "65001016006|complainers"
+      ],
+      "meta": {
+        "id": "65001016.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016009|πορευόμενοι"
+      ],
+      "target": [
+        "65001016008|going"
+      ],
+      "meta": {
+        "id": "65001016.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016005|κατὰ"
+      ],
+      "target": [
+        "65001016009|according",
+        "65001016010|to"
+      ],
+      "meta": {
+        "id": "65001016.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016008|αὐτῶν"
+      ],
+      "target": [
+        "65001016011|their"
+      ],
+      "meta": {
+        "id": "65001016.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016006|τὰς",
+        "n65001016007|ἐπιθυμίας"
+      ],
+      "target": [
+        "65001016012|lusts"
+      ],
+      "meta": {
+        "id": "65001016.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016010|καὶ"
+      ],
+      "target": [
+        "65001016014|and"
+      ],
+      "meta": {
+        "id": "65001016.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016013|αὐτῶν"
+      ],
+      "target": [
+        "65001016015|their"
+      ],
+      "meta": {
+        "id": "65001016.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016011|τὸ",
+        "n65001016012|στόμα"
+      ],
+      "target": [
+        "65001016016|mouth"
+      ],
+      "meta": {
+        "id": "65001016.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016014|λαλεῖ"
+      ],
+      "target": [
+        "65001016017|speaks"
+      ],
+      "meta": {
+        "id": "65001016.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016015|ὑπέρογκα"
+      ],
+      "target": [
+        "65001016018|boastful",
+        "65001016019|things"
+      ],
+      "meta": {
+        "id": "65001016.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016016|θαυμάζοντες"
+      ],
+      "target": [
+        "65001016021|admiring"
+      ],
+      "meta": {
+        "id": "65001016.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016017|πρόσωπα"
+      ],
+      "target": [
+        "65001016022|faces"
+      ],
+      "meta": {
+        "id": "65001016.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016019|χάριν"
+      ],
+      "target": [
+        "65001016023|for",
+        "65001016024|the",
+        "65001016025|sake",
+        "65001016026|of"
+      ],
+      "meta": {
+        "id": "65001016.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001016018|ὠφελείας"
+      ],
+      "target": [
+        "65001016027|advantage"
+      ],
+      "meta": {
+        "id": "65001016.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017002|δέ"
+      ],
+      "target": [
+        "65001017001|But"
+      ],
+      "meta": {
+        "id": "65001017.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017001|Ὑμεῖς"
+      ],
+      "target": [
+        "65001017002|you"
+      ],
+      "meta": {
+        "id": "65001017.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017003|ἀγαπητοί"
+      ],
+      "target": [
+        "65001017004|beloved",
+        "65001017005|ones"
+      ],
+      "meta": {
+        "id": "65001017.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017004|μνήσθητε"
+      ],
+      "target": [
+        "65001017007|remember"
+      ],
+      "meta": {
+        "id": "65001017.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017005|τῶν"
+      ],
+      "target": [
+        "65001017008|the"
+      ],
+      "meta": {
+        "id": "65001017.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017006|ῥημάτων"
+      ],
+      "target": [
+        "65001017009|words"
+      ],
+      "meta": {
+        "id": "65001017.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017007|τῶν"
+      ],
+      "target": [
+        "65001017010|that"
+      ],
+      "meta": {
+        "id": "65001017.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017008|προειρημένων"
+      ],
+      "target": [
+        "65001017011|have",
+        "65001017012|been",
+        "65001017013|spoken",
+        "65001017014|beforehand"
+      ],
+      "meta": {
+        "id": "65001017.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017009|ὑπὸ"
+      ],
+      "target": [
+        "65001017015|by"
+      ],
+      "meta": {
+        "id": "65001017.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017010|τῶν"
+      ],
+      "target": [
+        "65001017016|the"
+      ],
+      "meta": {
+        "id": "65001017.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017011|ἀποστόλων"
+      ],
+      "target": [
+        "65001017017|apostles"
+      ],
+      "meta": {
+        "id": "65001017.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017012|τοῦ",
+        "n65001017013|κυρίου"
+      ],
+      "target": [
+        "65001017018|of",
+        "65001017020|Lord"
+      ],
+      "meta": {
+        "id": "65001017.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017014|ἡμῶν"
+      ],
+      "target": [
+        "65001017019|our"
+      ],
+      "meta": {
+        "id": "65001017.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017015|Ἰησοῦ"
+      ],
+      "target": [
+        "65001017021|Jesus"
+      ],
+      "meta": {
+        "id": "65001017.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001017016|Χριστοῦ"
+      ],
+      "target": [
+        "65001017022|Christ"
+      ],
+      "meta": {
+        "id": "65001017.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018001|ὅτι"
+      ],
+      "target": [
+        "65001018001|that"
+      ],
+      "meta": {
+        "id": "65001018.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018002|ἔλεγον"
+      ],
+      "target": [
+        "65001018002|they",
+        "65001018003|said"
+      ],
+      "meta": {
+        "id": "65001018.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018003|ὑμῖν"
+      ],
+      "target": [
+        "65001018004|to",
+        "65001018005|you"
+      ],
+      "meta": {
+        "id": "65001018.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018004|Ἐπ"
+      ],
+      "target": [
+        "65001018008|In"
+      ],
+      "meta": {
+        "id": "65001018.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018006|χρόνου"
+      ],
+      "target": [
+        "65001018009|the",
+        "65001018011|time"
+      ],
+      "meta": {
+        "id": "65001018.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018005|ἐσχάτου"
+      ],
+      "target": [
+        "65001018010|last"
+      ],
+      "meta": {
+        "id": "65001018.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018007|ἔσονται"
+      ],
+      "target": [
+        "65001018012|there",
+        "65001018013|will",
+        "65001018014|be"
+      ],
+      "meta": {
+        "id": "65001018.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018008|ἐμπαῖκται"
+      ],
+      "target": [
+        "65001018015|mockers"
+      ],
+      "meta": {
+        "id": "65001018.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018013|πορευόμενοι"
+      ],
+      "target": [
+        "65001018016|going"
+      ],
+      "meta": {
+        "id": "65001018.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018009|κατὰ"
+      ],
+      "target": [
+        "65001018017|according",
+        "65001018018|to"
+      ],
+      "meta": {
+        "id": "65001018.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018010|τὰς"
+      ],
+      "target": [
+        "65001018019|their"
+      ],
+      "meta": {
+        "id": "65001018.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018011|ἑαυτῶν"
+      ],
+      "target": [
+        "65001018020|own"
+      ],
+      "meta": {
+        "id": "65001018.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018012|ἐπιθυμίας"
+      ],
+      "target": [
+        "65001018021|lusts"
+      ],
+      "meta": {
+        "id": "65001018.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001018014|τῶν",
+        "n65001018015|ἀσεβειῶν"
+      ],
+      "target": [
+        "65001018022|of",
+        "65001018023|ungodliness"
+      ],
+      "meta": {
+        "id": "65001018.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019001|οὗτοί"
+      ],
+      "target": [
+        "65001019001|These"
+      ],
+      "meta": {
+        "id": "65001019.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019002|εἰσιν"
+      ],
+      "target": [
+        "65001019002|are"
+      ],
+      "meta": {
+        "id": "65001019.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019003|οἱ"
+      ],
+      "target": [
+        "65001019003|the",
+        "65001019004|ones"
+      ],
+      "meta": {
+        "id": "65001019.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019004|ἀποδιορίζοντες"
+      ],
+      "target": [
+        "65001019005|causing",
+        "65001019006|divisions"
+      ],
+      "meta": {
+        "id": "65001019.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019005|ψυχικοί"
+      ],
+      "target": [
+        "65001019008|soulish"
+      ],
+      "meta": {
+        "id": "65001019.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019007|μὴ"
+      ],
+      "target": [
+        "65001019010|not"
+      ],
+      "meta": {
+        "id": "65001019.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019008|ἔχοντες"
+      ],
+      "target": [
+        "65001019011|having"
+      ],
+      "meta": {
+        "id": "65001019.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001019006|πνεῦμα"
+      ],
+      "target": [
+        "65001019012|the"
+      ],
+      "meta": {
+        "id": "65001019.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020002|δέ"
+      ],
+      "target": [
+        "65001020001|But"
+      ],
+      "meta": {
+        "id": "65001020.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020001|ὑμεῖς"
+      ],
+      "target": [
+        "65001020002|you"
+      ],
+      "meta": {
+        "id": "65001020.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020003|ἀγαπητοί"
+      ],
+      "target": [
+        "65001020004|beloved",
+        "65001020005|ones"
+      ],
+      "meta": {
+        "id": "65001020.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020004|ἐποικοδομοῦντες"
+      ],
+      "target": [
+        "65001020007|building",
+        "65001020009|up"
+      ],
+      "meta": {
+        "id": "65001020.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020005|ἑαυτοὺς"
+      ],
+      "target": [
+        "65001020008|yourselves"
+      ],
+      "meta": {
+        "id": "65001020.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020006|τῇ",
+        "n65001020009|πίστει"
+      ],
+      "target": [
+        "65001020010|in",
+        "65001020014|faith"
+      ],
+      "meta": {
+        "id": "65001020.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020008|ὑμῶν"
+      ],
+      "target": [
+        "65001020011|your"
+      ],
+      "meta": {
+        "id": "65001020.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020007|ἁγιωτάτῃ"
+      ],
+      "target": [
+        "65001020012|most",
+        "65001020013|holy"
+      ],
+      "meta": {
+        "id": "65001020.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020013|προσευχόμενοι"
+      ],
+      "target": [
+        "65001020016|praying"
+      ],
+      "meta": {
+        "id": "65001020.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020010|ἐν"
+      ],
+      "target": [
+        "65001020017|in"
+      ],
+      "meta": {
+        "id": "65001020.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020011|πνεύματι"
+      ],
+      "target": [
+        "65001020018|the",
+        "65001020020|Spirit"
+      ],
+      "meta": {
+        "id": "65001020.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001020012|ἁγίῳ"
+      ],
+      "target": [
+        "65001020019|Holy"
+      ],
+      "meta": {
+        "id": "65001020.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021005|τηρήσατε"
+      ],
+      "target": [
+        "65001021001|keep"
+      ],
+      "meta": {
+        "id": "65001021.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021001|ἑαυτοὺς"
+      ],
+      "target": [
+        "65001021002|yourselves"
+      ],
+      "meta": {
+        "id": "65001021.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021002|ἐν"
+      ],
+      "target": [
+        "65001021003|in"
+      ],
+      "meta": {
+        "id": "65001021.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021003|ἀγάπῃ"
+      ],
+      "target": [
+        "65001021004|the",
+        "65001021005|love"
+      ],
+      "meta": {
+        "id": "65001021.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021004|θεοῦ"
+      ],
+      "target": [
+        "65001021006|of",
+        "65001021007|God"
+      ],
+      "meta": {
+        "id": "65001021.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021006|προσδεχόμενοι"
+      ],
+      "target": [
+        "65001021009|waiting",
+        "65001021010|for"
+      ],
+      "meta": {
+        "id": "65001021.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021007|τὸ"
+      ],
+      "target": [
+        "65001021011|the"
+      ],
+      "meta": {
+        "id": "65001021.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021008|ἔλεος"
+      ],
+      "target": [
+        "65001021012|mercy"
+      ],
+      "meta": {
+        "id": "65001021.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021009|τοῦ",
+        "n65001021010|κυρίου"
+      ],
+      "target": [
+        "65001021013|of",
+        "65001021015|Lord"
+      ],
+      "meta": {
+        "id": "65001021.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021011|ἡμῶν"
+      ],
+      "target": [
+        "65001021014|our"
+      ],
+      "meta": {
+        "id": "65001021.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021012|Ἰησοῦ"
+      ],
+      "target": [
+        "65001021016|Jesus"
+      ],
+      "meta": {
+        "id": "65001021.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021013|Χριστοῦ"
+      ],
+      "target": [
+        "65001021017|Christ"
+      ],
+      "meta": {
+        "id": "65001021.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021014|εἰς"
+      ],
+      "target": [
+        "65001021018|to"
+      ],
+      "meta": {
+        "id": "65001021.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021016|αἰώνιον"
+      ],
+      "target": [
+        "65001021019|eternal"
+      ],
+      "meta": {
+        "id": "65001021.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001021015|ζωὴν"
+      ],
+      "target": [
+        "65001021020|life"
+      ],
+      "meta": {
+        "id": "65001021.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001022001|καὶ"
+      ],
+      "target": [
+        "65001022001|And"
+      ],
+      "meta": {
+        "id": "65001022.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001022003|μὲν"
+      ],
+      "target": [
+        "65001022002|indeed"
+      ],
+      "meta": {
+        "id": "65001022.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001022004|ἐλεᾶτε"
+      ],
+      "target": [
+        "65001022004|have",
+        "65001022005|mercy",
+        "65001022006|on"
+      ],
+      "meta": {
+        "id": "65001022.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001022002|οὓς"
+      ],
+      "target": [
+        "65001022008|some",
+        "65001022010|who"
+      ],
+      "meta": {
+        "id": "65001022.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001022005|διακρινομένους"
+      ],
+      "target": [
+        "65001022011|are",
+        "65001022012|doubting"
+      ],
+      "meta": {
+        "id": "65001022.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023002|δὲ"
+      ],
+      "target": [
+        "65001023001|but"
+      ],
+      "meta": {
+        "id": "65001023.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023003|σῴζετε"
+      ],
+      "target": [
+        "65001023002|save"
+      ],
+      "meta": {
+        "id": "65001023.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023001|οὓς"
+      ],
+      "target": [
+        "65001023004|others"
+      ],
+      "meta": {
+        "id": "65001023.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023006|ἁρπάζοντες"
+      ],
+      "target": [
+        "65001023007|snatching"
+      ],
+      "meta": {
+        "id": "65001023.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023004|ἐκ"
+      ],
+      "target": [
+        "65001023008|from"
+      ],
+      "meta": {
+        "id": "65001023.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023005|πυρὸς"
+      ],
+      "target": [
+        "65001023009|fire"
+      ],
+      "meta": {
+        "id": "65001023.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023008|δὲ"
+      ],
+      "target": [
+        "65001023011|and"
+      ],
+      "meta": {
+        "id": "65001023.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023009|ἐλεᾶτε"
+      ],
+      "target": [
+        "65001023012|have",
+        "65001023013|mercy",
+        "65001023014|on"
+      ],
+      "meta": {
+        "id": "65001023.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023007|οὓς"
+      ],
+      "target": [
+        "65001023016|others"
+      ],
+      "meta": {
+        "id": "65001023.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023010|ἐν"
+      ],
+      "target": [
+        "65001023018|with"
+      ],
+      "meta": {
+        "id": "65001023.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023011|φόβῳ"
+      ],
+      "target": [
+        "65001023019|fear"
+      ],
+      "meta": {
+        "id": "65001023.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023012|μισοῦντες"
+      ],
+      "target": [
+        "65001023021|hating"
+      ],
+      "meta": {
+        "id": "65001023.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023013|καὶ"
+      ],
+      "target": [
+        "65001023022|even"
+      ],
+      "meta": {
+        "id": "65001023.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023014|τὸν"
+      ],
+      "target": [
+        "65001023023|the"
+      ],
+      "meta": {
+        "id": "65001023.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023019|χιτῶνα"
+      ],
+      "target": [
+        "65001023024|garment"
+      ],
+      "meta": {
+        "id": "65001023.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023018|ἐσπιλωμένον"
+      ],
+      "target": [
+        "65001023025|having",
+        "65001023026|been",
+        "65001023027|defiled"
+      ],
+      "meta": {
+        "id": "65001023.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023015|ἀπὸ"
+      ],
+      "target": [
+        "65001023028|by"
+      ],
+      "meta": {
+        "id": "65001023.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023016|τῆς"
+      ],
+      "target": [
+        "65001023029|the"
+      ],
+      "meta": {
+        "id": "65001023.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001023017|σαρκὸς"
+      ],
+      "target": [
+        "65001023030|flesh"
+      ],
+      "meta": {
+        "id": "65001023.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024002|δὲ"
+      ],
+      "target": [
+        "65001024001|Now"
+      ],
+      "meta": {
+        "id": "65001024.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024001|Τῷ"
+      ],
+      "target": [
+        "65001024002|to",
+        "65001024003|the",
+        "65001024004|one"
+      ],
+      "meta": {
+        "id": "65001024.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024003|δυναμένῳ"
+      ],
+      "target": [
+        "65001024005|being",
+        "65001024006|able"
+      ],
+      "meta": {
+        "id": "65001024.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024004|φυλάξαι"
+      ],
+      "target": [
+        "65001024007|to",
+        "65001024008|keep"
+      ],
+      "meta": {
+        "id": "65001024.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024005|ὑμᾶς"
+      ],
+      "target": [
+        "65001024009|you"
+      ],
+      "meta": {
+        "id": "65001024.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024006|ἀπταίστους"
+      ],
+      "target": [
+        "65001024010|without",
+        "65001024011|stumbling"
+      ],
+      "meta": {
+        "id": "65001024.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024007|καὶ"
+      ],
+      "target": [
+        "65001024012|and"
+      ],
+      "meta": {
+        "id": "65001024.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024008|στῆσαι"
+      ],
+      "target": [
+        "65001024013|to",
+        "65001024014|cause",
+        "65001024016|you",
+        "65001024018|to",
+        "65001024019|stand"
+      ],
+      "meta": {
+        "id": "65001024.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024009|κατενώπιον"
+      ],
+      "target": [
+        "65001024020|before"
+      ],
+      "meta": {
+        "id": "65001024.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024012|αὐτοῦ"
+      ],
+      "target": [
+        "65001024021|his"
+      ],
+      "meta": {
+        "id": "65001024.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024010|τῆς",
+        "n65001024011|δόξης"
+      ],
+      "target": [
+        "65001024022|glory"
+      ],
+      "meta": {
+        "id": "65001024.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024013|ἀμώμους"
+      ],
+      "target": [
+        "65001024023|blameless"
+      ],
+      "meta": {
+        "id": "65001024.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024014|ἐν"
+      ],
+      "target": [
+        "65001024025|in"
+      ],
+      "meta": {
+        "id": "65001024.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001024015|ἀγαλλιάσει"
+      ],
+      "target": [
+        "65001024026|exultation"
+      ],
+      "meta": {
+        "id": "65001024.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025002|θεῷ"
+      ],
+      "target": [
+        "65001025001|to",
+        "65001025002|the",
+        "65001025004|God"
+      ],
+      "meta": {
+        "id": "65001025.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025001|μόνῳ"
+      ],
+      "target": [
+        "65001025003|only"
+      ],
+      "meta": {
+        "id": "65001025.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025004|ἡμῶν"
+      ],
+      "target": [
+        "65001025005|our"
+      ],
+      "meta": {
+        "id": "65001025.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025003|σωτῆρι"
+      ],
+      "target": [
+        "65001025006|Savior"
+      ],
+      "meta": {
+        "id": "65001025.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025005|διὰ"
+      ],
+      "target": [
+        "65001025007|through"
+      ],
+      "meta": {
+        "id": "65001025.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025006|Ἰησοῦ"
+      ],
+      "target": [
+        "65001025008|Jesus"
+      ],
+      "meta": {
+        "id": "65001025.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025007|Χριστοῦ"
+      ],
+      "target": [
+        "65001025009|Christ"
+      ],
+      "meta": {
+        "id": "65001025.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025010|ἡμῶν"
+      ],
+      "target": [
+        "65001025010|our"
+      ],
+      "meta": {
+        "id": "65001025.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025008|τοῦ",
+        "n65001025009|κυρίου"
+      ],
+      "target": [
+        "65001025011|Lord"
+      ],
+      "meta": {
+        "id": "65001025.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025011|δόξα"
+      ],
+      "target": [
+        "65001025014|be",
+        "65001025016|glory"
+      ],
+      "meta": {
+        "id": "65001025.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025012|μεγαλωσύνη"
+      ],
+      "target": [
+        "65001025018|majesty"
+      ],
+      "meta": {
+        "id": "65001025.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025013|κράτος"
+      ],
+      "target": [
+        "65001025020|power"
+      ],
+      "meta": {
+        "id": "65001025.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025014|καὶ"
+      ],
+      "target": [
+        "65001025022|and"
+      ],
+      "meta": {
+        "id": "65001025.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025015|ἐξουσία"
+      ],
+      "target": [
+        "65001025023|authority"
+      ],
+      "meta": {
+        "id": "65001025.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025016|πρὸ"
+      ],
+      "target": [
+        "65001025025|before"
+      ],
+      "meta": {
+        "id": "65001025.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025017|παντὸς"
+      ],
+      "target": [
+        "65001025026|all"
+      ],
+      "meta": {
+        "id": "65001025.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025018|τοῦ"
+      ],
+      "target": [
+        "65001025027|the"
+      ],
+      "meta": {
+        "id": "65001025.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025019|αἰῶνος"
+      ],
+      "target": [
+        "65001025028|age"
+      ],
+      "meta": {
+        "id": "65001025.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025020|καὶ"
+      ],
+      "target": [
+        "65001025029|and"
+      ],
+      "meta": {
+        "id": "65001025.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025021|νῦν"
+      ],
+      "target": [
+        "65001025030|now"
+      ],
+      "meta": {
+        "id": "65001025.22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025022|καὶ"
+      ],
+      "target": [
+        "65001025031|and"
+      ],
+      "meta": {
+        "id": "65001025.23",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025023|εἰς"
+      ],
+      "target": [
+        "65001025032|to"
+      ],
+      "meta": {
+        "id": "65001025.24",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025024|πάντας"
+      ],
+      "target": [
+        "65001025033|all"
+      ],
+      "meta": {
+        "id": "65001025.25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "n65001025025|τοὺς",
+        "n65001025026|αἰῶνας"
+      ],
+      "target": [
+        "65001025034|eternity"
+      ],
+      "meta": {
+        "id": "65001025.26",
+        "origin": "manual",
+        "status": "created"
+      }
+    }
+  ]
+}
