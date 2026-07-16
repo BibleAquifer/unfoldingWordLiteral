@@ -1,120 +1,229 @@
-\id HAB - unfoldingWord Literal
+\id HAB EN_ULT en_English_ltr Thu Dec 17 2020 21:39:45 GMT-0600 (Central Standard Time) tc
+\usfm 3.0
+\ide UTF-8
 \h Habakkuk
-\toc1 Habakkuk
+\toc1 The Book of Habakkuk
 \toc2 Habakkuk
+\toc3 Hab
 \mt1 Habakkuk
+
+\ts\*
+
 \c 1
-\p 
-\v 1 The message that Habakkuk the prophet received,
-\p 
-\v 2 “Yahweh, how long will I cry for help, and you will not hear? I cry out to you, ‘Violence!’ but you will not save.
-\p 
-\v 3 Why do you make me see iniquity and look upon wrongdoing? Destruction and violence are before me; there is strife, and contention rises up.
-\p 
-\v 4 Therefore the law is paralyzed, and justice does not last for any time. For the wicked surround the righteous; therefore false justice goes out.”
-\p 
-\v 5 “Look at the nations and observe them; be amazed and astonished! For I am surely about to do something in your days that you will not believe even if it is told to you.
-\p 
-\v 6 For look! I am about to raise up the Chaldeans—that fierce and impetuous nation— they are marching throughout the breadth of the earth to seize dwelling places that were not their own.
-\p 
-\v 7 They are terrifying and fearsome; their judgment and splendor proceed from themselves.
-\p 
-\v 8 Their horses also are swifter than leopards, quicker than the evening wolves. So their horsemen come galloping, and their horsemen come from a great distance—they fly like an eagle swift to devour.
-\p 
-\v 9 They all come for violence; all their faces moving foward, and they gather captives like sand.
-\p 
-\v 10 So they mock kings, and rulers are only a mockery for them. They laugh at every stronghold, for they pile up earth and capture them.
-\p 
-\v 11 Then they sweep past like the wind and pass on—guilty men, those whose might is their god.”
-\p 
-\v 12 “Are you not from ancient times, O Yahweh my God, my Holy One? We will not die. O Yahweh, you have ordained them for judgment, and you, O Rock, have established them for correction.
-\p 
-\v 13 Your eyes are too pure to gaze upon evil, and you are not able to look on wrongdoing with favor; why then have you looked favorably on those who betray? Why are you silent while the wicked swallow up those more righteous than they are?
-\p 
-\v 14 You make men like fish in the sea, like creeping things without a ruler over them.
-\p 
-\v 15 He brings all of them up with a fishhook; he drags men away in his fishnet; he gathers them together in his dragnet; so he rejoices and he is glad.
-\p 
-\v 16 Therefore he sacrifices to his net and burns incense to his dragnet, for by his net his portion is fat, and his food is the richest kind.
-\p 
-\v 17 Will he therefore keep emptying his net, and will he continually slaughter the nations without mercy?”
+\m
+\v 1 The oracle that Habakkuk the prophet saw.
+\q1  \v 2 “Until when, Yahweh, will I cry aloud, but you will not listen?
+\q2 I cry out to you ‘Violence!’ but you do not save.
+\q1  \v 3 Why do you make me see iniquity, and {why} do you behold trouble?
+\q2 And destruction and violence {are} to the front of me, and {there} is strife, and contention arises.
+\q1  \v 4 Therefore the law weakens, and justice does not go forth to perpetuity.
+\q2 For the wicked surrounds the righteous, therefore justice goes forth perverted.”
+
+\ts\*
+\q1  \v 5 “See among the nations and consider, and be amazed, be amazed!
+\q2 For I am working a work in your days {that} you will not believe when it is recounted.
+\q1  \v 6 For behold me, raising up the Chaldeans, the bitter and hastening nation,
+\q2 the one going through the breadths of the earth to seize dwellings not to him.
+\q1  \v 7 He {is} dreadful and terrifying;
+\q2 from him goes forth his justice and his dignity.
+
+\ts\*
+\q1  \v 8 And his horses are swifter than leopards,
+\q2 and they are fiercer than wolves of the evening.
+\q1 And his horsemen spread out, and his horsemen come from a distance,
+\q2 they fly like an eagle rushing to devour.
+\q1  \v 9 All of them will come for violence.
+\q2 The direction of their faces {is} eastward, and he gathers captives like the sand.
+
+\ts\*
+\q1  \v 10 And he, he mocks at kings, and rulers {are} laughter to him.
+\q2 He, he laughs at every fortress, for he piles up dirt and captures it.
+\q1  \v 11 Then he sweeps by {like} the wind and goes on.
+\q2 But he will become guilty, this {one} whose might {is} his god.”
+
+\ts\*
+\q1  \v 12 “{Are} you not from ancient times, Yahweh my God, my Holy One?
+\q2 We will not die.
+\q1 Yahweh, you have appointed him for judgment,
+\q2 and Rock, you have established him for correcting.
+
+\ts\*
+\q1  \v 13 Your eyes are pure from seeing evil, and you are not able to look at trouble.
+\q2 Why do you look at treacherous ones,
+\q2 keep silent when the wicked devours {one} more righteous than him?
+\q1  \v 14 And you make man like the fish of the sea,
+\q2 like a creeping thing {with} no ruler over it.
+
+\ts\*
+\q1  \v 15 All of them, he brings up with a hook.
+\q2 He drags him with his net,
+\q2 and he gathers him with his dragnet.
+\q2 Therefore he rejoices and exults.
+\q1  \v 16 Therefore he sacrifices to his net and burns incense to his dragnet,
+\q2 for by them his portion {is} fat and his food is rich.
+\q1  \v 17 Therefore will he empty his net,
+\q2 and will he not spare to slay the nations continually?”
+
+\ts\*
+
 \c 2
-\p 
-\v 1 I will stand at my guard post and station myself on the watchtower, and I will watch carefully to see what he will say to me and how I should turn from my complaint.
-\p 
-\v 2 Yahweh answered me and said, “Record this vision, and write plainly on the tablets so that the one reading them might run.
-\p 
-\v 3 For the vision is yet for an appointed time and it hastens to the end and will not fail. Though it delays, wait for it. For it will surely come and will not tarry.
-\p 
-\v 4 Look! He whose desires are not right within him is puffed up. But the righteous will live by his faith.
-\p 
-\v 5 For wine betrays the arrogant man so that he will not abide, but enlarges his appetite like Sheol and, like death, is never satisfied. He gathers to himself every nation and collects for himself all of the peoples.
-\p 
-\v 6 Will not all these create a saying to ridicule him and a taunting song and riddles about him, saying, ‘Woe to the one increasing what is not his own! For how long will you increase for yourself the weight of the pledges you have taken?’
-\p 
-\v 7 Will not your debtors rise up suddenly, and those awake who will make you tremble? You will be spoil for them.
-\p 
-\v 8 Because you have plundered many peoples, all the remnant of the peoples will plunder you. For you have shed human blood and acted with violence against the land, the cities, and all who live in them.
-\p 
-\v 9 ‘Woe to the one who carves out evil gains for his house, so he can set his nest on high to keep himself safe from the hand of evil.’
-\p 
-\v 10 You have devised shame for your house by cutting off many people, and have sinned against yourself.
-\p 
-\v 11 For the stones will cry out from the wall, and the rafters of timber will answer them,
-\p 
-\v 12 ‘Woe to the one who builds a city with blood, and who establishes a town in iniquity.’
-\p 
-\v 13 Is it not indeed from Yahweh of hosts that peoples labor for fire and all the other nations weary themselves for nothing?
-\p 
-\v 14 Yet the earth will be filled with the knowledge of the glory of Yahweh as the waters cover the sea.
-\p 
-\v 15 ‘Woe to the one who forces his neighbors to drink— you pour out your wrath and you make them drunk in order to look at their nakedness.’
-\p 
-\v 16 You will have your fill of shame instead of glory. Now it is your turn! Drink, and you will expose your uncircumcised foreskin! The cup in the right hand of Yahweh is coming around to you, and disgrace will cover your glory.
-\p 
-\v 17 For the violence done to Lebanon will overwhelm you and the destruction of animals will terrify you. For you have shed the blood of man and you have acted with violence against the land, the cities, and all who live in them.
-\p 
-\v 18 What does an idol profit you when its maker has shaped it or a metal image, a teacher of lies? For its maker trusts his own handiwork when he makes these mute gods.
-\p 
-\v 19 ‘Woe to him who says to the wood, Wake up! Or to the silent stone, Arise!’ Can these things teach? See, it is overlaid with gold and silver, but there is no breath at all within it.
-\p 
-\v 20 But Yahweh is in his holy temple! Let all the earth be silent before him.”
+\q1
+\v 1 I shall stand at my watchpost
+\q2 and shall station myself on the watchtower,
+\q2 and I will watch to see what he will say to me
+\q2 and what I will respond concerning my complaint.
+\q1  \v 2 Then Yahweh answered me and said,
+“Write the vision, and make {it} plain on the tablets,
+\q2 so that the one reading it may run.
+\q1  \v 3 For the vision {is} still for the appointed time;
+\q2 it speaks of the end and will not lie.
+\q1 Though it tarries, wait for it.
+\q2 For coming, it will come; it will not delay.
+\q1  \v 4 Behold! His soul is puffed up;
+\q2 it is not upright within him,
+\q2 but the righteous will live by his faithfulness.
+\q1  \v 5 And moreover wine deceives the arrogant warrior;
+\q2 and he will not rest,
+\q1 who enlarges his appetite like Sheol,
+\q2 and he {is} like death and is never satisfied.
+\q1 And he gathers to himself all of the nations
+\q2 and collects for himself all of the peoples.
+\q1  \v 6 Will not these, all of them, take up a proverb against him,
+\q2 and ridicule, a riddle about him, so that it says,
+\q1 ‘Woe to the one increasing
+{what is} not his’—until when?
+\q2 ‘and loading onto himself pledges’!
+\q1  \v 7 Will not your biters suddenly rise up,
+\q2 and the ones shaking you awaken?
+\q2 Then you will become spoils for them.
+\q1  \v 8 Because you have plundered many nations,
+\q2 all of the remainder of the peoples will plunder you,
+\q1 from the bloodshed of man and the violence of the land,
+\q2 the city, and all the dwellers in it.
+\q1  \v 9 ‘Woe to the one gaining an evil gain for his house,
+\q2 to set his nest on high, to be delivered from the hand of evil.’
+\q1  \v 10 You have counseled shame for your house,
+\q2 cutting off many peoples, and sinning against your soul.
+\q1  \v 11 For a stone will cry out from the wall,
+\q2 and a beam from the wood will answer it,
+\q1  \v 12 ‘Woe to the one building a city with bloodshed,
+\q2 and {who} establishes a town with injustice.’
+\q1  \v 13 Behold, {is it} not from Yahweh of armies
+\q2 that peoples labor for fire and nations become weary for emptiness?
+\q1  \v 14 For the earth will be filled with knowing the glory of Yahweh,
+\q2 as the waters cover over the sea.
+\q1  \v 15 ‘Woe to the one causing his neighbor to drink,
+\q2 pouring out your wineskin, and even making {him} drunk,
+\q2 in order to look upon their nakedness.
+\q1  \v 16 You have become full {of} shame instead of glory.
+\q2 Drink, you also, and be uncircumcised!
+\q1 The cup of the right hand of Yahweh will come around to you,
+\q2 and disgrace upon your glory.
+\q1  \v 17 For the violence of Lebanon will cover you
+\q2 and the destruction of beasts will terrify them,
+\q1 from the bloodshed of man and the violence of the land,
+\q2 the city, and all the dwellers in it.’
+\q1  \v 18 What does a carved image profit when its fashioner has carved it,
+\q2 a molten idol and a teacher of lies?
+\q1 For the one forming its form has trusted in it,
+\q2 to make mute idols.
+\q1  \v 19 ‘Woe to the one saying to the wood, Awake,
+\q2 to the silent stone, Arise!’
+\q2 It teaches!
+\q1 Behold, it is overlaid with gold and silver,
+\q2 but there is not any breath within it.
+\q1  \v 20 But Yahweh is in the temple of his holiness!
+\q2 Hush, all the earth from his face!”
+
+\ts\*
+
 \c 3
-\p 
-\v 1 The prayer of Habakkuk the prophet, according to Shigionoth.
-\p 
-\v 2 Yahweh, I have heard your report, and I fear. O Yahweh, revive your work in the midst of the years; in the midst of the years make it known; remember to have compassion in your wrath.
-\p 
-\v 3 God came from Teman, and the Holy One from Mount Paran. Selah.  His glory covered the heavens, and the earth was full of his praise.
-\p 
-\v 4 His brightness was like the light; rays flashed from his hand; and there he hid his power.
-\p 
-\v 5 Deadly disease went before him, and the plague followed at his heels.
-\p 
-\v 6 He stood and measured the earth; he looked and made the nations tremble. Even the eternal mountains were shattered, and the everlasting hills bowed down. His ways are everlasting.
-\p 
-\v 7 I saw the tents of Cushan in affliction, and the tent curtains in the land of Midian trembling.
-\p 
-\v 8 Was your wrath against the rivers, O Yahweh? Was your anger against the rivers, or your fury against the sea, when you rode upon your horses and your victorious chariots?
-\p 
-\v 9 You removed the sheath from your bow; you called for many arrows! Selah.  You split the earth with rivers.
-\p 
-\v 10 The mountains saw you and twisted in pain. Downpours of water passed over them; the deep sea raised its voice. It lifted up its waves on high.
-\p 
-\v 11 The sun and moon stood still in their high places at the light of your arrows as they fly, at the gleam of your flashing spear.
-\p 
-\v 12 You have marched over the earth with indignation. In anger you have threshed the nations.
-\p 
-\v 13 You went out for the salvation of your people, for the salvation of your anointed one. You crush the head of the house of the wicked to lay him bare from the thigh up to the neck. 
-\p 
-\v 14 You have pierced the head of his warriors with his own arrows since they came like a storm to scatter us, their gloating was like one who devours the afflicted in a hiding place.
-\p 
-\v 15 You have trampled on the sea with your horses, on the surge of the great waters.
-\p 
-\v 16 I heard, and my inner parts trembled! My lips quivered at the sound. Decay enters into my bones, and my legs tremble beneath me Yet I will wait quietly for the day of distress to come upon the people who invade us.
-\p 
-\v 17 Though the fig tree does not bud and there is no fruit on the vines; and though the produce of the olive tree fails and the fields yield no food; and though the flock is cut off from the fold and there are no cattle in the stalls,
-\p 
-\v 18 yet, I will rejoice in Yahweh. I will be joyful because of the God of my salvation.
-\p 
-\v 19 The Lord Yahweh is my strength and he makes my feet like the feet of a deer. He makes me tread on my high places. For the music director, on my stringed instruments.
+\p
+\v 1 
+ A prayer of Habakkuk the prophet, on shigyonoth.
+
+\b
+\q1  \v 2 Yahweh, I have heard your report;
+\q2 I feared, Yahweh, your work.
+\q1 In the midst of the years, revive it;
+\q2 in the midst of the years, make it known.
+\q1 In wrath, remember compassion.
+
+\b
+\q1  \v 3 God came from Teman,
+\q2 and the Holy One, from Mount Paran.
+\qs
+Selah
+\qs*
+\q1 His splendor covered the heavens,
+\q2 and his praise filled the earth.
+\q1  \v 4 And {his} brightness was like the light;
+\q2 his rays {came} from his hand,
+\q2 and there {was} the hiding of his strength.
+\q1  \v 5 Before his face plague went,
+\q2 and fiery bolts went out at his feet.
+\q1  \v 6 He stood, and he measured the earth.
+\q2 He looked, and he made the nations spring apart.
+\q1 The eternal mountains were shattered;
+\q2 the everlasting hills sank down.
+\q1 His goings {are} everlasting.
+
+\b
+\q1  \v 7 Under trouble I saw the tents of Cushan;
+\q2 the curtains of the land of Midian trembled.
+
+\b
+\q1  \v 8 Was it against the rivers that Yahweh burned?
+\q2 Or {was} your nose against the rivers?
+\q2 Or {was} your fury against the sea,
+\q2 that you rode on your horses,
+\q2 your chariots of salvation?
+\q1  \v 9 Your bow was completely bared;
+\q2 the oaths {sworn} to the staffs {were} a word.
+\qs
+Selah
+\qs*
+\q1 You split the earth with rivers.
+\q1  \v 10 The mountains saw you; they writhed.
+\q2 A torrent of waters swept past.
+\q1 The deep gave its voice;
+\q2 it lifted its hands on high.
+\q1  \v 11 The sun {and} moon stood still in their habitation,
+\q2 at the light of your arrows as they flew,
+\q2 at the gleam of the lightning of your spear.
+\q1  \v 12 In indignation you marched through the earth;
+\q2 in anger you threshed the nations.
+\q1  \v 13 You went out for the salvation of your people,
+\q2 for the salvation of your anointed one.
+\q1 You struck the head from the house of the wicked,
+\q2 laying bare the foundation to the neck.
+\qs
+Selah
+\qs*
+\q1  \v 14 You pierced with his own staffs the head of his warriors.
+\q2 They stormed to scatter me;
+\q1 their exultation {was} as if to devour the afflicted in secret.
+\q1  \v 15 You trod the sea with your horses,
+\q2 {through} the heap of great waters.
+
+\b
+\q1  \v 16 I heard, and my belly trembled;
+\q2 at the sound, my lips quivered.
+\q1 Decay entered into my bones,
+\q2 and in my place I trembled.
+\q1 Yet I may rest for the day of distress,
+\q2 to come up against the people who attack us.
+\q1  \v 17 Though the fig tree does not blossom,
+\q2 and {there} is no produce on the vines,
+\q1 the work of the olive has been deceptive,
+\q2 and the fields have not produced food,
+\q1 the flock has been cut off from the fold,
+\q2 and {there} are no cattle in the stalls—
+\q1  \v 18 yet I, I will exult in Yahweh;
+\q2 I will rejoice in the God of my salvation.
+\q1  \v 19 Yahweh the Lord {is} my strength,
+\q2 and he made my feet like deer,
+\q1 and on my high places he makes me tread.
+
+\b
+\q1 To the chief musician, on my stringed instruments.
