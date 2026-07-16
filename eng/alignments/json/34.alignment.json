@@ -1,0 +1,6551 @@
+{
+  "documents": [
+    {
+      "docid": "WLCM",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "ULT",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": {},
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "o340010010011|מַשָּׂא"
+      ],
+      "target": [
+        "34001001001|The"
+      ],
+      "meta": {
+        "id": "34001001.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010010021|נִינְוֵה"
+      ],
+      "target": [
+        "34001001004|Nineveh"
+      ],
+      "meta": {
+        "id": "34001001.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010010031|סֵפֶר"
+      ],
+      "target": [
+        "34001001006|The",
+        "34001001007|book",
+        "34001001008|of"
+      ],
+      "meta": {
+        "id": "34001001.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010010041|חֲזוֹן"
+      ],
+      "target": [
+        "34001001009|the",
+        "34001001010|vision",
+        "34001001011|of"
+      ],
+      "meta": {
+        "id": "34001001.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010010051|נַחוּם"
+      ],
+      "target": [
+        "34001001012|Nahum"
+      ],
+      "meta": {
+        "id": "34001001.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010010061|הָ",
+        "o340010010062|אֶלְקֹשִׁי"
+      ],
+      "target": [
+        "34001001014|the",
+        "34001001015|Elkoshite"
+      ],
+      "meta": {
+        "id": "34001001.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020041|יְהוָה"
+      ],
+      "target": [
+        "34001002001|Yahweh"
+      ],
+      "meta": {
+        "id": "34001002.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020011|אֵל"
+      ],
+      "target": [
+        "34001002003|is",
+        "34001002005|a"
+      ],
+      "meta": {
+        "id": "34001002.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020021|קַנּוֹא"
+      ],
+      "target": [
+        "34001002006|jealous"
+      ],
+      "meta": {
+        "id": "34001002.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020031|וְ",
+        "o340010020032|נֹקֵם"
+      ],
+      "target": [
+        "34001002007|and"
+      ],
+      "meta": {
+        "id": "34001002.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020061|יְהוָה"
+      ],
+      "target": [
+        "34001002011|Yahweh"
+      ],
+      "meta": {
+        "id": "34001002.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020071|וּ",
+        "o340010020072|בַעַל"
+      ],
+      "target": [
+        "34001002013|is",
+        "34001002019|of"
+      ],
+      "meta": {
+        "id": "34001002.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020081|חֵמָה"
+      ],
+      "target": [
+        "34001002020|wrath"
+      ],
+      "meta": {
+        "id": "34001002.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020101|יְהוָה"
+      ],
+      "target": [
+        "34001002022|Yahweh"
+      ],
+      "meta": {
+        "id": "34001002.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020091|נֹקֵם"
+      ],
+      "target": [
+        "34001002023|takes",
+        "34001002024|vengeance"
+      ],
+      "meta": {
+        "id": "34001002.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020111|לְ",
+        "o340010020112|צָרָי",
+        "o340010020113|ו"
+      ],
+      "target": [
+        "34001002025|on",
+        "34001002026|his",
+        "34001002027|adversaries"
+      ],
+      "meta": {
+        "id": "34001002.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020121|וְ",
+        "o340010020122|נוֹטֵר"
+      ],
+      "target": [
+        "34001002029|and"
+      ],
+      "meta": {
+        "id": "34001002.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020131|הוּא"
+      ],
+      "target": [
+        "34001002030|he"
+      ],
+      "meta": {
+        "id": "34001002.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010020141|לְ",
+        "o340010020142|אֹיְבָי",
+        "o340010020143|ו"
+      ],
+      "target": [
+        "34001002033|his",
+        "34001002034|enemies"
+      ],
+      "meta": {
+        "id": "34001002.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030011|יְהֹוָה"
+      ],
+      "target": [
+        "34001003001|Yahweh"
+      ],
+      "meta": {
+        "id": "34001003.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030021|אֶרֶךְ"
+      ],
+      "target": [
+        "34001003003|is"
+      ],
+      "meta": {
+        "id": "34001003.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030051|וּ",
+        "o340010030052|גְדָל"
+      ],
+      "target": [
+        "34001003008|and",
+        "34001003009|great",
+        "34001003010|in"
+      ],
+      "meta": {
+        "id": "34001003.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030061|כֹּחַ"
+      ],
+      "target": [
+        "34001003011|power"
+      ],
+      "meta": {
+        "id": "34001003.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030091|יְנַקֶּה"
+      ],
+      "target": [
+        "34001003016|he",
+        "34001003017|will"
+      ],
+      "meta": {
+        "id": "34001003.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030081|לֹא"
+      ],
+      "target": [
+        "34001003018|not"
+      ],
+      "meta": {
+        "id": "34001003.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030101|יְהוָה"
+      ],
+      "target": [
+        "34001003021|Yahweh"
+      ],
+      "meta": {
+        "id": "34001003.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030111|בְּ",
+        "o340010030112|סוּפָה"
+      ],
+      "target": [
+        "34001003023|in",
+        "34001003024|whirlwind"
+      ],
+      "meta": {
+        "id": "34001003.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030121|וּ",
+        "o340010030122|בִ",
+        "o340010030123|שְׂעָרָה"
+      ],
+      "target": [
+        "34001003025|and",
+        "34001003026|storm"
+      ],
+      "meta": {
+        "id": "34001003.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030141|וְ",
+        "o340010030142|עָנָן"
+      ],
+      "target": [
+        "34001003033|and"
+      ],
+      "meta": {
+        "id": "34001003.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030151|אֲבַק"
+      ],
+      "target": [
+        "34001003038|the",
+        "34001003039|dust",
+        "34001003040|of"
+      ],
+      "meta": {
+        "id": "34001003.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010030161|רַגְלָי",
+        "o340010030162|ו"
+      ],
+      "target": [
+        "34001003041|his",
+        "34001003042|feet"
+      ],
+      "meta": {
+        "id": "34001003.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040011|גּוֹעֵר"
+      ],
+      "target": [
+        "34001004001|He",
+        "34001004002|rebukes"
+      ],
+      "meta": {
+        "id": "34001004.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040021|בַּ",
+        "o340010040022|יָּם"
+      ],
+      "target": [
+        "34001004003|the",
+        "34001004004|sea"
+      ],
+      "meta": {
+        "id": "34001004.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040031|וַ",
+        "o340010040032|יַּבְּשֵׁ",
+        "o340010040033|הוּ"
+      ],
+      "target": [
+        "34001004005|and",
+        "34001004006|makes",
+        "34001004007|it",
+        "34001004008|dry"
+      ],
+      "meta": {
+        "id": "34001004.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040041|וְ",
+        "o340010040042|כָל"
+      ],
+      "target": [
+        "34001004011|all"
+      ],
+      "meta": {
+        "id": "34001004.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040051|הַ",
+        "o340010040052|נְּהָרוֹת"
+      ],
+      "target": [
+        "34001004012|the",
+        "34001004013|rivers"
+      ],
+      "meta": {
+        "id": "34001004.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040081|בָּשָׁן"
+      ],
+      "target": [
+        "34001004018|Bashan"
+      ],
+      "meta": {
+        "id": "34001004.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040071|אֻמְלַל"
+      ],
+      "target": [
+        "34001004019|withers"
+      ],
+      "meta": {
+        "id": "34001004.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040091|וְ",
+        "o340010040092|כַרְמֶל"
+      ],
+      "target": [
+        "34001004021|also"
+      ],
+      "meta": {
+        "id": "34001004.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040101|וּ",
+        "o340010040102|פֶרַח"
+      ],
+      "target": [
+        "34001004025|the",
+        "34001004026|flowers",
+        "34001004027|of"
+      ],
+      "meta": {
+        "id": "34001004.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040111|לְבָנוֹן"
+      ],
+      "target": [
+        "34001004028|Lebanon"
+      ],
+      "meta": {
+        "id": "34001004.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010040121|אֻמְלָל"
+      ],
+      "target": [
+        "34001004029|wither"
+      ],
+      "meta": {
+        "id": "34001004.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050021|רָעֲשׁוּ"
+      ],
+      "target": [
+        "34001005002|shake"
+      ],
+      "meta": {
+        "id": "34001005.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050041|וְ",
+        "o340010050042|הַ",
+        "o340010050043|גְּבָעוֹת"
+      ],
+      "target": [
+        "34001005006|and",
+        "34001005007|the",
+        "34001005008|hills"
+      ],
+      "meta": {
+        "id": "34001005.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050051|הִתְמֹגָגוּ"
+      ],
+      "target": [
+        "34001005009|melt"
+      ],
+      "meta": {
+        "id": "34001005.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050071|הָ",
+        "o340010050072|אָרֶץ"
+      ],
+      "target": [
+        "34001005012|the",
+        "34001005013|earth"
+      ],
+      "meta": {
+        "id": "34001005.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050061|וַ",
+        "o340010050062|תִּשָּׂא"
+      ],
+      "target": [
+        "34001005014|heaves"
+      ],
+      "meta": {
+        "id": "34001005.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050081|מִ",
+        "o340010050082|פָּנָי",
+        "o340010050083|ו"
+      ],
+      "target": [
+        "34001005016|his"
+      ],
+      "meta": {
+        "id": "34001005.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050091|וְ",
+        "o340010050092|תֵבֵל"
+      ],
+      "target": [
+        "34001005020|the",
+        "34001005021|world"
+      ],
+      "meta": {
+        "id": "34001005.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050101|וְ",
+        "o340010050102|כָל"
+      ],
+      "target": [
+        "34001005022|and",
+        "34001005023|all"
+      ],
+      "meta": {
+        "id": "34001005.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010050121|בָ",
+        "o340010050122|הּ"
+      ],
+      "target": [
+        "34001005026|in",
+        "34001005027|it"
+      ],
+      "meta": {
+        "id": "34001005.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060021|זַעְמ",
+        "o340010060022|וֹ"
+      ],
+      "target": [
+        "34001006005|his",
+        "34001006006|indignation"
+      ],
+      "meta": {
+        "id": "34001006.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060061|יָקוּם"
+      ],
+      "target": [
+        "34001006009|can"
+      ],
+      "meta": {
+        "id": "34001006.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060071|בַּ",
+        "o340010060072|חֲרוֹן"
+      ],
+      "target": [
+        "34001006017|the",
+        "34001006019|of"
+      ],
+      "meta": {
+        "id": "34001006.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060081|אַפּ",
+        "o340010060082|וֹ"
+      ],
+      "target": [
+        "34001006020|his"
+      ],
+      "meta": {
+        "id": "34001006.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060091|חֲמָת",
+        "o340010060092|וֹ"
+      ],
+      "target": [
+        "34001006023|His",
+        "34001006024|wrath"
+      ],
+      "meta": {
+        "id": "34001006.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060101|נִתְּכָה"
+      ],
+      "target": [
+        "34001006025|is",
+        "34001006026|poured",
+        "34001006027|out"
+      ],
+      "meta": {
+        "id": "34001006.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060111|כָ",
+        "o340010060112|אֵשׁ"
+      ],
+      "target": [
+        "34001006028|like",
+        "34001006029|fire"
+      ],
+      "meta": {
+        "id": "34001006.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060121|וְ",
+        "o340010060122|הַ",
+        "o340010060123|צֻּרִים"
+      ],
+      "target": [
+        "34001006031|and",
+        "34001006032|the",
+        "34001006033|rocks"
+      ],
+      "meta": {
+        "id": "34001006.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060131|נִתְּצוּ"
+      ],
+      "target": [
+        "34001006034|are",
+        "34001006035|broken",
+        "34001006036|apart"
+      ],
+      "meta": {
+        "id": "34001006.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010060141|מִמֶּ",
+        "o340010060142|נּוּ"
+      ],
+      "target": [
+        "34001006038|him"
+      ],
+      "meta": {
+        "id": "34001006.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070021|יְהוָה"
+      ],
+      "target": [
+        "34001007001|Yahweh"
+      ],
+      "meta": {
+        "id": "34001007.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070011|טוֹב"
+      ],
+      "target": [
+        "34001007003|is",
+        "34001007005|good"
+      ],
+      "meta": {
+        "id": "34001007.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070031|לְ",
+        "o340010070032|מָעוֹז"
+      ],
+      "target": [
+        "34001007008|a",
+        "34001007009|stronghold"
+      ],
+      "meta": {
+        "id": "34001007.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070041|בְּ",
+        "o340010070042|יוֹם"
+      ],
+      "target": [
+        "34001007010|in",
+        "34001007012|day",
+        "34001007013|of"
+      ],
+      "meta": {
+        "id": "34001007.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070051|צָרָה"
+      ],
+      "target": [
+        "34001007014|trouble"
+      ],
+      "meta": {
+        "id": "34001007.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070061|וְ",
+        "o340010070062|יֹדֵעַ"
+      ],
+      "target": [
+        "34001007016|and"
+      ],
+      "meta": {
+        "id": "34001007.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070071|חֹסֵי"
+      ],
+      "target": [
+        "34001007018|those",
+        "34001007020|refuge"
+      ],
+      "meta": {
+        "id": "34001007.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010070081|ב",
+        "o340010070082|וֹ"
+      ],
+      "target": [
+        "34001007021|in",
+        "34001007022|him"
+      ],
+      "meta": {
+        "id": "34001007.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080011|וּ",
+        "o340010080012|בְ",
+        "o340010080013|שֶׁטֶף"
+      ],
+      "target": [
+        "34001008001|But",
+        "34001008011|with",
+        "34001008012|an",
+        "34001008014|flood"
+      ],
+      "meta": {
+        "id": "34001008.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080041|יַעֲשֶׂה"
+      ],
+      "target": [
+        "34001008002|he",
+        "34001008003|will",
+        "34001008004|make"
+      ],
+      "meta": {
+        "id": "34001008.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080031|כָּלָה"
+      ],
+      "target": [
+        "34001008005|a",
+        "34001008006|complete",
+        "34001008007|end"
+      ],
+      "meta": {
+        "id": "34001008.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080051|מְקוֹמָ",
+        "o340010080052|הּ"
+      ],
+      "target": [
+        "34001008008|to",
+        "34001008009|its",
+        "34001008010|place"
+      ],
+      "meta": {
+        "id": "34001008.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080021|עֹבֵר"
+      ],
+      "target": [
+        "34001008013|overwhelming"
+      ],
+      "meta": {
+        "id": "34001008.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080071|יְרַדֶּף"
+      ],
+      "target": [
+        "34001008017|will",
+        "34001008018|pursue"
+      ],
+      "meta": {
+        "id": "34001008.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010080061|וְ",
+        "o340010080062|אֹיְבָי",
+        "o340010080063|ו"
+      ],
+      "target": [
+        "34001008019|his",
+        "34001008020|enemies"
+      ],
+      "meta": {
+        "id": "34001008.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090011|מַה"
+      ],
+      "target": [
+        "34001009001|What"
+      ],
+      "meta": {
+        "id": "34001009.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090021|תְּחַשְּׁבוּ",
+        "o340010090022|ן"
+      ],
+      "target": [
+        "34001009002|are",
+        "34001009003|you",
+        "34001009004|plotting"
+      ],
+      "meta": {
+        "id": "34001009.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090031|אֶל"
+      ],
+      "target": [
+        "34001009005|against"
+      ],
+      "meta": {
+        "id": "34001009.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090041|יְהוָה"
+      ],
+      "target": [
+        "34001009006|Yahweh"
+      ],
+      "meta": {
+        "id": "34001009.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090061|הוּא"
+      ],
+      "target": [
+        "34001009008|He"
+      ],
+      "meta": {
+        "id": "34001009.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090071|עֹשֶׂה"
+      ],
+      "target": [
+        "34001009009|will",
+        "34001009010|make",
+        "34001009015|to",
+        "34001009016|it"
+      ],
+      "meta": {
+        "id": "34001009.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090051|כָּלָה"
+      ],
+      "target": [
+        "34001009011|a",
+        "34001009012|complete",
+        "34001009013|end"
+      ],
+      "meta": {
+        "id": "34001009.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090111|צָרָה"
+      ],
+      "target": [
+        "34001009019|trouble"
+      ],
+      "meta": {
+        "id": "34001009.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090091|תָקוּם"
+      ],
+      "target": [
+        "34001009020|will",
+        "34001009022|rise",
+        "34001009023|up"
+      ],
+      "meta": {
+        "id": "34001009.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090081|לֹא"
+      ],
+      "target": [
+        "34001009021|not"
+      ],
+      "meta": {
+        "id": "34001009.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010090101|פַּעֲמַיִם"
+      ],
+      "target": [
+        "34001009024|a",
+        "34001009025|second",
+        "34001009026|time"
+      ],
+      "meta": {
+        "id": "34001009.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010100011|כִּי"
+      ],
+      "target": [
+        "34001010001|For"
+      ],
+      "meta": {
+        "id": "34001010.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010100041|סְבֻכִים"
+      ],
+      "target": [
+        "34001010003|tangled"
+      ],
+      "meta": {
+        "id": "34001010.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010100051|וּ",
+        "o340010100052|כְ",
+        "o340010100053|סָבְאָ",
+        "o340010100054|ם"
+      ],
+      "target": [
+        "34001010005|and",
+        "34001010006|like",
+        "34001010007|their",
+        "34001010008|drink"
+      ],
+      "meta": {
+        "id": "34001010.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010100071|אֻכְּלוּ"
+      ],
+      "target": [
+        "34001010012|they",
+        "34001010014|devoured"
+      ],
+      "meta": {
+        "id": "34001010.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010100081|כְּ",
+        "o340010100082|קַשׁ"
+      ],
+      "target": [
+        "34001010016|like",
+        "34001010018|stubble"
+      ],
+      "meta": {
+        "id": "34001010.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010100101|מָלֵא"
+      ],
+      "target": [
+        "34001010020|fully"
+      ],
+      "meta": {
+        "id": "34001010.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010110011|מִמֵּ",
+        "o340010110012|ךְ"
+      ],
+      "target": [
+        "34001011002|you"
+      ],
+      "meta": {
+        "id": "34001011.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010110061|רָעָה"
+      ],
+      "target": [
+        "34001011008|evil"
+      ],
+      "meta": {
+        "id": "34001011.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010110041|עַל"
+      ],
+      "target": [
+        "34001011009|against"
+      ],
+      "meta": {
+        "id": "34001011.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010110051|יְהוָה"
+      ],
+      "target": [
+        "34001011010|Yahweh"
+      ],
+      "meta": {
+        "id": "34001011.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010110081|בְּלִיָּעַל"
+      ],
+      "target": [
+        "34001011015|wickedness"
+      ],
+      "meta": {
+        "id": "34001011.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120011|כֹּה"
+      ],
+      "target": [
+        "34001012001|Thus"
+      ],
+      "meta": {
+        "id": "34001012.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120031|יְהוָה"
+      ],
+      "target": [
+        "34001012003|Yahweh"
+      ],
+      "meta": {
+        "id": "34001012.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120041|אִם"
+      ],
+      "target": [
+        "34001012007|Even",
+        "34001012009|if"
+      ],
+      "meta": {
+        "id": "34001012.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120051|שְׁלֵמִים"
+      ],
+      "target": [
+        "34001012010|they",
+        "34001012011|are",
+        "34001012012|full"
+      ],
+      "meta": {
+        "id": "34001012.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120061|וְ",
+        "o340010120062|כֵן"
+      ],
+      "target": [
+        "34001012013|and"
+      ],
+      "meta": {
+        "id": "34001012.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120091|נָגֹזּוּ"
+      ],
+      "target": [
+        "34001012019|they"
+      ],
+      "meta": {
+        "id": "34001012.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120111|וְ",
+        "o340010120112|עִנִּתִ",
+        "o340010120113|ךְ"
+      ],
+      "target": [
+        "34001012030|Though",
+        "34001012031|I",
+        "34001012032|have",
+        "34001012033|afflicted",
+        "34001012034|you"
+      ],
+      "meta": {
+        "id": "34001012.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120131|אֲעַנֵּ",
+        "o340010120132|ךְ"
+      ],
+      "target": [
+        "34001012036|I",
+        "34001012037|will",
+        "34001012038|afflict",
+        "34001012039|you"
+      ],
+      "meta": {
+        "id": "34001012.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120121|לֹא"
+      ],
+      "target": [
+        "34001012040|no"
+      ],
+      "meta": {
+        "id": "34001012.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010120141|עוֹד"
+      ],
+      "target": [
+        "34001012041|more"
+      ],
+      "meta": {
+        "id": "34001012.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010130021|אֶשְׁבֹּר"
+      ],
+      "target": [
+        "34001013003|I",
+        "34001013005|break"
+      ],
+      "meta": {
+        "id": "34001013.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010130031|מֹטֵ",
+        "o340010130032|הוּ"
+      ],
+      "target": [
+        "34001013007|yoke"
+      ],
+      "meta": {
+        "id": "34001013.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010130041|מֵ",
+        "o340010130042|עָלָיִ",
+        "o340010130043|ךְ"
+      ],
+      "target": [
+        "34001013008|from",
+        "34001013010|you"
+      ],
+      "meta": {
+        "id": "34001013.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010130061|אֲנַתֵּק"
+      ],
+      "target": [
+        "34001013015|I",
+        "34001013016|will"
+      ],
+      "meta": {
+        "id": "34001013.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140031|יְהוָה"
+      ],
+      "target": [
+        "34001014002|Yahweh"
+      ],
+      "meta": {
+        "id": "34001014.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140011|וְ",
+        "o340010140012|צִוָּה"
+      ],
+      "target": [
+        "34001014003|has"
+      ],
+      "meta": {
+        "id": "34001014.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140021|עָלֶי",
+        "o340010140022|ךָ"
+      ],
+      "target": [
+        "34001014006|you"
+      ],
+      "meta": {
+        "id": "34001014.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140051|יִזָּרַע"
+      ],
+      "target": [
+        "34001014010|will",
+        "34001014012|be"
+      ],
+      "meta": {
+        "id": "34001014.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140061|מִ",
+        "o340010140062|שִּׁמְ",
+        "o340010140063|ךָ"
+      ],
+      "target": [
+        "34001014015|your",
+        "34001014016|name"
+      ],
+      "meta": {
+        "id": "34001014.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140101|אַכְרִית"
+      ],
+      "target": [
+        "34001014020|I",
+        "34001014021|will",
+        "34001014022|cut",
+        "34001014023|off"
+      ],
+      "meta": {
+        "id": "34001014.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140111|פֶּסֶל"
+      ],
+      "target": [
+        "34001014024|the",
+        "34001014025|carved",
+        "34001014026|figures"
+      ],
+      "meta": {
+        "id": "34001014.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140121|וּ",
+        "o340010140122|מַסֵּכָה"
+      ],
+      "target": [
+        "34001014027|and",
+        "34001014028|the",
+        "34001014029|cast",
+        "34001014030|metal",
+        "34001014031|figures"
+      ],
+      "meta": {
+        "id": "34001014.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140081|מִ",
+        "o340010140082|בֵּית"
+      ],
+      "target": [
+        "34001014032|from",
+        "34001014033|the",
+        "34001014034|house",
+        "34001014035|of"
+      ],
+      "meta": {
+        "id": "34001014.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140091|אֱלֹהֶי",
+        "o340010140092|ךָ"
+      ],
+      "target": [
+        "34001014036|your",
+        "34001014037|gods"
+      ],
+      "meta": {
+        "id": "34001014.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140131|אָשִׂים"
+      ],
+      "target": [
+        "34001014039|I",
+        "34001014040|will"
+      ],
+      "meta": {
+        "id": "34001014.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140141|קִבְרֶ",
+        "o340010140142|ךָ"
+      ],
+      "target": [
+        "34001014042|your",
+        "34001014043|graves"
+      ],
+      "meta": {
+        "id": "34001014.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140151|כִּי"
+      ],
+      "target": [
+        "34001014045|for"
+      ],
+      "meta": {
+        "id": "34001014.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340010140161|קַלּוֹתָ"
+      ],
+      "target": [
+        "34001014046|you",
+        "34001014047|are"
+      ],
+      "meta": {
+        "id": "34001014.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010021|עַל"
+      ],
+      "target": [
+        "34001015003|on"
+      ],
+      "meta": {
+        "id": "34001015.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010031|הֶ",
+        "o340020010032|הָרִים"
+      ],
+      "target": [
+        "34001015004|the",
+        "34001015005|mountains"
+      ],
+      "meta": {
+        "id": "34001015.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010041|רַגְלֵי"
+      ],
+      "target": [
+        "34001015007|the",
+        "34001015008|feet",
+        "34001015009|of"
+      ],
+      "meta": {
+        "id": "34001015.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010061|מַשְׁמִיעַ"
+      ],
+      "target": [
+        "34001015013|announcing"
+      ],
+      "meta": {
+        "id": "34001015.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010071|שָׁלוֹם"
+      ],
+      "target": [
+        "34001015014|peace"
+      ],
+      "meta": {
+        "id": "34001015.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010091|יְהוּדָה"
+      ],
+      "target": [
+        "34001015016|Celebrate"
+      ],
+      "meta": {
+        "id": "34001015.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010101|חַגַּיִ",
+        "o340020010102|ךְ"
+      ],
+      "target": [
+        "34001015017|your"
+      ],
+      "meta": {
+        "id": "34001015.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010081|חָגִּי"
+      ],
+      "target": [
+        "34001015020|O",
+        "34001015021|Judah"
+      ],
+      "meta": {
+        "id": "34001015.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010111|שַׁלְּמִי"
+      ],
+      "target": [
+        "34001015023|and",
+        "34001015024|keep"
+      ],
+      "meta": {
+        "id": "34001015.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010121|נְדָרָיִ",
+        "o340020010122|ךְ"
+      ],
+      "target": [
+        "34001015025|your",
+        "34001015026|vows"
+      ],
+      "meta": {
+        "id": "34001015.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010131|כִּי"
+      ],
+      "target": [
+        "34001015028|for"
+      ],
+      "meta": {
+        "id": "34001015.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010201|בְּלִיַּעַל"
+      ],
+      "target": [
+        "34001015029|the",
+        "34001015030|wicked"
+      ],
+      "meta": {
+        "id": "34001015.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010191|בָּ",
+        "o340020010192|ךְ"
+      ],
+      "target": [
+        "34001015031|will",
+        "34001015035|invade",
+        "34001015036|you"
+      ],
+      "meta": {
+        "id": "34001015.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010221|נִכְרָת"
+      ],
+      "target": [
+        "34001015039|he",
+        "34001015040|is",
+        "34001015042|cut",
+        "34001015043|off"
+      ],
+      "meta": {
+        "id": "34001015.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020010211|כֻּלֹּ",
+        "o340020010212|ה"
+      ],
+      "target": [
+        "34001015041|completely"
+      ],
+      "meta": {
+        "id": "34001015.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020011|עָלָה"
+      ],
+      "target": [
+        "34002001005|up"
+      ],
+      "meta": {
+        "id": "34002001.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020031|עַל"
+      ],
+      "target": [
+        "34002001006|against"
+      ],
+      "meta": {
+        "id": "34002001.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020041|פָּנַיִ",
+        "o340020020042|ךְ"
+      ],
+      "target": [
+        "34002001007|your"
+      ],
+      "meta": {
+        "id": "34002001.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020051|נָצוֹר"
+      ],
+      "target": [
+        "34002001010|Guard"
+      ],
+      "meta": {
+        "id": "34002001.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020061|מְצֻרָה"
+      ],
+      "target": [
+        "34002001011|the",
+        "34002001012|city",
+        "34002001013|walls"
+      ],
+      "meta": {
+        "id": "34002001.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020071|צַפֵּה"
+      ],
+      "target": [
+        "34002001015|watch"
+      ],
+      "meta": {
+        "id": "34002001.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020081|דֶרֶךְ"
+      ],
+      "target": [
+        "34002001016|the",
+        "34002001017|road"
+      ],
+      "meta": {
+        "id": "34002001.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020101|מָתְנַיִם"
+      ],
+      "target": [
+        "34002001021|your",
+        "34002001023|loins"
+      ],
+      "meta": {
+        "id": "34002001.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020020121|כֹּחַ"
+      ],
+      "target": [
+        "34002001028|your"
+      ],
+      "meta": {
+        "id": "34002001.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030011|כִּי"
+      ],
+      "target": [
+        "34002002001|For"
+      ],
+      "meta": {
+        "id": "34002002.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030031|יְהוָה"
+      ],
+      "target": [
+        "34002002002|Yahweh"
+      ],
+      "meta": {
+        "id": "34002002.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030041|אֶת",
+        "o340020030051|גְּאוֹן"
+      ],
+      "target": [
+        "34002002005|the",
+        "34002002006|majesty",
+        "34002002007|of"
+      ],
+      "meta": {
+        "id": "34002002.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030061|יַעֲקֹב"
+      ],
+      "target": [
+        "34002002008|Jacob"
+      ],
+      "meta": {
+        "id": "34002002.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030071|כִּ",
+        "o340020030072|גְאוֹן"
+      ],
+      "target": [
+        "34002002012|the",
+        "34002002013|majesty",
+        "34002002014|of"
+      ],
+      "meta": {
+        "id": "34002002.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030081|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "34002002015|Israel"
+      ],
+      "meta": {
+        "id": "34002002.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030091|כִּי"
+      ],
+      "target": [
+        "34002002017|although"
+      ],
+      "meta": {
+        "id": "34002002.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030111|בֹּקְקִים"
+      ],
+      "target": [
+        "34002002018|the",
+        "34002002019|plunderers"
+      ],
+      "meta": {
+        "id": "34002002.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030101|בְקָקוּ",
+        "o340020030102|ם"
+      ],
+      "target": [
+        "34002002021|them"
+      ],
+      "meta": {
+        "id": "34002002.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030121|וּ",
+        "o340020030122|זְמֹרֵי",
+        "o340020030123|הֶם"
+      ],
+      "target": [
+        "34002002022|and",
+        "34002002024|their",
+        "34002002025|vine",
+        "34002002026|branches"
+      ],
+      "meta": {
+        "id": "34002002.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020030131|שִׁחֵתוּ"
+      ],
+      "target": [
+        "34002002023|destroyed"
+      ],
+      "meta": {
+        "id": "34002002.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040011|מָגֵן"
+      ],
+      "target": [
+        "34002003001|The",
+        "34002003002|shields",
+        "34002003003|of"
+      ],
+      "meta": {
+        "id": "34002003.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040021|גִּבֹּרֵי",
+        "o340020040022|הוּ"
+      ],
+      "target": [
+        "34002003004|his",
+        "34002003005|mighty",
+        "34002003006|men"
+      ],
+      "meta": {
+        "id": "34002003.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040031|מְאָדָּם"
+      ],
+      "target": [
+        "34002003007|are",
+        "34002003008|red"
+      ],
+      "meta": {
+        "id": "34002003.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040041|אַנְשֵׁי",
+        "o340020040051|חַיִל"
+      ],
+      "target": [
+        "34002003010|the"
+      ],
+      "meta": {
+        "id": "34002003.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040061|מְתֻלָּעִים"
+      ],
+      "target": [
+        "34002003014|are",
+        "34002003015|clothed",
+        "34002003016|in",
+        "34002003017|scarlet"
+      ],
+      "meta": {
+        "id": "34002003.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040091|הָ",
+        "o340020040092|רֶכֶב"
+      ],
+      "target": [
+        "34002003019|the",
+        "34002003020|chariot"
+      ],
+      "meta": {
+        "id": "34002003.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040071|בְּ",
+        "o340020040072|אֵשׁ",
+        "o340020040081|פְּלָדוֹת"
+      ],
+      "target": [
+        "34002003024|with",
+        "34002003027|metal"
+      ],
+      "meta": {
+        "id": "34002003.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040101|בְּ",
+        "o340020040102|יוֹם"
+      ],
+      "target": [
+        "34002003028|on",
+        "34002003029|the",
+        "34002003030|day"
+      ],
+      "meta": {
+        "id": "34002003.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020040121|וְ",
+        "o340020040122|הַ",
+        "o340020040123|בְּרֹשִׁים"
+      ],
+      "target": [
+        "34002003035|and",
+        "34002003036|the",
+        "34002003037|cypresses"
+      ],
+      "meta": {
+        "id": "34002003.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050031|הָ",
+        "o340020050032|רֶכֶב"
+      ],
+      "target": [
+        "34002004001|The",
+        "34002004002|chariots"
+      ],
+      "meta": {
+        "id": "34002004.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050021|יִתְהוֹלְלוּ"
+      ],
+      "target": [
+        "34002004003|race",
+        "34002004004|madly"
+      ],
+      "meta": {
+        "id": "34002004.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050011|בַּ",
+        "o340020050012|חוּצוֹת"
+      ],
+      "target": [
+        "34002004005|through",
+        "34002004006|the",
+        "34002004007|streets"
+      ],
+      "meta": {
+        "id": "34002004.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050041|יִשְׁתַּקְשְׁקוּ",
+        "o340020050042|ן"
+      ],
+      "target": [
+        "34002004009|they",
+        "34002004010|rush",
+        "34002004011|back",
+        "34002004012|and",
+        "34002004013|forth"
+      ],
+      "meta": {
+        "id": "34002004.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050051|בָּ",
+        "o340020050052|רְחֹבוֹת"
+      ],
+      "target": [
+        "34002004014|in",
+        "34002004015|the",
+        "34002004016|squares"
+      ],
+      "meta": {
+        "id": "34002004.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050071|כַּ",
+        "o340020050072|לַּפִּידִם"
+      ],
+      "target": [
+        "34002004023|like",
+        "34002004024|torches"
+      ],
+      "meta": {
+        "id": "34002004.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050091|יְרוֹצֵצוּ"
+      ],
+      "target": [
+        "34002004026|they",
+        "34002004027|run"
+      ],
+      "meta": {
+        "id": "34002004.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020050081|כַּ",
+        "o340020050082|בְּרָקִים"
+      ],
+      "target": [
+        "34002004028|like",
+        "34002004029|lightning"
+      ],
+      "meta": {
+        "id": "34002004.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060011|יִזְכֹּר"
+      ],
+      "target": [
+        "34002005002|calls"
+      ],
+      "meta": {
+        "id": "34002005.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060021|אַדִּירָי",
+        "o340020060022|ו"
+      ],
+      "target": [
+        "34002005003|his",
+        "34002005004|officers"
+      ],
+      "meta": {
+        "id": "34002005.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060031|יִכָּשְׁלוּ"
+      ],
+      "target": [
+        "34002005006|they",
+        "34002005007|stumble"
+      ],
+      "meta": {
+        "id": "34002005.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060051|בַּ",
+        "o340020060052|הֲלִיכָתָ",
+        "o340020060053|ם"
+      ],
+      "target": [
+        "34002005008|in",
+        "34002005009|their"
+      ],
+      "meta": {
+        "id": "34002005.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060061|יְמַהֲרוּ"
+      ],
+      "target": [
+        "34002005012|they",
+        "34002005013|hurry",
+        "34002005014|to"
+      ],
+      "meta": {
+        "id": "34002005.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060071|חוֹמָתָ",
+        "o340020060072|הּ"
+      ],
+      "target": [
+        "34002005016|city",
+        "34002005017|wall"
+      ],
+      "meta": {
+        "id": "34002005.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060091|הַ",
+        "o340020060092|סֹּכֵךְ"
+      ],
+      "target": [
+        "34002005019|The"
+      ],
+      "meta": {
+        "id": "34002005.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020060081|וְ",
+        "o340020060082|הֻכַן"
+      ],
+      "target": [
+        "34002005021|is"
+      ],
+      "meta": {
+        "id": "34002005.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020070011|שַׁעֲרֵי"
+      ],
+      "target": [
+        "34002006001|The",
+        "34002006002|gates"
+      ],
+      "meta": {
+        "id": "34002006.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020070021|הַ",
+        "o340020070022|נְּהָרוֹת"
+      ],
+      "target": [
+        "34002006004|the",
+        "34002006005|rivers"
+      ],
+      "meta": {
+        "id": "34002006.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020070041|וְ",
+        "o340020070042|הַ",
+        "o340020070043|הֵיכָל"
+      ],
+      "target": [
+        "34002006010|and",
+        "34002006011|the",
+        "34002006012|palace"
+      ],
+      "meta": {
+        "id": "34002006.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020070051|נָמוֹג"
+      ],
+      "target": [
+        "34002006015|away"
+      ],
+      "meta": {
+        "id": "34002006.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080011|וְ",
+        "o340020080012|הֻצַּב"
+      ],
+      "target": [
+        "34002007001|It",
+        "34002007002|is"
+      ],
+      "meta": {
+        "id": "34002007.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080021|גֻּלְּתָה"
+      ],
+      "target": [
+        "34002007005|she",
+        "34002007006|is"
+      ],
+      "meta": {
+        "id": "34002007.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080031|הֹעֲלָתָה"
+      ],
+      "target": [
+        "34002007007|taken",
+        "34002007014|away"
+      ],
+      "meta": {
+        "id": "34002007.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080041|וְ",
+        "o340020080042|אַמְהֹתֶי",
+        "o340020080043|הָ"
+      ],
+      "target": [
+        "34002007017|her",
+        "34002007018|female",
+        "34002007019|servants"
+      ],
+      "meta": {
+        "id": "34002007.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080051|מְנַהֲגוֹת"
+      ],
+      "target": [
+        "34002007020|moan"
+      ],
+      "meta": {
+        "id": "34002007.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080061|כְּ",
+        "o340020080062|קוֹל"
+      ],
+      "target": [
+        "34002007021|like"
+      ],
+      "meta": {
+        "id": "34002007.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080071|יוֹנִים"
+      ],
+      "target": [
+        "34002007025|doves"
+      ],
+      "meta": {
+        "id": "34002007.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080081|מְתֹפְפֹת"
+      ],
+      "target": [
+        "34002007027|beating"
+      ],
+      "meta": {
+        "id": "34002007.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080091|עַל"
+      ],
+      "target": [
+        "34002007028|on"
+      ],
+      "meta": {
+        "id": "34002007.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020080101|לִבְבֵ",
+        "o340020080102|הֶן"
+      ],
+      "target": [
+        "34002007029|their"
+      ],
+      "meta": {
+        "id": "34002007.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090011|וְ",
+        "o340020090012|נִינְוֵה"
+      ],
+      "target": [
+        "34002008001|Though",
+        "34002008002|Nineveh"
+      ],
+      "meta": {
+        "id": "34002008.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090021|כִ",
+        "o340020090022|בְרֵכַת"
+      ],
+      "target": [
+        "34002008004|was",
+        "34002008006|like",
+        "34002008007|a",
+        "34002008008|pool",
+        "34002008009|of"
+      ],
+      "meta": {
+        "id": "34002008.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090031|מַיִם"
+      ],
+      "target": [
+        "34002008010|water"
+      ],
+      "meta": {
+        "id": "34002008.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090041|מִ",
+        "o340020090042|ימֵי"
+      ],
+      "target": [
+        "34002008011|throughout",
+        "34002008013|days"
+      ],
+      "meta": {
+        "id": "34002008.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090051|הִיא"
+      ],
+      "target": [
+        "34002008012|her"
+      ],
+      "meta": {
+        "id": "34002008.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090061|וְ",
+        "o340020090062|הֵמָּה"
+      ],
+      "target": [
+        "34002008015|now"
+      ],
+      "meta": {
+        "id": "34002008.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090071|נָסִים"
+      ],
+      "target": [
+        "34002008017|are",
+        "34002008018|fleeing",
+        "34002008019|away"
+      ],
+      "meta": {
+        "id": "34002008.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090081|עִמְדוּ"
+      ],
+      "target": [
+        "34002008022|Stop"
+      ],
+      "meta": {
+        "id": "34002008.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090091|עֲמֹדוּ"
+      ],
+      "target": [
+        "34002008024|stop"
+      ],
+      "meta": {
+        "id": "34002008.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090101|וְ",
+        "o340020090102|אֵין"
+      ],
+      "target": [
+        "34002008030|no"
+      ],
+      "meta": {
+        "id": "34002008.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020090111|מַפְנֶה"
+      ],
+      "target": [
+        "34002008032|back"
+      ],
+      "meta": {
+        "id": "34002008.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100011|בֹּזּוּ"
+      ],
+      "target": [
+        "34002009004|plunder"
+      ],
+      "meta": {
+        "id": "34002009.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100021|כֶסֶף"
+      ],
+      "target": [
+        "34002009002|silver"
+      ],
+      "meta": {
+        "id": "34002009.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100041|זָהָב"
+      ],
+      "target": [
+        "34002009005|gold"
+      ],
+      "meta": {
+        "id": "34002009.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100051|וְ",
+        "o340020100052|אֵין"
+      ],
+      "target": [
+        "34002009007|for",
+        "34002009008|there",
+        "34002009009|is",
+        "34002009010|no"
+      ],
+      "meta": {
+        "id": "34002009.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100061|קֵצֶה"
+      ],
+      "target": [
+        "34002009011|end"
+      ],
+      "meta": {
+        "id": "34002009.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100071|לַ",
+        "o340020100072|תְּכוּנָה"
+      ],
+      "target": [
+        "34002009012|to",
+        "34002009013|the",
+        "34002009014|supply"
+      ],
+      "meta": {
+        "id": "34002009.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100081|כָּבֹד"
+      ],
+      "target": [
+        "34002009017|wealth"
+      ],
+      "meta": {
+        "id": "34002009.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020100091|מִ",
+        "o340020100092|כֹּל"
+      ],
+      "target": [
+        "34002009019|all"
+      ],
+      "meta": {
+        "id": "34002009.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110021|וּ",
+        "o340020110022|מְבוּקָה"
+      ],
+      "target": [
+        "34002010003|desolate"
+      ],
+      "meta": {
+        "id": "34002010.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110031|וּ",
+        "o340020110032|מְבֻלָּקָה"
+      ],
+      "target": [
+        "34002010004|and",
+        "34002010005|ruined"
+      ],
+      "meta": {
+        "id": "34002010.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110041|וְ",
+        "o340020110042|לֵב"
+      ],
+      "target": [
+        "34002010009|heart"
+      ],
+      "meta": {
+        "id": "34002010.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110071|בִּרְכַּיִם"
+      ],
+      "target": [
+        "34002010017|knees"
+      ],
+      "meta": {
+        "id": "34002010.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110081|וְ",
+        "o340020110082|חַלְחָלָה"
+      ],
+      "target": [
+        "34002010019|and",
+        "34002010020|anguish",
+        "34002010022|is"
+      ],
+      "meta": {
+        "id": "34002010.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110091|בְּ",
+        "o340020110092|כָל"
+      ],
+      "target": [
+        "34002010024|in",
+        "34002010025|all"
+      ],
+      "meta": {
+        "id": "34002010.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110101|מָתְנַיִם"
+      ],
+      "target": [
+        "34002010026|loins"
+      ],
+      "meta": {
+        "id": "34002010.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110121|כֻלָּ",
+        "o340020110122|ם"
+      ],
+      "target": [
+        "34002010029|all",
+        "34002010031|their"
+      ],
+      "meta": {
+        "id": "34002010.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020110111|וּ",
+        "o340020110112|פְנֵי"
+      ],
+      "target": [
+        "34002010032|faces"
+      ],
+      "meta": {
+        "id": "34002010.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120011|אַיֵּה"
+      ],
+      "target": [
+        "34002011001|Where",
+        "34002011003|now"
+      ],
+      "meta": {
+        "id": "34002011.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120021|מְעוֹן"
+      ],
+      "target": [
+        "34002011006|is",
+        "34002011008|the",
+        "34002011011|den"
+      ],
+      "meta": {
+        "id": "34002011.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120031|אֲרָיוֹת"
+      ],
+      "target": [
+        "34002011009|lions"
+      ],
+      "meta": {
+        "id": "34002011.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120041|וּ",
+        "o340020120042|מִרְעֶה",
+        "o340020120051|הוּא"
+      ],
+      "target": [
+        "34002011015|place"
+      ],
+      "meta": {
+        "id": "34002011.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120061|לַ",
+        "o340020120062|כְּפִרִים"
+      ],
+      "target": [
+        "34002011017|the",
+        "34002011018|young",
+        "34002011019|lions"
+      ],
+      "meta": {
+        "id": "34002011.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120071|אֲשֶׁר"
+      ],
+      "target": [
+        "34002011021|where"
+      ],
+      "meta": {
+        "id": "34002011.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120091|אַרְיֵה"
+      ],
+      "target": [
+        "34002011022|the",
+        "34002011023|lion"
+      ],
+      "meta": {
+        "id": "34002011.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120081|הָלַךְ"
+      ],
+      "target": [
+        "34002011024|walked"
+      ],
+      "meta": {
+        "id": "34002011.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120111|שָׁם"
+      ],
+      "target": [
+        "34002011028|there"
+      ],
+      "meta": {
+        "id": "34002011.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120121|גּוּר"
+      ],
+      "target": [
+        "34002011030|the",
+        "34002011031|cubs",
+        "34002011032|of"
+      ],
+      "meta": {
+        "id": "34002011.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020120131|אַרְיֵה"
+      ],
+      "target": [
+        "34002011033|the",
+        "34002011034|lion"
+      ],
+      "meta": {
+        "id": "34002011.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130011|אַרְיֵה"
+      ],
+      "target": [
+        "34002012001|The",
+        "34002012002|lion"
+      ],
+      "meta": {
+        "id": "34002012.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130031|בְּ",
+        "o340020130032|דֵי"
+      ],
+      "target": [
+        "34002012005|enough"
+      ],
+      "meta": {
+        "id": "34002012.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130041|גֹרוֹתָי",
+        "o340020130042|ו"
+      ],
+      "target": [
+        "34002012006|for",
+        "34002012007|his",
+        "34002012008|cubs"
+      ],
+      "meta": {
+        "id": "34002012.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130061|לְ",
+        "o340020130062|לִבְאֹתָי",
+        "o340020130063|ו"
+      ],
+      "target": [
+        "34002012011|for",
+        "34002012012|his",
+        "34002012013|lionesses"
+      ],
+      "meta": {
+        "id": "34002012.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130071|וַ",
+        "o340020130072|יְמַלֵּא"
+      ],
+      "target": [
+        "34002012016|filled"
+      ],
+      "meta": {
+        "id": "34002012.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130091|חֹרָי",
+        "o340020130092|ו"
+      ],
+      "target": [
+        "34002012017|his",
+        "34002012018|caves"
+      ],
+      "meta": {
+        "id": "34002012.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130081|טֶרֶף"
+      ],
+      "target": [
+        "34002012019|with",
+        "34002012020|prey"
+      ],
+      "meta": {
+        "id": "34002012.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130101|וּ",
+        "o340020130102|מְעֹנֹתָי",
+        "o340020130103|ו"
+      ],
+      "target": [
+        "34002012022|his",
+        "34002012023|dens"
+      ],
+      "meta": {
+        "id": "34002012.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020130111|טְרֵפָה"
+      ],
+      "target": [
+        "34002012024|with",
+        "34002012025|torn",
+        "34002012026|carcasses"
+      ],
+      "meta": {
+        "id": "34002012.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140021|אֵלַיִ",
+        "o340020140022|ךְ"
+      ],
+      "target": [
+        "34002013005|against",
+        "34002013006|you"
+      ],
+      "meta": {
+        "id": "34002013.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140031|נְאֻם"
+      ],
+      "target": [
+        "34002013008|the",
+        "34002013009|declaration",
+        "34002013010|of"
+      ],
+      "meta": {
+        "id": "34002013.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140041|יְהוָה"
+      ],
+      "target": [
+        "34002013011|Yahweh",
+        "34002013012|of"
+      ],
+      "meta": {
+        "id": "34002013.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140061|וְ",
+        "o340020140062|הִבְעַרְתִּי"
+      ],
+      "target": [
+        "34002013015|I",
+        "34002013016|will",
+        "34002013017|burn"
+      ],
+      "meta": {
+        "id": "34002013.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140071|בֶ",
+        "o340020140072|עָשָׁן"
+      ],
+      "target": [
+        "34002013020|in",
+        "34002013021|the",
+        "34002013022|smoke"
+      ],
+      "meta": {
+        "id": "34002013.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140091|וּ",
+        "o340020140092|כְפִירַיִ",
+        "o340020140093|ךְ"
+      ],
+      "target": [
+        "34002013024|and",
+        "34002013029|your",
+        "34002013030|young",
+        "34002013031|lions"
+      ],
+      "meta": {
+        "id": "34002013.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140111|חָרֶב"
+      ],
+      "target": [
+        "34002013025|the",
+        "34002013026|sword"
+      ],
+      "meta": {
+        "id": "34002013.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140101|תֹּאכַל"
+      ],
+      "target": [
+        "34002013027|will",
+        "34002013028|devour"
+      ],
+      "meta": {
+        "id": "34002013.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140121|וְ",
+        "o340020140122|הִכְרַתִּי"
+      ],
+      "target": [
+        "34002013033|I",
+        "34002013034|will",
+        "34002013035|cut",
+        "34002013036|off"
+      ],
+      "meta": {
+        "id": "34002013.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140141|טַרְפֵּ",
+        "o340020140142|ךְ"
+      ],
+      "target": [
+        "34002013037|your",
+        "34002013038|prey"
+      ],
+      "meta": {
+        "id": "34002013.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140131|מֵ",
+        "o340020140132|אֶרֶץ"
+      ],
+      "target": [
+        "34002013039|from",
+        "34002013040|your",
+        "34002013041|land"
+      ],
+      "meta": {
+        "id": "34002013.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140151|וְ",
+        "o340020140152|לֹא"
+      ],
+      "target": [
+        "34002013043|and",
+        "34002013052|no"
+      ],
+      "meta": {
+        "id": "34002013.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140181|קוֹל"
+      ],
+      "target": [
+        "34002013044|the",
+        "34002013045|voices",
+        "34002013046|of"
+      ],
+      "meta": {
+        "id": "34002013.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140191|מַלְאָכֵ",
+        "o340020140192|כֵה"
+      ],
+      "target": [
+        "34002013047|your",
+        "34002013048|messengers"
+      ],
+      "meta": {
+        "id": "34002013.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140161|יִשָּׁמַע"
+      ],
+      "target": [
+        "34002013049|will",
+        "34002013050|be",
+        "34002013051|heard"
+      ],
+      "meta": {
+        "id": "34002013.19",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340020140171|עוֹד"
+      ],
+      "target": [
+        "34002013053|more"
+      ],
+      "meta": {
+        "id": "34002013.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010011|הוֹי"
+      ],
+      "target": [
+        "34003001001|Woe"
+      ],
+      "meta": {
+        "id": "34003001.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010021|עִיר"
+      ],
+      "target": [
+        "34003001002|to",
+        "34003001003|the",
+        "34003001004|city"
+      ],
+      "meta": {
+        "id": "34003001.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010031|דָּמִים"
+      ],
+      "target": [
+        "34003001009|of"
+      ],
+      "meta": {
+        "id": "34003001.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010071|מְלֵאָה"
+      ],
+      "target": [
+        "34003001012|is",
+        "34003001016|full",
+        "34003001017|of"
+      ],
+      "meta": {
+        "id": "34003001.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010101|טָרֶף"
+      ],
+      "target": [
+        "34003001021|prey"
+      ],
+      "meta": {
+        "id": "34003001.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010081|לֹא"
+      ],
+      "target": [
+        "34003001022|never"
+      ],
+      "meta": {
+        "id": "34003001.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030010091|יָמִישׁ"
+      ],
+      "target": [
+        "34003001023|departs"
+      ],
+      "meta": {
+        "id": "34003001.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020011|קוֹל"
+      ],
+      "target": [
+        "34003002003|of"
+      ],
+      "meta": {
+        "id": "34003002.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020021|שׁוֹט"
+      ],
+      "target": [
+        "34003002005|whip"
+      ],
+      "meta": {
+        "id": "34003002.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020031|וְ",
+        "o340030020032|קוֹל"
+      ],
+      "target": [
+        "34003002006|and",
+        "34003002007|the",
+        "34003002008|sound",
+        "34003002009|of"
+      ],
+      "meta": {
+        "id": "34003002.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020041|רַעַשׁ"
+      ],
+      "target": [
+        "34003002011|rattling"
+      ],
+      "meta": {
+        "id": "34003002.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020051|אוֹפָן"
+      ],
+      "target": [
+        "34003002012|wheel"
+      ],
+      "meta": {
+        "id": "34003002.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020071|דֹּהֵר"
+      ],
+      "target": [
+        "34003002015|galloping"
+      ],
+      "meta": {
+        "id": "34003002.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020061|וְ",
+        "o340030020062|סוּס"
+      ],
+      "target": [
+        "34003002016|horse"
+      ],
+      "meta": {
+        "id": "34003002.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020081|וּ",
+        "o340030020082|מֶרְכָּבָה"
+      ],
+      "target": [
+        "34003002017|and",
+        "34003002020|chariot"
+      ],
+      "meta": {
+        "id": "34003002.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030020091|מְרַקֵּדָה"
+      ],
+      "target": [
+        "34003002019|bounding"
+      ],
+      "meta": {
+        "id": "34003002.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030011|פָּרָשׁ"
+      ],
+      "target": [
+        "34003003003|horseman"
+      ],
+      "meta": {
+        "id": "34003003.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030021|מַעֲלֶה"
+      ],
+      "target": [
+        "34003003002|charging"
+      ],
+      "meta": {
+        "id": "34003003.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030071|וְ",
+        "o340030030072|רֹב"
+      ],
+      "target": [
+        "34003003017|many"
+      ],
+      "meta": {
+        "id": "34003003.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030081|חָלָל"
+      ],
+      "target": [
+        "34003003018|slain"
+      ],
+      "meta": {
+        "id": "34003003.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030091|וְ",
+        "o340030030092|כֹבֶד"
+      ],
+      "target": [
+        "34003003020|heaps",
+        "34003003021|of"
+      ],
+      "meta": {
+        "id": "34003003.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030101|פָּגֶר"
+      ],
+      "target": [
+        "34003003022|corpses"
+      ],
+      "meta": {
+        "id": "34003003.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030111|וְ",
+        "o340030030112|אֵין"
+      ],
+      "target": [
+        "34003003024|There",
+        "34003003025|is",
+        "34003003026|no"
+      ],
+      "meta": {
+        "id": "34003003.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030121|קֵצֶה"
+      ],
+      "target": [
+        "34003003027|end"
+      ],
+      "meta": {
+        "id": "34003003.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030131|לַ",
+        "o340030030132|גְּוִיָּה"
+      ],
+      "target": [
+        "34003003028|to",
+        "34003003029|the",
+        "34003003030|dead",
+        "34003003031|bodies"
+      ],
+      "meta": {
+        "id": "34003003.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030030161|בִּ",
+        "o340030030162|גְוִיָּתָ",
+        "o340030030163|ם"
+      ],
+      "target": [
+        "34003003034|stumble",
+        "34003003035|over",
+        "34003003036|their",
+        "34003003037|dead",
+        "34003003038|bodies"
+      ],
+      "meta": {
+        "id": "34003003.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040011|מֵ",
+        "o340030040012|רֹב"
+      ],
+      "target": [
+        "34003004002|the",
+        "34003004003|many"
+      ],
+      "meta": {
+        "id": "34003004.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040021|זְנוּנֵי"
+      ],
+      "target": [
+        "34003004004|harlotries",
+        "34003004005|of"
+      ],
+      "meta": {
+        "id": "34003004.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040031|זוֹנָה"
+      ],
+      "target": [
+        "34003004006|the",
+        "34003004007|prostitute"
+      ],
+      "meta": {
+        "id": "34003004.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040061|בַּעֲלַת"
+      ],
+      "target": [
+        "34003004013|the",
+        "34003004014|mistress",
+        "34003004015|of"
+      ],
+      "meta": {
+        "id": "34003004.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040071|כְּשָׁפִים"
+      ],
+      "target": [
+        "34003004016|witchcraft"
+      ],
+      "meta": {
+        "id": "34003004.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040091|גּוֹיִם"
+      ],
+      "target": [
+        "34003004021|nations"
+      ],
+      "meta": {
+        "id": "34003004.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040101|בִּ",
+        "o340030040102|זְנוּנֶי",
+        "o340030040103|הָ"
+      ],
+      "target": [
+        "34003004022|through",
+        "34003004023|her",
+        "34003004024|prostitution"
+      ],
+      "meta": {
+        "id": "34003004.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040111|וּ",
+        "o340030040112|מִשְׁפָּחוֹת"
+      ],
+      "target": [
+        "34003004026|and",
+        "34003004027|peoples"
+      ],
+      "meta": {
+        "id": "34003004.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030040121|בִּ",
+        "o340030040122|כְשָׁפֶי",
+        "o340030040123|הָ"
+      ],
+      "target": [
+        "34003004028|through",
+        "34003004029|her",
+        "34003004030|witchcraft"
+      ],
+      "meta": {
+        "id": "34003004.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050021|אֵלַיִ",
+        "o340030050022|ךְ"
+      ],
+      "target": [
+        "34003005005|against",
+        "34003005006|you"
+      ],
+      "meta": {
+        "id": "34003005.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050031|נְאֻם"
+      ],
+      "target": [
+        "34003005008|the",
+        "34003005009|declaration",
+        "34003005010|of"
+      ],
+      "meta": {
+        "id": "34003005.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050041|יְהוָה"
+      ],
+      "target": [
+        "34003005011|Yahweh",
+        "34003005012|of"
+      ],
+      "meta": {
+        "id": "34003005.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050061|וְ",
+        "o340030050062|גִלֵּיתִי"
+      ],
+      "target": [
+        "34003005015|I",
+        "34003005016|will"
+      ],
+      "meta": {
+        "id": "34003005.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050071|שׁוּלַיִ",
+        "o340030050072|ךְ"
+      ],
+      "target": [
+        "34003005018|your",
+        "34003005019|skirt"
+      ],
+      "meta": {
+        "id": "34003005.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050081|עַל"
+      ],
+      "target": [
+        "34003005020|over"
+      ],
+      "meta": {
+        "id": "34003005.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050091|פָּנָיִ",
+        "o340030050092|ךְ"
+      ],
+      "target": [
+        "34003005021|your",
+        "34003005022|face"
+      ],
+      "meta": {
+        "id": "34003005.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050101|וְ",
+        "o340030050102|הַרְאֵיתִי"
+      ],
+      "target": [
+        "34003005023|and",
+        "34003005024|show"
+      ],
+      "meta": {
+        "id": "34003005.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050111|גוֹיִם"
+      ],
+      "target": [
+        "34003005025|the",
+        "34003005026|nations"
+      ],
+      "meta": {
+        "id": "34003005.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050141|קְלוֹנֵ",
+        "o340030050142|ךְ"
+      ],
+      "target": [
+        "34003005027|your"
+      ],
+      "meta": {
+        "id": "34003005.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030050131|וּ",
+        "o340030050132|מַמְלָכוֹת"
+      ],
+      "target": [
+        "34003005030|the",
+        "34003005031|kingdoms"
+      ],
+      "meta": {
+        "id": "34003005.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030060011|וְ",
+        "o340030060012|הִשְׁלַכְתִּי"
+      ],
+      "target": [
+        "34003006001|I",
+        "34003006002|will",
+        "34003006003|throw"
+      ],
+      "meta": {
+        "id": "34003006.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030060031|שִׁקֻּצִים"
+      ],
+      "target": [
+        "34003006004|filth"
+      ],
+      "meta": {
+        "id": "34003006.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030060021|עָלַיִ",
+        "o340030060022|ךְ"
+      ],
+      "target": [
+        "34003006005|on",
+        "34003006006|you"
+      ],
+      "meta": {
+        "id": "34003006.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030060041|וְ",
+        "o340030060042|נִבַּלְתִּי",
+        "o340030060043|ךְ"
+      ],
+      "target": [
+        "34003006007|and",
+        "34003006009|you",
+        "34003006011|vile"
+      ],
+      "meta": {
+        "id": "34003006.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030060051|וְ",
+        "o340030060052|שַׂמְתִּי",
+        "o340030060053|ךְ"
+      ],
+      "target": [
+        "34003006013|I",
+        "34003006014|will",
+        "34003006016|you"
+      ],
+      "meta": {
+        "id": "34003006.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070011|וְ",
+        "o340030070012|הָיָה"
+      ],
+      "target": [
+        "34003007001|It",
+        "34003007002|will",
+        "34003007003|come",
+        "34003007004|about",
+        "34003007005|that"
+      ],
+      "meta": {
+        "id": "34003007.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070021|כָל"
+      ],
+      "target": [
+        "34003007006|everyone"
+      ],
+      "meta": {
+        "id": "34003007.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070031|רֹאַיִ",
+        "o340030070032|ךְ"
+      ],
+      "target": [
+        "34003007008|at",
+        "34003007009|you"
+      ],
+      "meta": {
+        "id": "34003007.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070041|יִדּוֹד"
+      ],
+      "target": [
+        "34003007010|will",
+        "34003007011|flee"
+      ],
+      "meta": {
+        "id": "34003007.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070051|מִמֵּ",
+        "o340030070052|ךְ"
+      ],
+      "target": [
+        "34003007012|from",
+        "34003007013|you"
+      ],
+      "meta": {
+        "id": "34003007.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070061|וְ",
+        "o340030070062|אָמַר"
+      ],
+      "target": [
+        "34003007014|and",
+        "34003007015|say"
+      ],
+      "meta": {
+        "id": "34003007.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070081|נִינְוֵה"
+      ],
+      "target": [
+        "34003007018|Nineveh"
+      ],
+      "meta": {
+        "id": "34003007.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070071|שָׁדְּדָה"
+      ],
+      "target": [
+        "34003007019|is",
+        "34003007020|destroyed"
+      ],
+      "meta": {
+        "id": "34003007.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070091|מִי"
+      ],
+      "target": [
+        "34003007022|who"
+      ],
+      "meta": {
+        "id": "34003007.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070101|יָנוּד"
+      ],
+      "target": [
+        "34003007023|will"
+      ],
+      "meta": {
+        "id": "34003007.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070111|לָ",
+        "o340030070112|הּ"
+      ],
+      "target": [
+        "34003007026|her"
+      ],
+      "meta": {
+        "id": "34003007.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070121|מֵ",
+        "o340030070122|אַיִן"
+      ],
+      "target": [
+        "34003007026|her"
+      ],
+      "meta": {
+        "id": "34003007.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070131|אֲבַקֵּשׁ"
+      ],
+      "target": [
+        "34003007031|can",
+        "34003007032|I",
+        "34003007033|find"
+      ],
+      "meta": {
+        "id": "34003007.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030070151|לָ",
+        "o340030070152|ךְ"
+      ],
+      "target": [
+        "34003007037|you"
+      ],
+      "meta": {
+        "id": "34003007.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080011|הֲ",
+        "o340030080012|תֵיטְבִי"
+      ],
+      "target": [
+        "34003008002|you",
+        "34003008003|better"
+      ],
+      "meta": {
+        "id": "34003008.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080021|מִ",
+        "o340030080022|נֹּא",
+        "o340030080031|אָמוֹן"
+      ],
+      "target": [
+        "34003008004|than",
+        "34003008005|Thebes"
+      ],
+      "meta": {
+        "id": "34003008.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080051|בַּ",
+        "o340030080052|יְאֹרִים"
+      ],
+      "target": [
+        "34003008008|on",
+        "34003008009|the",
+        "34003008010|Nile",
+        "34003008011|River"
+      ],
+      "meta": {
+        "id": "34003008.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080061|מַיִם"
+      ],
+      "target": [
+        "34003008013|water"
+      ],
+      "meta": {
+        "id": "34003008.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080071|סָבִיב"
+      ],
+      "target": [
+        "34003008015|around"
+      ],
+      "meta": {
+        "id": "34003008.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080081|לָ",
+        "o340030080082|הּ"
+      ],
+      "target": [
+        "34003008016|her"
+      ],
+      "meta": {
+        "id": "34003008.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080091|אֲשֶׁר"
+      ],
+      "target": [
+        "34003008018|whose"
+      ],
+      "meta": {
+        "id": "34003008.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080101|חֵיל"
+      ],
+      "target": [
+        "34003008019|defense"
+      ],
+      "meta": {
+        "id": "34003008.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080111|יָם"
+      ],
+      "target": [
+        "34003008021|was",
+        "34003008023|the"
+      ],
+      "meta": {
+        "id": "34003008.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030080121|מִ",
+        "o340030080122|יָּם"
+      ],
+      "target": [
+        "34003008024|sea"
+      ],
+      "meta": {
+        "id": "34003008.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090011|כּוּשׁ"
+      ],
+      "target": [
+        "34003009001|Cush"
+      ],
+      "meta": {
+        "id": "34003009.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090031|וּ",
+        "o340030090032|מִצְרַיִם"
+      ],
+      "target": [
+        "34003009002|and",
+        "34003009003|Egypt"
+      ],
+      "meta": {
+        "id": "34003009.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090021|עָצְמָ",
+        "o340030090022|ה"
+      ],
+      "target": [
+        "34003009005|were",
+        "34003009007|her",
+        "34003009008|strength"
+      ],
+      "meta": {
+        "id": "34003009.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090041|וְ",
+        "o340030090042|אֵין"
+      ],
+      "target": [
+        "34003009010|and",
+        "34003009011|there",
+        "34003009012|was",
+        "34003009013|no"
+      ],
+      "meta": {
+        "id": "34003009.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090051|קֵצֶה"
+      ],
+      "target": [
+        "34003009014|end"
+      ],
+      "meta": {
+        "id": "34003009.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090061|פּוּט"
+      ],
+      "target": [
+        "34003009016|Put"
+      ],
+      "meta": {
+        "id": "34003009.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090071|וְ",
+        "o340030090072|לוּבִים"
+      ],
+      "target": [
+        "34003009017|and",
+        "34003009018|Libya"
+      ],
+      "meta": {
+        "id": "34003009.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090081|הָיוּ"
+      ],
+      "target": [
+        "34003009019|were"
+      ],
+      "meta": {
+        "id": "34003009.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030090091|בְּ",
+        "o340030090092|עֶזְרָתֵ",
+        "o340030090093|ךְ"
+      ],
+      "target": [
+        "34003009022|allies"
+      ],
+      "meta": {
+        "id": "34003009.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100011|גַּם"
+      ],
+      "target": [
+        "34003010001|Yet"
+      ],
+      "meta": {
+        "id": "34003010.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100041|הָלְכָה"
+      ],
+      "target": [
+        "34003010002|she",
+        "34003010006|went"
+      ],
+      "meta": {
+        "id": "34003010.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100051|בַ",
+        "o340030100052|שֶּׁבִי"
+      ],
+      "target": [
+        "34003010007|into",
+        "34003010008|captivity"
+      ],
+      "meta": {
+        "id": "34003010.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100061|גַּם",
+        "o340030100071|עֹלָלֶי",
+        "o340030100072|הָ"
+      ],
+      "target": [
+        "34003010011|her",
+        "34003010012|young",
+        "34003010013|children"
+      ],
+      "meta": {
+        "id": "34003010.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100081|יְרֻטְּשׁוּ"
+      ],
+      "target": [
+        "34003010014|were",
+        "34003010015|dashed",
+        "34003010016|in",
+        "34003010017|pieces"
+      ],
+      "meta": {
+        "id": "34003010.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100091|בְּ",
+        "o340030100092|רֹאשׁ"
+      ],
+      "target": [
+        "34003010018|at",
+        "34003010019|the",
+        "34003010020|head",
+        "34003010021|of"
+      ],
+      "meta": {
+        "id": "34003010.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100101|כָּל"
+      ],
+      "target": [
+        "34003010022|every"
+      ],
+      "meta": {
+        "id": "34003010.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100111|חוּצוֹת"
+      ],
+      "target": [
+        "34003010023|street"
+      ],
+      "meta": {
+        "id": "34003010.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100141|יַדּוּ"
+      ],
+      "target": [
+        "34003010027|her"
+      ],
+      "meta": {
+        "id": "34003010.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100151|גוֹרָל"
+      ],
+      "target": [
+        "34003010032|lots"
+      ],
+      "meta": {
+        "id": "34003010.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100161|וְ",
+        "o340030100162|כָל"
+      ],
+      "target": [
+        "34003010034|and",
+        "34003010035|all"
+      ],
+      "meta": {
+        "id": "34003010.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100171|גְּדוֹלֶי",
+        "o340030100172|הָ"
+      ],
+      "target": [
+        "34003010036|her",
+        "34003010037|great"
+      ],
+      "meta": {
+        "id": "34003010.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100181|רֻתְּקוּ"
+      ],
+      "target": [
+        "34003010039|were",
+        "34003010040|bound"
+      ],
+      "meta": {
+        "id": "34003010.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030100191|בַ",
+        "o340030100192|זִּקִּים"
+      ],
+      "target": [
+        "34003010041|in",
+        "34003010042|chains"
+      ],
+      "meta": {
+        "id": "34003010.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110021|אַתְּ"
+      ],
+      "target": [
+        "34003011001|You"
+      ],
+      "meta": {
+        "id": "34003011.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110011|גַּם"
+      ],
+      "target": [
+        "34003011002|also"
+      ],
+      "meta": {
+        "id": "34003011.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110031|תִּשְׁכְּרִי"
+      ],
+      "target": [
+        "34003011003|will",
+        "34003011004|become",
+        "34003011005|drunk"
+      ],
+      "meta": {
+        "id": "34003011.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110041|תְּהִי"
+      ],
+      "target": [
+        "34003011007|you",
+        "34003011008|will"
+      ],
+      "meta": {
+        "id": "34003011.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110071|אַתְּ"
+      ],
+      "target": [
+        "34003011012|you"
+      ],
+      "meta": {
+        "id": "34003011.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110061|גַּם"
+      ],
+      "target": [
+        "34003011013|also"
+      ],
+      "meta": {
+        "id": "34003011.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110091|מָעוֹז"
+      ],
+      "target": [
+        "34003011016|a",
+        "34003011017|refuge"
+      ],
+      "meta": {
+        "id": "34003011.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030110101|מֵ",
+        "o340030110102|אוֹיֵב"
+      ],
+      "target": [
+        "34003011018|from",
+        "34003011019|your",
+        "34003011020|enemy"
+      ],
+      "meta": {
+        "id": "34003011.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120011|כָּל"
+      ],
+      "target": [
+        "34003012001|All"
+      ],
+      "meta": {
+        "id": "34003012.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120021|מִבְצָרַיִ",
+        "o340030120022|ךְ"
+      ],
+      "target": [
+        "34003012003|your",
+        "34003012004|fortresses"
+      ],
+      "meta": {
+        "id": "34003012.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120031|תְּאֵנִים"
+      ],
+      "target": [
+        "34003012008|fig",
+        "34003012009|trees"
+      ],
+      "meta": {
+        "id": "34003012.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120041|עִם"
+      ],
+      "target": [
+        "34003012010|with"
+      ],
+      "meta": {
+        "id": "34003012.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120061|אִם"
+      ],
+      "target": [
+        "34003012014|if"
+      ],
+      "meta": {
+        "id": "34003012.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120071|יִנּוֹעוּ"
+      ],
+      "target": [
+        "34003012015|they",
+        "34003012016|are",
+        "34003012017|shaken"
+      ],
+      "meta": {
+        "id": "34003012.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120081|וְ",
+        "o340030120082|נָפְלוּ"
+      ],
+      "target": [
+        "34003012019|they",
+        "34003012020|fall"
+      ],
+      "meta": {
+        "id": "34003012.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120091|עַל"
+      ],
+      "target": [
+        "34003012021|into"
+      ],
+      "meta": {
+        "id": "34003012.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120101|פִּי"
+      ],
+      "target": [
+        "34003012022|the",
+        "34003012023|mouth",
+        "34003012024|of"
+      ],
+      "meta": {
+        "id": "34003012.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030120111|אוֹכֵל"
+      ],
+      "target": [
+        "34003012025|the",
+        "34003012026|eater"
+      ],
+      "meta": {
+        "id": "34003012.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130021|עַמֵּ",
+        "o340030130022|ךְ"
+      ],
+      "target": [
+        "34003013004|people"
+      ],
+      "meta": {
+        "id": "34003013.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130031|נָשִׁים"
+      ],
+      "target": [
+        "34003013006|are",
+        "34003013008|women"
+      ],
+      "meta": {
+        "id": "34003013.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130081|שַׁעֲרֵי"
+      ],
+      "target": [
+        "34003013013|the",
+        "34003013014|gates",
+        "34003013015|of"
+      ],
+      "meta": {
+        "id": "34003013.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130091|אַרְצֵ",
+        "o340030130092|ךְ"
+      ],
+      "target": [
+        "34003013016|your",
+        "34003013017|land"
+      ],
+      "meta": {
+        "id": "34003013.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130071|נִפְתְּחוּ"
+      ],
+      "target": [
+        "34003013019|have",
+        "34003013020|been",
+        "34003013021|opened"
+      ],
+      "meta": {
+        "id": "34003013.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130051|לְ",
+        "o340030130052|אֹיְבַיִ",
+        "o340030130053|ךְ"
+      ],
+      "target": [
+        "34003013022|to",
+        "34003013023|your",
+        "34003013024|enemies"
+      ],
+      "meta": {
+        "id": "34003013.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130111|אֵשׁ"
+      ],
+      "target": [
+        "34003013026|fire"
+      ],
+      "meta": {
+        "id": "34003013.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130101|אָכְלָה"
+      ],
+      "target": [
+        "34003013027|has",
+        "34003013028|devoured"
+      ],
+      "meta": {
+        "id": "34003013.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030130121|בְּרִיחָיִ",
+        "o340030130122|ך"
+      ],
+      "target": [
+        "34003013030|bars"
+      ],
+      "meta": {
+        "id": "34003013.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140031|שַׁאֲבִי",
+        "o340030140041|לָ",
+        "o340030140042|ךְ"
+      ],
+      "target": [
+        "34003014004|for"
+      ],
+      "meta": {
+        "id": "34003014.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140011|מֵי"
+      ],
+      "target": [
+        "34003014003|water"
+      ],
+      "meta": {
+        "id": "34003014.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140051|חַזְּקִי"
+      ],
+      "target": [
+        "34003014007|strengthen"
+      ],
+      "meta": {
+        "id": "34003014.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140061|מִבְצָרָיִ",
+        "o340030140062|ךְ"
+      ],
+      "target": [
+        "34003014008|your",
+        "34003014009|fortresses"
+      ],
+      "meta": {
+        "id": "34003014.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140071|בֹּאִי"
+      ],
+      "target": [
+        "34003014011|go"
+      ],
+      "meta": {
+        "id": "34003014.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140081|בַ",
+        "o340030140082|טִּיט"
+      ],
+      "target": [
+        "34003014012|into",
+        "34003014013|the",
+        "34003014014|clay"
+      ],
+      "meta": {
+        "id": "34003014.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140091|וְ",
+        "o340030140092|רִמְסִי"
+      ],
+      "target": [
+        "34003014015|and",
+        "34003014016|tread"
+      ],
+      "meta": {
+        "id": "34003014.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140101|בַ",
+        "o340030140102|חֹמֶר"
+      ],
+      "target": [
+        "34003014018|the",
+        "34003014019|mortar"
+      ],
+      "meta": {
+        "id": "34003014.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140111|הַחֲזִיקִי"
+      ],
+      "target": [
+        "34003014021|pick",
+        "34003014022|up"
+      ],
+      "meta": {
+        "id": "34003014.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030140121|מַלְבֵּן"
+      ],
+      "target": [
+        "34003014023|the",
+        "34003014025|mold"
+      ],
+      "meta": {
+        "id": "34003014.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150031|אֵשׁ"
+      ],
+      "target": [
+        "34003015001|Fire"
+      ],
+      "meta": {
+        "id": "34003015.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150021|תֹּאכְלֵ",
+        "o340030150022|ךְ"
+      ],
+      "target": [
+        "34003015002|will",
+        "34003015003|devour",
+        "34003015004|you"
+      ],
+      "meta": {
+        "id": "34003015.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150011|שָׁם"
+      ],
+      "target": [
+        "34003015005|there"
+      ],
+      "meta": {
+        "id": "34003015.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150051|חֶרֶב"
+      ],
+      "target": [
+        "34003015007|and",
+        "34003015008|the",
+        "34003015009|sword"
+      ],
+      "meta": {
+        "id": "34003015.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150041|תַּכְרִיתֵ",
+        "o340030150042|ךְ"
+      ],
+      "target": [
+        "34003015010|will",
+        "34003015011|cut",
+        "34003015012|you",
+        "34003015013|off"
+      ],
+      "meta": {
+        "id": "34003015.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150061|תֹּאכְלֵ",
+        "o340030150062|ךְ"
+      ],
+      "target": [
+        "34003015015|It",
+        "34003015016|will",
+        "34003015017|devour",
+        "34003015018|you"
+      ],
+      "meta": {
+        "id": "34003015.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150071|כַּ",
+        "o340030150072|יָּלֶק"
+      ],
+      "target": [
+        "34003015019|as",
+        "34003015021|creeping",
+        "34003015022|locust"
+      ],
+      "meta": {
+        "id": "34003015.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150091|כַּ",
+        "o340030150092|יֶּלֶק"
+      ],
+      "target": [
+        "34003015026|as",
+        "34003015027|the",
+        "34003015028|creeping",
+        "34003015029|locust"
+      ],
+      "meta": {
+        "id": "34003015.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030150111|כָּ",
+        "o340030150112|אַרְבֶּה"
+      ],
+      "target": [
+        "34003015033|as",
+        "34003015034|the",
+        "34003015035|swarming",
+        "34003015036|locust"
+      ],
+      "meta": {
+        "id": "34003015.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030160011|הִרְבֵּית"
+      ],
+      "target": [
+        "34003016001|You",
+        "34003016002|have",
+        "34003016003|multiplied"
+      ],
+      "meta": {
+        "id": "34003016.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030160021|רֹכְלַיִ",
+        "o340030160022|ךְ"
+      ],
+      "target": [
+        "34003016004|your",
+        "34003016005|merchants"
+      ],
+      "meta": {
+        "id": "34003016.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030160031|מִ",
+        "o340030160032|כּוֹכְבֵי"
+      ],
+      "target": [
+        "34003016006|more",
+        "34003016007|than",
+        "34003016008|the",
+        "34003016009|stars"
+      ],
+      "meta": {
+        "id": "34003016.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030160041|הַ",
+        "o340030160042|שָּׁמָיִם"
+      ],
+      "target": [
+        "34003016011|the",
+        "34003016012|heavens"
+      ],
+      "meta": {
+        "id": "34003016.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030160071|וַ",
+        "o340030160072|יָּעֹף"
+      ],
+      "target": [
+        "34003016017|and",
+        "34003016019|away"
+      ],
+      "meta": {
+        "id": "34003016.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170011|מִנְּזָרַיִ",
+        "o340030170012|ךְ"
+      ],
+      "target": [
+        "34003017001|Your"
+      ],
+      "meta": {
+        "id": "34003017.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170021|כָּ",
+        "o340030170022|אַרְבֶּה"
+      ],
+      "target": [
+        "34003017004|are",
+        "34003017006|like",
+        "34003017008|locust"
+      ],
+      "meta": {
+        "id": "34003017.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170031|וְ",
+        "o340030170032|טַפְסְרַיִ",
+        "o340030170033|ךְ"
+      ],
+      "target": [
+        "34003017010|and",
+        "34003017011|your",
+        "34003017012|generals"
+      ],
+      "meta": {
+        "id": "34003017.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170041|כְּ",
+        "o340030170042|גוֹב",
+        "o340030170051|גֹּבָי"
+      ],
+      "target": [
+        "34003017014|like",
+        "34003017016|swarm",
+        "34003017017|of",
+        "34003017018|locusts"
+      ],
+      "meta": {
+        "id": "34003017.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170071|בַּ",
+        "o340030170072|גְּדֵרוֹת"
+      ],
+      "target": [
+        "34003017023|on",
+        "34003017024|the",
+        "34003017025|walls"
+      ],
+      "meta": {
+        "id": "34003017.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170081|בְּ",
+        "o340030170082|יוֹם"
+      ],
+      "target": [
+        "34003017026|on",
+        "34003017027|a",
+        "34003017029|day"
+      ],
+      "meta": {
+        "id": "34003017.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170091|קָרָה"
+      ],
+      "target": [
+        "34003017028|cold"
+      ],
+      "meta": {
+        "id": "34003017.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170101|שֶׁמֶשׁ"
+      ],
+      "target": [
+        "34003017032|sun"
+      ],
+      "meta": {
+        "id": "34003017.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170121|וְ",
+        "o340030170122|נוֹדַד"
+      ],
+      "target": [
+        "34003017037|away"
+      ],
+      "meta": {
+        "id": "34003017.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170131|וְ",
+        "o340030170132|לֹא"
+      ],
+      "target": [
+        "34003017038|and",
+        "34003017042|not"
+      ],
+      "meta": {
+        "id": "34003017.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030170151|מְקוֹמ",
+        "o340030170152|וֹ",
+        "o340030170161|אַיָּ",
+        "o340030170162|ם"
+      ],
+      "target": [
+        "34003017044|where",
+        "34003017045|they",
+        "34003017046|are"
+      ],
+      "meta": {
+        "id": "34003017.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180031|מֶלֶךְ"
+      ],
+      "target": [
+        "34003018001|King",
+        "34003018002|of"
+      ],
+      "meta": {
+        "id": "34003018.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180041|אַשּׁוּר"
+      ],
+      "target": [
+        "34003018003|Assyria"
+      ],
+      "meta": {
+        "id": "34003018.2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180021|רֹעֶי",
+        "o340030180022|ךָ"
+      ],
+      "target": [
+        "34003018005|your",
+        "34003018006|shepherds"
+      ],
+      "meta": {
+        "id": "34003018.3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180011|נָמוּ"
+      ],
+      "target": [
+        "34003018007|are",
+        "34003018008|asleep"
+      ],
+      "meta": {
+        "id": "34003018.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180061|אַדִּירֶי",
+        "o340030180062|ךָ"
+      ],
+      "target": [
+        "34003018010|your",
+        "34003018011|nobles"
+      ],
+      "meta": {
+        "id": "34003018.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180051|יִשְׁכְּנוּ"
+      ],
+      "target": [
+        "34003018012|are",
+        "34003018013|lying",
+        "34003018014|down"
+      ],
+      "meta": {
+        "id": "34003018.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180081|עַמְּ",
+        "o340030180082|ךָ"
+      ],
+      "target": [
+        "34003018016|Your",
+        "34003018017|people"
+      ],
+      "meta": {
+        "id": "34003018.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180071|נָפֹשׁוּ"
+      ],
+      "target": [
+        "34003018018|are",
+        "34003018019|scattered"
+      ],
+      "meta": {
+        "id": "34003018.8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180091|עַל"
+      ],
+      "target": [
+        "34003018020|on"
+      ],
+      "meta": {
+        "id": "34003018.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180101|הֶ",
+        "o340030180102|הָרִים"
+      ],
+      "target": [
+        "34003018021|the",
+        "34003018022|mountains"
+      ],
+      "meta": {
+        "id": "34003018.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180111|וְ",
+        "o340030180112|אֵין"
+      ],
+      "target": [
+        "34003018024|and",
+        "34003018025|there",
+        "34003018026|is",
+        "34003018027|no",
+        "34003018028|one"
+      ],
+      "meta": {
+        "id": "34003018.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030180121|מְקַבֵּץ"
+      ],
+      "target": [
+        "34003018031|them"
+      ],
+      "meta": {
+        "id": "34003018.12",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190011|אֵין"
+      ],
+      "target": [
+        "34003019002|is"
+      ],
+      "meta": {
+        "id": "34003019.1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190031|לְ",
+        "o340030190032|שִׁבְרֶ",
+        "o340030190033|ךָ"
+      ],
+      "target": [
+        "34003019005|for",
+        "34003019006|your"
+      ],
+      "meta": {
+        "id": "34003019.4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190051|מַכָּתֶ",
+        "o340030190052|ךָ"
+      ],
+      "target": [
+        "34003019009|Your",
+        "34003019010|wound"
+      ],
+      "meta": {
+        "id": "34003019.5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190041|נַחְלָה"
+      ],
+      "target": [
+        "34003019012|severe"
+      ],
+      "meta": {
+        "id": "34003019.6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190061|כֹּל"
+      ],
+      "target": [
+        "34003019014|Everyone"
+      ],
+      "meta": {
+        "id": "34003019.7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190081|שִׁמְעֲ",
+        "o340030190082|ךָ"
+      ],
+      "target": [
+        "34003019016|the",
+        "34003019017|news",
+        "34003019019|you"
+      ],
+      "meta": {
+        "id": "34003019.9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190091|תָּקְעוּ"
+      ],
+      "target": [
+        "34003019020|will",
+        "34003019021|clap"
+      ],
+      "meta": {
+        "id": "34003019.10",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190101|כַף"
+      ],
+      "target": [
+        "34003019023|their",
+        "34003019025|hands"
+      ],
+      "meta": {
+        "id": "34003019.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190111|עָלֶי",
+        "o340030190112|ךָ"
+      ],
+      "target": [
+        "34003019026|over",
+        "34003019027|you"
+      ],
+      "meta": {
+        "id": "34003019.13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190121|כִּי"
+      ],
+      "target": [
+        "34003019029|For"
+      ],
+      "meta": {
+        "id": "34003019.14",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190131|עַל"
+      ],
+      "target": [
+        "34003019030|upon"
+      ],
+      "meta": {
+        "id": "34003019.15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190141|מִי"
+      ],
+      "target": [
+        "34003019031|whom"
+      ],
+      "meta": {
+        "id": "34003019.16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190161|עָבְרָה"
+      ],
+      "target": [
+        "34003019032|has",
+        "34003019034|come"
+      ],
+      "meta": {
+        "id": "34003019.17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190151|לֹא"
+      ],
+      "target": [
+        "34003019033|not"
+      ],
+      "meta": {
+        "id": "34003019.18",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190171|רָעָתְ",
+        "o340030190172|ךָ"
+      ],
+      "target": [
+        "34003019035|your",
+        "34003019037|evil"
+      ],
+      "meta": {
+        "id": "34003019.20",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "o340030190181|תָּמִיד"
+      ],
+      "target": [
+        "34003019036|endless"
+      ],
+      "meta": {
+        "id": "34003019.21",
+        "origin": "manual",
+        "status": "created"
+      }
+    }
+  ]
+}

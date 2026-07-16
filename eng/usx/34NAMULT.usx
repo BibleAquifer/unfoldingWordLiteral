@@ -1,61 +1,273 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <usx version="3.1">
-<book code="NAM" style="id">- unfoldingWord Literal -</book>
-<para style="h">Nahum</para>
-<para style="toc1">Nahum</para>
-<para style="toc2">Nahum</para>
-<para style="mt1">Nahum</para>
-<chapter number="1" style="c" sid="NAM 1"/>
-<para style="p"><verse number="1" style="v" sid="NAM 1:1"/>The declaration about Nineveh. The book of the vision of Nahum, the Elkoshite.<verse eid="NAM 1:1"/></para>
-<para style="p"><verse number="2" style="v" sid="NAM 1:2"/>Yahweh is a jealous God and avenges; Yahweh avenges and is full of wrath; Yahweh takes vengeance on his adversaries, and he continues his anger for his enemies.<verse eid="NAM 1:2"/></para>
-<para style="p"><verse number="3" style="v" sid="NAM 1:3"/>Yahweh is slow to anger and great in power; he will certainly not allow the wicked to go unpunished. Yahweh makes his way in the whirlwind and the storm, and the clouds are the dust of his feet.<verse eid="NAM 1:3"/></para>
-<para style="p"><verse number="4" style="v" sid="NAM 1:4"/>He rebukes the sea and makes it dry; he dries up all the rivers. Bashan withers, and Carmel also; the flowers of Lebanon wither.<verse eid="NAM 1:4"/></para>
-<para style="p"><verse number="5" style="v" sid="NAM 1:5"/>The mountains shake in his presence, and the hills melt; the earth heaves in his presence, indeed, the world and all people who live in it.<verse eid="NAM 1:5"/></para>
-<para style="p"><verse number="6" style="v" sid="NAM 1:6"/>Who can stand before his indignation? Who can resist the fierceness of his anger? His wrath is poured out like fire, and the rocks are broken apart by him.<verse eid="NAM 1:6"/></para>
-<para style="p"><verse number="7" style="v" sid="NAM 1:7"/>Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him.<verse eid="NAM 1:7"/></para>
-<para style="p"><verse number="8" style="v" sid="NAM 1:8"/>But he will make a complete end to its place with an overwhelming flood; he will pursue his enemies into darkness.<verse eid="NAM 1:8"/></para>
-<para style="p"><verse number="9" style="v" sid="NAM 1:9"/>What are you people plotting against Yahweh? He will make a complete end to it; trouble will not rise up a second time.<verse eid="NAM 1:9"/></para>
-<para style="p"><verse number="10" style="v" sid="NAM 1:10"/>For they will become tangled up like thornbushes; and like those who are drunken with their drink; they will be devoured by fire like stubble fully dried.<verse eid="NAM 1:10"/></para>
-<para style="p"><verse number="11" style="v" sid="NAM 1:11"/>Someone arose among you, Nineveh, who planned evil against Yahweh, someone who promoted wickedness.<verse eid="NAM 1:11"/></para>
-<para style="p"><verse number="12" style="v" sid="NAM 1:12"/>This is what Yahweh says, “Even if they are at their full strength and full numbers, they will nevertheless be cut off; their people will be no more. But you, Judah: Though I have afflicted you, I will afflict you no more.<verse eid="NAM 1:12"/></para>
-<para style="p"><verse number="13" style="v" sid="NAM 1:13"/>Now will I break that people’s yoke from off you; I will break your chains.”<verse eid="NAM 1:13"/></para>
-<para style="p"><verse number="14" style="v" sid="NAM 1:14"/>Yahweh has given a command about you, Nineveh: “There will be no more descendants bearing your name. I will cut off the carved figures and the cast metal figures from the houses of your gods. I will dig your graves, for you are contemptible.”<verse eid="NAM 1:14"/></para>
-<para style="p"><verse number="15" style="v" sid="NAM 1:15"/>Look, on the mountains there are the feet of him who is bringing good news, who is announcing peace! Celebrate your festivals, O Judah, and keep your vows, for the wicked one will invade you no more; he is completely cut off.<verse eid="NAM 1:15"/></para>
-<chapter eid="NAM 1"/>
-<chapter number="2" style="c" sid="NAM 2"/>
-<para style="p"><verse number="1" style="v" sid="NAM 2:1"/>The one who will scatter you is coming up against you. Guard the city walls, watch the roads, gird your loins, marshal all your strength.<verse eid="NAM 2:1"/></para>
-<para style="p"><verse number="2" style="v" sid="NAM 2:2"/>For Yahweh is restoring the majesty of Jacob, like the majesty of Israel, although the plunderers devastated them and destroyed their vine branches.<verse eid="NAM 2:2"/></para>
-<para style="p"><verse number="3" style="v" sid="NAM 2:3"/>The shields of his mighty men are red, and the soldiers are clothed in scarlet; the chariots flash with their metal on the day that they are made ready, and the cypress spears are brandished.<verse eid="NAM 2:3"/></para>
-<para style="p"><verse number="4" style="v" sid="NAM 2:4"/>The chariots race madly through the streets; they rush back and forth in the squares. They look like torches, and they run like lightning.<verse eid="NAM 2:4"/></para>
-<para style="p"><verse number="5" style="v" sid="NAM 2:5"/>The invader calls his officers; they stumble in their marching; they hurry to attack the city wall. The large shield used in a siege is made ready to protect these attackers.<verse eid="NAM 2:5"/></para>
-<para style="p"><verse number="6" style="v" sid="NAM 2:6"/>The gates at the rivers are forced open, and the palace melts away.<verse eid="NAM 2:6"/></para>
-<para style="p"><verse number="7" style="v" sid="NAM 2:7"/>It is decreed: she is stripped of her clothes and is taken away; her female servants moan like doves, beating on their breasts.<verse eid="NAM 2:7"/></para>
-<para style="p"><verse number="8" style="v" sid="NAM 2:8"/>Though Nineveh was like a pool of water throughout her days, now its people are fleeing away like rushing water. Others shout, “Stop, stop,” but no one turns back.<verse eid="NAM 2:8"/></para>
-<para style="p"><verse number="9" style="v" sid="NAM 2:9"/>Take the silver plunder, take the gold plunder, for there is no end to the supply, wealth from all Nineveh’s desirable things.<verse eid="NAM 2:9"/></para>
-<para style="p"><verse number="10" style="v" sid="NAM 2:10"/>Nineveh is empty, desolate and ruined. Everyone’s heart melts, everyone’s knees strike together, and anguish is in all loins; all their faces grow pale.<verse eid="NAM 2:10"/></para>
-<para style="p"><verse number="11" style="v" sid="NAM 2:11"/>Where now is the lions’ den, the place where the young lion cubs were fed, the place where the lion and lioness walked, where the cubs of the lion were, where they were afraid of nothing?<verse eid="NAM 2:11"/></para>
-<para style="p"><verse number="12" style="v" sid="NAM 2:12"/>The lion tore enough for his cubs; he strangled victims for his lionesses, and filled his cave with prey, his dens with torn carcasses.<verse eid="NAM 2:12"/></para>
-<para style="p"><verse number="13" style="v" sid="NAM 2:13"/>“See, I am against you—this is the declaration of Yahweh of hosts. I will burn your chariots in the smoke, and the sword will devour your young lions. I will cut off your prey from your land, and the voices of your messengers will be heard no more.”<verse eid="NAM 2:13"/></para>
-<chapter eid="NAM 2"/>
-<chapter number="3" style="c" sid="NAM 3"/>
-<para style="p"><verse number="1" style="v" sid="NAM 3:1"/>Woe to the city full of blood! It is all full of lies and stolen property; Her prey never departs.<verse eid="NAM 3:1"/></para>
-<para style="p"><verse number="2" style="v" sid="NAM 3:2"/>But now there is the noise of whips and the sound of rattling wheels, galloping horses, and bounding chariots.<verse eid="NAM 3:2"/></para>
-<para style="p"><verse number="3" style="v" sid="NAM 3:3"/>There are charging horsemen, flashing swords, glittering spears, many slain, heaps of corpses. There is no end to the dead bodies; their attackers stumble over the dead bodies.<verse eid="NAM 3:3"/></para>
-<para style="p"><verse number="4" style="v" sid="NAM 3:4"/>This is happening because of the many harlotries of the beautiful prostitute, the mistress of witchcraft, who sells nations through her prostitution, and peoples through her acts of witchcraft.<verse eid="NAM 3:4"/></para>
-<para style="p"><verse number="5" style="v" sid="NAM 3:5"/>“See, I am against you—this is the declaration of Yahweh of hosts—I will raise up your skirt over your face and show your nakedness to the nations, your shame to the kingdoms.<verse eid="NAM 3:5"/></para>
-<para style="p"><verse number="6" style="v" sid="NAM 3:6"/>I will throw disgusting filth on you and make you vile; I will make you someone that everyone will look at with digust.<verse eid="NAM 3:6"/></para>
-<para style="p"><verse number="7" style="v" sid="NAM 3:7"/>It will come about that everyone who looks at you will flee from you and say, ‘Nineveh is destroyed; who will weep for her?’ Where can I find anyone to comfort you?”<verse eid="NAM 3:7"/></para>
-<para style="p"><verse number="8" style="v" sid="NAM 3:8"/>Nineveh, are you better than Thebes, that was built on the Nile River, that had water around her, whose defense was the ocean, whose wall was the sea itself?<verse eid="NAM 3:8"/></para>
-<para style="p"><verse number="9" style="v" sid="NAM 3:9"/>Cush and Egypt were her strength, and there was no end to its strength; Put and Libya were allies to her.<verse eid="NAM 3:9"/></para>
-<para style="p"><verse number="10" style="v" sid="NAM 3:10"/>Yet Thebes was carried away; she went into captivity; her young children were dashed in pieces at the head of every street; her enemies threw lots for her honorable men, and all her great men were bound in chains.<verse eid="NAM 3:10"/></para>
-<para style="p"><verse number="11" style="v" sid="NAM 3:11"/>You also will become drunk; you will try to hide, and you will also look for a refuge from your enemy.<verse eid="NAM 3:11"/></para>
-<para style="p"><verse number="12" style="v" sid="NAM 3:12"/>All your fortresses will be like fig trees with the earliest ripe figs: if they are shaken, they fall into the mouth of the eater.<verse eid="NAM 3:12"/></para>
-<para style="p"><verse number="13" style="v" sid="NAM 3:13"/>See, the people among you are women; the gates of your land have been opened wide to your enemies; fire has devoured their bars.<verse eid="NAM 3:13"/></para>
-<para style="p"><verse number="14" style="v" sid="NAM 3:14"/>Go draw water for the siege; strengthen your fortresses; go into the clay and tread the mortar; pick up the molds for the bricks.<verse eid="NAM 3:14"/></para>
-<para style="p"><verse number="15" style="v" sid="NAM 3:15"/>Fire will devour you there, and the sword will cut you off. It will devour you as creeping locusts devour everything. Make yourselves as many as the creeping locusts, as many as the swarming locusts.<verse eid="NAM 3:15"/></para>
-<para style="p"><verse number="16" style="v" sid="NAM 3:16"/>You have multiplied your merchants more than the stars in the heavens; but they are like locusts: they spread their wings and then fly away.<verse eid="NAM 3:16"/></para>
-<para style="p"><verse number="17" style="v" sid="NAM 3:17"/>Your princes are like locusts, and your generals are like swarms of locusts that settle on the walls on a cold day. But when the sun rises they fly away and no one knows where they are.<verse eid="NAM 3:17"/></para>
-<para style="p"><verse number="18" style="v" sid="NAM 3:18"/>King of Assyria, your shepherds are asleep; your nobles are lying down resting. Your people are scattered on the mountains, and there is no one to gather them.<verse eid="NAM 3:18"/></para>
-<para style="p"><verse number="19" style="v" sid="NAM 3:19"/>No healing is possible for your wounds. Your wounds are severe. Everyone who hears the news about you will clap their hands in joy over you. For upon whom has not come your endless evil?<verse eid="NAM 3:19"/></para>
-<chapter eid="NAM 3"/>
+  <book code="NAM" style="id">EN_ULT en_English_ltr Tue Jan 07 2025 10:44:59 GMT-0600 (Central Standard Time) tc</book>
+  <para style="ide">UTF-8
+</para>
+  <para style="h">Nahum
+</para>
+  <para style="toc1">The Book of Nahum
+</para>
+  <para style="toc2">Nahum
+</para>
+  <para style="toc3">Nam
+</para>
+  <para style="mt1">Nahum
+
+</para>
+  <ms style="ts"/>
+  <chapter number="1" style="c" sid="NAM 1"/>
+  <para style="p"><verse number="1" style="v" sid="NAM 1:1"/>The burden of Nineveh. The book of the vision of Nahum, the Elkoshite.
+
+<ms style="ts"/>
+<verse eid="NAM 1:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="NAM 1:2"/>Yahweh {is} a jealous and avenging God; Yahweh {is} an avenger and master of wrath;
+</para>
+  <para style="q1">Yahweh takes vengeance on his adversaries, and he maintains against his enemies.
+<verse eid="NAM 1:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="NAM 1:3"/>Yahweh {is} long of nostrils and great in power; and to acquit he will not acquit.
+</para>
+  <para style="q1">Yahweh—in whirlwind and storm {is} his way, and cloud {is} the dust of his feet.
+
+<ms style="ts"/>
+<verse eid="NAM 1:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="NAM 1:4"/>He rebukes the sea and makes it dry, and all the rivers he dries up.
+</para>
+  <para style="q1">Bashan withers, also Carmel; and the flowers of Lebanon wither.
+<verse eid="NAM 1:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="NAM 1:5"/>Mountains shake before him, and the hills melt;
+</para>
+  <para style="q1">and the earth heaves before his face; and the world and all the dwellers in it.
+
+<ms style="ts"/>
+<verse eid="NAM 1:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="NAM 1:6"/>To the face of his indignation, who can stand? And who can arise against the burning of his nose?
+</para>
+  <para style="q1">His wrath is poured out like fire, and the rocks are broken apart before him.
+
+<ms style="ts"/>
+<verse eid="NAM 1:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="NAM 1:7"/>Yahweh {is} good, for a stronghold in a day of trouble, and knowing those taking refuge in him.
+<verse eid="NAM 1:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="NAM 1:8"/>But he will make a complete end to its place with an overwhelming flood; darkness will pursue his enemies.
+
+<ms style="ts"/>
+<verse eid="NAM 1:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="NAM 1:9"/>What are you plotting against Yahweh?
+</para>
+  <para style="q1">He will make a complete end {to it}; trouble will not rise up a second time.
+<verse eid="NAM 1:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="NAM 1:10"/>For like tangled thorn-bushes and like their drink being drunk,
+</para>
+  <para style="q1">they are devoured—like dried stubble—fully.
+<verse eid="NAM 1:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="NAM 1:11"/>From you came out a plotter of evil against Yahweh, an advisor of wickedness.
+
+<ms style="ts"/>
+<verse eid="NAM 1:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="NAM 1:12"/>Thus says Yahweh:
+</para>
+  <para style="q1">“{Even} if they are full and likewise numerous, also likewise they have been sheared,
+</para>
+  <para style="q1">and he has passed away. Though I have afflicted you, I will afflict you no more.
+<verse eid="NAM 1:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="NAM 1:13"/>And now I will break his yoke from upon you, and your shackles I will tear off.”
+
+<ms style="ts"/>
+<verse eid="NAM 1:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="NAM 1:14"/>And Yahweh has commanded concerning you:
+</para>
+  <para style="q1">“One will not be sown from your name any more.
+</para>
+  <para style="q1">I will cut off the carved figures and the cast metal figures from the house of your gods.
+</para>
+  <para style="q1">I will prepare your graves, for you are worthless.”
+
+<ms style="ts"/>
+<verse eid="NAM 1:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="NAM 1:15"/>Behold, on the mountains, the feet of a herald, announcing peace!
+</para>
+  <para style="q1">Celebrate your celebrations, O Judah, and keep your vows,
+</para>
+  <para style="q1">for the wicked will not repeat to invade you again; he is completely cut off.
+
+<ms style="ts"/>
+
+<verse eid="NAM 1:15"/><verse eid="NAM 1:15"/></para>
+  <chapter eid="NAM 1"/>
+  <chapter number="2" style="c" sid="NAM 2"/>
+  <para style="q1"><verse number="1" style="v" sid="NAM 2:1"/>A scatterer has come up against your face.
+</para>
+  <para style="q1">Guard the city walls, watch the road,
+</para>
+  <para style="q1">strengthen {your} loins, greatly fortify {your} power!
+<verse eid="NAM 2:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="NAM 2:2"/>For Yahweh has restored the majesty of Jacob, indeed, the majesty of Israel,
+</para>
+  <para style="q1">although the plunderers plundered them and destroyed their vine branches.
+
+<ms style="ts"/>
+<verse eid="NAM 2:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="NAM 2:3"/>The shields of his mighty men are red; the men of valor are clothed in scarlet;
+</para>
+  <para style="q1">the chariot {flashes} with fire of metal on the day of preparing it, and the cypresses quiver.
+<verse eid="NAM 2:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="NAM 2:4"/>The chariots race madly through the streets; they rush back and forth in the squares.
+</para>
+  <para style="q1">Their appearance {is} like torches; they run like lightning.
+
+<ms style="ts"/>
+<verse eid="NAM 2:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="NAM 2:5"/>He calls his officers; they stumble in their advance;
+</para>
+  <para style="q1">they hurry to her city wall. The siege-shelter is prepared.
+
+<ms style="ts"/>
+<verse eid="NAM 2:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="NAM 2:6"/>The gates of the rivers have been opened, and the palace has melted away.
+<verse eid="NAM 2:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="NAM 2:7"/>It is established: she is taken into exile; she is led away,
+</para>
+  <para style="q1">and her female servants moan like the sound of doves, beating on their hearts.
+
+<ms style="ts"/>
+<verse eid="NAM 2:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="NAM 2:8"/>Though Nineveh {was} like a pool of water throughout her days, now they are fleeing away.
+</para>
+  <para style="q1">“Stop, stop!” But there is no turning back.
+<verse eid="NAM 2:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="NAM 2:9"/>Plunder silver, plunder gold, for there is no end to the supply;
+</para>
+  <para style="q1">a wealth of all things of delight.
+<verse eid="NAM 2:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="NAM 2:10"/>Empty and desolate and ruined! And the heart is melted, and a shaking of knees,
+</para>
+  <para style="q1">and anguish {is} in all loins, and all of their faces gather beauty.
+
+<ms style="ts"/>
+<verse eid="NAM 2:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="NAM 2:11"/>Where {now} {is} the lions’ den and that feeding place for the young lions,
+</para>
+  <para style="q1">where the lion walked, the lioness there, the cubs of the lion, and nothing made {them} afraid?
+<verse eid="NAM 2:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="NAM 2:12"/>The lion, tearing enough for his cubs and strangling for his lionesses,
+</para>
+  <para style="q1">he filled his caves with prey, his dens with torn carcasses.
+
+<ms style="ts"/>
+<verse eid="NAM 2:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="NAM 2:13"/>“Behold me, against you—the declaration of Yahweh of armies—
+</para>
+  <para style="q1">I will burn her chariot in the smoke, and the sword will devour your young lions.
+</para>
+  <para style="q1">I will cut off your prey from your land, and the voices of your messengers will be heard no more.”
+
+<ms style="ts"/>
+
+<verse eid="NAM 2:13"/><verse eid="NAM 2:13"/></para>
+  <chapter eid="NAM 2"/>
+  <chapter number="3" style="c" sid="NAM 3"/>
+  <para style="q1"><verse number="1" style="v" sid="NAM 3:1"/>Woe to the city of bloodshed!
+</para>
+  <para style="q1">All of it {is} lies, full of plunder; the prey never departs.
+<verse eid="NAM 3:1"/></para>
+  <para style="q1"><verse number="2" style="v" sid="NAM 3:2"/>The sound of a whip and the sound of a rattling wheel
+</para>
+  <para style="q1">and a galloping horse and a bounding chariot!
+
+<ms style="ts"/>
+<verse eid="NAM 3:2"/></para>
+  <para style="q1"><verse number="3" style="v" sid="NAM 3:3"/>A charging horseman and a flash of a sword and a gleam of a spear and many slain and heaps of corpses.
+</para>
+  <para style="q1">There is no end to the dead bodies; they stumble over their dead bodies.
+
+<ms style="ts"/>
+<verse eid="NAM 3:3"/></para>
+  <para style="q1"><verse number="4" style="v" sid="NAM 3:4"/>From the many harlotries of the prostitute, pleasing in beauty, the mistress of witchcraft,
+</para>
+  <para style="q1">the seller of nations through her prostitution, and peoples through her witchcraft.
+
+<ms style="ts"/>
+<verse eid="NAM 3:4"/></para>
+  <para style="q1"><verse number="5" style="v" sid="NAM 3:5"/>“Behold me, against you—the declaration of Yahweh of armies—I will remove your skirt over your face
+</para>
+  <para style="q1">and show the nations your nakedness and the kingdoms your shame.
+<verse eid="NAM 3:5"/></para>
+  <para style="q1"><verse number="6" style="v" sid="NAM 3:6"/>I will throw filth on you and regard you as vile; I will set you up as a spectacle.
+<verse eid="NAM 3:6"/></para>
+  <para style="q1"><verse number="7" style="v" sid="NAM 3:7"/>It will come about that everyone looking at you will flee from you and say,
+</para>
+  <para style="q1">‘Nineveh is destroyed; who will sympathize with her?’
+</para>
+  <para style="q1">From where can I find a comforter for you?”
+
+<ms style="ts"/>
+<verse eid="NAM 3:7"/></para>
+  <para style="q1"><verse number="8" style="v" sid="NAM 3:8"/>Are you better than Thebes, situated on the Nile River, water all around her,
+</para>
+  <para style="q1">whose defense {was} the sea, water her wall?
+<verse eid="NAM 3:8"/></para>
+  <para style="q1"><verse number="9" style="v" sid="NAM 3:9"/>Cush and Egypt {were} her strength, and there was no end;
+</para>
+  <para style="q1">Put and Libya were among your allies.
+
+<ms style="ts"/>
+<verse eid="NAM 3:9"/></para>
+  <para style="q1"><verse number="10" style="v" sid="NAM 3:10"/>Yet she as an exile went into captivity;
+</para>
+  <para style="q1">also her young children were dashed in pieces at the head of every street;
+</para>
+  <para style="q1">and for her honored ones they cast lots,
+</para>
+  <para style="q1">and all her great ones were bound in chains.
+<verse eid="NAM 3:10"/></para>
+  <para style="q1"><verse number="11" style="v" sid="NAM 3:11"/>You also will become drunk; you will be hidden;
+</para>
+  <para style="q1">you also will seek a refuge from your enemy.
+
+<ms style="ts"/>
+<verse eid="NAM 3:11"/></para>
+  <para style="q1"><verse number="12" style="v" sid="NAM 3:12"/>All of your fortresses {are} fig trees with first fruits:
+</para>
+  <para style="q1">if they are shaken, they fall into the mouth of the eater.
+<verse eid="NAM 3:12"/></para>
+  <para style="q1"><verse number="13" style="v" sid="NAM 3:13"/>Behold, your people {are} women in your midst;
+</para>
+  <para style="q1">the gates of your land opening have been opened to your enemies;
+</para>
+  <para style="q1">fire has devoured your bars.
+
+<ms style="ts"/>
+<verse eid="NAM 3:13"/></para>
+  <para style="q1"><verse number="14" style="v" sid="NAM 3:14"/>Draw siege water for yourself; strengthen your fortresses;
+</para>
+  <para style="q1">go into the clay and tread in the mortar;
+</para>
+  <para style="q1">pick up the brick mold.
+<verse eid="NAM 3:14"/></para>
+  <para style="q1"><verse number="15" style="v" sid="NAM 3:15"/>Fire will devour you there, and the sword will cut you off. It will devour you as the creeping locust.
+</para>
+  <para style="q1">Multiply yourself as the creeping locust; multiply yourself as the swarming locust!
+
+<ms style="ts"/>
+<verse eid="NAM 3:15"/></para>
+  <para style="q1"><verse number="16" style="v" sid="NAM 3:16"/>You have multiplied your merchants more than the stars of the heavens; a locust stripped and flew away.
+<verse eid="NAM 3:16"/></para>
+  <para style="q1"><verse number="17" style="v" sid="NAM 3:17"/>Your guards {are} like the locust, and your generals, like a swarm of locusts,
+</para>
+  <para style="q1">the ones settling on the walls on a cold day.
+</para>
+  <para style="q1">The sun shines and it flies away and its place is not known where they are.
+
+<ms style="ts"/>
+<verse eid="NAM 3:17"/></para>
+  <para style="q1"><verse number="18" style="v" sid="NAM 3:18"/>King of Assyria, your shepherds are asleep; your nobles are lying down.
+</para>
+  <para style="q1">Your people are scattered on the mountains, and there is no one gathering {them}.
+<verse eid="NAM 3:18"/></para>
+  <para style="q1"><verse number="19" style="v" sid="NAM 3:19"/>There is no relief for your destruction. Your wound is severe.
+</para>
+  <para style="q1">Everyone hearing the news of you will clap {their} hands over you.
+</para>
+  <para style="q1">For upon whom has not come your endless evil?
+<verse eid="NAM 3:19"/></para>
+  <chapter eid="NAM 3"/>
 </usx>
