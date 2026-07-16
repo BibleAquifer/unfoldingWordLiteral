@@ -1,12 +1,12 @@
-# _unfoldingWord Literal_ Aquifer Resource
+# _unfoldingWord Literal Text_ Aquifer Resource
 
 This repository (`unfoldingWordLiteral`) contains an Aquifer Bible resource with resource-level metadata and content files in USFM and USX formats.
 
 ## License
 
-_unfoldingWord® Literal Text_ © 2022 [unfoldingWord](https://unfoldingword.org/)
+_unfoldingWord Literal Text_ © 2026 [unfoldingWord](https://unfoldingword.org)
 
-This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
+This resource is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
 
 ## Structure
 
