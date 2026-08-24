@@ -4381,6 +4381,20 @@
     },
     {
       "source": [
+        "n44001018011|πρηνὴς"
+      ],
+      "target": [
+        "44001018017|become",
+        "44001018018|prostrate"
+      ],
+      "meta": {
+        "id": "44001018.11",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
         "n44001018013|ἐλάκησεν"
       ],
       "target": [

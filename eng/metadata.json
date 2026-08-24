@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "unfoldingWordLiteralText",
-"date_created": "2026-07-16",
+"date_created": "2026-08-24",
 "language": "eng",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-07-16T12:37:16.878691"
+"dateCreated": "2026-08-24T07:29:39.228154"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "unfoldingWordLiteralText": {
-"timestamp": "2026-07-16T12:37:16.878691"
+"timestamp": "2026-08-24T07:29:39.228154"
 }
 }
 },
@@ -6886,7 +6886,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 290104,
+"size": 290110,
 "scope": {
 "2SA": [
 "2 Samuel 1:1",
@@ -7589,7 +7589,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 340736,
+"size": 340720,
 "scope": {
 "1KI": [
 "1 Kings 1:1",
@@ -8413,7 +8413,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 309196,
+"size": 309195,
 "scope": {
 "2KI": [
 "2 Kings 1:1",
@@ -9140,7 +9140,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 110270,
+"size": 110255,
 "scope": {
 "EZR": [
 "Ezra 1:1",
@@ -9428,7 +9428,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 162075,
+"size": 162078,
 "scope": {
 "NEH": [
 "Nehemiah 1:1",
@@ -14836,6 +14836,211 @@
 ]
 }
 },
+"json/28.content.json": {
+"mimeType": "text/json",
+"size": 77601,
+"scope": {
+"HOS": [
+"Hosea 1:1",
+"Hosea 1:2",
+"Hosea 1:3",
+"Hosea 1:4",
+"Hosea 1:5",
+"Hosea 1:6",
+"Hosea 1:7",
+"Hosea 1:8",
+"Hosea 1:9",
+"Hosea 1:10",
+"Hosea 1:11",
+"Hosea 2:1",
+"Hosea 2:2",
+"Hosea 2:3",
+"Hosea 2:4",
+"Hosea 2:5",
+"Hosea 2:6",
+"Hosea 2:7",
+"Hosea 2:8",
+"Hosea 2:9",
+"Hosea 2:10",
+"Hosea 2:11",
+"Hosea 2:12",
+"Hosea 2:13",
+"Hosea 2:14",
+"Hosea 2:15",
+"Hosea 2:16",
+"Hosea 2:17",
+"Hosea 2:18",
+"Hosea 2:19",
+"Hosea 2:20",
+"Hosea 2:21",
+"Hosea 2:22",
+"Hosea 2:23",
+"Hosea 3:1",
+"Hosea 3:2",
+"Hosea 3:3",
+"Hosea 3:4",
+"Hosea 3:5",
+"Hosea 4:1",
+"Hosea 4:2",
+"Hosea 4:3",
+"Hosea 4:4",
+"Hosea 4:5",
+"Hosea 4:6",
+"Hosea 4:7",
+"Hosea 4:8",
+"Hosea 4:9",
+"Hosea 4:10",
+"Hosea 4:11",
+"Hosea 4:12",
+"Hosea 4:13",
+"Hosea 4:14",
+"Hosea 4:15",
+"Hosea 4:16",
+"Hosea 4:17",
+"Hosea 4:18",
+"Hosea 4:19",
+"Hosea 5:1",
+"Hosea 5:2",
+"Hosea 5:3",
+"Hosea 5:4",
+"Hosea 5:5",
+"Hosea 5:6",
+"Hosea 5:7",
+"Hosea 5:8",
+"Hosea 5:9",
+"Hosea 5:10",
+"Hosea 5:11",
+"Hosea 5:12",
+"Hosea 5:13",
+"Hosea 5:14",
+"Hosea 5:15",
+"Hosea 6:1",
+"Hosea 6:2",
+"Hosea 6:3",
+"Hosea 6:4",
+"Hosea 6:5",
+"Hosea 6:6",
+"Hosea 6:7",
+"Hosea 6:8",
+"Hosea 6:9",
+"Hosea 6:10",
+"Hosea 6:11",
+"Hosea 7:1",
+"Hosea 7:2",
+"Hosea 7:3",
+"Hosea 7:4",
+"Hosea 7:5",
+"Hosea 7:6",
+"Hosea 7:7",
+"Hosea 7:8",
+"Hosea 7:9",
+"Hosea 7:10",
+"Hosea 7:11",
+"Hosea 7:12",
+"Hosea 7:13",
+"Hosea 7:14",
+"Hosea 7:15",
+"Hosea 7:16",
+"Hosea 8:1",
+"Hosea 8:2",
+"Hosea 8:3",
+"Hosea 8:4",
+"Hosea 8:5",
+"Hosea 8:6",
+"Hosea 8:7",
+"Hosea 8:8",
+"Hosea 8:9",
+"Hosea 8:10",
+"Hosea 8:11",
+"Hosea 8:12",
+"Hosea 8:13",
+"Hosea 8:14",
+"Hosea 9:1",
+"Hosea 9:2",
+"Hosea 9:3",
+"Hosea 9:4",
+"Hosea 9:5",
+"Hosea 9:6",
+"Hosea 9:7",
+"Hosea 9:8",
+"Hosea 9:9",
+"Hosea 9:10",
+"Hosea 9:11",
+"Hosea 9:12",
+"Hosea 9:13",
+"Hosea 9:14",
+"Hosea 9:15",
+"Hosea 9:16",
+"Hosea 9:17",
+"Hosea 10:1",
+"Hosea 10:2",
+"Hosea 10:3",
+"Hosea 10:4",
+"Hosea 10:5",
+"Hosea 10:6",
+"Hosea 10:7",
+"Hosea 10:8",
+"Hosea 10:9",
+"Hosea 10:10",
+"Hosea 10:11",
+"Hosea 10:12",
+"Hosea 10:13",
+"Hosea 10:14",
+"Hosea 10:15",
+"Hosea 11:1",
+"Hosea 11:2",
+"Hosea 11:3",
+"Hosea 11:4",
+"Hosea 11:5",
+"Hosea 11:6",
+"Hosea 11:7",
+"Hosea 11:8",
+"Hosea 11:9",
+"Hosea 11:10",
+"Hosea 11:11",
+"Hosea 11:12",
+"Hosea 12:1",
+"Hosea 12:2",
+"Hosea 12:3",
+"Hosea 12:4",
+"Hosea 12:5",
+"Hosea 12:6",
+"Hosea 12:7",
+"Hosea 12:8",
+"Hosea 12:9",
+"Hosea 12:10",
+"Hosea 12:11",
+"Hosea 12:12",
+"Hosea 12:13",
+"Hosea 12:14",
+"Hosea 13:1",
+"Hosea 13:2",
+"Hosea 13:3",
+"Hosea 13:4",
+"Hosea 13:5",
+"Hosea 13:6",
+"Hosea 13:7",
+"Hosea 13:8",
+"Hosea 13:9",
+"Hosea 13:10",
+"Hosea 13:11",
+"Hosea 13:12",
+"Hosea 13:13",
+"Hosea 13:14",
+"Hosea 13:15",
+"Hosea 13:16",
+"Hosea 14:1",
+"Hosea 14:2",
+"Hosea 14:3",
+"Hosea 14:4",
+"Hosea 14:5",
+"Hosea 14:6",
+"Hosea 14:7",
+"Hosea 14:8",
+"Hosea 14:9"
+]
+}
+},
 "json/29.content.json": {
 "mimeType": "text/json",
 "size": 29038,
@@ -14999,6 +15204,119 @@
 "Jonah 4:9",
 "Jonah 4:10",
 "Jonah 4:11"
+]
+}
+},
+"json/33.content.json": {
+"mimeType": "text/json",
+"size": 42845,
+"scope": {
+"MIC": [
+"Micah 1:1",
+"Micah 1:2",
+"Micah 1:3",
+"Micah 1:4",
+"Micah 1:5",
+"Micah 1:6",
+"Micah 1:7",
+"Micah 1:8",
+"Micah 1:9",
+"Micah 1:10",
+"Micah 1:11",
+"Micah 1:12",
+"Micah 1:13",
+"Micah 1:14",
+"Micah 1:15",
+"Micah 1:16",
+"Micah 2:1",
+"Micah 2:2",
+"Micah 2:3",
+"Micah 2:4",
+"Micah 2:5",
+"Micah 2:6",
+"Micah 2:7",
+"Micah 2:8",
+"Micah 2:9",
+"Micah 2:10",
+"Micah 2:11",
+"Micah 2:12",
+"Micah 2:13",
+"Micah 3:1",
+"Micah 3:2",
+"Micah 3:3",
+"Micah 3:4",
+"Micah 3:5",
+"Micah 3:6",
+"Micah 3:7",
+"Micah 3:8",
+"Micah 3:9",
+"Micah 3:10",
+"Micah 3:11",
+"Micah 3:12",
+"Micah 4:1",
+"Micah 4:2",
+"Micah 4:3",
+"Micah 4:4",
+"Micah 4:5",
+"Micah 4:6",
+"Micah 4:7",
+"Micah 4:8",
+"Micah 4:9",
+"Micah 4:10",
+"Micah 4:11",
+"Micah 4:12",
+"Micah 4:13",
+"Micah 5:1",
+"Micah 5:2",
+"Micah 5:3",
+"Micah 5:4",
+"Micah 5:5",
+"Micah 5:6",
+"Micah 5:7",
+"Micah 5:8",
+"Micah 5:9",
+"Micah 5:10",
+"Micah 5:11",
+"Micah 5:12",
+"Micah 5:13",
+"Micah 5:14",
+"Micah 5:15",
+"Micah 6:1",
+"Micah 6:2",
+"Micah 6:3",
+"Micah 6:4",
+"Micah 6:5",
+"Micah 6:6",
+"Micah 6:7",
+"Micah 6:8",
+"Micah 6:9",
+"Micah 6:10",
+"Micah 6:11",
+"Micah 6:12",
+"Micah 6:13",
+"Micah 6:14",
+"Micah 6:15",
+"Micah 6:16",
+"Micah 7:1",
+"Micah 7:2",
+"Micah 7:3",
+"Micah 7:4",
+"Micah 7:5",
+"Micah 7:6",
+"Micah 7:7",
+"Micah 7:8",
+"Micah 7:9",
+"Micah 7:10",
+"Micah 7:11",
+"Micah 7:12",
+"Micah 7:13",
+"Micah 7:14",
+"Micah 7:15",
+"Micah 7:16",
+"Micah 7:17",
+"Micah 7:18",
+"Micah 7:19",
+"Micah 7:20"
 ]
 }
 },
@@ -23467,14 +23785,14 @@
 },
 "usfm/01GENULT.SFM": {
 "mimeType": "text/plain",
-"size": 226486,
+"size": 221286,
 "scope": {
 "GEN": []
 }
 },
 "usx/01GENULT.usx": {
 "mimeType": "application/xml",
-"size": 354436,
+"size": 344717,
 "scope": {
 "GEN": []
 }
@@ -23509,7 +23827,7 @@
 },
 "usfm/05DEUULT.SFM": {
 "mimeType": "text/plain",
-"size": 154234,
+"size": 154235,
 "scope": {
 "DEU": []
 }
@@ -23579,70 +23897,70 @@
 },
 "usfm/102SAULT.SFM": {
 "mimeType": "text/plain",
-"size": 118794,
+"size": 118819,
 "scope": {
 "2SA": []
 }
 },
 "usx/102SAULT.usx": {
 "mimeType": "application/xml",
-"size": 179252,
+"size": 179299,
 "scope": {
 "2SA": []
 }
 },
 "usfm/111KIULT.SFM": {
 "mimeType": "text/plain",
-"size": 138157,
+"size": 138124,
 "scope": {
 "1KI": []
 }
 },
 "usx/111KIULT.usx": {
 "mimeType": "application/xml",
-"size": 198923,
+"size": 198857,
 "scope": {
 "1KI": []
 }
 },
 "usfm/122KIULT.SFM": {
 "mimeType": "text/plain",
-"size": 130739,
+"size": 130738,
 "scope": {
 "2KI": []
 }
 },
 "usx/122KIULT.usx": {
 "mimeType": "application/xml",
-"size": 184814,
+"size": 184813,
 "scope": {
 "2KI": []
 }
 },
 "usfm/15EZRULT.SFM": {
 "mimeType": "text/plain",
-"size": 42881,
+"size": 42866,
 "scope": {
 "EZR": []
 }
 },
 "usx/15EZRULT.usx": {
 "mimeType": "application/xml",
-"size": 66832,
+"size": 66817,
 "scope": {
 "EZR": []
 }
 },
 "usfm/16NEHULT.SFM": {
 "mimeType": "text/plain",
-"size": 62966,
+"size": 62975,
 "scope": {
 "NEH": []
 }
 },
 "usx/16NEHULT.usx": {
 "mimeType": "application/xml",
-"size": 99017,
+"size": 99020,
 "scope": {
 "NEH": []
 }
@@ -23677,14 +23995,14 @@
 },
 "usfm/19PSAULT.SFM": {
 "mimeType": "text/plain",
-"size": 270337,
+"size": 270351,
 "scope": {
 "PSA": []
 }
 },
 "usx/19PSAULT.usx": {
 "mimeType": "application/xml",
-"size": 579439,
+"size": 579159,
 "scope": {
 "PSA": []
 }
@@ -23719,16 +24037,30 @@
 },
 "usfm/25LAMULT.SFM": {
 "mimeType": "text/plain",
-"size": 22155,
+"size": 22119,
 "scope": {
 "LAM": []
 }
 },
 "usx/25LAMULT.usx": {
 "mimeType": "application/xml",
-"size": 45936,
+"size": 45874,
 "scope": {
 "LAM": []
+}
+},
+"usfm/28HOSULT.SFM": {
+"mimeType": "text/plain",
+"size": 31769,
+"scope": {
+"HOS": []
+}
+},
+"usx/28HOSULT.usx": {
+"mimeType": "application/xml",
+"size": 60679,
+"scope": {
+"HOS": []
 }
 },
 "usfm/29JOLULT.SFM": {
@@ -23773,6 +24105,20 @@
 "JON": []
 }
 },
+"usfm/33MICULT.SFM": {
+"mimeType": "text/plain",
+"size": 18937,
+"scope": {
+"MIC": []
+}
+},
+"usx/33MICULT.usx": {
+"mimeType": "application/xml",
+"size": 35768,
+"scope": {
+"MIC": []
+}
+},
 "usfm/34NAMULT.SFM": {
 "mimeType": "text/plain",
 "size": 7706,
@@ -23789,7 +24135,7 @@
 },
 "usfm/35HABULT.SFM": {
 "mimeType": "text/plain",
-"size": 9013,
+"size": 9012,
 "scope": {
 "HAB": []
 }
@@ -23845,7 +24191,7 @@
 },
 "usfm/40MATULT.SFM": {
 "mimeType": "text/plain",
-"size": 143596,
+"size": 143595,
 "scope": {
 "MAT": []
 }
@@ -23873,56 +24219,56 @@
 },
 "usfm/42LUKULT.SFM": {
 "mimeType": "text/plain",
-"size": 148471,
+"size": 148475,
 "scope": {
 "LUK": []
 }
 },
 "usx/42LUKULT.usx": {
 "mimeType": "application/xml",
-"size": 235453,
+"size": 235457,
 "scope": {
 "LUK": []
 }
 },
 "usfm/43JHNULT.SFM": {
 "mimeType": "text/plain",
-"size": 112050,
+"size": 112051,
 "scope": {
 "JHN": []
 }
 },
 "usx/43JHNULT.usx": {
 "mimeType": "application/xml",
-"size": 176218,
+"size": 176220,
 "scope": {
 "JHN": []
 }
 },
 "usfm/44ACTULT.SFM": {
 "mimeType": "text/plain",
-"size": 141525,
+"size": 141528,
 "scope": {
 "ACT": []
 }
 },
 "usx/44ACTULT.usx": {
 "mimeType": "application/xml",
-"size": 218330,
+"size": 218333,
 "scope": {
 "ACT": []
 }
 },
 "usfm/45ROMULT.SFM": {
 "mimeType": "text/plain",
-"size": 57772,
+"size": 57768,
 "scope": {
 "ROM": []
 }
 },
 "usx/45ROMULT.usx": {
 "mimeType": "application/xml",
-"size": 92903,
+"size": 92883,
 "scope": {
 "ROM": []
 }
@@ -24223,42 +24569,42 @@
 },
 "alignments/json/01.alignment.json": {
 "mimeType": "text/json",
-"size": 5553104,
+"size": 5540483,
 "scope": {
 "GEN": []
 }
 },
 "alignments/json/02.alignment.json": {
 "mimeType": "text/json",
-"size": 4540371,
+"size": 4540237,
 "scope": {
 "EXO": []
 }
 },
 "alignments/json/03.alignment.json": {
 "mimeType": "text/json",
-"size": 2862871,
+"size": 2905493,
 "scope": {
 "LEV": []
 }
 },
 "alignments/json/05.alignment.json": {
 "mimeType": "text/json",
-"size": 3890162,
+"size": 3874567,
 "scope": {
 "DEU": []
 }
 },
 "alignments/json/06.alignment.json": {
 "mimeType": "text/json",
-"size": 2545992,
+"size": 2568355,
 "scope": {
 "JOS": []
 }
 },
 "alignments/json/07.alignment.json": {
 "mimeType": "text/json",
-"size": 2366042,
+"size": 2468004,
 "scope": {
 "JDG": []
 }
@@ -24272,42 +24618,42 @@
 },
 "alignments/json/09.alignment.json": {
 "mimeType": "text/json",
-"size": 3407374,
+"size": 3419610,
 "scope": {
 "1SA": []
 }
 },
 "alignments/json/10.alignment.json": {
 "mimeType": "text/json",
-"size": 2142542,
+"size": 2073922,
 "scope": {
 "2SA": []
 }
 },
 "alignments/json/11.alignment.json": {
 "mimeType": "text/json",
-"size": 3342054,
+"size": 3339696,
 "scope": {
 "1KI": []
 }
 },
 "alignments/json/12.alignment.json": {
 "mimeType": "text/json",
-"size": 2862519,
+"size": 2753443,
 "scope": {
 "2KI": []
 }
 },
 "alignments/json/15.alignment.json": {
 "mimeType": "text/json",
-"size": 1024282,
+"size": 1022710,
 "scope": {
 "EZR": []
 }
 },
 "alignments/json/16.alignment.json": {
 "mimeType": "text/json",
-"size": 1459935,
+"size": 1459372,
 "scope": {
 "NEH": []
 }
@@ -24321,42 +24667,42 @@
 },
 "alignments/json/18.alignment.json": {
 "mimeType": "text/json",
-"size": 2365179,
+"size": 2364911,
 "scope": {
 "JOB": []
 }
 },
 "alignments/json/19.alignment.json": {
 "mimeType": "text/json",
-"size": 4260368,
+"size": 4937148,
 "scope": {
 "PSA": []
 }
 },
 "alignments/json/20.alignment.json": {
 "mimeType": "text/json",
-"size": 1939923,
+"size": 1924594,
 "scope": {
 "PRO": []
 }
 },
 "alignments/json/22.alignment.json": {
 "mimeType": "text/json",
-"size": 355079,
+"size": 352496,
 "scope": {
 "SNG": []
 }
 },
 "alignments/json/25.alignment.json": {
 "mimeType": "text/json",
-"size": 352675,
+"size": 406849,
 "scope": {
 "LAM": []
 }
 },
 "alignments/json/29.alignment.json": {
 "mimeType": "text/json",
-"size": 217507,
+"size": 244275,
 "scope": {
 "JOL": []
 }
@@ -24370,63 +24716,56 @@
 },
 "alignments/json/32.alignment.json": {
 "mimeType": "text/json",
-"size": 184270,
+"size": 183791,
 "scope": {
 "JON": []
 }
 },
 "alignments/json/34.alignment.json": {
 "mimeType": "text/json",
-"size": 127950,
+"size": 143451,
 "scope": {
 "NAM": []
 }
 },
 "alignments/json/35.alignment.json": {
 "mimeType": "text/json",
-"size": 144121,
+"size": 171655,
 "scope": {
 "HAB": []
 }
 },
 "alignments/json/36.alignment.json": {
 "mimeType": "text/json",
-"size": 215866,
+"size": 214947,
 "scope": {
 "ZEP": []
 }
 },
 "alignments/json/37.alignment.json": {
 "mimeType": "text/json",
-"size": 160656,
+"size": 160383,
 "scope": {
 "HAG": []
 }
 },
 "alignments/json/39.alignment.json": {
 "mimeType": "text/json",
-"size": 195089,
+"size": 215400,
 "scope": {
 "MAL": []
 }
 },
 "alignments/json/40.alignment.json": {
 "mimeType": "text/json",
-"size": 4054255,
+"size": 4035472,
 "scope": {
 "MAT": []
 }
 },
-"alignments/json/41.alignment.json": {
-"mimeType": "text/json",
-"size": 2627005,
-"scope": {
-"MRK": []
-}
-},
 "alignments/json/42.alignment.json": {
 "mimeType": "text/json",
-"size": 4449406,
+"size": 4449639,
 "scope": {
 "LUK": []
 }
@@ -24440,7 +24779,7 @@
 },
 "alignments/json/44.alignment.json": {
 "mimeType": "text/json",
-"size": 4245320,
+"size": 4245595,
 "scope": {
 "ACT": []
 }
@@ -24454,7 +24793,7 @@
 },
 "alignments/json/46.alignment.json": {
 "mimeType": "text/json",
-"size": 1591825,
+"size": 1592055,
 "scope": {
 "1CO": []
 }
@@ -24538,14 +24877,14 @@
 },
 "alignments/json/58.alignment.json": {
 "mimeType": "text/json",
-"size": 1161796,
+"size": 1159484,
 "scope": {
 "HEB": []
 }
 },
 "alignments/json/59.alignment.json": {
 "mimeType": "text/json",
-"size": 409451,
+"size": 408970,
 "scope": {
 "JAS": []
 }
@@ -24571,32 +24910,47 @@
 "1JN": []
 }
 },
-"alignments/json/63.alignment.json": {
-"mimeType": "text/json",
-"size": 57408,
-"scope": {
-"2JN": []
-}
-},
-"alignments/json/64.alignment.json": {
-"mimeType": "text/json",
-"size": 51877,
-"scope": {
-"3JN": []
-}
-},
-"alignments/json/65.alignment.json": {
-"mimeType": "text/json",
-"size": 108968,
-"scope": {
-"JUD": []
-}
-},
 "alignments/json/66.alignment.json": {
 "mimeType": "text/json",
-"size": 2156333,
+"size": 2155100,
 "scope": {
 "REV": []
+}
+},
+"alignments/json/41-015.alignment.json": {
+"mimeType": "text/json",
+"size": 8958,
+"scope": {
+"MRK": [
+"15"
+]
+}
+},
+"alignments/json/63-001.alignment.json": {
+"mimeType": "text/json",
+"size": 48489,
+"scope": {
+"2JN": [
+"1"
+]
+}
+},
+"alignments/json/64-001.alignment.json": {
+"mimeType": "text/json",
+"size": 47407,
+"scope": {
+"3JN": [
+"1"
+]
+}
+},
+"alignments/json/65-001.alignment.json": {
+"mimeType": "text/json",
+"size": 99237,
+"scope": {
+"JUD": [
+"1"
+]
 }
 },
 "md/18.content.md": {
@@ -24632,6 +24986,13 @@
 "size": 321723,
 "scope": {
 "PSA": []
+}
+},
+"md/28.content.md": {
+"mimeType": "text/markdown",
+"size": 34856,
+"scope": {
+"HOS": []
 }
 },
 "md/62.content.md": {
@@ -24762,7 +25123,7 @@
 },
 "md/12.content.md": {
 "mimeType": "text/markdown",
-"size": 152131,
+"size": 152130,
 "scope": {
 "2KI": []
 }
@@ -24776,7 +25137,7 @@
 },
 "md/15.content.md": {
 "mimeType": "text/markdown",
-"size": 49423,
+"size": 49408,
 "scope": {
 "EZR": []
 }
@@ -24807,6 +25168,13 @@
 "size": 79176,
 "scope": {
 "REV": []
+}
+},
+"md/33.content.md": {
+"mimeType": "text/markdown",
+"size": 20246,
+"scope": {
+"MIC": []
 }
 },
 "md/50.content.md": {
@@ -24860,7 +25228,7 @@
 },
 "md/10.content.md": {
 "mimeType": "text/markdown",
-"size": 138297,
+"size": 138305,
 "scope": {
 "2SA": []
 }
@@ -24895,7 +25263,7 @@
 },
 "md/11.content.md": {
 "mimeType": "text/markdown",
-"size": 162435,
+"size": 162419,
 "scope": {
 "1KI": []
 }
@@ -24909,7 +25277,7 @@
 },
 "md/16.content.md": {
 "mimeType": "text/markdown",
-"size": 73625,
+"size": 73629,
 "scope": {
 "NEH": []
 }
@@ -25035,35 +25403,35 @@
 },
 "docx/10.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 83250,
+"size": 83256,
 "scope": {
 "2SA": []
 }
 },
 "docx/11.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 87342,
+"size": 87341,
 "scope": {
 "1KI": []
 }
 },
 "docx/12.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 83382,
+"size": 83381,
 "scope": {
 "2KI": []
 }
 },
 "docx/15.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56728,
+"size": 56732,
 "scope": {
 "EZR": []
 }
 },
 "docx/16.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64030,
+"size": 64034,
 "scope": {
 "NEH": []
 }
@@ -25110,6 +25478,13 @@
 "LAM": []
 }
 },
+"docx/28.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 53896,
+"scope": {
+"HOS": []
+}
+},
 "docx/29.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46630,
@@ -25129,6 +25504,13 @@
 "size": 45036,
 "scope": {
 "JON": []
+}
+},
+"docx/33.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49351,
+"scope": {
+"MIC": []
 }
 },
 "docx/34.content.docx": {
@@ -25413,35 +25795,35 @@
 },
 "pdf/10.content.pdf": {
 "mimeType": "application/pdf",
-"size": 460854,
+"size": 460869,
 "scope": {
 "2SA": []
 }
 },
 "pdf/11.content.pdf": {
 "mimeType": "application/pdf",
-"size": 533243,
+"size": 533589,
 "scope": {
 "1KI": []
 }
 },
 "pdf/12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 489392,
+"size": 489366,
 "scope": {
 "2KI": []
 }
 },
 "pdf/15.content.pdf": {
 "mimeType": "application/pdf",
-"size": 185329,
+"size": 185391,
 "scope": {
 "EZR": []
 }
 },
 "pdf/16.content.pdf": {
 "mimeType": "application/pdf",
-"size": 260806,
+"size": 260810,
 "scope": {
 "NEH": []
 }
@@ -25488,6 +25870,13 @@
 "LAM": []
 }
 },
+"pdf/28.content.pdf": {
+"mimeType": "application/pdf",
+"size": 140874,
+"scope": {
+"HOS": []
+}
+},
 "pdf/29.content.pdf": {
 "mimeType": "application/pdf",
 "size": 63012,
@@ -25507,6 +25896,13 @@
 "size": 48409,
 "scope": {
 "JON": []
+}
+},
+"pdf/33.content.pdf": {
+"mimeType": "application/pdf",
+"size": 86350,
+"scope": {
+"MIC": []
 }
 },
 "pdf/34.content.pdf": {
