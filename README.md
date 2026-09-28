@@ -18,8 +18,8 @@ For more information about the Aquifer platform, data, and metadata formats, vis
 
 ## Sources
 
-This edition represents v90 of the *unfoldingWord® Literal Text*, which is Copyright 2026 by unfoldingWord. The original work by *unfoldingWord* is available from unfoldingword.org/ult.
+This edition represents v91 of the *unfoldingWord® Literal Text*, which is Copyright 2026 by unfoldingWord. The original work by *unfoldingWord* is available from unfoldingword.org/ult.
 
-Source: https://git.door43.org/unfoldingWord/en_ult/releases/tag/v90
+Source: https://git.door43.org/unfoldingWord/en_ult/releases/tag/v91
 
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
