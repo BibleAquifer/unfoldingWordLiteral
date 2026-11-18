@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="RUT" style="id">EN_ULT en_English_ltr Tue Mar 03 2024 10:35:15 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -72,7 +72,7 @@
 
 <ms style="ts"/>
 
-<verse eid="RUT 1:22"/><verse eid="RUT 1:22"/></para>
+<verse eid="RUT 1:22"/></para>
   <chapter eid="RUT 1"/>
   <chapter number="2" style="c" sid="RUT 2"/>
   <para style="p"><verse number="1" style="v" sid="RUT 2:1"/>Now Naomi had a relative of her husband, a man of great worth from the clan of Elimelech. And his name {was} Boaz.<note style="f" caller="+"> <char style="fq" closed="false">a relative of her husband </char><char style="ft" closed="false">or perhaps </char><char style="fqa" closed="false">an acquaintance of her husband </char><char style="ft" closed="false">(Hebrew Ketiv)</char></note>
@@ -81,7 +81,7 @@
   <para style="p"><verse number="2" style="v" sid="RUT 2:2"/>And Ruth, the Moabite woman, said to Naomi, “Please, I want to go to the field and glean heads of grain after the one in whose eyes I find favor.”
 
 </para>
-  <para style="p">And she said to her, “Go, my daughter.”
+  <para style="p" vid="RUT 2:2">And she said to her, “Go, my daughter.”
 
 <ms style="ts"/>
 <verse eid="RUT 2:2"/></para>
@@ -91,7 +91,7 @@
   <para style="p"><verse number="4" style="v" sid="RUT 2:4"/>Then behold, Boaz coming from Bethlehem! And he said to the reapers, “Yahweh be with you.”
 
 </para>
-  <para style="p">And they said to him, “May Yahweh bless you.”
+  <para style="p" vid="RUT 2:4">And they said to him, “May Yahweh bless you.”
 
 <ms style="ts"/>
 <verse eid="RUT 2:4"/></para>
@@ -136,7 +136,7 @@
   <para style="p"><verse number="19" style="v" sid="RUT 2:19"/>Then her mother-in-law said to her, “Where did you glean today and where did you work? May the one who noticed you be blessed.”
 
 </para>
-  <para style="p">Then she told her mother-in-law with whom she had worked. And she said, “The name of the man with whom I worked today {is} Boaz.”
+  <para style="p" vid="RUT 2:19">Then she told her mother-in-law with whom she had worked. And she said, “The name of the man with whom I worked today {is} Boaz.”
 
 <verse eid="RUT 2:19"/></para>
   <para style="p"><verse number="20" style="v" sid="RUT 2:20"/>Then Naomi said to her daughter-in-law, “May he be blessed by Yahweh, who has not forsaken his covenant faithfulness with the living and with the dead.” Naomi also said to her, “That man is close to us. He is one of our kinsman-redeemers.”
@@ -154,7 +154,7 @@
 
 <ms style="ts"/>
 
-<verse eid="RUT 2:23"/><verse eid="RUT 2:23"/></para>
+<verse eid="RUT 2:23"/></para>
   <chapter eid="RUT 2"/>
   <chapter number="3" style="c" sid="RUT 3"/>
   <para style="p"><verse number="1" style="v" sid="RUT 3:1"/>Then Naomi, her mother-in-law, said to her, “My daughter, shall I not seek a resting place for you, that will be good for you?
@@ -179,7 +179,7 @@
   <para style="p"><verse number="9" style="v" sid="RUT 3:9"/>And he said, “Who are you?”
 
 </para>
-  <para style="p">Then she said, “I am Ruth, your female servant. So spread the edge of your cloak over your female servant, for you are a kinsman-redeemer.”
+  <para style="p" vid="RUT 3:9">Then she said, “I am Ruth, your female servant. So spread the edge of your cloak over your female servant, for you are a kinsman-redeemer.”
 
 <ms style="ts"/>
 <verse eid="RUT 3:9"/></para>
@@ -209,7 +209,7 @@
 
 <ms style="ts"/>
 
-<verse eid="RUT 3:18"/><verse eid="RUT 3:18"/></para>
+<verse eid="RUT 3:18"/></para>
   <chapter eid="RUT 3"/>
   <chapter number="4" style="c" sid="RUT 4"/>
   <para style="p"><verse number="1" style="v" sid="RUT 4:1"/>Now Boaz had gone up to the gate and sat down there. And behold, the kinsman-redeemer was passing by, the same man about whom Boaz had spoken earlier. And he said, “Turn aside and sit down here, a certain person.” So he turned aside and sat down.
@@ -221,7 +221,7 @@
 <verse eid="RUT 4:3"/><verse number="4" style="v" sid="RUT 4:4"/>Now as for me, I said that I should uncover your ear, saying, ‘Buy!’ in the presence of those who are sitting here and in the presence of the elders of my people. If you will redeem {it}, redeem {it}. But if you will not redeem {it}, then tell me so that I may know, for there is no one to redeem {it} besides you, and I am after you.”
 
 </para>
-  <para style="p">Then he said, “I will redeem {it} myself.”<note style="f" caller="+"> <char style="fq" closed="false">if you will not redeem it </char><char style="ft" closed="false">or perhaps </char><char style="fqa" closed="false">if he will not redeem it </char><char style="ft" closed="false">(variant Hebrew manuscripts)</char></note><note style="f" caller="+"> <char style="fq" closed="false">so that I may know </char><char style="ft" closed="false">or perhaps </char><char style="fqa" closed="false">and let me know </char><char style="ft" closed="false">(Hebrew Qere)</char></note>
+  <para style="p" vid="RUT 4:4">Then he said, “I will redeem {it} myself.”<note style="f" caller="+"> <char style="fq" closed="false">if you will not redeem it </char><char style="ft" closed="false">or perhaps </char><char style="fqa" closed="false">if he will not redeem it </char><char style="ft" closed="false">(variant Hebrew manuscripts)</char></note><note style="f" caller="+"> <char style="fq" closed="false">so that I may know </char><char style="ft" closed="false">or perhaps </char><char style="fqa" closed="false">and let me know </char><char style="ft" closed="false">(Hebrew Qere)</char></note>
 
 <ms style="ts"/>
 <verse eid="RUT 4:4"/></para>

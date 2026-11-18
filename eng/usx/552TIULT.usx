@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="2TI" style="id">EN_ULT en_English_ltr Wed Aug 24 2022 09:32:16 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -21,7 +21,7 @@
   <para style="p"><verse number="2" style="v" sid="2TI 1:2"/>to Timothy, beloved child.
 
 </para>
-  <para style="p">Grace, mercy, peace from God the Father and Christ Jesus our Lord.
+  <para style="p" vid="2TI 1:2">Grace, mercy, peace from God the Father and Christ Jesus our Lord.
 
 <ms style="ts"/>
 <verse eid="2TI 1:2"/></para>
@@ -58,7 +58,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2TI 1:18"/><verse eid="2TI 1:18"/></para>
+<verse eid="2TI 1:18"/></para>
   <chapter eid="2TI 1"/>
   <chapter number="2" style="c" sid="2TI 2"/>
   <para style="p"><verse number="1" style="v" sid="2TI 2:1"/>You, therefore, my child, be strengthened in the grace {that is} in Christ Jesus.
@@ -84,15 +84,15 @@ as a good soldier of Jesus Christ.
 <verse eid="2TI 2:10"/></para>
   <para style="p"><verse number="11" style="v" sid="2TI 2:11"/>The word {is} trustworthy:
 </para>
-  <para style="q1">“For if we died with {him}, we will also live with {him}.
+  <para style="q1" vid="2TI 2:11">“For if we died with {him}, we will also live with {him}.
 <verse eid="2TI 2:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="2TI 2:12"/>If we endure, we will also reign with {him}.
 </para>
-  <para style="q1">If we deny {him}, he also will deny us.
+  <para style="q1" vid="2TI 2:12">If we deny {him}, he also will deny us.
 <verse eid="2TI 2:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="2TI 2:13"/>If we are unfaithful, he remains faithful,
 </para>
-  <para style="q1">for he is not able to deny himself.”
+  <para style="q1" vid="2TI 2:13">for he is not able to deny himself.”
 
 <ms style="ts"/>
 <verse eid="2TI 2:13"/></para>
@@ -124,7 +124,7 @@ not to battle about words; {it is} useful for nothing, to the destruction of the
 
 <ms style="ts"/>
 
-<verse eid="2TI 2:26"/><verse eid="2TI 2:26"/></para>
+<verse eid="2TI 2:26"/></para>
   <chapter eid="2TI 2"/>
   <chapter number="3" style="c" sid="2TI 3"/>
   <para style="p"><verse number="1" style="v" sid="2TI 3:1"/>But know this, that in the last days difficult times will be present.
@@ -161,7 +161,7 @@ not to battle about words; {it is} useful for nothing, to the destruction of the
 
 <ms style="ts"/>
 
-<verse eid="2TI 3:17"/><verse eid="2TI 3:17"/></para>
+<verse eid="2TI 3:17"/></para>
   <chapter eid="2TI 3"/>
   <chapter number="4" style="c" sid="2TI 4"/>
   <para style="p"><verse number="1" style="v" sid="2TI 4:1"/>I declare before God and Christ Jesus, the one being about to judge living and dead, and by<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">and by,</char> some manuscripts read <char style="fqa" closed="true">according to.</char></note>

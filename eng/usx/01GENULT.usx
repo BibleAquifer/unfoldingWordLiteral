@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="GEN" style="id">EN_ULT en_English_ltr Sat May 27 2023 15:49:17 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -83,7 +83,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 1:31"/><verse eid="GEN 1:31"/></para>
+<verse eid="GEN 1:31"/></para>
   <chapter eid="GEN 1"/>
   <chapter number="2" style="c" sid="GEN 2"/>
   <para style="p"><verse number="1" style="v" sid="GEN 2:1"/>So the heavens and the earth were completed, and all their hosts.
@@ -134,13 +134,13 @@
 <verse eid="GEN 2:21"/><verse number="22" style="v" sid="GEN 2:22"/>Then Yahweh God built the rib which he had taken from the man into a woman, and he brought her to the man.
 <verse eid="GEN 2:22"/><verse number="23" style="v" sid="GEN 2:23"/>And the man said,
 </para>
-  <para style="q1">“This {one} now {is} bone from my bones
+  <para style="q1" vid="GEN 2:23">“This {one} now {is} bone from my bones
 </para>
-  <para style="q2">and flesh from my flesh!
+  <para style="q2" vid="GEN 2:23">and flesh from my flesh!
 </para>
-  <para style="q1">She will be called ‘woman,’
+  <para style="q1" vid="GEN 2:23">She will be called ‘woman,’
 </para>
-  <para style="q2">because {it was} from a man {that} she was taken.”
+  <para style="q2" vid="GEN 2:23">because {it was} from a man {that} she was taken.”
 
 <ms style="ts"/>
 <verse eid="GEN 2:23"/></para>
@@ -149,7 +149,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 2:25"/><verse eid="GEN 2:25"/></para>
+<verse eid="GEN 2:25"/></para>
   <chapter eid="GEN 2"/>
   <chapter number="3" style="c" sid="GEN 3"/>
   <para style="p"><verse number="1" style="v" sid="GEN 3:1"/>Now the serpent was more crafty than every living thing of the field that Yahweh God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree of the garden’?”
@@ -180,63 +180,63 @@
 <verse eid="GEN 3:13"/></para>
   <para style="p"><verse number="14" style="v" sid="GEN 3:14"/>Then Yahweh God said to the serpent,
 </para>
-  <para style="q1">“Because you have done this,
+  <para style="q1" vid="GEN 3:14">“Because you have done this,
 </para>
-  <para style="q2">you are cursed above all the livestock
+  <para style="q2" vid="GEN 3:14">you are cursed above all the livestock
 </para>
-  <para style="q2">and above every living thing of the field.
+  <para style="q2" vid="GEN 3:14">and above every living thing of the field.
 </para>
-  <para style="q1">You will move on your belly,
+  <para style="q1" vid="GEN 3:14">You will move on your belly,
 </para>
-  <para style="q2">and you will eat dust
+  <para style="q2" vid="GEN 3:14">and you will eat dust
 </para>
-  <para style="q2">all the days of your life.
+  <para style="q2" vid="GEN 3:14">all the days of your life.
 <verse eid="GEN 3:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="GEN 3:15"/>I will also put hostility
 </para>
-  <para style="q2">between you and the woman,
+  <para style="q2" vid="GEN 3:15">between you and the woman,
 </para>
-  <para style="q2">and between your offspring and her offspring.
+  <para style="q2" vid="GEN 3:15">and between your offspring and her offspring.
 </para>
-  <para style="q1">He will strike you {on} the head, and you will strike him {on} the heel.”
+  <para style="q1" vid="GEN 3:15">He will strike you {on} the head, and you will strike him {on} the heel.”
 
 <ms style="ts"/>
 <verse eid="GEN 3:15"/></para>
   <para style="p"><verse number="16" style="v" sid="GEN 3:16"/>To the woman he said,
 </para>
-  <para style="q1">“To multiply I will multiply your pain and your childbearing;
+  <para style="q1" vid="GEN 3:16">“To multiply I will multiply your pain and your childbearing;
 </para>
-  <para style="q2">in pain you will bear children.
+  <para style="q2" vid="GEN 3:16">in pain you will bear children.
 </para>
-  <para style="q1">Yet your desire {will be} for your husband,
+  <para style="q1" vid="GEN 3:16">Yet your desire {will be} for your husband,
 </para>
-  <para style="q2">and he will rule over you.”
+  <para style="q2" vid="GEN 3:16">and he will rule over you.”
 
 <ms style="ts"/>
 <verse eid="GEN 3:16"/></para>
   <para style="p"><verse number="17" style="v" sid="GEN 3:17"/>Then to the man he said, “Since you listened to the voice of your wife and ate from the tree that I commanded you, saying, ‘You must not eat from it,’
 </para>
-  <para style="q1">the ground is cursed because of you.
+  <para style="q1" vid="GEN 3:17">the ground is cursed because of you.
 </para>
-  <para style="q2">By painful toil you will eat {from} it
+  <para style="q2" vid="GEN 3:17">By painful toil you will eat {from} it
 </para>
-  <para style="q2">all the days of your life.
+  <para style="q2" vid="GEN 3:17">all the days of your life.
 <verse eid="GEN 3:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="GEN 3:18"/>And it will produce thorn{s} and thistle{s} for you,
 </para>
-  <para style="q2">and you will eat the plant{s} of the field{s}.
+  <para style="q2" vid="GEN 3:18">and you will eat the plant{s} of the field{s}.
 <verse eid="GEN 3:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="GEN 3:19"/>By the sweat of your nose
 </para>
-  <para style="q2">you will eat bread,
+  <para style="q2" vid="GEN 3:19">you will eat bread,
 </para>
-  <para style="q1">until you return to the ground,
+  <para style="q1" vid="GEN 3:19">until you return to the ground,
 </para>
-  <para style="q2">since from it you were taken.
+  <para style="q2" vid="GEN 3:19">since from it you were taken.
 </para>
-  <para style="q1">For you {are} dust,
+  <para style="q1" vid="GEN 3:19">For you {are} dust,
 </para>
-  <para style="q2">and to dust you will return.”
+  <para style="q2" vid="GEN 3:19">and to dust you will return.”
 
 <ms style="ts"/>
 <verse eid="GEN 3:19"/></para>
@@ -247,11 +247,11 @@
 <verse eid="GEN 3:21"/></para>
   <para style="p"><verse number="22" style="v" sid="GEN 3:22"/>Then Yahweh God said, “Behold, the man has become like one of us in knowing good and evil. And now he must not reach out his hand and also take {fruit} from the tree of life and eat it and live forever!”
 <verse eid="GEN 3:22"/><verse number="23" style="v" sid="GEN 3:23"/>So Yahweh God sent him out of the Garden of Eden to work the ground which he had been taken from.
-<verse eid="GEN 3:23"/><verse number="24" style="v" sid="GEN 3:24"/>And after he drove the man out, then he placed on the east side of the Garden of Eden cherubim {angels} and a flaming sword that was turning in every direction to guard the way of the tree of life.
+<verse eid="GEN 3:23"/><verse number="24" style="v" sid="GEN 3:24"/>And after he drove the man out, then he placed on the east side of the Garden of Eden cherubs {angels} and a flaming sword that was turning in every direction to guard the way of the tree of life.
 
 <ms style="ts"/>
 
-<verse eid="GEN 3:24"/><verse eid="GEN 3:24"/></para>
+<verse eid="GEN 3:24"/></para>
   <chapter eid="GEN 3"/>
   <chapter number="4" style="c" sid="GEN 4"/>
   <para style="p"><verse number="1" style="v" sid="GEN 4:1"/>Then the man knew Eve his wife, and she conceived and bore Cain. And she said, “I have obtained a man with Yahweh!”
@@ -307,17 +307,17 @@
 <verse eid="GEN 4:22"/></para>
   <para style="p"><verse number="23" style="v" sid="GEN 4:23"/>And Lamech said to his wives,
 </para>
-  <para style="q1">“Adah and Zillah, hear my voice.
+  <para style="q1" vid="GEN 4:23">“Adah and Zillah, hear my voice.
 </para>
-  <para style="q2">Wives of Lamech, give ear to my word{s}:
+  <para style="q2" vid="GEN 4:23">Wives of Lamech, give ear to my word{s}:
 </para>
-  <para style="q1">For I killed a man for my wound,
+  <para style="q1" vid="GEN 4:23">For I killed a man for my wound,
 </para>
-  <para style="q2">even a young man for my bruise.
+  <para style="q2" vid="GEN 4:23">even a young man for my bruise.
 <verse eid="GEN 4:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="GEN 4:24"/>If Cain is avenged seven times,
 </para>
-  <para style="q2">then Lamech {is avenged} seventy-seven times!”
+  <para style="q2" vid="GEN 4:24">then Lamech {is avenged} seventy-seven times!”
 
 <ms style="ts"/>
 <verse eid="GEN 4:24"/></para>
@@ -325,11 +325,11 @@
 <verse eid="GEN 4:25"/><verse number="26" style="v" sid="GEN 4:26"/>And to Seth also a son was born, and he called his name Enosh.
 
 </para>
-  <para style="p">Then {people} began to call on the name of Yahweh.
+  <para style="p" vid="GEN 4:26">Then {people} began to call on the name of Yahweh.
 
 <ms style="ts"/>
 
-<verse eid="GEN 4:26"/><verse eid="GEN 4:26"/></para>
+<verse eid="GEN 4:26"/></para>
   <chapter eid="GEN 4"/>
   <chapter number="5" style="c" sid="GEN 5"/>
   <para style="p"><verse number="1" style="v" sid="GEN 5:1"/>This {is} the written account of the generations of Adam: On the day God created man{kind}, he made him in the likeness of God.
@@ -399,7 +399,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 5:32"/><verse eid="GEN 5:32"/></para>
+<verse eid="GEN 5:32"/></para>
   <chapter eid="GEN 5"/>
   <chapter number="6" style="c" sid="GEN 6"/>
   <para style="p"><verse number="1" style="v" sid="GEN 6:1"/>And it happened when mankind began to multiply on the surface of the earth and daughters were born to them,
@@ -408,7 +408,7 @@
 
 <ms style="ts"/>
 <verse eid="GEN 6:3"/></para>
-  <para style="p"><verse number="4" style="v" sid="GEN 6:4"/>The Nephilim were on the earth in those days and also after that, when the sons of God went to the daughters of mankind, and they bore children for them. They {were} the mighty {ones} who {were} from long ago, the men of renown.
+  <para style="p"><verse number="4" style="v" sid="GEN 6:4"/>The Nephils were on the earth in those days and also after that, when the sons of God went to the daughters of mankind, and they bore children for them. They {were} the mighty {ones} who {were} from long ago, the men of renown.
 
 <ms style="ts"/>
 <verse eid="GEN 6:4"/></para>
@@ -449,7 +449,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 6:22"/><verse eid="GEN 6:22"/></para>
+<verse eid="GEN 6:22"/></para>
   <chapter eid="GEN 6"/>
   <chapter number="7" style="c" sid="GEN 7"/>
   <para style="p"><verse number="1" style="v" sid="GEN 7:1"/>Then Yahweh said to Noah, “Go into the ark, you and all your household, because I have seen {that} you {are} righteous before me in this generation.
@@ -506,7 +506,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 7:24"/><verse eid="GEN 7:24"/></para>
+<verse eid="GEN 7:24"/></para>
   <chapter eid="GEN 7"/>
   <chapter number="8" style="c" sid="GEN 8"/>
   <para style="p"><verse number="1" style="v" sid="GEN 8:1"/>But God remembered Noah and all the living thing{s} and all the livestock that {were} with him in the ark, and God caused a wind to pass over the earth, and the waters subsided.
@@ -553,19 +553,19 @@
 <verse eid="GEN 8:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="GEN 8:22"/>While all of the days of the earth continue,
 </para>
-  <para style="q2">seed time and harvest,
+  <para style="q2" vid="GEN 8:22">seed time and harvest,
 </para>
-  <para style="q2">and cold and heat,
+  <para style="q2" vid="GEN 8:22">and cold and heat,
 </para>
-  <para style="q2">and summer and winter,
+  <para style="q2" vid="GEN 8:22">and summer and winter,
 </para>
-  <para style="q2">and day and night
+  <para style="q2" vid="GEN 8:22">and day and night
 </para>
-  <para style="q2">shall not cease.”
+  <para style="q2" vid="GEN 8:22">shall not cease.”
 
 <ms style="ts"/>
 
-<verse eid="GEN 8:22"/><verse eid="GEN 8:22"/></para>
+<verse eid="GEN 8:22"/></para>
   <chapter eid="GEN 8"/>
   <chapter number="9" style="c" sid="GEN 9"/>
   <para style="p"><verse number="1" style="v" sid="GEN 9:1"/>Then God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth.
@@ -580,11 +580,11 @@
 <verse eid="GEN 9:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="GEN 9:6"/>The one shedding the blood of a man,
 </para>
-  <para style="q2">by mankind his blood must be shed,
+  <para style="q2" vid="GEN 9:6">by mankind his blood must be shed,
 </para>
-  <para style="q1">because in the image of God
+  <para style="q1" vid="GEN 9:6">because in the image of God
 </para>
-  <para style="q2">he made mankind.
+  <para style="q2" vid="GEN 9:6">he made mankind.
 
 <verse eid="GEN 9:6"/></para>
   <para style="p"><verse number="7" style="v" sid="GEN 9:7"/>And you, be fruitful and multiply. Abound on the earth and multiply on it.”
@@ -631,23 +631,23 @@
   <para style="p"><verse number="24" style="v" sid="GEN 9:24"/>Then Noah woke up from his wine, and he learned what his youngest son had done to him,
 <verse eid="GEN 9:24"/><verse number="25" style="v" sid="GEN 9:25"/>and he said,
 </para>
-  <para style="q1">“Cursed be Canaan!
+  <para style="q1" vid="GEN 9:25">“Cursed be Canaan!
 </para>
-  <para style="q2">He will be a slave of slaves for his brothers.”
+  <para style="q2" vid="GEN 9:25">He will be a slave of slaves for his brothers.”
 
 <ms style="ts"/>
 <verse eid="GEN 9:25"/></para>
   <para style="m"><verse number="26" style="v" sid="GEN 9:26"/>Then he said,
 </para>
-  <para style="q1">“Praised be Yahweh, the God of Shem!
+  <para style="q1" vid="GEN 9:26">“Praised be Yahweh, the God of Shem!
 </para>
-  <para style="q2">And may Canaan be a slave for him.
+  <para style="q2" vid="GEN 9:26">And may Canaan be a slave for him.
 <verse eid="GEN 9:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="GEN 9:27"/>May God enlarge Japheth,
 </para>
-  <para style="q2">and may he live in the tents of Shem.
+  <para style="q2" vid="GEN 9:27">and may he live in the tents of Shem.
 </para>
-  <para style="q2">And may Canaan be a slave for him.”
+  <para style="q2" vid="GEN 9:27">And may Canaan be a slave for him.”
 
 <ms style="ts"/>
 <verse eid="GEN 9:27"/></para>
@@ -656,7 +656,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 9:29"/><verse eid="GEN 9:29"/></para>
+<verse eid="GEN 9:29"/></para>
   <chapter eid="GEN 9"/>
   <chapter number="10" style="c" sid="GEN 10"/>
   <para style="p"><verse number="1" style="v" sid="GEN 10:1"/>Now these {are} the generations of the sons of Noah: Shem, Ham, and Japheth, and sons were born to them after the flood.
@@ -738,7 +738,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 10:32"/><verse eid="GEN 10:32"/></para>
+<verse eid="GEN 10:32"/></para>
   <chapter eid="GEN 10"/>
   <chapter number="11" style="c" sid="GEN 11"/>
   <para style="p"><verse number="1" style="v" sid="GEN 11:1"/>Now the whole earth had one language and the same words.
@@ -763,7 +763,7 @@
   <para style="p"><verse number="10" style="v" sid="GEN 11:10"/>These {are} the generations of Shem:
 
 </para>
-  <para style="p">Shem {was} the son of 100 years, then he fathered Arpachshad two years after the flood.
+  <para style="p" vid="GEN 11:10">Shem {was} the son of 100 years, then he fathered Arpachshad two years after the flood.
 <verse eid="GEN 11:10"/><verse number="11" style="v" sid="GEN 11:11"/>Then after he fathered Arpachshad, Shem lived 500 years, and he fathered {other} sons and daughters.
 
 <ms style="ts"/>
@@ -820,24 +820,24 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 11:32"/><verse eid="GEN 11:32"/></para>
+<verse eid="GEN 11:32"/></para>
   <chapter eid="GEN 11"/>
   <chapter number="12" style="c" sid="GEN 12"/>
   <para style="p"><verse number="1" style="v" sid="GEN 12:1"/>Then Yahweh said to Abram, “You yourself must go from your land and from your relatives and from the house of your father, to the land that I will show you.
 <verse eid="GEN 12:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="GEN 12:2"/>And I will make you into a great nation,
 </para>
-  <para style="q2">and I will bless you,
+  <para style="q2" vid="GEN 12:2">and I will bless you,
 </para>
-  <para style="q1">and I will make your name great,
+  <para style="q1" vid="GEN 12:2">and I will make your name great,
 </para>
-  <para style="q2">and you shall be a blessing.
+  <para style="q2" vid="GEN 12:2">and you shall be a blessing.
 <verse eid="GEN 12:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="GEN 12:3"/>And I will bless those who bless you,
 </para>
-  <para style="q2">but whoever curses you I will curse.
+  <para style="q2" vid="GEN 12:3">but whoever curses you I will curse.
 </para>
-  <para style="q1">And in you all the families of the earth will be blessed.”
+  <para style="q1" vid="GEN 12:3">And in you all the families of the earth will be blessed.”
 
 <ms style="ts"/>
 <verse eid="GEN 12:3"/></para>
@@ -851,7 +851,7 @@
 <ms style="ts"/>
 <verse eid="GEN 12:7"/></para>
   <para style="p"><verse number="8" style="v" sid="GEN 12:8"/>Then from there he went on to the mountains to the east of Bethel and pitched his tents, {with} Bethel on the west and Ai on the east. And there he built an altar to Yahweh, and he called on the name of Yahweh.
-<verse eid="GEN 12:8"/><verse number="9" style="v" sid="GEN 12:9"/>Then Abram set out and continued to travel toward the Negev.
+<verse eid="GEN 12:8"/><verse number="9" style="v" sid="GEN 12:9"/>Then Abram set out and continued to travel toward the Negeb.
 
 <ms style="ts"/>
 <verse eid="GEN 12:9"/></para>
@@ -875,14 +875,14 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 12:20"/><verse eid="GEN 12:20"/></para>
+<verse eid="GEN 12:20"/></para>
   <chapter eid="GEN 12"/>
   <chapter number="13" style="c" sid="GEN 13"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 13:1"/>Then Abram went up from Egypt, he and his wife and everything that {belonged} to him, and Lot with him, to the Negev.
+  <para style="p"><verse number="1" style="v" sid="GEN 13:1"/>Then Abram went up from Egypt, he and his wife and everything that {belonged} to him, and Lot with him, to the Negeb.
 <verse eid="GEN 13:1"/><verse number="2" style="v" sid="GEN 13:2"/>And Abram {was} very wealthy in livestock, in silver, and in gold.
 
 <ms style="ts"/>
-<verse eid="GEN 13:2"/><verse number="3" style="v" sid="GEN 13:3"/>Then he went on his journeys from the Negev as far as Bethel, to the place where his tents had been at the beginning, between Bethel and Ai,
+<verse eid="GEN 13:2"/><verse number="3" style="v" sid="GEN 13:3"/>Then he went on his journeys from the Negeb as far as Bethel, to the place where his tents had been at the beginning, between Bethel and Ai,
 <verse eid="GEN 13:3"/><verse number="4" style="v" sid="GEN 13:4"/>to the place of the altar that he had made there at first, and there Abram called on the name of Yahweh.
 
 <ms style="ts"/>
@@ -917,7 +917,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 13:18"/><verse eid="GEN 13:18"/></para>
+<verse eid="GEN 13:18"/></para>
   <chapter eid="GEN 13"/>
   <chapter number="14" style="c" sid="GEN 14"/>
   <para style="p"><verse number="1" style="v" sid="GEN 14:1"/>Now it happened in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of the Goiim,
@@ -959,16 +959,16 @@
 <ms style="ts"/>
 <verse eid="GEN 14:18"/><verse number="19" style="v" sid="GEN 14:19"/>And he blessed him and said,
 </para>
-  <para style="q1">“May Abram be blessed by God Most High,
+  <para style="q1" vid="GEN 14:19">“May Abram be blessed by God Most High,
 </para>
-  <para style="q2">the Possessor of heaven and earth.
+  <para style="q2" vid="GEN 14:19">the Possessor of heaven and earth.
 <verse eid="GEN 14:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="GEN 14:20"/>And praised be God Most High,
 </para>
-  <para style="q2">who delivered your enemies into your hand!”
+  <para style="q2" vid="GEN 14:20">who delivered your enemies into your hand!”
 
 </para>
-  <para style="m">Then he gave to him a tenth of everything.
+  <para style="m" vid="GEN 14:20">Then he gave to him a tenth of everything.
 
 <ms style="ts"/>
 <verse eid="GEN 14:20"/><verse number="21" style="v" sid="GEN 14:21"/>Then the king of Sodom said to Abram, “Give to me the people, but the possessions take for yourself.”
@@ -978,16 +978,16 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 14:24"/><verse eid="GEN 14:24"/></para>
+<verse eid="GEN 14:24"/></para>
   <chapter eid="GEN 14"/>
   <chapter number="15" style="c" sid="GEN 15"/>
   <para style="p"><verse number="1" style="v" sid="GEN 15:1"/>After those things, the word of Yahweh came to Abram in a vision, saying,
 </para>
-  <para style="q1">“Do not be afraid, Abram!
+  <para style="q1" vid="GEN 15:1">“Do not be afraid, Abram!
 </para>
-  <para style="q2">I {am} a shield for you;
+  <para style="q2" vid="GEN 15:1">I {am} a shield for you;
 </para>
-  <para style="q2">your reward will be very great.”
+  <para style="q2" vid="GEN 15:1">your reward will be very great.”
 <verse eid="GEN 15:1"/><verse number="2" style="v" sid="GEN 15:2"/>But Abram said, “My Lord Yahweh, what will you give to me, since I go childless, and the son of the inheritance of my house {is} the Damascan, Eliezer?”
 <verse eid="GEN 15:2"/><verse number="3" style="v" sid="GEN 15:3"/>Then Abram said, “Behold, to me you have given no seed, and behold, a servant of my house is my heir!”
 
@@ -1026,7 +1026,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 15:21"/><verse eid="GEN 15:21"/></para>
+<verse eid="GEN 15:21"/></para>
   <chapter eid="GEN 15"/>
   <chapter number="16" style="c" sid="GEN 16"/>
   <para style="p"><verse number="1" style="v" sid="GEN 16:1"/>Now Sarai, the wife of Abram, had not born {children} for him, but she had an Egyptian maidservant, and her name {was} Hagar.
@@ -1054,23 +1054,23 @@
 <verse eid="GEN 16:10"/></para>
   <para style="p"><verse number="11" style="v" sid="GEN 16:11"/>Then the angel of Yahweh said to her,
 </para>
-  <para style="q1">“Behold, {you are} pregnant,
+  <para style="q1" vid="GEN 16:11">“Behold, {you are} pregnant,
 </para>
-  <para style="q2">and you will bear a son,
+  <para style="q2" vid="GEN 16:11">and you will bear a son,
 </para>
-  <para style="q1">and you will call his name Ishmael,
+  <para style="q1" vid="GEN 16:11">and you will call his name Ishmael,
 </para>
-  <para style="q2">because Yahweh has listened to your misery.
+  <para style="q2" vid="GEN 16:11">because Yahweh has listened to your misery.
 <verse eid="GEN 16:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="GEN 16:12"/>And he will be a wild donkey of a man,
 </para>
-  <para style="q2">his hand against everyone
+  <para style="q2" vid="GEN 16:12">his hand against everyone
 </para>
-  <para style="q2">and the hand of everyone against him,
+  <para style="q2" vid="GEN 16:12">and the hand of everyone against him,
 </para>
-  <para style="q1">and he will live in the faces
+  <para style="q1" vid="GEN 16:12">and he will live in the faces
 </para>
-  <para style="q2">of all of his brothers.”
+  <para style="q2" vid="GEN 16:12">of all of his brothers.”
 
 <ms style="ts"/>
 <verse eid="GEN 16:12"/></para>
@@ -1084,7 +1084,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 16:16"/><verse eid="GEN 16:16"/></para>
+<verse eid="GEN 16:16"/></para>
   <chapter eid="GEN 16"/>
   <chapter number="17" style="c" sid="GEN 17"/>
   <para style="p"><verse number="1" style="v" sid="GEN 17:1"/>Then Abram was a son of ninety-nine years, and Yahweh appeared to Abram and said to him, “I {am} God Almighty. Walk before me and be without blemish.
@@ -1143,7 +1143,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 17:27"/><verse eid="GEN 17:27"/></para>
+<verse eid="GEN 17:27"/></para>
   <chapter eid="GEN 17"/>
   <chapter number="18" style="c" sid="GEN 18"/>
   <para style="p"><verse number="1" style="v" sid="GEN 18:1"/>Then Yahweh appeared to him by the terebinth trees of Mamre, and he was sitting {at} the opening of the tent in the heat of the day.
@@ -1218,7 +1218,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 18:33"/><verse eid="GEN 18:33"/></para>
+<verse eid="GEN 18:33"/></para>
   <chapter eid="GEN 18"/>
   <chapter number="19" style="c" sid="GEN 19"/>
   <para style="p"><verse number="1" style="v" sid="GEN 19:1"/>Then the two angels came to Sodom in the evening, and Lot was sitting at the gate of Sodom. And Lot saw them, and he got up to meet them and bowed down {with} nose to the ground.
@@ -1304,10 +1304,10 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 19:38"/><verse eid="GEN 19:38"/></para>
+<verse eid="GEN 19:38"/></para>
   <chapter eid="GEN 19"/>
   <chapter number="20" style="c" sid="GEN 20"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 20:1"/>Then Abraham traveled from there to the land of the Negev, and he settled between Kadesh and Shur and sojourned in Gerar.
+  <para style="p"><verse number="1" style="v" sid="GEN 20:1"/>Then Abraham traveled from there to the land of the Negeb, and he settled between Kadesh and Shur and sojourned in Gerar.
 <verse eid="GEN 20:1"/><verse number="2" style="v" sid="GEN 20:2"/>And Abraham said about Sarah his wife, “She {is} my sister.” So Abimelech the king of Gerar sent for Sarah and took her.
 <verse eid="GEN 20:2"/><verse number="3" style="v" sid="GEN 20:3"/>But God came to Abimelech in a dream {in} the night and said to him, “Behold, you are dead because of the woman whom you have taken, because she is married to a husband!”
 
@@ -1347,7 +1347,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 20:18"/><verse eid="GEN 20:18"/></para>
+<verse eid="GEN 20:18"/></para>
   <chapter eid="GEN 20"/>
   <chapter number="21" style="c" sid="GEN 21"/>
   <para style="p"><verse number="1" style="v" sid="GEN 21:1"/>Then Yahweh visited Sarah as he had said, and Yahweh did for Sarah as he had said,
@@ -1423,7 +1423,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 21:34"/><verse eid="GEN 21:34"/></para>
+<verse eid="GEN 21:34"/></para>
   <chapter eid="GEN 21"/>
   <chapter number="22" style="c" sid="GEN 22"/>
   <para style="p"><verse number="1" style="v" sid="GEN 22:1"/>Then it happened after those things that God tested Abraham. And he said to him, “Abraham!” And he said, “Behold me.”
@@ -1481,7 +1481,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 22:24"/><verse eid="GEN 22:24"/></para>
+<verse eid="GEN 22:24"/></para>
   <chapter eid="GEN 22"/>
   <chapter number="23" style="c" sid="GEN 23"/>
   <para style="p"><verse number="1" style="v" sid="GEN 23:1"/>Now the life of Sarah was 127 years; the years of the life of Sarah.
@@ -1526,7 +1526,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 23:20"/><verse eid="GEN 23:20"/></para>
+<verse eid="GEN 23:20"/></para>
   <chapter eid="GEN 23"/>
   <chapter number="24" style="c" sid="GEN 24"/>
   <para style="p"><verse number="1" style="v" sid="GEN 24:1"/>Now Abraham was old, advanced in days, and Yahweh had blessed Abraham in all {things}.
@@ -1657,19 +1657,19 @@
 <verse eid="GEN 24:58"/><verse number="59" style="v" sid="GEN 24:59"/>Then they sent off Rebekah their sister and her nurse and the servant of Abraham and his men.
 <verse eid="GEN 24:59"/><verse number="60" style="v" sid="GEN 24:60"/>And they blessed Rebekah and said to her,
 </para>
-  <para style="q1">“Our sister, may you become
+  <para style="q1" vid="GEN 24:60">“Our sister, may you become
 </para>
-  <para style="q2">thousands of myriads,
+  <para style="q2" vid="GEN 24:60">thousands of myriads,
 </para>
-  <para style="q1">and may your offspring possess
+  <para style="q1" vid="GEN 24:60">and may your offspring possess
 </para>
-  <para style="q2">the gates of {those} hating them!”
+  <para style="q2" vid="GEN 24:60">the gates of {those} hating them!”
 
 <ms style="ts"/>
 <verse eid="GEN 24:60"/><verse number="61" style="v" sid="GEN 24:61"/>Then Rebekah got up and her maids, and they mounted the camels and went with the man. So the servant took Rebekah and left.
 
 <verse eid="GEN 24:61"/></para>
-  <para style="p"><verse number="62" style="v" sid="GEN 24:62"/>Meanwhile Isaac came from going to Beer Lahai Roi, and he was living in the land of the Negev.
+  <para style="p"><verse number="62" style="v" sid="GEN 24:62"/>Meanwhile Isaac came from going to Beer Lahai Roi, and he was living in the land of the Negeb.
 
 <ms style="ts"/>
 <verse eid="GEN 24:62"/><verse number="63" style="v" sid="GEN 24:63"/>And Isaac went to meditate in the field as it was turning toward evening, and he lifted his eyes and saw that, behold, camels were coming.
@@ -1683,7 +1683,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 24:67"/><verse eid="GEN 24:67"/></para>
+<verse eid="GEN 24:67"/></para>
   <chapter eid="GEN 24"/>
   <chapter number="25" style="c" sid="GEN 25"/>
   <para style="p"><verse number="1" style="v" sid="GEN 25:1"/>Then Abraham added and took a wife, and her name {was} Keturah.
@@ -1732,13 +1732,13 @@
 <ms style="ts"/>
 <verse eid="GEN 25:22"/><verse number="23" style="v" sid="GEN 25:23"/>And Yahweh said to her,
 </para>
-  <para style="q1">“Two nations {are} inside your womb,
+  <para style="q1" vid="GEN 25:23">“Two nations {are} inside your womb,
 </para>
-  <para style="q2">and two peoples will be divided from inside your womb.
+  <para style="q2" vid="GEN 25:23">and two peoples will be divided from inside your womb.
 </para>
-  <para style="q1">And one people will be stronger than the other people,
+  <para style="q1" vid="GEN 25:23">And one people will be stronger than the other people,
 </para>
-  <para style="q2">and the older will serve the younger.”
+  <para style="q2" vid="GEN 25:23">and the older will serve the younger.”
 
 <ms style="ts"/>
 <verse eid="GEN 25:23"/></para>
@@ -1764,7 +1764,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 25:34"/><verse eid="GEN 25:34"/></para>
+<verse eid="GEN 25:34"/></para>
   <chapter eid="GEN 25"/>
   <chapter number="26" style="c" sid="GEN 26"/>
   <para style="p"><verse number="1" style="v" sid="GEN 26:1"/>Then there was a famine in the land, besides the earlier famine that was in the days of Abraham. So Isaac went to Abimelech, the king of the Philistines, to Gerar.
@@ -1844,7 +1844,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 26:35"/><verse eid="GEN 26:35"/></para>
+<verse eid="GEN 26:35"/></para>
   <chapter eid="GEN 26"/>
   <chapter number="27" style="c" sid="GEN 27"/>
   <para style="p"><verse number="1" style="v" sid="GEN 27:1"/>Then it happened, when Isaac was old and his eyes were too dim to see, then he called Esau, his older son, and said to him, “My son.” And he said to him, “Behold me.”
@@ -1904,33 +1904,33 @@
   <para style="p"><verse number="26" style="v" sid="GEN 27:26"/>Then Isaac his father said to him, “Please come close and kiss me, my son.”
 <verse eid="GEN 27:26"/><verse number="27" style="v" sid="GEN 27:27"/>So he went close and kissed him. And he smelled the smell of his clothes, so he blessed him and said,
 </para>
-  <para style="q1">“See, the smell of my son
+  <para style="q1" vid="GEN 27:27">“See, the smell of my son
 </para>
-  <para style="q2">{is} like the smell of a field
+  <para style="q2" vid="GEN 27:27">{is} like the smell of a field
 </para>
-  <para style="q2">that Yahweh has blessed!
+  <para style="q2" vid="GEN 27:27">that Yahweh has blessed!
 
 <ms style="ts"/>
 <verse eid="GEN 27:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="GEN 27:28"/>And may God give to you from the dew of the heavens
 </para>
-  <para style="q2">and from the fatness of the earth,
+  <para style="q2" vid="GEN 27:28">and from the fatness of the earth,
 </para>
-  <para style="q2">and an abundance of grain and wine.
+  <para style="q2" vid="GEN 27:28">and an abundance of grain and wine.
 
 <ms style="ts"/>
 <verse eid="GEN 27:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="GEN 27:29"/>May peoples serve you,
 </para>
-  <para style="q2">and may nations bow down to you.
+  <para style="q2" vid="GEN 27:29">and may nations bow down to you.
 </para>
-  <para style="q1">Be master over your brothers,
+  <para style="q1" vid="GEN 27:29">Be master over your brothers,
 </para>
-  <para style="q2">and may the sons of your mother bow down to you.
+  <para style="q2" vid="GEN 27:29">and may the sons of your mother bow down to you.
 </para>
-  <para style="q1">{May} those {who} curse you be cursed,
+  <para style="q1" vid="GEN 27:29">{May} those {who} curse you be cursed,
 </para>
-  <para style="q2">and {may} those {who} bless you be blessed.”
+  <para style="q2" vid="GEN 27:29">and {may} those {who} bless you be blessed.”
 
 <ms style="ts"/>
 <verse eid="GEN 27:29"/></para>
@@ -1949,7 +1949,7 @@
 <verse eid="GEN 27:35"/><verse number="36" style="v" sid="GEN 27:36"/>Then he said, “Is it because his name is called Jacob that he has defrauded me these two times? He took my birthright, and behold, now he has taken my blessing!”
 
 </para>
-  <para style="p">Then he said, “Have you not reserved a blessing for me?”
+  <para style="p" vid="GEN 27:36">Then he said, “Have you not reserved a blessing for me?”
 <verse eid="GEN 27:36"/><verse number="37" style="v" sid="GEN 27:37"/>But Isaac responded and said to Esau, “Behold, I have made him master over you, and I have given all his brothers to him as servants. And I have sustained him with grain and wine. So then, what can I do for you, my son?”
 
 <ms style="ts"/>
@@ -1958,21 +1958,21 @@
 <ms style="ts"/>
 <verse eid="GEN 27:38"/><verse number="39" style="v" sid="GEN 27:39"/>Then Isaac his father responded and said to him,
 </para>
-  <para style="q1">“Behold, your dwelling will be
+  <para style="q1" vid="GEN 27:39">“Behold, your dwelling will be
 </para>
-  <para style="q2">away from the fatness of the earth
+  <para style="q2" vid="GEN 27:39">away from the fatness of the earth
 </para>
-  <para style="q2">and away from the dew of the heavens from above.
+  <para style="q2" vid="GEN 27:39">and away from the dew of the heavens from above.
 <verse eid="GEN 27:39"/></para>
   <para style="q1"><verse number="40" style="v" sid="GEN 27:40"/>And you will live by your sword,
 </para>
-  <para style="q2">and you will serve your brother.
+  <para style="q2" vid="GEN 27:40">and you will serve your brother.
 </para>
-  <para style="q1">But it will happen when you become restless,
+  <para style="q1" vid="GEN 27:40">But it will happen when you become restless,
 </para>
-  <para style="q2">then you will break his yoke
+  <para style="q2" vid="GEN 27:40">then you will break his yoke
 </para>
-  <para style="q2">off of your neck.”
+  <para style="q2" vid="GEN 27:40">off of your neck.”
 
 <ms style="ts"/>
 <verse eid="GEN 27:40"/></para>
@@ -1990,7 +1990,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 27:46"/><verse eid="GEN 27:46"/></para>
+<verse eid="GEN 27:46"/></para>
   <chapter eid="GEN 27"/>
   <chapter number="28" style="c" sid="GEN 28"/>
   <para style="p"><verse number="1" style="v" sid="GEN 28:1"/>Then Isaac called for Jacob and blessed him, and commanded him and said to him, “Do not take a wife from the daughters of Canaan.
@@ -2042,7 +2042,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 28:22"/><verse eid="GEN 28:22"/></para>
+<verse eid="GEN 28:22"/></para>
   <chapter eid="GEN 28"/>
   <chapter number="29" style="c" sid="GEN 29"/>
   <para style="p"><verse number="1" style="v" sid="GEN 29:1"/>Then Jacob lifted his feet and went to the land of the sons of the east.
@@ -2075,7 +2075,7 @@
 
 <ms style="ts"/>
 </para>
-  <para style="p">Then he stayed with him a month of days.
+  <para style="p" vid="GEN 29:14">Then he stayed with him a month of days.
 <verse eid="GEN 29:14"/><verse number="15" style="v" sid="GEN 29:15"/>Then Laban said to Jacob, “Because you {are} my relative, should you then serve me for nothing? Tell me, what {are} your wages?”
 <verse eid="GEN 29:15"/><verse number="16" style="v" sid="GEN 29:16"/>Now Laban had two daughters. The name of the older {was} Leah, and the name of the younger {was} Rachel.
 <verse eid="GEN 29:16"/><verse number="17" style="v" sid="GEN 29:17"/>And the eyes of Leah {were} delicate, but Rachel was lovely of form and beautiful of appearance.
@@ -2125,7 +2125,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 29:35"/><verse eid="GEN 29:35"/></para>
+<verse eid="GEN 29:35"/></para>
   <chapter eid="GEN 29"/>
   <chapter number="30" style="c" sid="GEN 30"/>
   <para style="p"><verse number="1" style="v" sid="GEN 30:1"/>Now Rachel saw that she was not bearing {children} for Jacob, so Rachel envied her sister, and she said to Jacob, “Give me children, and if not, I will die!”
@@ -2229,7 +2229,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 30:43"/><verse eid="GEN 30:43"/></para>
+<verse eid="GEN 30:43"/></para>
   <chapter eid="GEN 30"/>
   <chapter number="31" style="c" sid="GEN 31"/>
   <para style="p"><verse number="1" style="v" sid="GEN 31:1"/>Then he heard the words of the sons of Laban, {who} were saying, “Jacob has taken everything that {belonged} to our father, and from what {belonged} to our father he has gained all this wealth!”
@@ -2350,7 +2350,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 31:55"/><verse eid="GEN 31:55"/></para>
+<verse eid="GEN 31:55"/></para>
   <chapter eid="GEN 31"/>
   <chapter number="32" style="c" sid="GEN 32"/>
   <para style="p"><verse number="1" style="v" sid="GEN 32:1"/>Then Jacob went on his way, and angels of God met him.
@@ -2420,7 +2420,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 32:32"/><verse eid="GEN 32:32"/></para>
+<verse eid="GEN 32:32"/></para>
   <chapter eid="GEN 32"/>
   <chapter number="33" style="c" sid="GEN 33"/>
   <para style="p"><verse number="1" style="v" sid="GEN 33:1"/>Then Jacob lifted his eyes and looked, and behold, Esau was coming, and with him 400 men. Then he divided the children among Leah and Rachel and the two maidservants.
@@ -2463,7 +2463,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 33:20"/><verse eid="GEN 33:20"/></para>
+<verse eid="GEN 33:20"/></para>
   <chapter eid="GEN 33"/>
   <chapter number="34" style="c" sid="GEN 34"/>
   <para style="p"><verse number="1" style="v" sid="GEN 34:1"/>Then Dinah, the daughter of Leah, whom she had born for Jacob, went out to see the daughters of the land.
@@ -2532,7 +2532,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 34:31"/><verse eid="GEN 34:31"/></para>
+<verse eid="GEN 34:31"/></para>
   <chapter eid="GEN 34"/>
   <chapter number="35" style="c" sid="GEN 35"/>
   <para style="p"><verse number="1" style="v" sid="GEN 35:1"/>Then God said to Jacob, “Get up, go up to Bethel and settle there, and make an altar there to the God who appeared to you when you were fleeing from the presence of Esau your brother.”
@@ -2584,7 +2584,7 @@
 <verse eid="GEN 35:21"/><verse number="22" style="v" sid="GEN 35:22"/>And it happened while Israel was living in that land, then Reuben went and lay with Bilhah, the concubine of his father, and Israel heard.
 
 </para>
-  <para style="p">Now the sons of Jacob were twelve.
+  <para style="p" vid="GEN 35:22">Now the sons of Jacob were twelve.
 
 <ms style="ts"/>
 <verse eid="GEN 35:22"/><verse number="23" style="v" sid="GEN 35:23"/>The sons of Leah {were} Reuben the firstborn of Jacob, then Simeon and Levi and Judah and Issachar and Zebulun.
@@ -2604,7 +2604,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 35:29"/><verse eid="GEN 35:29"/></para>
+<verse eid="GEN 35:29"/></para>
   <chapter eid="GEN 35"/>
   <chapter number="36" style="c" sid="GEN 36"/>
   <para style="p"><verse number="1" style="v" sid="GEN 36:1"/>And these {are} the generations of Esau, who {is} Edom.
@@ -2704,7 +2704,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 36:43"/><verse eid="GEN 36:43"/></para>
+<verse eid="GEN 36:43"/></para>
   <chapter eid="GEN 36"/>
   <chapter number="37" style="c" sid="GEN 37"/>
   <para style="p"><verse number="1" style="v" sid="GEN 37:1"/>And Jacob lived in the land of his father’s sojournings, in the land of Canaan.
@@ -2743,7 +2743,7 @@
 
 <ms style="ts"/>
 </para>
-  <para style="p">Then Joseph went after his brothers and found them at Dothan.
+  <para style="p" vid="GEN 37:17">Then Joseph went after his brothers and found them at Dothan.
 <verse eid="GEN 37:17"/><verse number="18" style="v" sid="GEN 37:18"/>But they saw him from a distance, and before he came near to them, then they conspired against him to kill him.
 <verse eid="GEN 37:18"/><verse number="19" style="v" sid="GEN 37:19"/>And they said each to his brother, “Behold, that master of dreams is coming!
 <verse eid="GEN 37:19"/><verse number="20" style="v" sid="GEN 37:20"/>So now, come and let us kill him and throw him into one of the cisterns. Then we will say an evil animal devoured him, and we will see what his dreams become!”
@@ -2788,7 +2788,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 37:36"/><verse eid="GEN 37:36"/></para>
+<verse eid="GEN 37:36"/></para>
   <chapter eid="GEN 37"/>
   <chapter number="38" style="c" sid="GEN 38"/>
   <para style="p"><verse number="1" style="v" sid="GEN 38:1"/>And it happened at that time that Judah went down from his brothers and settled near an Adullamite man, and his name {was} Hirah.
@@ -2857,7 +2857,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 38:30"/><verse eid="GEN 38:30"/></para>
+<verse eid="GEN 38:30"/></para>
   <chapter eid="GEN 38"/>
   <chapter number="39" style="c" sid="GEN 39"/>
   <para style="p"><verse number="1" style="v" sid="GEN 39:1"/>Now Joseph had been taken down to Egypt, and Potiphar, an Egyptian man, an official of Pharaoh, the chief of the guards, had bought him from the hand of the Ishmaelites who had taken him down there.
@@ -2872,7 +2872,7 @@
 <verse eid="GEN 39:5"/><verse number="6" style="v" sid="GEN 39:6"/>And he left all that {belonged} to him in the hand of Joseph, and he did not think to himself {about} anything except for the bread that he ate.
 
 </para>
-  <para style="p">Now Joseph was handsome in form and handsome in appearance.
+  <para style="p" vid="GEN 39:6">Now Joseph was handsome in form and handsome in appearance.
 
 <ms style="ts"/>
 <verse eid="GEN 39:6"/><verse number="7" style="v" sid="GEN 39:7"/>And it happened after those things, then the wife of his master lifted her eyes toward Joseph and said, “Lie with me!”
@@ -2902,7 +2902,7 @@
 <verse eid="GEN 39:19"/><verse number="20" style="v" sid="GEN 39:20"/>Then Joseph’s master took him and put him in the round-house, the place where the prisoners of the king were bound.
 
 </para>
-  <para style="p">So he was there in the round-house,
+  <para style="p" vid="GEN 39:20">So he was there in the round-house,
 
 <ms style="ts"/>
 <verse eid="GEN 39:20"/><verse number="21" style="v" sid="GEN 39:21"/>but Yahweh was with Joseph and showed kindness to him and gave him favor in the eyes of the chief of the round-house.
@@ -2911,7 +2911,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 39:23"/><verse eid="GEN 39:23"/></para>
+<verse eid="GEN 39:23"/></para>
   <chapter eid="GEN 39"/>
   <chapter number="40" style="c" sid="GEN 40"/>
   <para style="p"><verse number="1" style="v" sid="GEN 40:1"/>Then it happened after those things {that} the cupbearer of the king of Egypt and the baker sinned against their lord, against the king of Egypt.
@@ -2965,7 +2965,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 40:23"/><verse eid="GEN 40:23"/></para>
+<verse eid="GEN 40:23"/></para>
   <chapter eid="GEN 40"/>
   <chapter number="41" style="c" sid="GEN 41"/>
   <para style="p"><verse number="1" style="v" sid="GEN 41:1"/>Then it happened {at} the end of two years of days that Pharaoh was dreaming and behold, he was standing beside the river.
@@ -3086,7 +3086,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 41:57"/><verse eid="GEN 41:57"/></para>
+<verse eid="GEN 41:57"/></para>
   <chapter eid="GEN 41"/>
   <chapter number="42" style="c" sid="GEN 42"/>
   <para style="p"><verse number="1" style="v" sid="GEN 42:1"/>Then Jacob saw that there was grain in Egypt, so Jacob said to his sons, “Why are you looking at each other?”
@@ -3170,7 +3170,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 42:38"/><verse eid="GEN 42:38"/></para>
+<verse eid="GEN 42:38"/></para>
   <chapter eid="GEN 42"/>
   <chapter number="43" style="c" sid="GEN 43"/>
   <para style="p"><verse number="1" style="v" sid="GEN 43:1"/>Now the famine {was} heavy in the land.
@@ -3250,7 +3250,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 43:34"/><verse eid="GEN 43:34"/></para>
+<verse eid="GEN 43:34"/></para>
   <chapter eid="GEN 43"/>
   <chapter number="44" style="c" sid="GEN 44"/>
   <para style="p"><verse number="1" style="v" sid="GEN 44:1"/>Then he commanded {the one} who {was} over his house, saying, “Fill the men’s sacks {with} food, as much as they are able to carry, and put the silver of each {one} in the mouth of his sack.
@@ -3326,7 +3326,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 44:34"/><verse eid="GEN 44:34"/></para>
+<verse eid="GEN 44:34"/></para>
   <chapter eid="GEN 44"/>
   <chapter number="45" style="c" sid="GEN 45"/>
   <para style="p"><verse number="1" style="v" sid="GEN 45:1"/>Then Joseph was not able to control himself before all who were standing by him, and he called out, “Have every man leave from beside me!” So no man stood with him when Joseph revealed himself to his brothers.
@@ -3389,7 +3389,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 45:28"/><verse eid="GEN 45:28"/></para>
+<verse eid="GEN 45:28"/></para>
   <chapter eid="GEN 45"/>
   <chapter number="46" style="c" sid="GEN 46"/>
   <para style="p"><verse number="1" style="v" sid="GEN 46:1"/>Then Israel set out and all that {belonged} to him. Then he came to Beersheba, and he sacrificed sacrifices to the God of his father Isaac.
@@ -3457,7 +3457,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 46:34"/><verse eid="GEN 46:34"/></para>
+<verse eid="GEN 46:34"/></para>
   <chapter eid="GEN 46"/>
   <chapter number="47" style="c" sid="GEN 47"/>
   <para style="p"><verse number="1" style="v" sid="GEN 47:1"/>Then Joseph went and reported to Pharaoh and said, “My father and my brothers and their flock{s} and their herd{s} and all that {belongs} to them have come from the land of Canaan, and behold, they {are} in the land of Goshen.”
@@ -3526,7 +3526,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 47:31"/><verse eid="GEN 47:31"/></para>
+<verse eid="GEN 47:31"/></para>
   <chapter eid="GEN 47"/>
   <chapter number="48" style="c" sid="GEN 48"/>
   <para style="p"><verse number="1" style="v" sid="GEN 48:1"/>Then it happened after those things that {someone} said to Joseph, “Behold, your father is sick.” So he took his two sons with him, Manasseh and Ephraim.
@@ -3559,17 +3559,17 @@
 <verse eid="GEN 48:13"/><verse number="14" style="v" sid="GEN 48:14"/>But Israel extended his right hand and placed {it} on the head of Ephraim, and he {was} the younger, and {he placed} his left hand on the head of Manasseh. He guided his hands, because Manasseh {was} the firstborn.
 <verse eid="GEN 48:14"/><verse number="15" style="v" sid="GEN 48:15"/>Then he blessed Joseph and said,
 </para>
-  <para style="q1">“May the God whom my fathers Abraham and Isaac walked before,
+  <para style="q1" vid="GEN 48:15">“May the God whom my fathers Abraham and Isaac walked before,
 </para>
-  <para style="q1">the God who has been shepherding me from since I {was born} until this day,
+  <para style="q1" vid="GEN 48:15">the God who has been shepherding me from since I {was born} until this day,
 <verse eid="GEN 48:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="GEN 48:16"/>the Angel who has redeemed me from all evil,
 </para>
-  <para style="q1">may he bless {these} boys,
+  <para style="q1" vid="GEN 48:16">may he bless {these} boys,
 </para>
-  <para style="q1">and may my name be called in them, and the name of my fathers Abraham and Isaac,
+  <para style="q1" vid="GEN 48:16">and may my name be called in them, and the name of my fathers Abraham and Isaac,
 </para>
-  <para style="q1">and may they grow into a multitude in the midst of the earth.”
+  <para style="q1" vid="GEN 48:16">and may they grow into a multitude in the midst of the earth.”
 
 <ms style="ts"/>
 <verse eid="GEN 48:16"/></para>
@@ -3580,12 +3580,12 @@
 <verse eid="GEN 48:18"/><verse number="19" style="v" sid="GEN 48:19"/>But his father refused and said, “I know, my son, I know. He will also become a people, and he will also be great. Nevertheless his younger brother will be greater than he, and his offspring will become a multitude of nations.”
 <verse eid="GEN 48:19"/><verse number="20" style="v" sid="GEN 48:20"/>And he blessed them on that day, saying,
 </para>
-  <para style="q1">“By you Israel will bless {people}, saying,
+  <para style="q1" vid="GEN 48:20">“By you Israel will bless {people}, saying,
 </para>
-  <para style="q2">‘May God make you like Ephraim and like Manasseh.’”
+  <para style="q2" vid="GEN 48:20">‘May God make you like Ephraim and like Manasseh.’”
 
 </para>
-  <para style="p">So he put Ephraim before Manasseh.
+  <para style="p" vid="GEN 48:20">So he put Ephraim before Manasseh.
 
 <ms style="ts"/>
 <verse eid="GEN 48:20"/></para>
@@ -3594,136 +3594,136 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 48:22"/><verse eid="GEN 48:22"/></para>
+<verse eid="GEN 48:22"/></para>
   <chapter eid="GEN 48"/>
   <chapter number="49" style="c" sid="GEN 49"/>
   <para style="p"><verse number="1" style="v" sid="GEN 49:1"/>Then Jacob called for his sons and said, “Gather together, and I will reveal to you what will meet you in the end of days.
 <verse eid="GEN 49:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="GEN 49:2"/>Assemble and listen, sons of Jacob,
 </para>
-  <para style="q2">and listen to Israel your father.
+  <para style="q2" vid="GEN 49:2">and listen to Israel your father.
 
 <verse eid="GEN 49:2"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="3" style="v" sid="GEN 49:3"/>Reuben, you {are} my firstborn,
 </para>
-  <para style="q2">my might and the first of my strength,
+  <para style="q2" vid="GEN 49:3">my might and the first of my strength,
 </para>
-  <para style="q2">excelling {in} rank and excelling {in} power.
+  <para style="q2" vid="GEN 49:3">excelling {in} rank and excelling {in} power.
 <verse eid="GEN 49:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="GEN 49:4"/>Turbulent like waters, you will not excel,
 </para>
-  <para style="q2">because you went up {onto} your father’s bed,
+  <para style="q2" vid="GEN 49:4">because you went up {onto} your father’s bed,
 </para>
-  <para style="q2">and you defiled {it}. He went up {onto} my couch!
+  <para style="q2" vid="GEN 49:4">and you defiled {it}. He went up {onto} my couch!
 
 <verse eid="GEN 49:4"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="5" style="v" sid="GEN 49:5"/>Simeon and Levi {are} brothers.
 </para>
-  <para style="q2">Their swords {are} weapons of violence.
+  <para style="q2" vid="GEN 49:5">Their swords {are} weapons of violence.
 <verse eid="GEN 49:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="GEN 49:6"/>Do not let my soul enter into their council!
 </para>
-  <para style="q2">Do not let my glory join in their assembly,
+  <para style="q2" vid="GEN 49:6">Do not let my glory join in their assembly,
 </para>
-  <para style="q1">because in their anger they killed a man,
+  <para style="q1" vid="GEN 49:6">because in their anger they killed a man,
 </para>
-  <para style="q2">and for their pleasure they hamstrung an ox.
+  <para style="q2" vid="GEN 49:6">and for their pleasure they hamstrung an ox.
 
 <ms style="ts"/>
 <verse eid="GEN 49:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="GEN 49:7"/>Cursed {be} their anger because {it is} strong,
 </para>
-  <para style="q2">and their fury because {it is} cruel!
+  <para style="q2" vid="GEN 49:7">and their fury because {it is} cruel!
 </para>
-  <para style="q1">I will divide them in Jacob,
+  <para style="q1" vid="GEN 49:7">I will divide them in Jacob,
 </para>
-  <para style="q2">and I will scatter them in Israel.
+  <para style="q2" vid="GEN 49:7">and I will scatter them in Israel.
 
 <verse eid="GEN 49:7"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="8" style="v" sid="GEN 49:8"/>Judah, {it is} you your brothers will praise.
 </para>
-  <para style="q2">Your hand {will be} on the neck of those opposing you.
+  <para style="q2" vid="GEN 49:8">Your hand {will be} on the neck of those opposing you.
 </para>
-  <para style="q2">The sons of your father will bow down to you.
+  <para style="q2" vid="GEN 49:8">The sons of your father will bow down to you.
 
 <ms style="ts"/>
 <verse eid="GEN 49:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="GEN 49:9"/>Judah {is} the cub of a lion.
 </para>
-  <para style="q2">From the prey, my son, you have gone up.
+  <para style="q2" vid="GEN 49:9">From the prey, my son, you have gone up.
 </para>
-  <para style="q1">He crouches {and} lies down like a lion.
+  <para style="q1" vid="GEN 49:9">He crouches {and} lies down like a lion.
 </para>
-  <para style="q2">And like a lioness, who will rouse him?
+  <para style="q2" vid="GEN 49:9">And like a lioness, who will rouse him?
 
 <ms style="ts"/>
 <verse eid="GEN 49:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="GEN 49:10"/>The scepter will not depart from Judah,
 </para>
-  <para style="q2">nor the staff from between his feet,
+  <para style="q2" vid="GEN 49:10">nor the staff from between his feet,
 </para>
-  <para style="q1">until Shiloh comes
+  <para style="q1" vid="GEN 49:10">until Shiloh comes
 </para>
-  <para style="q2">and to him {belongs} the obedience of the peoples.
+  <para style="q2" vid="GEN 49:10">and to him {belongs} the obedience of the peoples.
 
 <ms style="ts"/>
 <verse eid="GEN 49:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="GEN 49:11"/>He will tether his donkey to the {grape}vine,
 </para>
-  <para style="q2">and the son of his donkey to the choice branch.
+  <para style="q2" vid="GEN 49:11">and the son of his donkey to the choice branch.
 </para>
-  <para style="q1">He will wash his garment{s} in wine
+  <para style="q1" vid="GEN 49:11">He will wash his garment{s} in wine
 </para>
-  <para style="q2">and his robe{s} in the blood of grapes.
+  <para style="q2" vid="GEN 49:11">and his robe{s} in the blood of grapes.
 <verse eid="GEN 49:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="GEN 49:12"/>{His} eyes {will be} brilliant from wine,
 </para>
-  <para style="q2">and {his} teeth {will be} white from milk.
+  <para style="q2" vid="GEN 49:12">and {his} teeth {will be} white from milk.
 
 <verse eid="GEN 49:12"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="13" style="v" sid="GEN 49:13"/>Zebulun will settle at the shore of the sea,
 </para>
-  <para style="q2">and he {will live} at the shore of ships,
+  <para style="q2" vid="GEN 49:13">and he {will live} at the shore of ships,
 </para>
-  <para style="q2">and his border {will reach} to Sidon.
+  <para style="q2" vid="GEN 49:13">and his border {will reach} to Sidon.
 
 <verse eid="GEN 49:13"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="14" style="v" sid="GEN 49:14"/>Issachar {is} a strong donkey
 </para>
-  <para style="q2">lying down between two saddlebags.
+  <para style="q2" vid="GEN 49:14">lying down between two saddlebags.
 <verse eid="GEN 49:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="GEN 49:15"/>And he sees {his} resting place that {it is} good
 </para>
-  <para style="q2">and the land that it is pleasant.
+  <para style="q2" vid="GEN 49:15">and the land that it is pleasant.
 </para>
-  <para style="q1">Then he will bend his shoulder to bear {the loads},
+  <para style="q1" vid="GEN 49:15">Then he will bend his shoulder to bear {the loads},
 </para>
-  <para style="q2">and he will be a forced labor servant.
+  <para style="q2" vid="GEN 49:15">and he will be a forced labor servant.
 
 <verse eid="GEN 49:15"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="16" style="v" sid="GEN 49:16"/>Dan will judge his people
 </para>
-  <para style="q2">as one of the tribes of Israel.
+  <para style="q2" vid="GEN 49:16">as one of the tribes of Israel.
 <verse eid="GEN 49:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="GEN 49:17"/>Dan will be a snake beside the road,
 </para>
-  <para style="q2">a viper beside the path,
+  <para style="q2" vid="GEN 49:17">a viper beside the path,
 </para>
-  <para style="q1">that bites the heels of a horse,
+  <para style="q1" vid="GEN 49:17">that bites the heels of a horse,
 </para>
-  <para style="q2">and its rider falls off backward.
+  <para style="q2" vid="GEN 49:17">and its rider falls off backward.
 
 <verse eid="GEN 49:17"/></para>
   <para style="b"/>
@@ -3734,75 +3734,75 @@
   <ms style="ts"/>
   <para style="q1"><verse number="19" style="v" sid="GEN 49:19"/>{As for} Gad, raider{s} will attack him,
 </para>
-  <para style="q2">but he will attack {their} heel{s}.
+  <para style="q2" vid="GEN 49:19">but he will attack {their} heel{s}.
 
 <verse eid="GEN 49:19"/></para>
   <para style="b"/>
   <para style="q1"><verse number="20" style="v" sid="GEN 49:20"/>From Asher, his bread {will be} fat,
 </para>
-  <para style="q2">and he will provide king’s delicacies.
+  <para style="q2" vid="GEN 49:20">and he will provide king’s delicacies.
 
 <verse eid="GEN 49:20"/></para>
   <para style="b"/>
   <para style="q1"><verse number="21" style="v" sid="GEN 49:21"/>Naphtali {is} a doe that is let loose.
 </para>
-  <para style="q2">He gives words of beauty.
+  <para style="q2" vid="GEN 49:21">He gives words of beauty.
 
 <verse eid="GEN 49:21"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="22" style="v" sid="GEN 49:22"/>Joseph {is} the son of a fruit-bearing {vine},
 </para>
-  <para style="q2">the son of a fruit-bearing {vine} beside a spring,
+  <para style="q2" vid="GEN 49:22">the son of a fruit-bearing {vine} beside a spring,
 </para>
-  <para style="q2">{whose} daughters go up over a wall.
+  <para style="q2" vid="GEN 49:22">{whose} daughters go up over a wall.
 <verse eid="GEN 49:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="GEN 49:23"/>And masters of arrows will attack him
 </para>
-  <para style="q2">and shoot and harass him.
+  <para style="q2" vid="GEN 49:23">and shoot and harass him.
 
 <ms style="ts"/>
 <verse eid="GEN 49:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="GEN 49:24"/>But his bow will remain in strength
 </para>
-  <para style="q2">and the arms of his hands will be made limber
+  <para style="q2" vid="GEN 49:24">and the arms of his hands will be made limber
 </para>
-  <para style="q1">by the hands of the Mighty {One} of Jacob,
+  <para style="q1" vid="GEN 49:24">by the hands of the Mighty {One} of Jacob,
 </para>
-  <para style="q2">by the name of the Shepherd, the Rock of Israel,
+  <para style="q2" vid="GEN 49:24">by the name of the Shepherd, the Rock of Israel,
 
 <ms style="ts"/>
 <verse eid="GEN 49:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="GEN 49:25"/>by the God of your father, and he will help you,
 </para>
-  <para style="q2">and with the Almighty, and he will bless you
+  <para style="q2" vid="GEN 49:25">and with the Almighty, and he will bless you
 </para>
-  <para style="q1">{with} blessings of the heavens above,
+  <para style="q1" vid="GEN 49:25">{with} blessings of the heavens above,
 </para>
-  <para style="q2">blessings of the deep that lies below,
+  <para style="q2" vid="GEN 49:25">blessings of the deep that lies below,
 </para>
-  <para style="q2">blessings of breasts and womb.
+  <para style="q2" vid="GEN 49:25">blessings of breasts and womb.
 
 <ms style="ts"/>
 <verse eid="GEN 49:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="GEN 49:26"/>The blessings of your father have surpassed
 </para>
-  <para style="q2">the blessings of my ancestors,
+  <para style="q2" vid="GEN 49:26">the blessings of my ancestors,
 </para>
-  <para style="q2">even to the bounties of the eternal hills.
+  <para style="q2" vid="GEN 49:26">even to the bounties of the eternal hills.
 </para>
-  <para style="q1">May they rest on the head of Joseph,
+  <para style="q1" vid="GEN 49:26">May they rest on the head of Joseph,
 </para>
-  <para style="q2">even on the top of the head of the one consecrated from {among} his brothers.
+  <para style="q2" vid="GEN 49:26">even on the top of the head of the one consecrated from {among} his brothers.
 
 <verse eid="GEN 49:26"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="27" style="v" sid="GEN 49:27"/>Benjamin {is} a ravenous wolf.
 </para>
-  <para style="q2">In the morning it devours {its} prey,
+  <para style="q2" vid="GEN 49:27">In the morning it devours {its} prey,
 </para>
-  <para style="q2">and in the evening it divides the plunder.”
+  <para style="q2" vid="GEN 49:27">and in the evening it divides the plunder.”
 
 <ms style="ts"/>
 <verse eid="GEN 49:27"/></para>
@@ -3820,7 +3820,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GEN 49:33"/><verse eid="GEN 49:33"/></para>
+<verse eid="GEN 49:33"/></para>
   <chapter eid="GEN 49"/>
   <chapter number="50" style="c" sid="GEN 50"/>
   <para style="p"><verse number="1" style="v" sid="GEN 50:1"/>Then Joseph fell on the face of his father, and he wept over him and kissed him.

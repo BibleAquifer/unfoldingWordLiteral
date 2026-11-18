@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="MAT" style="id">EN_ULT en_English_ltr Fri Jan 27 2023 06:48:37 GMT-0800 (Pacific Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -68,7 +68,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 1:25"/><verse eid="MAT 1:25"/></para>
+<verse eid="MAT 1:25"/></para>
   <chapter eid="MAT 1"/>
   <chapter number="2" style="c" sid="MAT 2"/>
   <para style="p"><verse number="1" style="v" sid="MAT 2:1"/>Now, Jesus having been born in Bethlehem of Judea in the days of Herod the king, behold, learned men from the east arrived in Jerusalem,
@@ -85,11 +85,11 @@
 <verse eid="MAT 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="MAT 2:6"/>‘And you, Bethlehem, land of Judah,
 </para>
-  <para style="q1">are by no means least among the leaders of Judah,
+  <para style="q1" vid="MAT 2:6">are by no means least among the leaders of Judah,
 </para>
-  <para style="q1">for from you will come out a ruling one
+  <para style="q1" vid="MAT 2:6">for from you will come out a ruling one
 </para>
-  <para style="q1">who will shepherd my people Israel.’”
+  <para style="q1" vid="MAT 2:6">who will shepherd my people Israel.’”
 
 <ms style="ts"/>
 <verse eid="MAT 2:6"/></para>
@@ -111,7 +111,7 @@
 <verse eid="MAT 2:13"/><verse number="14" style="v" sid="MAT 2:14"/>And having gotten up, he took the young child and his mother at night and departed for Egypt,
 <verse eid="MAT 2:14"/><verse number="15" style="v" sid="MAT 2:15"/>and he was there until the death of Herod, in order that might be fulfilled {what} was spoken by the Lord through the prophet, saying,
 </para>
-  <para style="q1">“Out of Egypt I called my son.”
+  <para style="q1" vid="MAT 2:15">“Out of Egypt I called my son.”
 
 <ms style="ts"/>
 <verse eid="MAT 2:15"/></para>
@@ -122,11 +122,11 @@
 <verse eid="MAT 2:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="MAT 2:18"/>“A voice was heard in Ramah,
 </para>
-  <para style="q1">weeping and great mourning,
+  <para style="q1" vid="MAT 2:18">weeping and great mourning,
 </para>
-  <para style="q1">Rachel weeping for her children,
+  <para style="q1" vid="MAT 2:18">Rachel weeping for her children,
 </para>
-  <para style="q1">and not willing to be comforted, because they are no more.”
+  <para style="q1" vid="MAT 2:18">and not willing to be comforted, because they are no more.”
 
 <ms style="ts"/>
 <verse eid="MAT 2:18"/></para>
@@ -140,18 +140,18 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 2:23"/><verse eid="MAT 2:23"/></para>
+<verse eid="MAT 2:23"/></para>
   <chapter eid="MAT 2"/>
   <chapter number="3" style="c" sid="MAT 3"/>
   <para style="p"><verse number="1" style="v" sid="MAT 3:1"/>Now in those days, John the Baptist comes, preaching in the wilderness of Judea,
 <verse eid="MAT 3:1"/><verse number="2" style="v" sid="MAT 3:2"/>saying, “Repent, for the kingdom of the heavens is near.”
 <verse eid="MAT 3:2"/><verse number="3" style="v" sid="MAT 3:3"/>For this is the one spoken of through Isaiah the prophet, saying,
 </para>
-  <para style="q1">“A voice of one calling out in the wilderness,
+  <para style="q1" vid="MAT 3:3">“A voice of one calling out in the wilderness,
 </para>
-  <para style="q1">‘Make ready the way of the Lord,
+  <para style="q1" vid="MAT 3:3">‘Make ready the way of the Lord,
 </para>
-  <para style="q1">make his paths straight.’”
+  <para style="q1" vid="MAT 3:3">make his paths straight.’”
 
 <ms style="ts"/>
 <verse eid="MAT 3:3"/></para>
@@ -184,7 +184,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 3:17"/><verse eid="MAT 3:17"/></para>
+<verse eid="MAT 3:17"/></para>
   <chapter eid="MAT 3"/>
   <chapter number="4" style="c" sid="MAT 4"/>
   <para style="p"><verse number="1" style="v" sid="MAT 4:1"/>Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
@@ -199,11 +199,11 @@
   <para style="p"><verse number="5" style="v" sid="MAT 4:5"/>Then the devil takes him into the holy city, and he set him on the highest point of the temple,
 <verse eid="MAT 4:5"/><verse number="6" style="v" sid="MAT 4:6"/>and says to him, “If you are the Son of God, throw yourself down, for it is written,
 </para>
-  <para style="q1">‘He will command his angels concerning you,’
+  <para style="q1" vid="MAT 4:6">‘He will command his angels concerning you,’
 </para>
-  <para style="q1">and, ‘They will lift you up in their hands,
+  <para style="q1" vid="MAT 4:6">and, ‘They will lift you up in their hands,
 </para>
-  <para style="q1">lest you strike your foot against a stone.’”
+  <para style="q1" vid="MAT 4:6">lest you strike your foot against a stone.’”
 
 <ms style="ts"/>
 <verse eid="MAT 4:6"/></para>
@@ -230,17 +230,17 @@
 <verse eid="MAT 4:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="MAT 4:15"/>“The land of Zebulun and the land of Naphtali,
 </para>
-  <para style="q1">{the} way of the sea, beyond the Jordan,
+  <para style="q1" vid="MAT 4:15">{the} way of the sea, beyond the Jordan,
 </para>
-  <para style="q1">Galilee of the Gentiles—
+  <para style="q1" vid="MAT 4:15">Galilee of the Gentiles—
 <verse eid="MAT 4:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="MAT 4:16"/>the people sitting in darkness
 </para>
-  <para style="q1">have seen a great light,
+  <para style="q1" vid="MAT 4:16">have seen a great light,
 </para>
-  <para style="q1">and to the ones sitting in the region and shadow of death,
+  <para style="q1" vid="MAT 4:16">and to the ones sitting in the region and shadow of death,
 </para>
-  <para style="q1">upon them has a light arisen.”
+  <para style="q1" vid="MAT 4:16">upon them has a light arisen.”
 
 <ms style="ts"/>
 <verse eid="MAT 4:16"/></para>
@@ -264,7 +264,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAT 4:25"/><verse eid="MAT 4:25"/></para>
+<verse eid="MAT 4:25"/></para>
   <chapter eid="MAT 4"/>
   <chapter number="5" style="c" sid="MAT 5"/>
   <para style="p"><verse number="1" style="v" sid="MAT 5:1"/>Now, having seen the crowds, he went up on the mountain, and he having sat down, his disciples came to him.
@@ -273,39 +273,39 @@
 <verse eid="MAT 5:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="MAT 5:3"/>“Blessed {are} the poor in spirit,
 </para>
-  <para style="q2">for theirs is the kingdom of the heavens.
+  <para style="q2" vid="MAT 5:3">for theirs is the kingdom of the heavens.
 <verse eid="MAT 5:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="MAT 5:4"/>Blessed {are} the ones mourning,
 </para>
-  <para style="q2">for they will be comforted.
+  <para style="q2" vid="MAT 5:4">for they will be comforted.
 
 <ms style="ts"/>
 <verse eid="MAT 5:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="MAT 5:5"/>Blessed {are} the meek,
 </para>
-  <para style="q2">for they will inherit the earth.
+  <para style="q2" vid="MAT 5:5">for they will inherit the earth.
 <verse eid="MAT 5:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="MAT 5:6"/>Blessed {are} the ones hungering and thirsting for righteousness,
 </para>
-  <para style="q2">for they will be fed.
+  <para style="q2" vid="MAT 5:6">for they will be fed.
 <verse eid="MAT 5:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="MAT 5:7"/>Blessed {are} the merciful,
 </para>
-  <para style="q2">for they will obtain mercy.
+  <para style="q2" vid="MAT 5:7">for they will obtain mercy.
 <verse eid="MAT 5:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="MAT 5:8"/>Blessed {are} the pure in heart,
 </para>
-  <para style="q2">for they will see God.
+  <para style="q2" vid="MAT 5:8">for they will see God.
 
 <ms style="ts"/>
 <verse eid="MAT 5:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="MAT 5:9"/>Blessed {are} the peacemakers,
 </para>
-  <para style="q2">for they will be called sons of God.
+  <para style="q2" vid="MAT 5:9">for they will be called sons of God.
 <verse eid="MAT 5:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="MAT 5:10"/>Blessed {are} the ones persecuted for the sake of righteousness,
 </para>
-  <para style="q2">for theirs is the kingdom of the heavens.
+  <para style="q2" vid="MAT 5:10">for theirs is the kingdom of the heavens.
 
 <ms style="ts"/>
 <verse eid="MAT 5:10"/></para>
@@ -395,7 +395,7 @@ do the same thing?
 
 <ms style="ts"/>
 
-<verse eid="MAT 5:48"/><verse eid="MAT 5:48"/></para>
+<verse eid="MAT 5:48"/></para>
   <chapter eid="MAT 5"/>
   <chapter number="6" style="c" sid="MAT 6"/>
   <para style="p"><verse number="1" style="v" sid="MAT 6:1"/>Now take heed not to do your righteousness before men to be seen by them, otherwise, you do not have a reward with your Father in the heavens.
@@ -420,15 +420,15 @@ do the same thing?
 <verse eid="MAT 6:8"/></para>
   <para style="p"><verse number="9" style="v" sid="MAT 6:9"/>Therefore, you must pray like this:
 </para>
-  <para style="q1">‘Our Father in the heavens,
+  <para style="q1" vid="MAT 6:9">‘Our Father in the heavens,
 </para>
-  <para style="q1">let your name be made holy.
+  <para style="q1" vid="MAT 6:9">let your name be made holy.
 <verse eid="MAT 6:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="MAT 6:10"/>Let your kingdom come,
 </para>
-  <para style="q1">let your will be done
+  <para style="q1" vid="MAT 6:10">let your will be done
 </para>
-  <para style="q2">as in heaven also on earth.
+  <para style="q2" vid="MAT 6:10">as in heaven also on earth.
 
 <ms style="ts"/>
 <verse eid="MAT 6:10"/></para>
@@ -436,11 +436,11 @@ do the same thing?
 <verse eid="MAT 6:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="MAT 6:12"/>and forgive us our debts,
 </para>
-  <para style="q2">as we also forgave our debtors;
+  <para style="q2" vid="MAT 6:12">as we also forgave our debtors;
 <verse eid="MAT 6:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="MAT 6:13"/>and do not bring us into temptation,
 </para>
-  <para style="q2">but deliver us from the evil one.’<note style="f" caller="+"> <char style="ft" closed="false">Some ancient manuscripts include here </char><char style="fqa" closed="true">For yours is the kingdom and the power and the glory forever. Amen.</char></note>
+  <para style="q2" vid="MAT 6:13">but deliver us from the evil one.’<note style="f" caller="+"> <char style="ft" closed="false">Some ancient manuscripts include here </char><char style="fqa" closed="true">For yours is the kingdom and the power and the glory forever. Amen.</char></note>
 
 <ms style="ts"/>
 <verse eid="MAT 6:13"/></para>
@@ -492,7 +492,7 @@ and his righteousness, and all these things will be added to you.
 
 <ms style="ts"/>
 
-<verse eid="MAT 6:34"/><verse eid="MAT 6:34"/></para>
+<verse eid="MAT 6:34"/></para>
   <chapter eid="MAT 6"/>
   <chapter number="7" style="c" sid="MAT 7"/>
   <para style="p"><verse number="1" style="v" sid="MAT 7:1"/>Do not judge, so that you will not be judged.
@@ -556,7 +556,7 @@ that is leading to life, and there are few finding it.
 
 <ms style="ts"/>
 
-<verse eid="MAT 7:29"/><verse eid="MAT 7:29"/></para>
+<verse eid="MAT 7:29"/></para>
   <chapter eid="MAT 7"/>
   <chapter number="8" style="c" sid="MAT 8"/>
   <para style="p"><verse number="1" style="v" sid="MAT 8:1"/>Now {when} he had come down from the mountain, large crowds followed him.
@@ -645,7 +645,7 @@ around him, commanded to depart to the other side.
 
 <ms style="ts"/>
 
-<verse eid="MAT 8:34"/><verse eid="MAT 8:34"/></para>
+<verse eid="MAT 8:34"/></para>
   <chapter eid="MAT 8"/>
   <chapter number="9" style="c" sid="MAT 9"/>
   <para style="p"><verse number="1" style="v" sid="MAT 9:1"/>And having gotten into a boat, he crossed over and came to his own city.
@@ -721,7 +721,7 @@ and glorified God, having given such authority to men.
   <para style="p"><verse number="28" style="v" sid="MAT 9:28"/>Now {when} he had come into the house, the blind men came to him and Jesus says to them, “Do you believe that I am able to do this?”
 
 </para>
-  <para style="p">They say to him, “Yes, Lord.”
+  <para style="p" vid="MAT 9:28">They say to him, “Yes, Lord.”
 
 <ms style="ts"/>
 <verse eid="MAT 9:28"/></para>
@@ -748,7 +748,7 @@ and glorified God, having given such authority to men.
 
 <ms style="ts"/>
 
-<verse eid="MAT 9:38"/><verse eid="MAT 9:38"/></para>
+<verse eid="MAT 9:38"/></para>
   <chapter eid="MAT 9"/>
   <chapter number="10" style="c" sid="MAT 10"/>
   <para style="p"><verse number="1" style="v" sid="MAT 10:1"/>And having summoned his 12 disciples, he gave them authority over unclean spirits, so as to cast them out and to heal every disease and every sickness.
@@ -836,7 +836,7 @@ and glorified God, having given such authority to men.
 
 <ms style="ts"/>
 
-<verse eid="MAT 10:42"/><verse eid="MAT 10:42"/></para>
+<verse eid="MAT 10:42"/></para>
   <chapter eid="MAT 10"/>
   <chapter number="11" style="c" sid="MAT 11"/>
   <para style="p"><verse number="1" style="v" sid="MAT 11:1"/>And it happened that when Jesus had finished giving orders to his 12 disciples, he departed from there to teach and to preach in their cities.
@@ -860,7 +860,7 @@ and glorified God, having given such authority to men.
 <verse eid="MAT 11:8"/><verse number="9" style="v" sid="MAT 11:9"/>But why did you go out? To see a prophet? Yes, I say to you, and more than a prophet.
 <verse eid="MAT 11:9"/><verse number="10" style="v" sid="MAT 11:10"/>This is he concerning whom it is written,
 </para>
-  <para style="pm">‘Behold, I am sending my messenger before your face, who will prepare your way before you.’
+  <para style="pm" vid="MAT 11:10">‘Behold, I am sending my messenger before your face, who will prepare your way before you.’
 
 <ms style="ts"/>
 <verse eid="MAT 11:10"/></para>
@@ -907,7 +907,7 @@ For if the miracles that happened in you had happened in Sodom, it would have re
 
 <ms style="ts"/>
 
-<verse eid="MAT 11:30"/><verse eid="MAT 11:30"/></para>
+<verse eid="MAT 11:30"/></para>
   <chapter eid="MAT 11"/>
   <chapter number="12" style="c" sid="MAT 12"/>
   <para style="p"><verse number="1" style="v" sid="MAT 12:1"/>At that time, Jesus went on the Sabbaths through the grainfields, but his disciples were hungry and began to pick heads of grain and to eat {them}.
@@ -950,23 +950,23 @@ For if the miracles that happened in you had happened in Sodom, it would have re
 <verse eid="MAT 12:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="MAT 12:18"/>“Behold, my servant whom I have chosen;
 </para>
-  <para style="q1">my beloved, in whom my soul was well pleased.
+  <para style="q1" vid="MAT 12:18">my beloved, in whom my soul was well pleased.
 </para>
-  <para style="q1">I will put my Spirit upon him,
+  <para style="q1" vid="MAT 12:18">I will put my Spirit upon him,
 </para>
-  <para style="q1">and he will announce justice to the Gentiles.
+  <para style="q1" vid="MAT 12:18">and he will announce justice to the Gentiles.
 
 <ms style="ts"/>
 <verse eid="MAT 12:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="MAT 12:19"/>He will not strive nor cry aloud;
 </para>
-  <para style="q1">neither will anyone hear his voice in the streets.
+  <para style="q1" vid="MAT 12:19">neither will anyone hear his voice in the streets.
 <verse eid="MAT 12:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="MAT 12:20"/>He will not break a bruised reed;
 </para>
-  <para style="q1">and he will not quench a smoking flax,
+  <para style="q1" vid="MAT 12:20">and he will not quench a smoking flax,
 </para>
-  <para style="q1">until he casts out justice to victory,
+  <para style="q1" vid="MAT 12:20">until he casts out justice to victory,
 <verse eid="MAT 12:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="MAT 12:21"/>and in his name Gentiles will hope.”
 
@@ -1042,7 +1042,7 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
 
 <ms style="ts"/>
 
-<verse eid="MAT 12:50"/><verse eid="MAT 12:50"/></para>
+<verse eid="MAT 12:50"/></para>
   <chapter eid="MAT 12"/>
   <chapter number="13" style="c" sid="MAT 13"/>
   <para style="p"><verse number="1" style="v" sid="MAT 13:1"/>On that day, Jesus, having gone out of the house, was sitting beside the sea.
@@ -1072,25 +1072,25 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
 <verse eid="MAT 13:12"/><verse number="13" style="v" sid="MAT 13:13"/>For this reason I speak to them in parables; because seeing, they do not see; and hearing, they do not hear nor understand.
 <verse eid="MAT 13:13"/><verse number="14" style="v" sid="MAT 13:14"/>And in them the prophecy of Isaiah is being fulfilled, which says,
 </para>
-  <para style="q1">‘In hearing you will hear, but you will certainly not understand;
+  <para style="q1" vid="MAT 13:14">‘In hearing you will hear, but you will certainly not understand;
 </para>
-  <para style="q1">and seeing, you will see, but you will certainly not perceive.
+  <para style="q1" vid="MAT 13:14">and seeing, you will see, but you will certainly not perceive.
 
 <ms style="ts"/>
 <verse eid="MAT 13:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="MAT 13:15"/>For the heart of this people has been thickened,
 </para>
-  <para style="q1">and with {their} ears they have hardly heard,
+  <para style="q1" vid="MAT 13:15">and with {their} ears they have hardly heard,
 </para>
-  <para style="q1">and they have shut their eyes,
+  <para style="q1" vid="MAT 13:15">and they have shut their eyes,
 </para>
-  <para style="q1">lest they might see with {their} eyes,
+  <para style="q1" vid="MAT 13:15">lest they might see with {their} eyes,
 </para>
-  <para style="q1">and they might hear with {their} ears,
+  <para style="q1" vid="MAT 13:15">and they might hear with {their} ears,
 </para>
-  <para style="q1">and they might understand with {their} heart and turn back,
+  <para style="q1" vid="MAT 13:15">and they might understand with {their} heart and turn back,
 </para>
-  <para style="q1">and I would heal them.’
+  <para style="q1" vid="MAT 13:15">and I would heal them.’
 
 <ms style="ts"/>
 <verse eid="MAT 13:15"/></para>
@@ -1123,7 +1123,7 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
   <para style="p"><verse number="28" style="v" sid="MAT 13:28"/>But he was saying to them, ‘A hostile man did this.’
 
 </para>
-  <para style="p">But the servants say to him, ‘Do you therefore desire that, having gone out, we would gather them?’
+  <para style="p" vid="MAT 13:28">But the servants say to him, ‘Do you therefore desire that, having gone out, we would gather them?’
 
 <ms style="ts"/>
 <verse eid="MAT 13:28"/></para>
@@ -1143,9 +1143,9 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
   <para style="p"><verse number="34" style="v" sid="MAT 13:34"/>All these things Jesus spoke in parables to the crowds, and he was speaking nothing to them without a parable,
 <verse eid="MAT 13:34"/><verse number="35" style="v" sid="MAT 13:35"/>so that {what} had been said through the prophet might be fulfilled, saying,
 </para>
-  <para style="q1">“I will open my mouth in parables.
+  <para style="q1" vid="MAT 13:35">“I will open my mouth in parables.
 </para>
-  <para style="q1">I will declare {what} has been hidden from the foundation of the world.”
+  <para style="q1" vid="MAT 13:35">I will declare {what} has been hidden from the foundation of the world.”
 
 <ms style="ts"/>
 <verse eid="MAT 13:35"/></para>
@@ -1179,7 +1179,7 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
 <verse eid="MAT 13:50"/><verse number="51" style="v" sid="MAT 13:51"/>Have you understood all these things?”
 
 </para>
-  <para style="p">They say to him, “Yes.”
+  <para style="p" vid="MAT 13:51">They say to him, “Yes.”
 
 <ms style="ts"/>
 <verse eid="MAT 13:51"/></para>
@@ -1200,7 +1200,7 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
 
 <ms style="ts"/>
 
-<verse eid="MAT 13:58"/><verse eid="MAT 13:58"/></para>
+<verse eid="MAT 13:58"/></para>
   <chapter eid="MAT 13"/>
   <chapter number="14" style="c" sid="MAT 14"/>
   <para style="p"><verse number="1" style="v" sid="MAT 14:1"/>At that time, Herod the tetrarch heard the news about Jesus.
@@ -1271,7 +1271,7 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
   <para style="p"><verse number="29" style="v" sid="MAT 14:29"/>And he said, “Come.”
 
 </para>
-  <para style="p">And Peter, having gotten out from the boat, walked on the water to go to Jesus.
+  <para style="p" vid="MAT 14:29">And Peter, having gotten out from the boat, walked on the water to go to Jesus.
 <verse eid="MAT 14:29"/><verse number="30" style="v" sid="MAT 14:30"/>But, seeing the strong wind, he became afraid, and having begun to sink, he cried out, saying, “Lord, save me!”
 
 <ms style="ts"/>
@@ -1290,7 +1290,7 @@ Now someone said to him, “Behold, your mother and your brothers have stood out
 
 <ms style="ts"/>
 
-<verse eid="MAT 14:36"/><verse eid="MAT 14:36"/></para>
+<verse eid="MAT 14:36"/></para>
   <chapter eid="MAT 14"/>
   <chapter number="15" style="c" sid="MAT 15"/>
   <para style="p"><verse number="1" style="v" sid="MAT 15:1"/>Then Pharisees and scribes come to Jesus from Jerusalem, saying,
@@ -1310,11 +1310,11 @@ of God because of your tradition.
 <verse eid="MAT 15:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="MAT 15:8"/>‘This people honors me with their lips,
 </para>
-  <para style="q1">but their heart is far away from me.
+  <para style="q1" vid="MAT 15:8">but their heart is far away from me.
 <verse eid="MAT 15:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="MAT 15:9"/>But they worship me in vain,
 </para>
-  <para style="q1">teaching as doctrines commandments of men.’”
+  <para style="q1" vid="MAT 15:9">teaching as doctrines commandments of men.’”
 
 <ms style="ts"/>
 <verse eid="MAT 15:9"/></para>
@@ -1384,7 +1384,7 @@ of God because of your tradition.
   <para style="p"><verse number="34" style="v" sid="MAT 15:34"/>And Jesus says to them, “How many loaves do you have?”
 
 </para>
-  <para style="p">And they said, “Seven, and a few small fish.”
+  <para style="p" vid="MAT 15:34">And they said, “Seven, and a few small fish.”
 
 <verse eid="MAT 15:34"/></para>
   <para style="p"><verse number="35" style="v" sid="MAT 15:35"/>And having commanded the crowd to recline on the ground,
@@ -1397,7 +1397,7 @@ of God because of your tradition.
 
 <ms style="ts"/>
 
-<verse eid="MAT 15:39"/><verse eid="MAT 15:39"/></para>
+<verse eid="MAT 15:39"/></para>
   <chapter eid="MAT 15"/>
   <chapter number="16" style="c" sid="MAT 16"/>
   <para style="p"><verse number="1" style="v" sid="MAT 16:1"/>And the Pharisees and Sadducees, having approached, testing {him}, asked him to show them a sign from heaven.
@@ -1473,7 +1473,7 @@ And in early morning, ‘Today will be stormy, for the sky is red, being overcas
 
 <ms style="ts"/>
 
-<verse eid="MAT 16:28"/><verse eid="MAT 16:28"/></para>
+<verse eid="MAT 16:28"/></para>
   <chapter eid="MAT 16"/>
   <chapter number="17" style="c" sid="MAT 17"/>
   <para style="p"><verse number="1" style="v" sid="MAT 17:1"/>And after six days, Jesus takes along Peter, and James, and John his brother, and brings them up onto a high mountain by themselves.
@@ -1538,19 +1538,19 @@ here three tents, one for you, and one for Moses, and one for Elijah.”
   <para style="p"><verse number="25" style="v" sid="MAT 17:25"/>He says, “Yes.”
 
 </para>
-  <para style="p">And having entered into the house, Jesus anticipated him, saying, “What do you think, Simon? The kings of the earth—from whom do they receive taxes or tolls? From their sons or from strangers?”
+  <para style="p" vid="MAT 17:25">And having entered into the house, Jesus anticipated him, saying, “What do you think, Simon? The kings of the earth—from whom do they receive taxes or tolls? From their sons or from strangers?”
 
 <ms style="ts"/>
 <verse eid="MAT 17:25"/></para>
   <para style="p"><verse number="26" style="v" sid="MAT 17:26"/>But having said, “From strangers,”
 
 </para>
-  <para style="p">Jesus said to him, “Therefore, the sons are free.
+  <para style="p" vid="MAT 17:26">Jesus said to him, “Therefore, the sons are free.
 <verse eid="MAT 17:26"/><verse number="27" style="v" sid="MAT 17:27"/>But in order that we might not cause them to stumble, having gone to the sea, throw in a fishhook, and draw in the first fish having come up. And having opened its mouth, you will find a shekel. Having taken that, give {it} to them on behalf of me and you.”
 
 <ms style="ts"/>
 
-<verse eid="MAT 17:27"/><verse eid="MAT 17:27"/></para>
+<verse eid="MAT 17:27"/></para>
   <chapter eid="MAT 17"/>
   <chapter number="18" style="c" sid="MAT 18"/>
   <para style="p"><verse number="1" style="v" sid="MAT 18:1"/>At that hour the disciples approached Jesus, saying, “Who then is greatest in the kingdom of the heavens?”
@@ -1638,7 +1638,7 @@ in the heavens that one of these little ones would perish.
 
 <ms style="ts"/>
 
-<verse eid="MAT 18:35"/><verse eid="MAT 18:35"/></para>
+<verse eid="MAT 18:35"/></para>
   <chapter eid="MAT 18"/>
   <chapter number="19" style="c" sid="MAT 19"/>
   <para style="p"><verse number="1" style="v" sid="MAT 19:1"/>And it happened that when Jesus had finished these words, he departed from Galilee and came to the regions of Judea beyond the Jordan.
@@ -1689,7 +1689,7 @@ in the heavens that one of these little ones would perish.
   <para style="p"><verse number="18" style="v" sid="MAT 19:18"/>He says to him, “Which ones?”
 
 </para>
-  <para style="p">And Jesus said, “Do not kill, do not commit adultery, do not steal, do not testify falsely,
+  <para style="p" vid="MAT 19:18">And Jesus said, “Do not kill, do not commit adultery, do not steal, do not testify falsely,
 <verse eid="MAT 19:18"/><verse number="19" style="v" sid="MAT 19:19"/>honor your father and your mother, and love your neighbor as yourself.”
 
 <ms style="ts"/>
@@ -1726,7 +1726,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 
 <ms style="ts"/>
 
-<verse eid="MAT 19:30"/><verse eid="MAT 19:30"/></para>
+<verse eid="MAT 19:30"/></para>
   <chapter eid="MAT 19"/>
   <chapter number="20" style="c" sid="MAT 20"/>
   <para style="p"><verse number="1" style="v" sid="MAT 20:1"/>For the kingdom of the heavens is like a man, the master of the house, who went out with the morning to hire workers for his vineyard.
@@ -1744,7 +1744,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
   <para style="p"><verse number="7" style="v" sid="MAT 20:7"/>They say to him, ‘Because no one hired us.’
 
 </para>
-  <para style="p">He says to them, ‘You also go into the vineyard.’
+  <para style="p" vid="MAT 20:7">He says to them, ‘You also go into the vineyard.’
 
 <ms style="ts"/>
 <verse eid="MAT 20:7"/></para>
@@ -1778,14 +1778,14 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <verse eid="MAT 20:20"/><verse number="21" style="v" sid="MAT 20:21"/>And he said to her, “What do you desire?”
 
 </para>
-  <para style="p">She says to him, “Say that these two sons of mine might sit, one at your right hand and one at your left hand, in your kingdom.”
+  <para style="p" vid="MAT 20:21">She says to him, “Say that these two sons of mine might sit, one at your right hand and one at your left hand, in your kingdom.”
 
 <ms style="ts"/>
 <verse eid="MAT 20:21"/></para>
   <para style="p"><verse number="22" style="v" sid="MAT 20:22"/>But answering, Jesus said, “You do not know what you are asking. Are you able to drink the cup that I am about to drink<note style="f" caller="+"> <char style="ft" closed="false">Here some manuscripts add the words </char><char style="fq" closed="true">or to be baptized with the baptism with which I am being baptized.</char></note>?”
 
 </para>
-  <para style="p">They say to him, “We are able.”
+  <para style="p" vid="MAT 20:22">They say to him, “We are able.”
 
 <verse eid="MAT 20:22"/></para>
   <para style="p"><verse number="23" style="v" sid="MAT 20:23"/>He says to them, “My cup you will drink<note style="f" caller="+"> <char style="ft" closed="false">Here some manuscripts add the words </char><char style="fq" closed="true">and you will be baptized with the baptism with which I am being baptized.</char></note>. But to sit at my right hand and at my left hand is not mine to give, but for whom it has been prepared by my Father.”
@@ -1817,7 +1817,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 
 <ms style="ts"/>
 
-<verse eid="MAT 20:34"/><verse eid="MAT 20:34"/></para>
+<verse eid="MAT 20:34"/></para>
   <chapter eid="MAT 20"/>
   <chapter number="21" style="c" sid="MAT 21"/>
   <para style="p"><verse number="1" style="v" sid="MAT 21:1"/>And when they came near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
@@ -1829,11 +1829,11 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <verse eid="MAT 21:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="MAT 21:5"/>“Tell the daughter of Zion,
 </para>
-  <para style="q1">‘Behold, your King is coming to you,
+  <para style="q1" vid="MAT 21:5">‘Behold, your King is coming to you,
 </para>
-  <para style="q1">humble and riding on a donkey,
+  <para style="q1" vid="MAT 21:5">humble and riding on a donkey,
 </para>
-  <para style="q1">and on a colt, a son of a beast of burden.’”
+  <para style="q1" vid="MAT 21:5">and on a colt, a son of a beast of burden.’”
 
 <ms style="ts"/>
 <verse eid="MAT 21:5"/></para>
@@ -1844,11 +1844,11 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <ms style="ts"/>
 <verse eid="MAT 21:8"/><verse number="9" style="v" sid="MAT 21:9"/>Now the crowds going before him and following were crying out, saying,
 </para>
-  <para style="q1">“Hosanna to the Son of David!
+  <para style="q1" vid="MAT 21:9">“Hosanna to the Son of David!
 </para>
-  <para style="q1">Blessed is the one coming in the name of the Lord!
+  <para style="q1" vid="MAT 21:9">Blessed is the one coming in the name of the Lord!
 </para>
-  <para style="q1">Hosanna in the highest!”
+  <para style="q1" vid="MAT 21:9">Hosanna in the highest!”
 
 <verse eid="MAT 21:9"/></para>
   <para style="p"><verse number="10" style="v" sid="MAT 21:10"/>And {when} he had entered into Jerusalem, the whole city was shaken, saying, “Who is this?”
@@ -1871,11 +1871,11 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
   <para style="p"><verse number="16" style="v" sid="MAT 21:16"/>And they said to him, “Do you hear what these are saying?”
 
 </para>
-  <para style="p">But Jesus says to them, “Yes! Have you never read,
+  <para style="p" vid="MAT 21:16">But Jesus says to them, “Yes! Have you never read,
 </para>
-  <para style="q1">‘From the mouths of little children and nursing infants
+  <para style="q1" vid="MAT 21:16">‘From the mouths of little children and nursing infants
 </para>
-  <para style="q1">you have prepared praise’?”
+  <para style="q1" vid="MAT 21:16">you have prepared praise’?”
 
 <verse eid="MAT 21:16"/></para>
   <para style="p"><verse number="17" style="v" sid="MAT 21:17"/>And having left them, he went out from the city to Bethany and spent the night there.
@@ -1904,14 +1904,14 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <verse eid="MAT 21:24"/><verse number="25" style="v" sid="MAT 21:25"/>The baptism of John—from where was it? From heaven or from men?”
 
 </para>
-  <para style="p">But they were reasoning among themselves, saying, “If we say, ‘From heaven,’ he will say to us, ‘For what {reason} then did you not believe him?’
+  <para style="p" vid="MAT 21:25">But they were reasoning among themselves, saying, “If we say, ‘From heaven,’ he will say to us, ‘For what {reason} then did you not believe him?’
 <verse eid="MAT 21:25"/><verse number="26" style="v" sid="MAT 21:26"/>But if we say, ‘From men,’ we fear the crowd, for they all regard John as a prophet.”
 
 <verse eid="MAT 21:26"/></para>
   <para style="p"><verse number="27" style="v" sid="MAT 21:27"/>And answering Jesus, they said, “We do not know.”
 
 </para>
-  <para style="p">He also said to them, “Nor do I tell you by what authority I do these things.
+  <para style="p" vid="MAT 21:27">He also said to them, “Nor do I tell you by what authority I do these things.
 
 <ms style="ts"/>
 <verse eid="MAT 21:27"/><verse number="28" style="v" sid="MAT 21:28"/>But what do you think? A man had two children, and having approached the first, he said, ‘Child, go, work today in the vineyard.’
@@ -1923,17 +1923,17 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
   <para style="p"><verse number="30" style="v" sid="MAT 21:30"/>But, having approached the other, he said likewise.
 
 </para>
-  <para style="p">And he, answering, said, ‘I will, lord,’ but he did not go.
+  <para style="p" vid="MAT 21:30">And he, answering, said, ‘I will, lord,’ but he did not go.
 
 <ms style="ts"/>
 <verse eid="MAT 21:30"/></para>
   <para style="p"><verse number="31" style="v" sid="MAT 21:31"/>Which of the two did the will of his father?”
 
 </para>
-  <para style="p">They say, “The first.”
+  <para style="p" vid="MAT 21:31">They say, “The first.”
 
 </para>
-  <para style="p">Jesus says to them, “Truly I say to you that the tax collectors and the prostitutes enter into the kingdom of God before you.
+  <para style="p" vid="MAT 21:31">Jesus says to them, “Truly I say to you that the tax collectors and the prostitutes enter into the kingdom of God before you.
 <verse eid="MAT 21:31"/><verse number="32" style="v" sid="MAT 21:32"/>For John came to you in the way of righteousness, but you did not believe him. But the tax collectors and the prostitutes believed him. But you, having seen this, did not change your minds afterward to believe in him.
 
 <ms style="ts"/>
@@ -1961,13 +1961,13 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <verse eid="MAT 21:41"/></para>
   <para style="p"><verse number="42" style="v" sid="MAT 21:42"/>Jesus says to them, “Did you never read in the Scriptures,
 </para>
-  <para style="q1">‘A stone that the builders rejected,
+  <para style="q1" vid="MAT 21:42">‘A stone that the builders rejected,
 </para>
-  <para style="q1">this has become the head of the corner.
+  <para style="q1" vid="MAT 21:42">this has become the head of the corner.
 </para>
-  <para style="q1">This came about from the Lord,
+  <para style="q1" vid="MAT 21:42">This came about from the Lord,
 </para>
-  <para style="q1">and it is marvelous in our eyes’?
+  <para style="q1" vid="MAT 21:42">and it is marvelous in our eyes’?
 
 <ms style="ts"/>
 <verse eid="MAT 21:42"/></para>
@@ -1981,7 +1981,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 
 <ms style="ts"/>
 
-<verse eid="MAT 21:46"/><verse eid="MAT 21:46"/></para>
+<verse eid="MAT 21:46"/></para>
   <chapter eid="MAT 21"/>
   <chapter number="22" style="c" sid="MAT 22"/>
   <para style="p"><verse number="1" style="v" sid="MAT 22:1"/>And answering, Jesus again spoke to them in parables, saying,
@@ -2028,7 +2028,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
   <para style="p"><verse number="21" style="v" sid="MAT 22:21"/>They say, “Caesar’s.”
 
 </para>
-  <para style="p">Then he says to them, “Therefore, give back the things of Caesar to Caesar, and the things of God to God.”
+  <para style="p" vid="MAT 22:21">Then he says to them, “Therefore, give back the things of Caesar to Caesar, and the things of God to God.”
 <verse eid="MAT 22:21"/><verse number="22" style="v" sid="MAT 22:22"/>And having heard {it}, they marveled, and having left him, they went away.
 
 <ms style="ts"/>
@@ -2073,7 +2073,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <verse eid="MAT 22:41"/><verse number="42" style="v" sid="MAT 22:42"/>saying, “What do you think about the Christ? Whose son is he?”
 
 </para>
-  <para style="p">They say to him, “David’s.”
+  <para style="p" vid="MAT 22:42">They say to him, “David’s.”
 
 <ms style="ts"/>
 <verse eid="MAT 22:42"/></para>
@@ -2081,9 +2081,9 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 <verse eid="MAT 22:43"/></para>
   <para style="q1"><verse number="44" style="v" sid="MAT 22:44"/>‘The Lord said to my Lord,
 </para>
-  <para style="q1">“Sit at my right hand,
+  <para style="q1" vid="MAT 22:44">“Sit at my right hand,
 </para>
-  <para style="q1">until I put your enemies under your feet”’?
+  <para style="q1" vid="MAT 22:44">until I put your enemies under your feet”’?
 
 <ms style="ts"/>
 <verse eid="MAT 22:44"/></para>
@@ -2092,7 +2092,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 
 <ms style="ts"/>
 
-<verse eid="MAT 22:46"/><verse eid="MAT 22:46"/></para>
+<verse eid="MAT 22:46"/></para>
   <chapter eid="MAT 22"/>
   <chapter number="23" style="c" sid="MAT 23"/>
   <para style="p"><verse number="1" style="v" sid="MAT 23:1"/>Then Jesus spoke to the crowds and to his disciples,
@@ -2180,7 +2180,7 @@ or children, or lands for the sake of my name, will receive 100 times {as much} 
 
 <ms style="ts"/>
 
-<verse eid="MAT 23:39"/><verse eid="MAT 23:39"/></para>
+<verse eid="MAT 23:39"/></para>
   <chapter eid="MAT 23"/>
   <chapter number="24" style="c" sid="MAT 24"/>
   <para style="p"><verse number="1" style="v" sid="MAT 24:1"/>And Jesus, having gone out from the temple, was going away. And his disciples approached {him} to show him the buildings of the temple.
@@ -2287,7 +2287,7 @@ except the Father only.
 
 <ms style="ts"/>
 
-<verse eid="MAT 24:51"/><verse eid="MAT 24:51"/></para>
+<verse eid="MAT 24:51"/></para>
   <chapter eid="MAT 24"/>
   <chapter number="25" style="c" sid="MAT 25"/>
   <para style="p"><verse number="1" style="v" sid="MAT 25:1"/>Then the kingdom of the heavens will be compared to ten virgins who, having taken their lamps, went out to a meeting of the bridegroom.
@@ -2396,7 +2396,7 @@ except the Father only.
 
 <ms style="ts"/>
 
-<verse eid="MAT 25:46"/><verse eid="MAT 25:46"/></para>
+<verse eid="MAT 25:46"/></para>
   <chapter eid="MAT 25"/>
   <chapter number="26" style="c" sid="MAT 26"/>
   <para style="p"><verse number="1" style="v" sid="MAT 26:1"/>And it happened that when Jesus had finished all these words, he said to his disciples,
@@ -2455,7 +2455,7 @@ except the Father only.
   <para style="p"><verse number="25" style="v" sid="MAT 26:25"/>But answering, Judas, the one handing him over, said, “Surely not I, Rabbi?”
 
 </para>
-  <para style="p">He says to him, “You said {it}.”
+  <para style="p" vid="MAT 26:25">He says to him, “You said {it}.”
 
 <ms style="ts"/>
 <verse eid="MAT 26:25"/></para>
@@ -2474,9 +2474,9 @@ covenant that is being poured out for many for the forgiveness of sins.
 <verse eid="MAT 26:30"/></para>
   <para style="p"><verse number="31" style="v" sid="MAT 26:31"/>Then Jesus says to them, “You all will be caused to stumble on me in this night, for it is written,
 </para>
-  <para style="q1">‘I will strike the shepherd
+  <para style="q1" vid="MAT 26:31">‘I will strike the shepherd
 </para>
-  <para style="q1">and the sheep of the flock will be scattered.’
+  <para style="q1" vid="MAT 26:31">and the sheep of the flock will be scattered.’
 
 <verse eid="MAT 26:31"/></para>
   <para style="m"><verse number="32" style="v" sid="MAT 26:32"/>But after I am raised up, I will go before you into Galilee.”
@@ -2528,7 +2528,7 @@ covenant that is being poured out for many for the forgiveness of sins.
   <para style="p"><verse number="50" style="v" sid="MAT 26:50"/>But Jesus said to him, “Friend, for what are you present?”
 
 </para>
-  <para style="p">Then, having approached, they laid hands on Jesus and seized him.
+  <para style="p" vid="MAT 26:50">Then, having approached, they laid hands on Jesus and seized him.
 
 <ms style="ts"/>
 <verse eid="MAT 26:50"/><verse number="51" style="v" sid="MAT 26:51"/>And behold, one of the ones with Jesus, having stretched out his hand, drew his sword, and having struck the servant of the high priest, cut off his ear.
@@ -2565,7 +2565,7 @@ covenant that is being poured out for many for the forgiveness of sins.
 <verse eid="MAT 26:65"/><verse number="66" style="v" sid="MAT 26:66"/>What do you think?”
 
 </para>
-  <para style="p">And they, answering, said, “He is deserving of death.”
+  <para style="p" vid="MAT 26:66">And they, answering, said, “He is deserving of death.”
 
 <ms style="ts"/>
 <verse eid="MAT 26:66"/></para>
@@ -2596,7 +2596,7 @@ covenant that is being poured out for many for the forgiveness of sins.
 
 <ms style="ts"/>
 
-<verse eid="MAT 26:75"/><verse eid="MAT 26:75"/></para>
+<verse eid="MAT 26:75"/></para>
   <chapter eid="MAT 26"/>
   <chapter number="27" style="c" sid="MAT 27"/>
   <para style="p"><verse number="1" style="v" sid="MAT 27:1"/>Now morning having come, all the chief priests and the elders of the people took counsel against Jesus so as to put him to death.
@@ -2608,7 +2608,7 @@ covenant that is being poured out for many for the forgiveness of sins.
 <verse eid="MAT 27:3"/><verse number="4" style="v" sid="MAT 27:4"/>saying, “I have sinned, having handed over innocent blood.”
 
 </para>
-  <para style="p">But they said, “What {is that} to us? You will see.”
+  <para style="p" vid="MAT 27:4">But they said, “What {is that} to us? You will see.”
 
 <verse eid="MAT 27:4"/></para>
   <para style="p"><verse number="5" style="v" sid="MAT 27:5"/>And having thrown the pieces of silver into the temple, he withdrew. And having gone out, he hanged himself.
@@ -2624,15 +2624,15 @@ covenant that is being poured out for many for the forgiveness of sins.
 <ms style="ts"/>
 <verse eid="MAT 27:8"/><verse number="9" style="v" sid="MAT 27:9"/>Then was fulfilled {what} was spoken through Jeremiah the prophet, saying,
 </para>
-  <para style="pmo">“And they took the 30 pieces of silver, the price of the one having been priced, whom they from the sons of Israel priced,
+  <para style="pmo" vid="MAT 27:9">“And they took the 30 pieces of silver, the price of the one having been priced, whom they from the sons of Israel priced,
 <verse eid="MAT 27:9"/><verse number="10" style="v" sid="MAT 27:10"/>and they gave them for the field of the potter, just as the Lord directed me.”
 
 </para>
-  <para style="pmc"><ms style="ts"/>
+  <para style="pmc" vid="MAT 27:10"><ms style="ts"/>
 <verse eid="MAT 27:10"/><verse number="11" style="v" sid="MAT 27:11"/>Now Jesus was stood before the governor, and the governor questioned him, saying, “Are you the King of the Jews?”
 
 </para>
-  <para style="p">But Jesus said to him, “You say {it}.”
+  <para style="p" vid="MAT 27:11">But Jesus said to him, “You say {it}.”
 
 <verse eid="MAT 27:11"/></para>
   <para style="p"><verse number="12" style="v" sid="MAT 27:12"/>And when he was accused by the chief priests and the elders, he answered nothing.
@@ -2657,20 +2657,20 @@ covenant that is being poured out for many for the forgiveness of sins.
 <verse eid="MAT 27:20"/><verse number="21" style="v" sid="MAT 27:21"/>But answering, the governor said to them, “Whom from the two do you want {that} I would release to you?”
 
 </para>
-  <para style="p">But they said, “Barabbas.”
+  <para style="p" vid="MAT 27:21">But they said, “Barabbas.”
 
 <verse eid="MAT 27:21"/></para>
   <para style="p"><verse number="22" style="v" sid="MAT 27:22"/>Pilate says to them, “What then should I do with Jesus, the one called Christ?”
 
 </para>
-  <para style="p">They all say, “Let him be crucified.”
+  <para style="p" vid="MAT 27:22">They all say, “Let him be crucified.”
 
 <ms style="ts"/>
 <verse eid="MAT 27:22"/></para>
   <para style="p"><verse number="23" style="v" sid="MAT 27:23"/>But he said, “For what evil did he do?”
 
 </para>
-  <para style="p">But they were crying out even more, saying, “Let him be crucified.”
+  <para style="p" vid="MAT 27:23">But they were crying out even more, saying, “Let him be crucified.”
 
 <verse eid="MAT 27:23"/></para>
   <para style="p"><verse number="24" style="v" sid="MAT 27:24"/>But Pilate, having seen that he is benefiting nothing, but, instead, a riot is happening, having taken water, washed his hands opposite the crowd, saying, “I am innocent from the blood of this one<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">this one,</char> some manuscripts read <char style="fqa" closed="true">this righteous one.</char></note>. You will see.”
@@ -2767,7 +2767,7 @@ covenant that is being poured out for many for the forgiveness of sins.
 
 <ms style="ts"/>
 
-<verse eid="MAT 27:66"/><verse eid="MAT 27:66"/></para>
+<verse eid="MAT 27:66"/></para>
   <chapter eid="MAT 27"/>
   <chapter number="28" style="c" sid="MAT 28"/>
   <para style="p"><verse number="1" style="v" sid="MAT 28:1"/>Now after the Sabbath, at the dawning on the first of the week, Mary Magdalene and the other Mary came to watch the tomb.

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="HEB" style="id">EN_ULT en_English_ltr Thu Apr 13 2023 09:40:46 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -23,72 +23,72 @@
 <verse eid="HEB 1:3"/><verse number="4" style="v" sid="HEB 1:4"/>having become far superior to the angels, as he has inherited a more excellent name than they.
 <verse eid="HEB 1:4"/><verse number="5" style="v" sid="HEB 1:5"/>For to which of the angels did he ever say,
 </para>
-  <para style="q1">“You are my son.
+  <para style="q1" vid="HEB 1:5">“You are my son.
 </para>
-  <para style="q1">Today I have fathered you”?
+  <para style="q1" vid="HEB 1:5">Today I have fathered you”?
 </para>
-  <para style="q1">And again,
+  <para style="q1" vid="HEB 1:5">And again,
 </para>
-  <para style="q1">“I will be as a father to him,
+  <para style="q1" vid="HEB 1:5">“I will be as a father to him,
 </para>
-  <para style="q1">and he will be as a son to me”?
+  <para style="q1" vid="HEB 1:5">and he will be as a son to me”?
 
 <ms style="ts"/>
 <verse eid="HEB 1:5"/></para>
   <para style="p"><verse number="6" style="v" sid="HEB 1:6"/>But again, when he brings the firstborn into the world, he says, “And let all the angels of God worship him.”
 <verse eid="HEB 1:6"/><verse number="7" style="v" sid="HEB 1:7"/>And on the one hand, with regard to the angels, he says,
 </para>
-  <para style="q1">“The one making his angels spirits,
+  <para style="q1" vid="HEB 1:7">“The one making his angels spirits,
 </para>
-  <para style="q1">and his servants flames of fire.”
+  <para style="q1" vid="HEB 1:7">and his servants flames of fire.”
 
 <ms style="ts"/>
 <verse eid="HEB 1:7"/></para>
   <para style="p"><verse number="8" style="v" sid="HEB 1:8"/>But with regard to the Son,
 </para>
-  <para style="q1">“Your throne, God, {is} forever {and} ever,
+  <para style="q1" vid="HEB 1:8">“Your throne, God, {is} forever {and} ever,
 </para>
-  <para style="q1">and the scepter of righteousness {is the} scepter of his<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">his,</char> some ancient manuscripts read <char style="fqa" closed="true">your.</char></note>
+  <para style="q1" vid="HEB 1:8">and the scepter of righteousness {is the} scepter of his<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">his,</char> some ancient manuscripts read <char style="fqa" closed="true">your.</char></note>
 kingdom.
 <verse eid="HEB 1:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="HEB 1:9"/>You loved righteousness and hated lawlessness.
 </para>
-  <para style="q1">Because of this, God, your God, has anointed you
+  <para style="q1" vid="HEB 1:9">Because of this, God, your God, has anointed you
 </para>
-  <para style="q1">{with the} oil of exultation more than your companions.”
+  <para style="q1" vid="HEB 1:9">{with the} oil of exultation more than your companions.”
 
 <ms style="ts"/>
 <verse eid="HEB 1:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="HEB 1:10"/>And “according to the beginnings, Lord, you founded the earth,
 </para>
-  <para style="q1">and the heavens are the works of your hands.
+  <para style="q1" vid="HEB 1:10">and the heavens are the works of your hands.
 <verse eid="HEB 1:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="HEB 1:11"/>They themselves will perish, but you yourself will continue,
 </para>
-  <para style="q1">and they will all wear out like a garment,
+  <para style="q1" vid="HEB 1:11">and they will all wear out like a garment,
 <verse eid="HEB 1:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="HEB 1:12"/>and as a cloak you will roll them up,
 </para>
-  <para style="q1">and as a garment they will be changed,
+  <para style="q1" vid="HEB 1:12">and as a garment they will be changed,
 </para>
-  <para style="q1">but you yourself are the same,
+  <para style="q1" vid="HEB 1:12">but you yourself are the same,
 </para>
-  <para style="q1">and your years will not fail.”
+  <para style="q1" vid="HEB 1:12">and your years will not fail.”
 
 <ms style="ts"/>
 <verse eid="HEB 1:12"/></para>
   <para style="p"><verse number="13" style="v" sid="HEB 1:13"/>But to which of the angels has he ever said,
 </para>
-  <para style="q1">“Sit at my right hand
+  <para style="q1" vid="HEB 1:13">“Sit at my right hand
 </para>
-  <para style="q1">until I make your enemies a footstool {for} your feet”?
+  <para style="q1" vid="HEB 1:13">until I make your enemies a footstool {for} your feet”?
 
 <verse eid="HEB 1:13"/></para>
   <para style="p"><verse number="14" style="v" sid="HEB 1:14"/>Are they not all ministering spirits, being sent for service for the sake of the ones going to inherit salvation?
 
 <ms style="ts"/>
 
-<verse eid="HEB 1:14"/><verse eid="HEB 1:14"/></para>
+<verse eid="HEB 1:14"/></para>
   <chapter eid="HEB 1"/>
   <chapter number="2" style="c" sid="HEB 2"/>
   <para style="p"><verse number="1" style="v" sid="HEB 2:1"/>Because of this, it is far more necessary for us to give attention to the {things that} have been heard, so that we might not drift away {from them}.
@@ -103,21 +103,21 @@ kingdom.
   <para style="p"><verse number="5" style="v" sid="HEB 2:5"/>For {it was} not to angels that {God} subjected the world that is coming, about which we are speaking.
 <verse eid="HEB 2:5"/><verse number="6" style="v" sid="HEB 2:6"/>Instead, someone somewhere testified, saying,
 </para>
-  <para style="q1">“What is man, that you remember him,
+  <para style="q1" vid="HEB 2:6">“What is man, that you remember him,
 </para>
-  <para style="q1">or a son of man, that you watch over him?
+  <para style="q1" vid="HEB 2:6">or a son of man, that you watch over him?
 
 <ms style="ts"/>
 <verse eid="HEB 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="HEB 2:7"/>You made him a little lower than the angels;
 </para>
-  <para style="q1">you crowned him with glory and honor.<note style="f" caller="+"> <char style="ft" closed="false">Some older version add </char><char style="fqa" closed="true">and you have put him over the works of your hands.</char></note>
+  <para style="q1" vid="HEB 2:7">you crowned him with glory and honor.<note style="f" caller="+"> <char style="ft" closed="false">Some older version add </char><char style="fqa" closed="true">and you have put him over the works of your hands.</char></note>
 
 <verse eid="HEB 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="HEB 2:8"/>You subjected all things under his feet.”
 
 </para>
-  <para style="p">For in subjecting all the things, he left nothing not subjected to him. But now we do not yet see all the things subjected to him,
+  <para style="p" vid="HEB 2:8">For in subjecting all the things, he left nothing not subjected to him. But now we do not yet see all the things subjected to him,
 
 <ms style="ts"/>
 <verse eid="HEB 2:8"/><verse number="9" style="v" sid="HEB 2:9"/>but we see Jesus, the one made a little lower than the angels, crowned with glory and honor because of his suffering of death, so that by the grace of God he might taste of death on behalf of everyone.
@@ -127,20 +127,20 @@ kingdom.
 <verse eid="HEB 2:10"/><verse number="11" style="v" sid="HEB 2:11"/>For both the sanctifying and the ones being sanctified {are} all from one. For this reason, he is not ashamed to call them brothers,
 <verse eid="HEB 2:11"/><verse number="12" style="v" sid="HEB 2:12"/>saying,
 </para>
-  <para style="q1">“I will proclaim your name to my brothers;
+  <para style="q1" vid="HEB 2:12">“I will proclaim your name to my brothers;
 </para>
-  <para style="q1">I will sing praise to you in the midst of the assembly.”
+  <para style="q1" vid="HEB 2:12">I will sing praise to you in the midst of the assembly.”
 
 <ms style="ts"/>
 <verse eid="HEB 2:12"/></para>
   <para style="p"><verse number="13" style="v" sid="HEB 2:13"/>And again,
 </para>
-  <para style="q1">“I will be confident in him.”
+  <para style="q1" vid="HEB 2:13">“I will be confident in him.”
 
 </para>
-  <para style="p">And again,
+  <para style="p" vid="HEB 2:13">And again,
 </para>
-  <para style="q1">“Behold, I and the little children whom God gave me.”
+  <para style="q1" vid="HEB 2:13">“Behold, I and the little children whom God gave me.”
 
 <verse eid="HEB 2:13"/></para>
   <para style="p"><verse number="14" style="v" sid="HEB 2:14"/>Therefore, since the little children share in flesh and blood, he likewise also shared in the same things so that through his death he might abolish the one having the power of death, that is, the devil,
@@ -153,7 +153,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 2:18"/><verse eid="HEB 2:18"/></para>
+<verse eid="HEB 2:18"/></para>
   <chapter eid="HEB 2"/>
   <chapter number="3" style="c" sid="HEB 3"/>
   <para style="p"><verse number="1" style="v" sid="HEB 3:1"/>Therefore, holy brothers, sharers of a heavenly calling, consider carefully the apostle and high priest of our confession, Jesus,
@@ -168,29 +168,29 @@ kingdom.
 <ms style="ts"/>
 <verse eid="HEB 3:6"/><verse number="7" style="v" sid="HEB 3:7"/>Therefore, just as the Holy Spirit says:
 </para>
-  <para style="q1">“Today, if you hear his voice,
+  <para style="q1" vid="HEB 3:7">“Today, if you hear his voice,
 <verse eid="HEB 3:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="HEB 3:8"/>do not harden your hearts
 </para>
-  <para style="q1">as in the provocation,
+  <para style="q1" vid="HEB 3:8">as in the provocation,
 </para>
-  <para style="q1">during the day of testing in the wilderness
+  <para style="q1" vid="HEB 3:8">during the day of testing in the wilderness
 
 <ms style="ts"/>
 <verse eid="HEB 3:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="HEB 3:9"/>where your fathers tested {me} by examination,
 </para>
-  <para style="q1">and they saw my works
+  <para style="q1" vid="HEB 3:9">and they saw my works
 <verse eid="HEB 3:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="HEB 3:10"/>for 40 years. Therefore, I was very angry with that generation,
 </para>
-  <para style="q1">and I said, ‘They are always going astray in their hearts,
+  <para style="q1" vid="HEB 3:10">and I said, ‘They are always going astray in their hearts,
 </para>
-  <para style="q1">and they have not known my ways.’
+  <para style="q1" vid="HEB 3:10">and they have not known my ways.’
 <verse eid="HEB 3:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="HEB 3:11"/>As I swore in my wrath,
 </para>
-  <para style="q1">‘…if they will enter into my rest!’”
+  <para style="q1" vid="HEB 3:11">‘…if they will enter into my rest!’”
 
 <ms style="ts"/>
 <verse eid="HEB 3:11"/></para>
@@ -201,11 +201,11 @@ kingdom.
 <verse eid="HEB 3:13"/><verse number="14" style="v" sid="HEB 3:14"/>For we have become sharers of Christ, if indeed we hold firm the beginning of our confidence until the end,
 <verse eid="HEB 3:14"/><verse number="15" style="v" sid="HEB 3:15"/>while it is said,
 </para>
-  <para style="q1">“Today, if you hear his voice,
+  <para style="q1" vid="HEB 3:15">“Today, if you hear his voice,
 </para>
-  <para style="q1">do not harden your hearts
+  <para style="q1" vid="HEB 3:15">do not harden your hearts
 </para>
-  <para style="q1">as in the rebellion.”
+  <para style="q1" vid="HEB 3:15">as in the rebellion.”
 
 <ms style="ts"/>
 <verse eid="HEB 3:15"/></para>
@@ -216,7 +216,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 3:19"/><verse eid="HEB 3:19"/></para>
+<verse eid="HEB 3:19"/></para>
   <chapter eid="HEB 3"/>
   <chapter number="4" style="c" sid="HEB 4"/>
   <para style="p"><verse number="1" style="v" sid="HEB 4:1"/>Therefore, let us be afraid lest {while} there remains a promise to enter into his rest, any of you might seem to have failed {to attain it}.
@@ -226,27 +226,27 @@ kingdom.
 <ms style="ts"/>
 <verse eid="HEB 4:2"/><verse number="3" style="v" sid="HEB 4:3"/>For we, the ones having believed enter into rest, just as he said,
 </para>
-  <para style="q1">“As I swore in my wrath,
+  <para style="q1" vid="HEB 4:3">“As I swore in my wrath,
 </para>
-  <para style="q1">‘…if they will enter into my rest!’”
+  <para style="q1" vid="HEB 4:3">‘…if they will enter into my rest!’”
 
 </para>
-  <para style="p">although his works were finished from the foundation of the world.
+  <para style="p" vid="HEB 4:3">although his works were finished from the foundation of the world.
 <verse eid="HEB 4:3"/><verse number="4" style="v" sid="HEB 4:4"/>For he has somewhere spoken thus about the seventh {day}:
 </para>
-  <para style="q1">“And God rested on the seventh day from all his works.”
+  <para style="q1" vid="HEB 4:4">“And God rested on the seventh day from all his works.”
 <verse eid="HEB 4:4"/><verse number="5" style="v" sid="HEB 4:5"/>And again in this {passage},
 </para>
-  <para style="q1">“…if they will enter into my rest!”
+  <para style="q1" vid="HEB 4:5">“…if they will enter into my rest!”
 
 <ms style="ts"/>
 <verse eid="HEB 4:5"/></para>
   <para style="p"><verse number="6" style="v" sid="HEB 4:6"/>Therefore, since it remains {for} some to enter into it, and the ones previously having had the good news proclaimed {to them} did not enter because of their disobedience,
 <verse eid="HEB 4:6"/><verse number="7" style="v" sid="HEB 4:7"/>he again sets a certain day, calling it “Today,” speaking through David after so much time, just as it has already been said,
 </para>
-  <para style="q1">“Today, if you hear his voice,
+  <para style="q1" vid="HEB 4:7">“Today, if you hear his voice,
 </para>
-  <para style="q1">do not harden your hearts.”
+  <para style="q1" vid="HEB 4:7">do not harden your hearts.”
 
 <ms style="ts"/>
 <verse eid="HEB 4:7"/></para>
@@ -267,7 +267,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 4:16"/><verse eid="HEB 4:16"/></para>
+<verse eid="HEB 4:16"/></para>
   <chapter eid="HEB 4"/>
   <chapter number="5" style="c" sid="HEB 5"/>
   <para style="p"><verse number="1" style="v" sid="HEB 5:1"/>For every high priest, being taken from among men on the behalf of men, is appointed {in} the things related to God so that he may offer gifts and sacrifices for sins;
@@ -278,17 +278,17 @@ kingdom.
 <verse eid="HEB 5:3"/><verse number="4" style="v" sid="HEB 5:4"/>And no one takes this honor for himself, but {only} being called by God, just as also Aaron {was}.
 <verse eid="HEB 5:4"/><verse number="5" style="v" sid="HEB 5:5"/>In the same way also, Christ did not glorify himself to become a high priest. Instead, the one having spoken to him {said},
 </para>
-  <para style="q1">“You are my Son;
+  <para style="q1" vid="HEB 5:5">“You are my Son;
 </para>
-  <para style="q1">today I have fathered you.”
+  <para style="q1" vid="HEB 5:5">today I have fathered you.”
 
 <ms style="ts"/>
 <verse eid="HEB 5:5"/></para>
   <para style="p"><verse number="6" style="v" sid="HEB 5:6"/>{It is} just as he also says in another {place},
 </para>
-  <para style="q1">“You {are} a priest forever,
+  <para style="q1" vid="HEB 5:6">“You {are} a priest forever,
 </para>
-  <para style="q1">after the order of Melchizedek.”
+  <para style="q1" vid="HEB 5:6">after the order of Melchizedek.”
 
 <ms style="ts"/>
 <verse eid="HEB 5:6"/></para>
@@ -307,7 +307,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 5:14"/><verse eid="HEB 5:14"/></para>
+<verse eid="HEB 5:14"/></para>
   <chapter eid="HEB 5"/>
   <chapter number="6" style="c" sid="HEB 6"/>
   <para style="p"><verse number="1" style="v" sid="HEB 6:1"/>So then, having left the message of the beginning of Christ, let us go forward to maturity, not laying again a foundation of repentance from dead works and of faith in God,
@@ -349,7 +349,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 6:20"/><verse eid="HEB 6:20"/></para>
+<verse eid="HEB 6:20"/></para>
   <chapter eid="HEB 6"/>
   <chapter number="7" style="c" sid="HEB 7"/>
   <para style="p"><verse number="1" style="v" sid="HEB 7:1"/>For this Melchizedek, king of Salem, priest of the Most High God, the one having met Abraham returning from the slaughter of the kings and blessed him,
@@ -382,7 +382,7 @@ kingdom.
 <verse eid="HEB 7:15"/><verse number="16" style="v" sid="HEB 7:16"/>who has become {a priest} not according to a law of a fleshly command, but according to the power of an indestructible life.
 <verse eid="HEB 7:16"/><verse number="17" style="v" sid="HEB 7:17"/>For it is being testified:
 </para>
-  <para style="q1">“You are a priest forever according to the order of Melchizedek.”
+  <para style="q1" vid="HEB 7:17">“You are a priest forever according to the order of Melchizedek.”
 
 <ms style="ts"/>
 <verse eid="HEB 7:17"/></para>
@@ -393,9 +393,9 @@ kingdom.
 <verse eid="HEB 7:19"/><verse number="20" style="v" sid="HEB 7:20"/>And by as much as not without swearing an oath,—for indeed they without swearing an oath are become priests,
 <verse eid="HEB 7:20"/><verse number="21" style="v" sid="HEB 7:21"/>but he with an oath-taking, through the one saying to him,
 </para>
-  <para style="q1">“The Lord swore and will not change his mind:
+  <para style="q1" vid="HEB 7:21">“The Lord swore and will not change his mind:
 </para>
-  <para style="q1">‘You {are} a priest forever’”—
+  <para style="q1" vid="HEB 7:21">‘You {are} a priest forever’”—
 
 <ms style="ts"/>
 <verse eid="HEB 7:21"/></para>
@@ -413,7 +413,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 7:28"/><verse eid="HEB 7:28"/></para>
+<verse eid="HEB 7:28"/></para>
   <chapter eid="HEB 7"/>
   <chapter number="8" style="c" sid="HEB 8"/>
   <para style="p"><verse number="1" style="v" sid="HEB 8:1"/>Now the point concerning the things being said {is this}: We have such a high priest who sat down at the right hand of the throne of the Majesty in the heavens,
@@ -431,57 +431,57 @@ kingdom.
 <ms style="ts"/>
 <verse eid="HEB 8:7"/><verse number="8" style="v" sid="HEB 8:8"/>For finding fault with them, he says,
 </para>
-  <para style="q1">“Behold, days are coming, says the Lord,
+  <para style="q1" vid="HEB 8:8">“Behold, days are coming, says the Lord,
 </para>
-  <para style="q1">{when} I will complete a new covenant
+  <para style="q1" vid="HEB 8:8">{when} I will complete a new covenant
 </para>
-  <para style="q2">with the house of Israel and with the house of Judah;
+  <para style="q2" vid="HEB 8:8">with the house of Israel and with the house of Judah;
 <verse eid="HEB 8:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="HEB 8:9"/>not according to the covenant
 </para>
-  <para style="q2">that I made with their fathers
+  <para style="q2" vid="HEB 8:9">that I made with their fathers
 </para>
-  <para style="q1">on the day {when} I grasped their hand
+  <para style="q1" vid="HEB 8:9">on the day {when} I grasped their hand
 </para>
-  <para style="q2">to lead them out of the land of Egypt,
+  <para style="q2" vid="HEB 8:9">to lead them out of the land of Egypt,
 </para>
-  <para style="q1">because they did not continue in my covenant,
+  <para style="q1" vid="HEB 8:9">because they did not continue in my covenant,
 </para>
-  <para style="q2">and I did not care about them,
+  <para style="q2" vid="HEB 8:9">and I did not care about them,
 </para>
-  <para style="q1">says the Lord.
+  <para style="q1" vid="HEB 8:9">says the Lord.
 
 <ms style="ts"/>
 <verse eid="HEB 8:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="HEB 8:10"/>For this {is} the covenant
 </para>
-  <para style="q2">that I will covenant with the house of Israel
+  <para style="q2" vid="HEB 8:10">that I will covenant with the house of Israel
 </para>
-  <para style="q1">after those days,
+  <para style="q1" vid="HEB 8:10">after those days,
 </para>
-  <para style="q2">says the Lord,
+  <para style="q2" vid="HEB 8:10">says the Lord,
 </para>
-  <para style="q1">putting my laws into their mind,
+  <para style="q1" vid="HEB 8:10">putting my laws into their mind,
 </para>
-  <para style="q1">and I will write them on their hearts,
+  <para style="q1" vid="HEB 8:10">and I will write them on their hearts,
 </para>
-  <para style="q1">and I will be to them as God,
+  <para style="q1" vid="HEB 8:10">and I will be to them as God,
 </para>
-  <para style="q1">and they will be to me as a people.
+  <para style="q1" vid="HEB 8:10">and they will be to me as a people.
 
 <ms style="ts"/>
 <verse eid="HEB 8:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="HEB 8:11"/>And they will certainly not teach each one his fellow citizen,
 </para>
-  <para style="q1">and each one his brother, saying, ‘Know the Lord,’
+  <para style="q1" vid="HEB 8:11">and each one his brother, saying, ‘Know the Lord,’
 </para>
-  <para style="q1">for they will all know me,
+  <para style="q1" vid="HEB 8:11">for they will all know me,
 </para>
-  <para style="q1">from the least of them to the greatest.
+  <para style="q1" vid="HEB 8:11">from the least of them to the greatest.
 <verse eid="HEB 8:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="HEB 8:12"/>For I will be merciful toward their unrighteousness,
 </para>
-  <para style="q1">and their sins I will certainly not remember any longer.”
+  <para style="q1" vid="HEB 8:12">and their sins I will certainly not remember any longer.”
 
 <ms style="ts"/>
 <verse eid="HEB 8:12"/></para>
@@ -489,7 +489,7 @@ kingdom.
 
 <ms style="ts"/>
 
-<verse eid="HEB 8:13"/><verse eid="HEB 8:13"/></para>
+<verse eid="HEB 8:13"/></para>
   <chapter eid="HEB 8"/>
   <chapter number="9" style="c" sid="HEB 9"/>
   <para style="p"><verse number="1" style="v" sid="HEB 9:1"/>Now indeed the first {covenant} had regulations for worship and the earthly holy {place},
@@ -498,7 +498,7 @@ kingdom.
 <ms style="ts"/>
 <verse eid="HEB 9:2"/><verse number="3" style="v" sid="HEB 9:3"/>and behind the second curtain {was} a tent which is called “the Holy of Holies,”
 <verse eid="HEB 9:3"/><verse number="4" style="v" sid="HEB 9:4"/>having a golden incense altar and the ark of the covenant, having been covered completely all around with gold, in which {was} a golden jar holding the manna, and the rod of Aaron that budded, and the tablets of the covenant,
-<verse eid="HEB 9:4"/><verse number="5" style="v" sid="HEB 9:5"/>and above it, cherubim of glory overshadowing the atonement lid, about which things it is not now {the time} to speak according to {each} part.
+<verse eid="HEB 9:4"/><verse number="5" style="v" sid="HEB 9:5"/>and above it, cherubs of glory overshadowing the atonement lid, about which things it is not now {the time} to speak according to {each} part.
 
 <ms style="ts"/>
 <verse eid="HEB 9:5"/><verse number="6" style="v" sid="HEB 9:6"/>And {when} these things had been thus prepared, the priests always enter into the first tabernacle, performing their services;
@@ -549,7 +549,7 @@ conscience from dead works to serve the living God!
 
 <ms style="ts"/>
 
-<verse eid="HEB 9:28"/><verse eid="HEB 9:28"/></para>
+<verse eid="HEB 9:28"/></para>
   <chapter eid="HEB 9"/>
   <chapter number="10" style="c" sid="HEB 10"/>
   <para style="p"><verse number="1" style="v" sid="HEB 10:1"/>For the law, having a shadow of the good things that are coming—not the image itself of those things—is never able to make perfect the ones approaching with the same sacrifices that they continually bring every year.
@@ -560,21 +560,21 @@ conscience from dead works to serve the living God!
 <ms style="ts"/>
 <verse eid="HEB 10:4"/><verse number="5" style="v" sid="HEB 10:5"/>Therefore, entering into the world, he says,
 </para>
-  <para style="q1">“Sacrifice and offering
+  <para style="q1" vid="HEB 10:5">“Sacrifice and offering
 </para>
-  <para style="q2">you did not desire,
+  <para style="q2" vid="HEB 10:5">you did not desire,
 </para>
-  <para style="q2">but a body you prepared for me;
+  <para style="q2" vid="HEB 10:5">but a body you prepared for me;
 <verse eid="HEB 10:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="HEB 10:6"/>{in} whole burnt {offerings} and concerning sin {offerings}
 </para>
-  <para style="q2">nor were you well-pleased {with them}.
+  <para style="q2" vid="HEB 10:6">nor were you well-pleased {with them}.
 <verse eid="HEB 10:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="HEB 10:7"/>Then I said, ‘Behold, I have come—
 </para>
-  <para style="q2">{as} it is written about me in a section of a scroll—
+  <para style="q2" vid="HEB 10:7">{as} it is written about me in a section of a scroll—
 </para>
-  <para style="q1">to do your will, God.’”
+  <para style="q1" vid="HEB 10:7">to do your will, God.’”
 
 <ms style="ts"/>
 <verse eid="HEB 10:7"/></para>
@@ -593,18 +593,18 @@ conscience from dead works to serve the living God!
 <verse eid="HEB 10:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="HEB 10:16"/>“This {is} the covenant that I will covenant with them
 </para>
-  <para style="q2">after those days, says the Lord,
+  <para style="q2" vid="HEB 10:16">after those days, says the Lord,
 </para>
-  <para style="q1">putting my laws in their hearts,
+  <para style="q1" vid="HEB 10:16">putting my laws in their hearts,
 </para>
-  <para style="q2">and I will write them on their mind.”
+  <para style="q2" vid="HEB 10:16">and I will write them on their mind.”
 
 <ms style="ts"/>
 <verse eid="HEB 10:16"/><verse number="17" style="v" sid="HEB 10:17"/>And {then},
 </para>
-  <para style="q2">“Their sins and their lawless deeds
+  <para style="q2" vid="HEB 10:17">“Their sins and their lawless deeds
 </para>
-  <para style="q2">I will certainly not still remember.”
+  <para style="q2" vid="HEB 10:17">I will certainly not still remember.”
 
 <verse eid="HEB 10:17"/></para>
   <para style="p"><verse number="18" style="v" sid="HEB 10:18"/>Now where {there is} forgiveness {for} these things, {there is} no longer sacrifice on behalf of sin.
@@ -646,20 +646,20 @@ conscience from dead works to serve the living God!
 <verse eid="HEB 10:36"/></para>
   <para style="q1"><verse number="37" style="v" sid="HEB 10:37"/>“For yet {in} a very little {while},
 </para>
-  <para style="q1">the one coming will come and will not delay.
+  <para style="q1" vid="HEB 10:37">the one coming will come and will not delay.
 
 <ms style="ts"/>
 <verse eid="HEB 10:37"/></para>
   <para style="q1"><verse number="38" style="v" sid="HEB 10:38"/>But my righteous one will live by faith,
 </para>
-  <para style="q1">and if he would shrink back, my soul is not well-pleased with him.”
+  <para style="q1" vid="HEB 10:38">and if he would shrink back, my soul is not well-pleased with him.”
 
 <verse eid="HEB 10:38"/></para>
   <para style="p"><verse number="39" style="v" sid="HEB 10:39"/>But we ourselves are not of shrinking back to destruction, but of faith to the preservation of the soul.
 
 <ms style="ts"/>
 
-<verse eid="HEB 10:39"/><verse eid="HEB 10:39"/></para>
+<verse eid="HEB 10:39"/></para>
   <chapter eid="HEB 10"/>
   <chapter number="11" style="c" sid="HEB 11"/>
   <para style="p"><verse number="1" style="v" sid="HEB 11:1"/>Now faith is assurance of things being hoped {for}, proof of things not being seen.
@@ -735,7 +735,7 @@ conscience from dead works to serve the living God!
 
 <ms style="ts"/>
 
-<verse eid="HEB 11:40"/><verse eid="HEB 11:40"/></para>
+<verse eid="HEB 11:40"/></para>
   <chapter eid="HEB 11"/>
   <chapter number="12" style="c" sid="HEB 12"/>
   <para style="p"><verse number="1" style="v" sid="HEB 12:1"/>For that very reason, we also, having so great a cloud of witnesses surrounding us, having laid aside every weight and the easily entangling sin, let us run with endurance the race that is placed before us,
@@ -748,13 +748,13 @@ so that you might not become weary in your souls, giving up.
   <para style="p"><verse number="4" style="v" sid="HEB 12:4"/>You have not yet resisted to the point of blood, struggling against sin,
 <verse eid="HEB 12:4"/><verse number="5" style="v" sid="HEB 12:5"/>and you have completely forgotten the exhortation that instructs you as sons:
 </para>
-  <para style="q1">“My son, do not make light of the discipline of the Lord,
+  <para style="q1" vid="HEB 12:5">“My son, do not make light of the discipline of the Lord,
 </para>
-  <para style="q1">nor become weary {when} being reproved by him;
+  <para style="q1" vid="HEB 12:5">nor become weary {when} being reproved by him;
 <verse eid="HEB 12:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="HEB 12:6"/>For whom the Lord loves, he disciplines,
 </para>
-  <para style="q1">and he whips every son whom he welcomes.”
+  <para style="q1" vid="HEB 12:6">and he whips every son whom he welcomes.”
 
 <ms style="ts"/>
 <verse eid="HEB 12:6"/></para>
@@ -800,7 +800,7 @@ so that you might not become weary in your souls, giving up.
 
 <ms style="ts"/>
 
-<verse eid="HEB 12:29"/><verse eid="HEB 12:29"/></para>
+<verse eid="HEB 12:29"/></para>
   <chapter eid="HEB 12"/>
   <chapter number="13" style="c" sid="HEB 13"/>
   <para style="p"><verse number="1" style="v" sid="HEB 13:1"/>Let brotherly love continue.
@@ -814,9 +814,9 @@ so that you might not become weary in your souls, giving up.
 <verse eid="HEB 13:4"/><verse number="5" style="v" sid="HEB 13:5"/>Your manner of life {must be} free from the love of money, being content {with} the things being present, for he himself has said, “I will never leave you, nor never will I forsake you,”
 <verse eid="HEB 13:5"/><verse number="6" style="v" sid="HEB 13:6"/>so that, being confident, we say,
 </para>
-  <para style="q1">“The Lord {is} my helper, and I will not become afraid.
+  <para style="q1" vid="HEB 13:6">“The Lord {is} my helper, and I will not become afraid.
 </para>
-  <para style="q1">What will a man do to me?”
+  <para style="q1" vid="HEB 13:6">What will a man do to me?”
 
 <ms style="ts"/>
 <verse eid="HEB 13:6"/></para>

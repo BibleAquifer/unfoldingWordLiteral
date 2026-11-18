@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="DAN" style="id">EN_ULT en_English_ltr Tue Jun 02 2026 06:37:51 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -56,7 +56,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 1:21"/><verse eid="DAN 1:21"/></para>
+<verse eid="DAN 1:21"/></para>
   <chapter eid="DAN 1"/>
   <chapter number="2" style="c" sid="DAN 2"/>
   <para style="p"><verse number="1" style="v" sid="DAN 2:1"/>And in the year of two to the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams. And his spirit was troubled, and his sleep finished for him.
@@ -98,35 +98,35 @@
 <verse eid="DAN 2:18"/><verse number="19" style="v" sid="DAN 2:19"/>Then the mystery was revealed to Daniel in a vision of the night. Then Daniel blessed the God of the heavens.
 <verse eid="DAN 2:19"/><verse number="20" style="v" sid="DAN 2:20"/>Daniel answered and was saying,
 </para>
-  <para style="q1">“May his name, of God, be blessed from eternity and to eternity,
+  <para style="q1" vid="DAN 2:20">“May his name, of God, be blessed from eternity and to eternity,
 </para>
-  <para style="q2">for wisdom and power, for {they} are to him.
+  <para style="q2" vid="DAN 2:20">for wisdom and power, for {they} are to him.
 
 <ms style="ts"/>
 <verse eid="DAN 2:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="DAN 2:21"/>And he {is} the one changing times and seasons,
 </para>
-  <para style="q2">the one removing kings and setting up kings,
+  <para style="q2" vid="DAN 2:21">the one removing kings and setting up kings,
 </para>
-  <para style="q1">the one giving wisdom to the wise
+  <para style="q1" vid="DAN 2:21">the one giving wisdom to the wise
 </para>
-  <para style="q2">and knowledge to the knowers of understanding.
+  <para style="q2" vid="DAN 2:21">and knowledge to the knowers of understanding.
 <verse eid="DAN 2:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="DAN 2:22"/>He is revealing the deep and the hidden;
 </para>
-  <para style="q1">he knows what {is} in the darkness,
+  <para style="q1" vid="DAN 2:22">he knows what {is} in the darkness,
 </para>
-  <para style="q2">and the light is lodged with him.
+  <para style="q2" vid="DAN 2:22">and the light is lodged with him.
 
 <ms style="ts"/>
 <verse eid="DAN 2:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="DAN 2:23"/>God of my fathers, I am thanking and praising {you},
 </para>
-  <para style="q2">for you have given wisdom and power to me.
+  <para style="q2" vid="DAN 2:23">for you have given wisdom and power to me.
 </para>
-  <para style="q1">And now, you have made me know what we sought from you,
+  <para style="q1" vid="DAN 2:23">And now, you have made me know what we sought from you,
 </para>
-  <para style="q2">for you have made us know the matter of the king.”
+  <para style="q2" vid="DAN 2:23">for you have made us know the matter of the king.”
 
 <ms style="ts"/>
 <verse eid="DAN 2:23"/></para>
@@ -187,7 +187,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 2:49"/><verse eid="DAN 2:49"/></para>
+<verse eid="DAN 2:49"/></para>
   <chapter eid="DAN 2"/>
   <chapter number="3" style="c" sid="DAN 3"/>
   <para style="p"><verse number="1" style="v" sid="DAN 3:1"/>King Nebuchadnezzar made a statue of gold. Its height {was} sixty cubits. Its width {was} six cubits. He set it up on the Plain of Dura in the province of Babylon.
@@ -254,7 +254,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 3:30"/><verse eid="DAN 3:30"/></para>
+<verse eid="DAN 3:30"/></para>
   <chapter eid="DAN 3"/>
   <chapter number="4" style="c" sid="DAN 4"/>
   <para style="p"><verse number="1" style="v" sid="DAN 4:1"/>King Nebuchadnezzar, to all of the peoples, nations, and languages that are dwelling in all of the earth. May your peace abound.
@@ -262,11 +262,11 @@
 <verse eid="DAN 4:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="DAN 4:3"/>How great {are} his signs,
 </para>
-  <para style="q2">and how mighty {are} his wonders!
+  <para style="q2" vid="DAN 4:3">and how mighty {are} his wonders!
 </para>
-  <para style="q1">His kingdom {is} a kingdom of eternity,
+  <para style="q1" vid="DAN 4:3">His kingdom {is} a kingdom of eternity,
 </para>
-  <para style="q2">and his dominion {is} with generation and generation.
+  <para style="q2" vid="DAN 4:3">and his dominion {is} with generation and generation.
 
 <ms style="ts"/>
 <verse eid="DAN 4:3"/></para>
@@ -333,21 +333,21 @@
 <verse eid="DAN 4:33"/></para>
   <para style="p"><verse number="34" style="v" sid="DAN 4:34"/>But at the end of the days, I, Nebuchadnezzar, raised my eyes toward the heavens, and my reason returned to me.
 </para>
-  <para style="q1">And I blessed the Most High,
+  <para style="q1" vid="DAN 4:34">And I blessed the Most High,
 </para>
-  <para style="q2">and I praised and glorified the one living forever.
+  <para style="q2" vid="DAN 4:34">and I praised and glorified the one living forever.
 </para>
-  <para style="q1">For his dominion is a dominion of eternity,
+  <para style="q1" vid="DAN 4:34">For his dominion is a dominion of eternity,
 </para>
-  <para style="q2">and his kingdom {is} with generation and generation.
+  <para style="q2" vid="DAN 4:34">and his kingdom {is} with generation and generation.
 
 <ms style="ts"/>
 <verse eid="DAN 4:34"/></para>
   <para style="q1"><verse number="35" style="v" sid="DAN 4:35"/>And all of the dwellers of the earth are being regarded {as} nothing,
 </para>
-  <para style="q2">and as he wishes, he is doing among the army of the heavens and the dwellers of the earth.
+  <para style="q2" vid="DAN 4:35">and as he wishes, he is doing among the army of the heavens and the dwellers of the earth.
 </para>
-  <para style="q1">And there is none who strikes his hand or says to him, “What are you doing?”
+  <para style="q1" vid="DAN 4:35">And there is none who strikes his hand or says to him, “What are you doing?”
 
 <ms style="ts"/>
 <verse eid="DAN 4:35"/></para>
@@ -356,7 +356,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 4:37"/><verse eid="DAN 4:37"/></para>
+<verse eid="DAN 4:37"/></para>
   <chapter eid="DAN 4"/>
   <chapter number="5" style="c" sid="DAN 5"/>
   <para style="p"><verse number="1" style="v" sid="DAN 5:1"/>King Belshazzar made a great feast for his nobles, a thousand, and he drank wine before the thousand.
@@ -425,7 +425,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 5:31"/><verse eid="DAN 5:31"/></para>
+<verse eid="DAN 5:31"/></para>
   <chapter eid="DAN 5"/>
   <chapter number="6" style="c" sid="DAN 6"/>
   <para style="p"><verse number="1" style="v" sid="DAN 6:1"/>It seemed good before Darius, and he set up 120 satraps over the kingdom, who would be in all of the kingdom,
@@ -488,21 +488,21 @@
 <ms style="ts"/>
 <verse eid="DAN 6:25"/><verse number="26" style="v" sid="DAN 6:26"/>From before me a decree is set that in all of the dominion of my kingdom, they shall be trembling and fearing from before the God of Daniel,
 </para>
-  <para style="q1">for he {is} the living God
+  <para style="q1" vid="DAN 6:26">for he {is} the living God
 </para>
-  <para style="q2">and enduring to eternities,
+  <para style="q2" vid="DAN 6:26">and enduring to eternities,
 </para>
-  <para style="q1">and his kingdom {is one} that will not be destroyed,
+  <para style="q1" vid="DAN 6:26">and his kingdom {is one} that will not be destroyed,
 </para>
-  <para style="q2">and his dominion {will be} to the end,
+  <para style="q2" vid="DAN 6:26">and his dominion {will be} to the end,
 <verse eid="DAN 6:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="DAN 6:27"/>delivering and rescuing
 </para>
-  <para style="q2">and doing signs and wonders
+  <para style="q2" vid="DAN 6:27">and doing signs and wonders
 </para>
-  <para style="q2">in the heavens and on the earth,
+  <para style="q2" vid="DAN 6:27">in the heavens and on the earth,
 </para>
-  <para style="q1">who delivered Daniel from the hand of the lions.”
+  <para style="q1" vid="DAN 6:27">who delivered Daniel from the hand of the lions.”
 
 <ms style="ts"/>
 <verse eid="DAN 6:27"/></para>
@@ -510,7 +510,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 6:28"/><verse eid="DAN 6:28"/></para>
+<verse eid="DAN 6:28"/></para>
   <chapter eid="DAN 6"/>
   <chapter number="7" style="c" sid="DAN 7"/>
   <para style="p"><verse number="1" style="v" sid="DAN 7:1"/>In the year of one to Belshazzar, the king of Babylon, Daniel saw a dream and visions of his head upon his bed. Then he wrote the dream; he told the head of the matters.
@@ -532,29 +532,29 @@
 <verse eid="DAN 7:8"/></para>
   <para style="p"><verse number="9" style="v" sid="DAN 7:9"/>I was looking
 </para>
-  <para style="q1">until that thrones were set,
+  <para style="q1" vid="DAN 7:9">until that thrones were set,
 </para>
-  <para style="q2">and the Ancient of Days sat down.
+  <para style="q2" vid="DAN 7:9">and the Ancient of Days sat down.
 </para>
-  <para style="q1">His clothing {was} white as snow,
+  <para style="q1" vid="DAN 7:9">His clothing {was} white as snow,
 </para>
-  <para style="q2">and the hair of his head {was} like pure wool.
+  <para style="q2" vid="DAN 7:9">and the hair of his head {was} like pure wool.
 </para>
-  <para style="q1">His throne {was} flames of fire;
+  <para style="q1" vid="DAN 7:9">His throne {was} flames of fire;
 </para>
-  <para style="q2">its wheels {were} burning fire.
+  <para style="q2" vid="DAN 7:9">its wheels {were} burning fire.
 <verse eid="DAN 7:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="DAN 7:10"/>A river of fire was flowing
 </para>
-  <para style="q2">and coming out from before him;
+  <para style="q2" vid="DAN 7:10">and coming out from before him;
 </para>
-  <para style="q1">a thousand of thousands served him,
+  <para style="q1" vid="DAN 7:10">a thousand of thousands served him,
 </para>
-  <para style="q2">and a myriad of myriads stood before him.
+  <para style="q2" vid="DAN 7:10">and a myriad of myriads stood before him.
 </para>
-  <para style="q1">The court sat,
+  <para style="q1" vid="DAN 7:10">The court sat,
 </para>
-  <para style="q2">and books were opened.
+  <para style="q2" vid="DAN 7:10">and books were opened.
 
 <ms style="ts"/>
 <verse eid="DAN 7:10"/></para>
@@ -565,21 +565,21 @@
 <verse eid="DAN 7:12"/></para>
   <para style="p"><verse number="13" style="v" sid="DAN 7:13"/>I was looking in visions of the night,
 </para>
-  <para style="q1">and behold, with the clouds of the heavens
+  <para style="q1" vid="DAN 7:13">and behold, with the clouds of the heavens
 </para>
-  <para style="q2">one like a son of man was coming,
+  <para style="q2" vid="DAN 7:13">one like a son of man was coming,
 </para>
-  <para style="q1">and he reached to the Ancient of Days,
+  <para style="q1" vid="DAN 7:13">and he reached to the Ancient of Days,
 </para>
-  <para style="q2">and they brought him near before him.
+  <para style="q2" vid="DAN 7:13">and they brought him near before him.
 <verse eid="DAN 7:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="DAN 7:14"/>And to him was given dominion and glory and a kingdom,
 </para>
-  <para style="q2">that all peoples, nations, and languages should serve him.
+  <para style="q2" vid="DAN 7:14">that all peoples, nations, and languages should serve him.
 </para>
-  <para style="q1">His dominion {is} a dominion of eternity that will not pass away,
+  <para style="q1" vid="DAN 7:14">His dominion {is} a dominion of eternity that will not pass away,
 </para>
-  <para style="q2">and his kingdom {is one} that will not be destroyed.
+  <para style="q2" vid="DAN 7:14">and his kingdom {is one} that will not be destroyed.
 
 <ms style="ts"/>
 <verse eid="DAN 7:14"/></para>
@@ -615,7 +615,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 7:28"/><verse eid="DAN 7:28"/></para>
+<verse eid="DAN 7:28"/></para>
   <chapter eid="DAN 7"/>
   <chapter number="8" style="c" sid="DAN 8"/>
   <para style="p"><verse number="1" style="v" sid="DAN 8:1"/>In the year of three to the reign of King Belshazzar, a vision appeared to me, me, Daniel, after the one having appeared to me at the first.
@@ -677,7 +677,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 8:27"/><verse eid="DAN 8:27"/></para>
+<verse eid="DAN 8:27"/></para>
   <chapter eid="DAN 8"/>
   <chapter number="9" style="c" sid="DAN 9"/>
   <para style="p"><verse number="1" style="v" sid="DAN 9:1"/>In the year of one to Darius, the son of Ahasuerus, from the seed of Madai, who had been made king over the kingdom of the Chaldeans,
@@ -737,7 +737,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 9:27"/><verse eid="DAN 9:27"/></para>
+<verse eid="DAN 9:27"/></para>
   <chapter eid="DAN 9"/>
   <chapter number="10" style="c" sid="DAN 10"/>
   <para style="p"><verse number="1" style="v" sid="DAN 10:1"/>In the year of three to Cyrus, the king of Persia, a word was revealed to Daniel, whose name was called Belteshazzar. And the word {was} true, and the war was great. And he understood the word, and understanding {was} to him about the vision.
@@ -784,7 +784,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 10:21"/><verse eid="DAN 10:21"/></para>
+<verse eid="DAN 10:21"/></para>
   <chapter eid="DAN 10"/>
   <chapter number="11" style="c" sid="DAN 11"/>
   <para style="p"><verse number="1" style="v" sid="DAN 11:1"/>And I, in the year of one to Darius the Mede, I stood as one strengthening and as a fortress for him.
@@ -884,7 +884,7 @@
 
 <ms style="ts"/>
 
-<verse eid="DAN 11:45"/><verse eid="DAN 11:45"/></para>
+<verse eid="DAN 11:45"/></para>
   <chapter eid="DAN 11"/>
   <chapter number="12" style="c" sid="DAN 12"/>
   <para style="p"><verse number="1" style="v" sid="DAN 12:1"/>And at that time, Michael, the great prince standing over the sons of your people, will stand. And a time of distress will be that has not been from the being of a nation until that time. But at that time, your people will be rescued, every one found written in the book.

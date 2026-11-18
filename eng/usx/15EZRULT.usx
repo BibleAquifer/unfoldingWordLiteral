@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EZR" style="id">EN_ULT en_English_ltr Mon Jul 26 2021 19:53:46 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -38,7 +38,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EZR 1:11"/><verse eid="EZR 1:11"/></para>
+<verse eid="EZR 1:11"/></para>
   <chapter eid="EZR 1"/>
   <chapter number="2" style="c" sid="EZR 2"/>
   <para style="p"><verse number="1" style="v" sid="EZR 2:1"/>Now these are the sons of the province, the ones who went up from the captivity of the exiles whom Nebuchadnezzar, the king of Babylon, had exiled to Babylon. And they returned to Jerusalem and Judah, a man to his city;
@@ -217,7 +217,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EZR 2:70"/><verse eid="EZR 2:70"/></para>
+<verse eid="EZR 2:70"/></para>
   <chapter eid="EZR 2"/>
   <chapter number="3" style="c" sid="EZR 3"/>
   <para style="p"><verse number="1" style="v" sid="EZR 3:1"/>Then the seventh month came and the sons of Israel were in their cities. And the people were gathered together as one man to Jerusalem.
@@ -247,7 +247,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EZR 3:13"/><verse eid="EZR 3:13"/></para>
+<verse eid="EZR 3:13"/></para>
   <chapter eid="EZR 3"/>
   <chapter number="4" style="c" sid="EZR 4"/>
   <para style="p"><verse number="1" style="v" sid="EZR 4:1"/>Now the enemies of Judah and Benjamin heard that the sons of the exile were building a temple for Yahweh, the God of Israel.
@@ -281,7 +281,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 <verse eid="EZR 4:10"/><verse number="11" style="v" sid="EZR 4:11"/>(This is a copy of the letter that they sent to him.)
 
 </para>
-  <para style="p">“To Artaxerxes the king; your servants, men of Beyond-the-River; and now:
+  <para style="p" vid="EZR 4:11">“To Artaxerxes the king; your servants, men of Beyond-the-River; and now:
 
 <verse eid="EZR 4:11"/></para>
   <para style="p"><verse number="12" style="v" sid="EZR 4:12"/>let it be known to the king that the Jews who went up from near you have come to us at Jerusalem. Rebuilding the rebellious and evil city, they are completing the walls and repairing the foundations.
@@ -298,7 +298,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
   <para style="p"><verse number="17" style="v" sid="EZR 4:17"/>The king sent the answer:
 
 </para>
-  <para style="p">“To Rehum, a lord of decree, and Shimshai the scribe, and the rest of their companions who dwell in Samaria, and the rest of Beyond the River: Peace. And now:
+  <para style="p" vid="EZR 4:17">“To Rehum, a lord of decree, and Shimshai the scribe, and the rest of their companions who dwell in Samaria, and the rest of Beyond the River: Peace. And now:
 
 <verse eid="EZR 4:17"/></para>
   <para style="p"><verse number="18" style="v" sid="EZR 4:18"/>The letter that you sent to us has been carefully read aloud before me.
@@ -317,7 +317,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 
 <ms style="ts"/>
 
-<verse eid="EZR 4:24"/><verse eid="EZR 4:24"/></para>
+<verse eid="EZR 4:24"/></para>
   <chapter eid="EZR 4"/>
   <chapter number="5" style="c" sid="EZR 5"/>
   <para style="p"><verse number="1" style="v" sid="EZR 5:1"/>Then the prophets, Haggai the prophet and Zechariah, the son of Iddo, prophesied to the Jews who were in Judah and in Jerusalem in the name of the God of Israel who was over them.
@@ -339,7 +339,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 <verse eid="EZR 5:6"/><verse number="7" style="v" sid="EZR 5:7"/>They sent a report to him and thus was written within it:
 
 </para>
-  <para style="p">“To Darius the king: All peace.
+  <para style="p" vid="EZR 5:7">“To Darius the king: All peace.
 
 <ms style="ts"/>
 <verse eid="EZR 5:7"/></para>
@@ -366,7 +366,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 
 <ms style="ts"/>
 
-<verse eid="EZR 5:17"/><verse eid="EZR 5:17"/></para>
+<verse eid="EZR 5:17"/></para>
   <chapter eid="EZR 5"/>
   <chapter number="6" style="c" sid="EZR 6"/>
   <para style="p"><verse number="1" style="v" sid="EZR 6:1"/>Then Darius the king set a decree and they searched in the house of the books where the treasures had been deposited there in Babylon.
@@ -377,7 +377,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
   <para style="p"><verse number="3" style="v" sid="EZR 6:3"/>“In year one of Cyrus the king, Cyrus the king set a decree about the house of God in Jerusalem:
 
 </para>
-  <para style="p">‘Let the house be built, a place where sacrifices are sacrificed, and let its foundations be raised. Its height will be 60 cubits. Its width will be 60 cubits,
+  <para style="p" vid="EZR 6:3">‘Let the house be built, a place where sacrifices are sacrificed, and let its foundations be raised. Its height will be 60 cubits. Its width will be 60 cubits,
 <verse eid="EZR 6:3"/><verse number="4" style="v" sid="EZR 6:4"/>with three layers of large stone and a layer of new timber. And let the cost be given from the house of the king.
 <verse eid="EZR 6:4"/><verse number="5" style="v" sid="EZR 6:5"/>And also, the vessels of the house of God, of gold and silver, that Nebuchadnezzar had taken out from the temple that was in Jerusalem and had brought to Babylon, must be returned. And let each go to the temple that is in Jerusalem, to its place. So you must put them in the house of God.’”
 
@@ -419,7 +419,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 
 <ms style="ts"/>
 
-<verse eid="EZR 6:22"/><verse eid="EZR 6:22"/></para>
+<verse eid="EZR 6:22"/></para>
   <chapter eid="EZR 6"/>
   <chapter number="7" style="c" sid="EZR 7"/>
   <para style="p"><verse number="1" style="v" sid="EZR 7:1"/>Now after these things, in the reign of Artaxerxes, the king of Persia: Ezra (the son of Seraiah, the son of Azariah, the son of Hilkiah,
@@ -481,7 +481,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 
 <ms style="ts"/>
 
-<verse eid="EZR 7:28"/><verse eid="EZR 7:28"/></para>
+<verse eid="EZR 7:28"/></para>
   <chapter eid="EZR 7"/>
   <chapter number="8" style="c" sid="EZR 8"/>
   <para style="p"><verse number="1" style="v" sid="EZR 8:1"/>Now these are the heads of their fathers and their enrollment by genealogy, the ones who went up with me from Babylon in the reign of Artaxerxes the king:
@@ -490,16 +490,16 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
   <para style="p"><verse number="2" style="v" sid="EZR 8:2"/>From the sons of Phinehas: Gershom.
 
 </para>
-  <para style="p">From the sons of Ithamar: Daniel.
+  <para style="p" vid="EZR 8:2">From the sons of Ithamar: Daniel.
 
 </para>
-  <para style="p">From the sons of David: Hattush,
+  <para style="p" vid="EZR 8:2">From the sons of David: Hattush,
 
 <verse eid="EZR 8:2"/></para>
   <para style="p"><verse number="3" style="v" sid="EZR 8:3"/>from the sons of Shecaniah.
 
 </para>
-  <para style="p">From the sons of Parosh: Zechariah, and with him were 150 males enrolled by genealogy.
+  <para style="p" vid="EZR 8:3">From the sons of Parosh: Zechariah, and with him were 150 males enrolled by genealogy.
 
 <verse eid="EZR 8:3"/></para>
   <para style="p"><verse number="4" style="v" sid="EZR 8:4"/>From the sons of Pahath-Moab: Eliehoenai, the son of Zerahiah, and with him were 200 males.
@@ -588,7 +588,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 
 <ms style="ts"/>
 
-<verse eid="EZR 8:36"/><verse eid="EZR 8:36"/></para>
+<verse eid="EZR 8:36"/></para>
   <chapter eid="EZR 8"/>
   <chapter number="9" style="c" sid="EZR 9"/>
   <para style="p"><verse number="1" style="v" sid="EZR 9:1"/>Now as soon as these things were finished, the leaders came to me, saying, “The people of Israel, and the priests, and the Levites have not separated themselves from the peoples of the lands according to their abominations, of the Canaanite, the Hittite, the Perizzite, the Jebusite, the Ammonite, the Moabite, the Egyptian, and the Amorite.
@@ -626,7 +626,7 @@ in the beginning of his reign, they wrote an accusation against those who dwelle
 
 <ms style="ts"/>
 
-<verse eid="EZR 9:15"/><verse eid="EZR 9:15"/></para>
+<verse eid="EZR 9:15"/></para>
   <chapter eid="EZR 9"/>
   <chapter number="10" style="c" sid="EZR 10"/>
   <para style="p"><verse number="1" style="v" sid="EZR 10:1"/>And when Ezra prayed, and when he confessed, weeping and casting himself down before the face of the house of God, an extremely great assembly from Israel, men and women and children, gathered to him. Indeed the people wept an abundant weeping.

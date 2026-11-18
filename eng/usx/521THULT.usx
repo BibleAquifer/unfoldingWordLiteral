@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1TH" style="id">EN_ULT en_English_ltr Thu Jan 19 2023 13:53:21 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -37,7 +37,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1TH 1:10"/><verse eid="1TH 1:10"/></para>
+<verse eid="1TH 1:10"/></para>
   <chapter eid="1TH 1"/>
   <chapter number="2" style="c" sid="1TH 2"/>
   <para style="p"><verse number="1" style="v" sid="1TH 2:1"/>For you yourselves know, brothers, that our entrance to you has not been in vain.
@@ -81,7 +81,7 @@ Or {is it} not also you before our Lord Jesus at his coming?
 
 <ms style="ts"/>
 
-<verse eid="1TH 2:20"/><verse eid="1TH 2:20"/></para>
+<verse eid="1TH 2:20"/></para>
   <chapter eid="1TH 2"/>
   <chapter number="3" style="c" sid="1TH 3"/>
   <para style="p"><verse number="1" style="v" sid="1TH 3:1"/>Therefore, enduring {it} no longer, we thought it good to be left behind in Athens alone,
@@ -110,7 +110,7 @@ in the gospel of Christ, to strengthen and encourage you regarding your faith,
 
 <ms style="ts"/>
 
-<verse eid="1TH 3:13"/><verse eid="1TH 3:13"/></para>
+<verse eid="1TH 3:13"/></para>
   <chapter eid="1TH 3"/>
   <chapter number="4" style="c" sid="1TH 4"/>
   <para style="p"><verse number="1" style="v" sid="1TH 4:1"/>Therefore, finally, brothers, we ask and encourage you in the Lord Jesus, just as you received from us how it is necessary for you to walk and to please God (just as also you are walking), that you might abound even more.
@@ -148,7 +148,7 @@ no need {for us} to write to you, for you yourselves are taught by God to love o
 
 <ms style="ts"/>
 
-<verse eid="1TH 4:18"/><verse eid="1TH 4:18"/></para>
+<verse eid="1TH 4:18"/></para>
   <chapter eid="1TH 4"/>
   <chapter number="5" style="c" sid="1TH 5"/>
   <para style="p"><verse number="1" style="v" sid="1TH 5:1"/>Now concerning the times and the seasons, brothers, you have no need {for anything} to be written to you.

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EXO" style="id">EN_ULT en_English_ltr Fri Dec 02 2022 11:31:27 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -61,7 +61,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EXO 1:22"/><verse eid="EXO 1:22"/></para>
+<verse eid="EXO 1:22"/></para>
   <chapter eid="EXO 1"/>
   <chapter number="2" style="c" sid="EXO 2"/>
   <para style="p"><verse number="1" style="v" sid="EXO 2:1"/>And a man from the house of Levi went and took a daughter of Levi.
@@ -101,12 +101,12 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 </para>
-  <para style="p">And Moses feared and said, “Certainly the thing is known.”
+  <para style="p" vid="EXO 2:14">And Moses feared and said, “Certainly the thing is known.”
 <verse eid="EXO 2:14"/><verse number="15" style="v" sid="EXO 2:15"/>And Pharaoh heard this thing, and he sought to kill Moses. And Moses fled from the face of Pharaoh.
 
 <ms style="ts"/>
 </para>
-  <para style="p">And he dwelt in the land of Midian, and he sat down by a well.
+  <para style="p" vid="EXO 2:15">And he dwelt in the land of Midian, and he sat down by a well.
 <verse eid="EXO 2:15"/><verse number="16" style="v" sid="EXO 2:16"/>And the priest of Midian had seven daughters. And they came and drew and filled up the troughs to cause the flock of their father to drink water.
 <verse eid="EXO 2:16"/><verse number="17" style="v" sid="EXO 2:17"/>And the men who were shepherding came and drove them away, but Moses arose and saved them and caused their flock to drink water.
 
@@ -133,7 +133,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 2:25"/><verse eid="EXO 2:25"/></para>
+<verse eid="EXO 2:25"/></para>
   <chapter eid="EXO 2"/>
   <chapter number="3" style="c" sid="EXO 3"/>
   <para style="p"><verse number="1" style="v" sid="EXO 3:1"/>And Moses was shepherding the flock of Jethro his father-in-law, the priest of Midian. And he led the flock beyond the wilderness, and he came to the mountain of God, to Horeb.
@@ -145,7 +145,7 @@ And the woman took the child and caused him to nurse.
   <para style="p"><verse number="4" style="v" sid="EXO 3:4"/>And Yahweh saw that he had turned aside in order to look, and God called to him from the middle of the bush, and he said, “Moses, Moses.”
 
 </para>
-  <para style="p">And he said, “Behold me!”
+  <para style="p" vid="EXO 3:4">And he said, “Behold me!”
 
 <verse eid="EXO 3:4"/></para>
   <para style="p"><verse number="5" style="v" sid="EXO 3:5"/>And he said, “You must not come close to here. Take your sandals off from on your feet, for the place on which you are standing, it is holy ground.”
@@ -183,7 +183,7 @@ And the woman took the child and caused him to nurse.
 <verse eid="EXO 3:17"/><verse number="18" style="v" sid="EXO 3:18"/>And they will listen to your voice.
 
 </para>
-  <para style="p">And you and the elders of Israel will go to the king of Egypt, and you all will say to him, ‘Yahweh, the God of the Hebrews, has met with us. And now please let us go a journey of three days into the wilderness, and let us sacrifice to Yahweh, our God.’
+  <para style="p" vid="EXO 3:18">And you and the elders of Israel will go to the king of Egypt, and you all will say to him, ‘Yahweh, the God of the Hebrews, has met with us. And now please let us go a journey of three days into the wilderness, and let us sacrifice to Yahweh, our God.’
 <verse eid="EXO 3:18"/><verse number="19" style="v" sid="EXO 3:19"/>And I know that the king of Egypt will not permit you to go, and not with a strong hand.
 <verse eid="EXO 3:19"/><verse number="20" style="v" sid="EXO 3:20"/>And I shall send out my hand, and I shall strike Egypt with all my wonders, which I shall do within him. And after that, he will send you out.
 
@@ -194,7 +194,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 3:22"/><verse eid="EXO 3:22"/></para>
+<verse eid="EXO 3:22"/></para>
   <chapter eid="EXO 3"/>
   <chapter number="4" style="c" sid="EXO 4"/>
   <para style="p"><verse number="1" style="v" sid="EXO 4:1"/>And Moses answered and said, “But look, they will not believe me, and they will not listen to my voice; for they will say, ‘Yahweh has not appeared to you.’”
@@ -203,7 +203,7 @@ And the woman took the child and caused him to nurse.
   <para style="p"><verse number="2" style="v" sid="EXO 4:2"/>And Yahweh said to him, “What is that in your hand?”
 
 </para>
-  <para style="p">And he said, “A staff.”
+  <para style="p" vid="EXO 4:2">And he said, “A staff.”
 
 <verse eid="EXO 4:2"/></para>
   <para style="p"><verse number="3" style="v" sid="EXO 4:3"/>And he said, “Throw it to the ground.” And he threw it to the ground, and it became a snake. And Moses fled from its face.
@@ -245,7 +245,7 @@ And the woman took the child and caused him to nurse.
   <para style="p"><verse number="18" style="v" sid="EXO 4:18"/>And Moses went and returned to Jethro his father-in-law, and he said to him, “Please let me go, and let me return to my brothers who are in Egypt and see whether they are still alive.”
 
 </para>
-  <para style="p">And Jethro said to Moses, “Go in peace.”
+  <para style="p" vid="EXO 4:18">And Jethro said to Moses, “Go in peace.”
 
 <verse eid="EXO 4:18"/></para>
   <para style="p"><verse number="19" style="v" sid="EXO 4:19"/>And Yahweh said to Moses in Midian, “Go! Return to Egypt! For all the men who were seeking your life are dead.”
@@ -275,7 +275,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 4:31"/><verse eid="EXO 4:31"/></para>
+<verse eid="EXO 4:31"/></para>
   <chapter eid="EXO 4"/>
   <chapter number="5" style="c" sid="EXO 5"/>
   <para style="p"><verse number="1" style="v" sid="EXO 5:1"/>And afterward, Moses and Aaron went in and said to Pharaoh, “Thus says Yahweh, the God of Israel: ‘Let my people go, and they shall celebrate me in the wilderness.’”
@@ -331,7 +331,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 5:23"/><verse eid="EXO 5:23"/></para>
+<verse eid="EXO 5:23"/></para>
   <chapter eid="EXO 5"/>
   <chapter number="6" style="c" sid="EXO 6"/>
   <para style="p"><verse number="1" style="v" sid="EXO 6:1"/>And Yahweh said to Moses, “Now you will see what I will do to Pharaoh: for by a strong hand he will let them go; and by a strong hand he will drive them out of his land.”
@@ -370,7 +370,7 @@ And the woman took the child and caused him to nurse.
   <para style="p"><verse number="14" style="v" sid="EXO 6:14"/>These were the heads of the houses of their fathers:
 
 </para>
-  <para style="p">The sons of Reuben, the firstborn of Israel: Hanoch and Pallu, Hezron and Karmi. These were the clans of Reuben.
+  <para style="p" vid="EXO 6:14">The sons of Reuben, the firstborn of Israel: Hanoch and Pallu, Hezron and Karmi. These were the clans of Reuben.
 
 <verse eid="EXO 6:14"/></para>
   <para style="p"><verse number="15" style="v" sid="EXO 6:15"/>And the sons of Simeon were Jemuel, and Jamin, and Ohad, and Jakin, and Zohar, and Shaul—the son of a Canaanite woman. These were the clans of Simeon.
@@ -413,7 +413,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 6:30"/><verse eid="EXO 6:30"/></para>
+<verse eid="EXO 6:30"/></para>
   <chapter eid="EXO 6"/>
   <chapter number="7" style="c" sid="EXO 7"/>
   <para style="p"><verse number="1" style="v" sid="EXO 7:1"/>And Yahweh said to Moses, “Look, I have made you God to Pharaoh, and your brother Aaron will be your prophet.
@@ -471,7 +471,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 7:25"/><verse eid="EXO 7:25"/></para>
+<verse eid="EXO 7:25"/></para>
   <chapter eid="EXO 7"/>
   <chapter number="8" style="c" sid="EXO 8"/>
   <para style="p"><verse number="1" style="v" sid="EXO 8:1"/>And Yahweh said to Moses, “Go to Pharaoh, and you shall say to him, ‘Thus says Yahweh: “Let my people go, and they shall serve me.
@@ -497,7 +497,7 @@ And the woman took the child and caused him to nurse.
   <para style="p"><verse number="10" style="v" sid="EXO 8:10"/>And he said, “Tomorrow.”
 
 </para>
-  <para style="p">And he said, “Just as you say, so that you will know that there is no one like Yahweh, our God.
+  <para style="p" vid="EXO 8:10">And he said, “Just as you say, so that you will know that there is no one like Yahweh, our God.
 <verse eid="EXO 8:10"/><verse number="11" style="v" sid="EXO 8:11"/>And the frogs will withdraw from you and from your houses and from your servants and from your people. They will be left in the river only.”
 
 <ms style="ts"/>
@@ -550,7 +550,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 8:32"/><verse eid="EXO 8:32"/></para>
+<verse eid="EXO 8:32"/></para>
   <chapter eid="EXO 8"/>
   <chapter number="9" style="c" sid="EXO 9"/>
   <para style="p"><verse number="1" style="v" sid="EXO 9:1"/>And Yahweh said to Moses, “Go in to Pharaoh and speak to him: ‘Thus says Yahweh, the God of the Hebrews: “Let my people go, and they shall serve me.
@@ -627,7 +627,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 9:35"/><verse eid="EXO 9:35"/></para>
+<verse eid="EXO 9:35"/></para>
   <chapter eid="EXO 9"/>
   <chapter number="10" style="c" sid="EXO 10"/>
   <para style="p"><verse number="1" style="v" sid="EXO 10:1"/>And Yahweh said to Moses, “Go in to Pharaoh, for I have made his heart and the heart of his servants heavy, in order to perform these my signs in his midst,
@@ -702,7 +702,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 10:29"/><verse eid="EXO 10:29"/></para>
+<verse eid="EXO 10:29"/></para>
   <chapter eid="EXO 10"/>
   <chapter number="11" style="c" sid="EXO 11"/>
   <para style="p"><verse number="1" style="v" sid="EXO 11:1"/>And Yahweh said to Moses, “One more plague I will bring on Pharaoh and on Egypt. After that he will let you go from here. As soon as he lets go, he will certainly drive you completely away from here.
@@ -726,7 +726,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 11:10"/><verse eid="EXO 11:10"/></para>
+<verse eid="EXO 11:10"/></para>
   <chapter eid="EXO 11"/>
   <chapter number="12" style="c" sid="EXO 12"/>
   <para style="p"><verse number="1" style="v" sid="EXO 12:1"/>And Yahweh said to Moses and to Aaron in the land of Egypt, saying,
@@ -832,7 +832,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 12:51"/><verse eid="EXO 12:51"/></para>
+<verse eid="EXO 12:51"/></para>
   <chapter eid="EXO 12"/>
   <chapter number="13" style="c" sid="EXO 13"/>
   <para style="p"><verse number="1" style="v" sid="EXO 13:1"/>And Yahweh spoke to Moses, saying,
@@ -883,7 +883,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 13:22"/><verse eid="EXO 13:22"/></para>
+<verse eid="EXO 13:22"/></para>
   <chapter eid="EXO 13"/>
   <chapter number="14" style="c" sid="EXO 14"/>
   <para style="p"><verse number="1" style="v" sid="EXO 14:1"/>And Yahweh spoke to Moses, saying,
@@ -948,118 +948,118 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 14:31"/><verse eid="EXO 14:31"/></para>
+<verse eid="EXO 14:31"/></para>
   <chapter eid="EXO 14"/>
   <chapter number="15" style="c" sid="EXO 15"/>
   <para style="p"><verse number="1" style="v" sid="EXO 15:1"/>Then Moses and the sons of Israel sang this song to Yahweh. And they said, saying,
 </para>
-  <para style="q1">“Let me sing to Yahweh, for he has triumphantly triumphed;
+  <para style="q1" vid="EXO 15:1">“Let me sing to Yahweh, for he has triumphantly triumphed;
 </para>
-  <para style="q1">the horse and the one riding it he threw into the sea.
+  <para style="q1" vid="EXO 15:1">the horse and the one riding it he threw into the sea.
 
 <ms style="ts"/>
 <verse eid="EXO 15:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="EXO 15:2"/>Yah is my strength and my song,
 </para>
-  <para style="q1">and he has become my salvation.
+  <para style="q1" vid="EXO 15:2">and he has become my salvation.
 </para>
-  <para style="q1">This is my God, and I will glorify him,
+  <para style="q1" vid="EXO 15:2">This is my God, and I will glorify him,
 </para>
-  <para style="q1">the God of my father, and I will exalt him.
+  <para style="q1" vid="EXO 15:2">the God of my father, and I will exalt him.
 <verse eid="EXO 15:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="EXO 15:3"/>Yahweh is a man of war;
 </para>
-  <para style="q1">Yahweh is his name.
+  <para style="q1" vid="EXO 15:3">Yahweh is his name.
 
 <ms style="ts"/>
 <verse eid="EXO 15:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="EXO 15:4"/>He threw the chariots of Pharaoh and his army into the sea.
 </para>
-  <para style="q1">And his chosen officers sank in the Sea of Reeds.
+  <para style="q1" vid="EXO 15:4">And his chosen officers sank in the Sea of Reeds.
 <verse eid="EXO 15:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="EXO 15:5"/>The deeps cover them;
 </para>
-  <para style="q1">they descended into the depths like a stone.
+  <para style="q1" vid="EXO 15:5">they descended into the depths like a stone.
 
 <ms style="ts"/>
 <verse eid="EXO 15:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="EXO 15:6"/>Your right hand, Yahweh, is majestic in power;
 </para>
-  <para style="q1">your right hand, Yahweh, shatters the enemy.
+  <para style="q1" vid="EXO 15:6">your right hand, Yahweh, shatters the enemy.
 <verse eid="EXO 15:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="EXO 15:7"/>And in the abundance of your majesty you overthrow those who rise up against you.
 </para>
-  <para style="q1">You send out your heat; it devours them like stubble.
+  <para style="q1" vid="EXO 15:7">You send out your heat; it devours them like stubble.
 <verse eid="EXO 15:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="EXO 15:8"/>And by the breath of your nostrils the waters were piled up;
 </para>
-  <para style="q1">the flowing waters were stood upright like a heap;
+  <para style="q1" vid="EXO 15:8">the flowing waters were stood upright like a heap;
 </para>
-  <para style="q1">the deeps thickened in the heart of the sea.
+  <para style="q1" vid="EXO 15:8">the deeps thickened in the heart of the sea.
 
 <ms style="ts"/>
 <verse eid="EXO 15:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="EXO 15:9"/>The enemy said,
 </para>
-  <para style="q1">‘I will pursue,
+  <para style="q1" vid="EXO 15:9">‘I will pursue,
 </para>
-  <para style="q1">I will overtake;
+  <para style="q1" vid="EXO 15:9">I will overtake;
 </para>
-  <para style="q1">I will share out the plunder;
+  <para style="q1" vid="EXO 15:9">I will share out the plunder;
 </para>
-  <para style="q1">my soul will be satisfied in them;
+  <para style="q1" vid="EXO 15:9">my soul will be satisfied in them;
 </para>
-  <para style="q1">I will empty my sword;
+  <para style="q1" vid="EXO 15:9">I will empty my sword;
 </para>
-  <para style="q1">my hand will dispossess them.’
+  <para style="q1" vid="EXO 15:9">my hand will dispossess them.’
 <verse eid="EXO 15:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="EXO 15:10"/>You blew with your wind; the sea covered them;
 </para>
-  <para style="q1">they sank like lead in the majestic waters.
+  <para style="q1" vid="EXO 15:10">they sank like lead in the majestic waters.
 
 <ms style="ts"/>
 <verse eid="EXO 15:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="EXO 15:11"/>Who is like you among the gods Yahweh?
 </para>
-  <para style="q1">Who is like you, majestic in holiness,
+  <para style="q1" vid="EXO 15:11">Who is like you, majestic in holiness,
 </para>
-  <para style="q1">feared in praises, doing miracles?
+  <para style="q1" vid="EXO 15:11">feared in praises, doing miracles?
 <verse eid="EXO 15:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="EXO 15:12"/>You reached out your right hand,
 </para>
-  <para style="q1">and the earth swallows them.
+  <para style="q1" vid="EXO 15:12">and the earth swallows them.
 <verse eid="EXO 15:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="EXO 15:13"/>In your covenant faithfulness, you led this people you redeemed.
 </para>
-  <para style="q1">In your strength, you guided them to the home of your holiness.
+  <para style="q1" vid="EXO 15:13">In your strength, you guided them to the home of your holiness.
 
 <ms style="ts"/>
 <verse eid="EXO 15:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="EXO 15:14"/>The peoples heard; they shake;
 </para>
-  <para style="q1">anguish seized the inhabitants of Philistia.
+  <para style="q1" vid="EXO 15:14">anguish seized the inhabitants of Philistia.
 <verse eid="EXO 15:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="EXO 15:15"/>Then the chiefs of Edom panicked;
 </para>
-  <para style="q1">trembling seizes the leaders of Moab;
+  <para style="q1" vid="EXO 15:15">trembling seizes the leaders of Moab;
 </para>
-  <para style="q1">all the inhabitants of Canaan melted away.
+  <para style="q1" vid="EXO 15:15">all the inhabitants of Canaan melted away.
 <verse eid="EXO 15:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="EXO 15:16"/>Terror and dread fall on them.
 
 <ms style="ts"/>
 </para>
-  <para style="q1">By the greatness of your arm, they are still as a stone
+  <para style="q1" vid="EXO 15:16">By the greatness of your arm, they are still as a stone
 </para>
-  <para style="q1">until your people pass by, Yahweh,
+  <para style="q1" vid="EXO 15:16">until your people pass by, Yahweh,
 </para>
-  <para style="q1">until this people you acquired pass by.
+  <para style="q1" vid="EXO 15:16">until this people you acquired pass by.
 <verse eid="EXO 15:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="EXO 15:17"/>You will bring them, and you will plant them on the mountain of your possession,
 </para>
-  <para style="q1">the place, Yahweh, that you made for your dwelling,
+  <para style="q1" vid="EXO 15:17">the place, Yahweh, that you made for your dwelling,
 </para>
-  <para style="q1">the holy place, my Lord, that your hands built.
+  <para style="q1" vid="EXO 15:17">the holy place, my Lord, that your hands built.
 <verse eid="EXO 15:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="EXO 15:18"/>Yahweh will reign forever and ever.”
 
@@ -1069,9 +1069,9 @@ And the woman took the child and caused him to nurse.
 <verse eid="EXO 15:19"/><verse number="20" style="v" sid="EXO 15:20"/>And Miriam the prophetess, the sister of Aaron, took a tambourine in her hand, and all the women went out after her with tambourines and with dancing.
 <verse eid="EXO 15:20"/><verse number="21" style="v" sid="EXO 15:21"/>And Miriam responded to them:
 </para>
-  <para style="q1">“Sing to Yahweh, for he has triumphed triumphantly;
+  <para style="q1" vid="EXO 15:21">“Sing to Yahweh, for he has triumphed triumphantly;
 </para>
-  <para style="q1">the horse and the one riding it he threw into the sea.”
+  <para style="q1" vid="EXO 15:21">the horse and the one riding it he threw into the sea.”
 
 <ms style="ts"/>
 <verse eid="EXO 15:21"/></para>
@@ -1089,7 +1089,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 15:27"/><verse eid="EXO 15:27"/></para>
+<verse eid="EXO 15:27"/></para>
   <chapter eid="EXO 15"/>
   <chapter number="16" style="c" sid="EXO 16"/>
   <para style="p"><verse number="1" style="v" sid="EXO 16:1"/>And they journeyed on from Elim, and all of the congregation of the sons of Israel entered into the Wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departure from the land of Egypt.
@@ -1127,7 +1127,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 </para>
-  <para style="p">And Moses said to them, “It is the bread that Yahweh has given you to eat.
+  <para style="p" vid="EXO 16:15">And Moses said to them, “It is the bread that Yahweh has given you to eat.
 <verse eid="EXO 16:15"/><verse number="16" style="v" sid="EXO 16:16"/>This is the thing that Yahweh has commanded: ‘Gather from it each according to the mouths of his eating; an omer for each person up to the number of your people, each shall take for those in his tent.’”
 <verse eid="EXO 16:16"/><verse number="17" style="v" sid="EXO 16:17"/>And the sons of Israel did so. And they gathered much, or little,
 <verse eid="EXO 16:17"/><verse number="18" style="v" sid="EXO 16:18"/>and they measured it by omer. And there was no extra for those with much, and no lack for those with little. Each man gathered according to what he needed to eat.
@@ -1170,14 +1170,14 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 16:36"/><verse eid="EXO 16:36"/></para>
+<verse eid="EXO 16:36"/></para>
   <chapter eid="EXO 16"/>
   <chapter number="17" style="c" sid="EXO 17"/>
   <para style="p"><verse number="1" style="v" sid="EXO 17:1"/>And all the community of the sons of Israel journeyed from the wilderness of Sin, journeying at the mouth of Yahweh. And they camped at Rephidim, and there was no water for the people to drink.
 <verse eid="EXO 17:1"/><verse number="2" style="v" sid="EXO 17:2"/>And the people quarreled with Moses, and they said, “Give us water to drink.”
 
 </para>
-  <para style="p">And Moses said to them, “Why are you quarreling with me? Why do you test Yahweh?”
+  <para style="p" vid="EXO 17:2">And Moses said to them, “Why are you quarreling with me? Why do you test Yahweh?”
 
 <verse eid="EXO 17:2"/></para>
   <para style="p"><verse number="3" style="v" sid="EXO 17:3"/>And the people were thirsty for water there, and the people murmured against Moses. And he said, “Is this why you brought us up from Egypt? To kill me and my sons and my cattle, with thirst?”
@@ -1201,7 +1201,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 </para>
-  <para style="p">And Moses, Aaron, and Hur climbed up to the top of the hill.
+  <para style="p" vid="EXO 17:10">And Moses, Aaron, and Hur climbed up to the top of the hill.
 <verse eid="EXO 17:10"/><verse number="11" style="v" sid="EXO 17:11"/>And so it was, when Moses raised his hand, then Israel would be winning, and when he set his hand down, then Amalek would be winning.
 <verse eid="EXO 17:11"/><verse number="12" style="v" sid="EXO 17:12"/>And the hands of Moses became heavy. And they took a stone and put it under him, and he sat on it, and Aaron and Hur held his hands up, one from this, and one from that. And so his hands were steady until the sun went down.
 <verse eid="EXO 17:12"/><verse number="13" style="v" sid="EXO 17:13"/>And Joshua defeated Amalek and his people with the edge of the sword.
@@ -1214,7 +1214,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 17:16"/><verse eid="EXO 17:16"/></para>
+<verse eid="EXO 17:16"/></para>
   <chapter eid="EXO 17"/>
   <chapter number="18" style="c" sid="EXO 18"/>
   <para style="p"><verse number="1" style="v" sid="EXO 18:1"/>And Jethro, the priest of Midian, father-in-law of Moses, heard all that God had done for Moses and for Israel his people; that Yahweh brought Israel out from Egypt.
@@ -1278,7 +1278,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 18:27"/><verse eid="EXO 18:27"/></para>
+<verse eid="EXO 18:27"/></para>
   <chapter eid="EXO 18"/>
   <chapter number="19" style="c" sid="EXO 19"/>
   <para style="p"><verse number="1" style="v" sid="EXO 19:1"/>In the third month from the people of Israel exiting the land of Egypt, on the same day, they entered the wilderness of Sinai.
@@ -1342,7 +1342,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 19:25"/><verse eid="EXO 19:25"/></para>
+<verse eid="EXO 19:25"/></para>
   <chapter eid="EXO 19"/>
   <chapter number="20" style="c" sid="EXO 20"/>
   <para style="p"><verse number="1" style="v" sid="EXO 20:1"/>God spoke all these words, saying:
@@ -1411,7 +1411,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 20:26"/><verse eid="EXO 20:26"/></para>
+<verse eid="EXO 20:26"/></para>
   <chapter eid="EXO 20"/>
   <chapter number="21" style="c" sid="EXO 21"/>
   <para style="p"><verse number="1" style="v" sid="EXO 21:1"/>And these are the ordinances that you shall set before their faces:
@@ -1500,7 +1500,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 21:36"/><verse eid="EXO 21:36"/></para>
+<verse eid="EXO 21:36"/></para>
   <chapter eid="EXO 21"/>
   <chapter number="22" style="c" sid="EXO 22"/>
   <para style="p"><verse number="1" style="v" sid="EXO 22:1"/>If a man steals an ox or a sheep and slaughters it or sells it, he shall compensate five cattle for the ox, and four sheep for the sheep.
@@ -1512,7 +1512,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 </para>
-  <para style="p">He shall surely make restitution. If he has nothing, then he shall be sold for his theft.
+  <para style="p" vid="EXO 22:3">He shall surely make restitution. If he has nothing, then he shall be sold for his theft.
 <verse eid="EXO 22:3"/><verse number="4" style="v" sid="EXO 22:4"/>If the stolen thing is actually found alive in his hand, from an ox to a donkey to a sheep, he shall compensate double.
 
 <ms style="ts"/>
@@ -1585,7 +1585,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 </para>
-  <para style="p">You shall give the firstborn of your sons to me.
+  <para style="p" vid="EXO 22:29">You shall give the firstborn of your sons to me.
 <verse eid="EXO 22:29"/><verse number="30" style="v" sid="EXO 22:30"/>You shall do the same to your ox and to your sheep. Seven days it will be with its mother; on the eighth day you shall give it to me.
 
 <ms style="ts"/>
@@ -1594,7 +1594,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 22:31"/><verse eid="EXO 22:31"/></para>
+<verse eid="EXO 22:31"/></para>
   <chapter eid="EXO 22"/>
   <chapter number="23" style="c" sid="EXO 23"/>
   <para style="p"><verse number="1" style="v" sid="EXO 23:1"/>You shall not take up a report of emptiness. You shall not put your hand with the wicked to be a witness of violence.
@@ -1643,7 +1643,7 @@ And the woman took the child and caused him to nurse.
   <para style="p"><verse number="16" style="v" sid="EXO 23:16"/>And {you shall keep} the Festival of the Harvest, {bringing} the first fruits of your labors which you sowed in the field.
 
 </para>
-  <para style="p">And {you shall keep} the Festival of the Gathering in the exiting of the year, {bringing} in your gathering of your labors from the field.
+  <para style="p" vid="EXO 23:16">And {you shall keep} the Festival of the Gathering in the exiting of the year, {bringing} in your gathering of your labors from the field.
 
 <ms style="ts"/>
 <verse eid="EXO 23:16"/></para>
@@ -1686,7 +1686,7 @@ And the woman took the child and caused him to nurse.
 
 <ms style="ts"/>
 
-<verse eid="EXO 23:33"/><verse eid="EXO 23:33"/></para>
+<verse eid="EXO 23:33"/></para>
   <chapter eid="EXO 23"/>
   <chapter number="24" style="c" sid="EXO 24"/>
   <para style="p"><verse number="1" style="v" sid="EXO 24:1"/>And he said to Moses, “Come up to Yahweh—you and Aaron, Nadab and Abihu and seventy from the elders of Israel, and you shall bow down from a distance.
@@ -1734,7 +1734,7 @@ And he rose early in the morning and built an altar at the bottom of the mountai
 
 <ms style="ts"/>
 
-<verse eid="EXO 24:18"/><verse eid="EXO 24:18"/></para>
+<verse eid="EXO 24:18"/></para>
   <chapter eid="EXO 24"/>
   <chapter number="25" style="c" sid="EXO 25"/>
   <para style="p"><verse number="1" style="v" sid="EXO 25:1"/>And Yahweh spoke to Moses, saying,
@@ -1771,15 +1771,15 @@ And he rose early in the morning and built an altar at the bottom of the mountai
 <ms style="ts"/>
 <verse eid="EXO 25:16"/></para>
   <para style="p"><verse number="17" style="v" sid="EXO 25:17"/>And you shall make an atonement lid of pure gold—its length: two cubits and a half; and its width: a cubit and a half.
-<verse eid="EXO 25:17"/><verse number="18" style="v" sid="EXO 25:18"/>And you shall make two gold cherubim. You shall make them of hammered work from the two ends of the atonement lid.
+<verse eid="EXO 25:17"/><verse number="18" style="v" sid="EXO 25:18"/>And you shall make two gold cherubs. You shall make them of hammered work from the two ends of the atonement lid.
 
 <ms style="ts"/>
-<verse eid="EXO 25:18"/><verse number="19" style="v" sid="EXO 25:19"/>And make one cherub from this end and one cherub from this end. You shall make the cherubim from the atonement lid on its two ends.
-<verse eid="EXO 25:19"/><verse number="20" style="v" sid="EXO 25:20"/>And the cherubim shall be spreading out their wings upward, covering over the atonement lid with their wings and their faces {shall} each {be} toward his brother. The faces of the cherubim shall be toward the atonement lid.
+<verse eid="EXO 25:18"/><verse number="19" style="v" sid="EXO 25:19"/>And make one cherub from this end and one cherub from this end. You shall make the cherubs from the atonement lid on its two ends.
+<verse eid="EXO 25:19"/><verse number="20" style="v" sid="EXO 25:20"/>And the cherubs shall be spreading out their wings upward, covering over the atonement lid with their wings and their faces {shall} each {be} toward his brother. The faces of the cherubs shall be toward the atonement lid.
 
 <ms style="ts"/>
 <verse eid="EXO 25:20"/><verse number="21" style="v" sid="EXO 25:21"/>And you shall put the atonement lid on the box from above, and you shall put into the box the Testimony that I give to you.
-<verse eid="EXO 25:21"/><verse number="22" style="v" sid="EXO 25:22"/>And I will meet with you there and I will speak with you all that I will command you for the sons of Israel from above the atonement lid, from between the two cherubim which are above the Box of the Testimony.
+<verse eid="EXO 25:21"/><verse number="22" style="v" sid="EXO 25:22"/>And I will meet with you there and I will speak with you all that I will command you for the sons of Israel from above the atonement lid, from between the two cherubs which are above the Box of the Testimony.
 
 <ms style="ts"/>
 <verse eid="EXO 25:22"/></para>
@@ -1820,10 +1820,10 @@ And he rose early in the morning and built an altar at the bottom of the mountai
 
 <ms style="ts"/>
 
-<verse eid="EXO 25:40"/><verse eid="EXO 25:40"/></para>
+<verse eid="EXO 25:40"/></para>
   <chapter eid="EXO 25"/>
   <chapter number="26" style="c" sid="EXO 26"/>
-  <para style="p"><verse number="1" style="v" sid="EXO 26:1"/>And the Dwelling you shall make with ten curtains: twisted fine linen and blue and purple and worm of scarlet; cherubim—the work of a skilled craftsman you shall make them.
+  <para style="p"><verse number="1" style="v" sid="EXO 26:1"/>And the Dwelling you shall make with ten curtains: twisted fine linen and blue and purple and worm of scarlet; cherubs—the work of a skilled craftsman you shall make them.
 <verse eid="EXO 26:1"/><verse number="2" style="v" sid="EXO 26:2"/>The length of each curtain shall be 28 cubits and the width of each curtain shall be 4 cubits. All of the curtains shall be one size.
 <verse eid="EXO 26:2"/><verse number="3" style="v" sid="EXO 26:3"/>Five of the curtains shall be joined each to another and five of the curtains joined each to another.
 
@@ -1879,7 +1879,7 @@ And he rose early in the morning and built an altar at the bottom of the mountai
 
 <ms style="ts"/>
 <verse eid="EXO 26:30"/></para>
-  <para style="p"><verse number="31" style="v" sid="EXO 26:31"/>And you shall make a curtain of blue, and purple and worm of scarlet and of twisted fine linen; the work of a skillful workman, he shall make cherubim.
+  <para style="p"><verse number="31" style="v" sid="EXO 26:31"/>And you shall make a curtain of blue, and purple and worm of scarlet and of twisted fine linen; the work of a skillful workman, he shall make cherubs.
 <verse eid="EXO 26:31"/><verse number="32" style="v" sid="EXO 26:32"/>And you shall hang it on four pillars of acacia wood covered with gold and their hooks of gold on four bases of silver.
 <verse eid="EXO 26:32"/><verse number="33" style="v" sid="EXO 26:33"/>And you shall hang the curtain under the clasps, and you shall bring the Box of the Testimony there inside the curtain. And the curtain shall separate for you between the Holy and the Holy of Holies.
 
@@ -1894,7 +1894,7 @@ And he rose early in the morning and built an altar at the bottom of the mountai
 
 <ms style="ts"/>
 
-<verse eid="EXO 26:37"/><verse eid="EXO 26:37"/></para>
+<verse eid="EXO 26:37"/></para>
   <chapter eid="EXO 26"/>
   <chapter number="27" style="c" sid="EXO 27"/>
   <para style="p"><verse number="1" style="v" sid="EXO 27:1"/>And you shall make the altar of wood of acacias, five cubits long and five cubits wide. The altar shall be square and three cubits high.
@@ -1939,7 +1939,7 @@ And he rose early in the morning and built an altar at the bottom of the mountai
 
 <ms style="ts"/>
 
-<verse eid="EXO 27:21"/><verse eid="EXO 27:21"/></para>
+<verse eid="EXO 27:21"/></para>
   <chapter eid="EXO 27"/>
   <chapter number="28" style="c" sid="EXO 28"/>
   <para style="p"><verse number="1" style="v" sid="EXO 28:1"/>And you, bring Aaron your brother, and his sons with him near to you from among the sons of Israel to be priests for me—Aaron and Nadab and Abihu, Eleazar and Ithamar, the sons of Aaron!
@@ -2034,11 +2034,11 @@ You shall make them surrounded with ornamental settings of gold.
 
 <ms style="ts"/>
 </para>
-  <para style="p">This is a statute forever for him and for his offspring after him.
+  <para style="p" vid="EXO 28:43">This is a statute forever for him and for his offspring after him.
 
 <ms style="ts"/>
 
-<verse eid="EXO 28:43"/><verse eid="EXO 28:43"/></para>
+<verse eid="EXO 28:43"/></para>
   <chapter eid="EXO 28"/>
   <chapter number="29" style="c" sid="EXO 29"/>
   <para style="p"><verse number="1" style="v" sid="EXO 29:1"/>And this {is} the thing that you shall do to them to set them apart to be priests to me. Take one bull, a son of the herd, and two unblemished rams
@@ -2140,7 +2140,7 @@ And the priesthood will be to them as a statute forever. And you shall fill the 
 
 <ms style="ts"/>
 
-<verse eid="EXO 29:46"/><verse eid="EXO 29:46"/></para>
+<verse eid="EXO 29:46"/></para>
   <chapter eid="EXO 29"/>
   <chapter number="30" style="c" sid="EXO 30"/>
   <para style="p"><verse number="1" style="v" sid="EXO 30:1"/>And you shall make an altar, a place of burning of incense. You shall make it with wood of acacias,
@@ -2218,7 +2218,7 @@ And the priesthood will be to them as a statute forever. And you shall fill the 
 
 <ms style="ts"/>
 
-<verse eid="EXO 30:38"/><verse eid="EXO 30:38"/></para>
+<verse eid="EXO 30:38"/></para>
   <chapter eid="EXO 30"/>
   <chapter number="31" style="c" sid="EXO 31"/>
   <para style="p"><verse number="1" style="v" sid="EXO 31:1"/>And Yahweh spoke to Moses, saying,
@@ -2259,7 +2259,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 31:18"/><verse eid="EXO 31:18"/></para>
+<verse eid="EXO 31:18"/></para>
   <chapter eid="EXO 31"/>
   <chapter number="32" style="c" sid="EXO 32"/>
   <para style="p"><verse number="1" style="v" sid="EXO 32:1"/>And the people saw that Moses delayed in coming down from the mountain, and the people gathered themselves around Aaron and said to him, “Arise, make gods for us that shall go before our faces, for this Moses, the man who brought us up from the land of Egypt, we do not know what has happened to him.”
@@ -2301,11 +2301,11 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 <verse eid="EXO 32:17"/></para>
   <para style="p"><verse number="18" style="v" sid="EXO 32:18"/>But Moses said,
 </para>
-  <para style="q1">“There is not the sound of singing of strength,
+  <para style="q1" vid="EXO 32:18">“There is not the sound of singing of strength,
 </para>
-  <para style="q1">and there is not the sound of singing of weakness,
+  <para style="q1" vid="EXO 32:18">and there is not the sound of singing of weakness,
 </para>
-  <para style="q1">the sound of singing I am hearing.”
+  <para style="q1" vid="EXO 32:18">the sound of singing I am hearing.”
 
 <ms style="ts"/>
 <verse eid="EXO 32:18"/></para>
@@ -2347,7 +2347,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 32:35"/><verse eid="EXO 32:35"/></para>
+<verse eid="EXO 32:35"/></para>
   <chapter eid="EXO 32"/>
   <chapter number="33" style="c" sid="EXO 33"/>
   <para style="p"><verse number="1" style="v" sid="EXO 33:1"/>And Yahweh spoke to Moses, “Go, arise from here, you and the people whom you have brought up from the land of Egypt to the land which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your seed.’
@@ -2402,7 +2402,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 33:23"/><verse eid="EXO 33:23"/></para>
+<verse eid="EXO 33:23"/></para>
   <chapter eid="EXO 33"/>
   <chapter number="34" style="c" sid="EXO 34"/>
   <para style="p"><verse number="1" style="v" sid="EXO 34:1"/>And Yahweh said to Moses, “Carve for yourself two tablets of stone like the first. And I will write on the tablets the words that were on the first tablets that you broke.
@@ -2469,7 +2469,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
   <para style="p"><verse number="26" style="v" sid="EXO 34:26"/>You shall bring the first of the first fruits of your ground to the house of Yahweh your God.
 
 </para>
-  <para style="p">You shall not boil a young goat in the milk of its mother.”
+  <para style="p" vid="EXO 34:26">You shall not boil a young goat in the milk of its mother.”
 
 <ms style="ts"/>
 <verse eid="EXO 34:26"/></para>
@@ -2493,7 +2493,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 34:35"/><verse eid="EXO 34:35"/></para>
+<verse eid="EXO 34:35"/></para>
   <chapter eid="EXO 34"/>
   <chapter number="35" style="c" sid="EXO 35"/>
   <para style="p"><verse number="1" style="v" sid="EXO 35:1"/>And Moses assembled all the congregation of the sons of Israel and said to them, “These are the things that Yahweh has commanded you to do.
@@ -2558,7 +2558,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 35:35"/><verse eid="EXO 35:35"/></para>
+<verse eid="EXO 35:35"/></para>
   <chapter eid="EXO 35"/>
   <chapter number="36" style="c" sid="EXO 36"/>
   <para style="p"><verse number="1" style="v" sid="EXO 36:1"/>And Bezalel and Oholiab and every man skilled of heart to whom Yahweh has given skill and understanding to know {how} to do all of the work of the service of the Holy Place shall do according to all that Yahweh has commanded.”
@@ -2576,7 +2576,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 <verse eid="EXO 36:7"/></para>
-  <para style="p"><verse number="8" style="v" sid="EXO 36:8"/>And every skilled of heart among the doers of the work made the Dwelling with ten curtains: twisted fine linen and blue and purple and worm of scarlet; cherubim—the work of a skilled craftsman he made them.
+  <para style="p"><verse number="8" style="v" sid="EXO 36:8"/>And every skilled of heart among the doers of the work made the Dwelling with ten curtains: twisted fine linen and blue and purple and worm of scarlet; cherubs—the work of a skilled craftsman he made them.
 <verse eid="EXO 36:8"/><verse number="9" style="v" sid="EXO 36:9"/>The length of each curtain {was} 28 cubits and the width of each curtain {was} four cubits. All of the curtains {were} one size.
 <verse eid="EXO 36:9"/><verse number="10" style="v" sid="EXO 36:10"/>And five of the curtains were joined each to another, and five of the curtains were joined each to another.
 
@@ -2625,7 +2625,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 <verse eid="EXO 36:34"/></para>
-  <para style="p"><verse number="35" style="v" sid="EXO 36:35"/>And he made a curtain of blue and purple and worm of scarlet and of twisted fine linen. He made cherubim, the work of a skillful workman.
+  <para style="p"><verse number="35" style="v" sid="EXO 36:35"/>And he made a curtain of blue and purple and worm of scarlet and of twisted fine linen. He made cherubs, the work of a skillful workman.
 <verse eid="EXO 36:35"/><verse number="36" style="v" sid="EXO 36:36"/>And he made for it four pillars of acacia wood, and he covered them {with} gold and their hooks with gold. And he cast for them four bases of silver.
 
 <ms style="ts"/>
@@ -2634,7 +2634,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 36:38"/><verse eid="EXO 36:38"/></para>
+<verse eid="EXO 36:38"/></para>
   <chapter eid="EXO 36"/>
   <chapter number="37" style="c" sid="EXO 37"/>
   <para style="p"><verse number="1" style="v" sid="EXO 37:1"/>And Bezalel made the box of wood of acacias—its length {was} two cubits and a half, and its width {was} one cubit and a half, and its height {was} one cubit and a half.
@@ -2647,9 +2647,9 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 <verse eid="EXO 37:5"/><verse number="6" style="v" sid="EXO 37:6"/>And he made an atonement lid of pure gold. Its length {was} two cubits and a half, and its width {was} a cubit and a half.
 
 <ms style="ts"/>
-<verse eid="EXO 37:6"/><verse number="7" style="v" sid="EXO 37:7"/>And he made two gold cherubim; he made them of hammered work from the two ends of the atonement lid.
-<verse eid="EXO 37:7"/><verse number="8" style="v" sid="EXO 37:8"/>One cherub {was} from this end and one cherub from this end. He made the cherubim from the atonement lid from its two ends.
-<verse eid="EXO 37:8"/><verse number="9" style="v" sid="EXO 37:9"/>And the cherubim were spreading out their wings upward, covering over the atonement lid with their wings, and their faces {were} each toward his brother. The faces of the cherubim were toward the atonement lid.
+<verse eid="EXO 37:6"/><verse number="7" style="v" sid="EXO 37:7"/>And he made two gold cherubs; he made them of hammered work from the two ends of the atonement lid.
+<verse eid="EXO 37:7"/><verse number="8" style="v" sid="EXO 37:8"/>One cherub {was} from this end and one cherub from this end. He made the cherubs from the atonement lid from its two ends.
+<verse eid="EXO 37:8"/><verse number="9" style="v" sid="EXO 37:9"/>And the cherubs were spreading out their wings upward, covering over the atonement lid with their wings, and their faces {were} each toward his brother. The faces of the cherubs were toward the atonement lid.
 
 <ms style="ts"/>
 <verse eid="EXO 37:9"/></para>
@@ -2692,7 +2692,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 37:29"/><verse eid="EXO 37:29"/></para>
+<verse eid="EXO 37:29"/></para>
   <chapter eid="EXO 37"/>
   <chapter number="38" style="c" sid="EXO 38"/>
   <para style="p"><verse number="1" style="v" sid="EXO 38:1"/>And he made the altar of the burnt offering of wood of acacias. Its length {was} five cubits and its breadth {was} five cubits—a square—and its height {was} three cubits.
@@ -2755,7 +2755,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 38:31"/><verse eid="EXO 38:31"/></para>
+<verse eid="EXO 38:31"/></para>
   <chapter eid="EXO 38"/>
   <chapter number="39" style="c" sid="EXO 39"/>
   <para style="p"><verse number="1" style="v" sid="EXO 39:1"/>And from the blue and the purple and the worm of scarlet they made finely-woven clothes for service in the Holy Place. And they made the clothes of holiness which {were} for Aaron, just as Yahweh had commanded Moses.
@@ -2848,7 +2848,7 @@ The profaner of it shall surely be put to death, for every worker of work on it,
 
 <ms style="ts"/>
 
-<verse eid="EXO 39:43"/><verse eid="EXO 39:43"/></para>
+<verse eid="EXO 39:43"/></para>
   <chapter eid="EXO 39"/>
   <chapter number="40" style="c" sid="EXO 40"/>
   <para style="p"><verse number="1" style="v" sid="EXO 40:1"/>And Yahweh spoke to Moses, saying,

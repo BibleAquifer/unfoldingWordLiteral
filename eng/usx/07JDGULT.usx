@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JDG" style="id">EN_ULT en_English_ltr Mon Jun 17 2024 14:06:48 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -30,7 +30,7 @@
 <ms style="ts"/>
 <verse eid="JDG 1:7"/></para>
   <para style="p"><verse number="8" style="v" sid="JDG 1:8"/>And the sons of Judah fought with Jerusalem and captured it. And they struck it to the mouth of the sword, and they sent the city into fire.
-<verse eid="JDG 1:8"/><verse number="9" style="v" sid="JDG 1:9"/>And afterward the sons of Judah went down to fight with the Canaanite living {in} the hill country and the Negev and the Shephelah.
+<verse eid="JDG 1:8"/><verse number="9" style="v" sid="JDG 1:9"/>And afterward the sons of Judah went down to fight with the Canaanite living {in} the hill country and the Negeb and the Shephelah.
 <verse eid="JDG 1:9"/><verse number="10" style="v" sid="JDG 1:10"/>Then Judah went down to the Canaanite living in Hebron. (Now the name of Hebron previously {was} Kiriath Arba.) And they struck Sheshai and Ahiman and Talmai.
 
 <ms style="ts"/>
@@ -41,11 +41,11 @@
 
 <ms style="ts"/>
 <verse eid="JDG 1:13"/><verse number="14" style="v" sid="JDG 1:14"/>Now it happened, in the coming of her, that she persuaded him to request the field from her father. And she descended from upon the donkey, and Caleb said to her, “What for you?”
-<verse eid="JDG 1:14"/><verse number="15" style="v" sid="JDG 1:15"/>And she said to him, “Give to me a blessing. Since you have given me land of the Negev, you shall also give to me springs of waters.” So Caleb gave to her the upper springs and the lower springs.
+<verse eid="JDG 1:14"/><verse number="15" style="v" sid="JDG 1:15"/>And she said to him, “Give to me a blessing. Since you have given me land of the Negeb, you shall also give to me springs of waters.” So Caleb gave to her the upper springs and the lower springs.
 
 <ms style="ts"/>
 <verse eid="JDG 1:15"/></para>
-  <para style="p"><verse number="16" style="v" sid="JDG 1:16"/>Now the sons of the Kenite, the father-in-law of Moses, went up from the City of Palms with the sons of Judah {to} the wilderness of Judah that {is} in the Negev of Arad. And he went and he dwelled with the people.
+  <para style="p"><verse number="16" style="v" sid="JDG 1:16"/>Now the sons of the Kenite, the father-in-law of Moses, went up from the City of Palms with the sons of Judah {to} the wilderness of Judah that {is} in the Negeb of Arad. And he went and he dwelled with the people.
 <verse eid="JDG 1:16"/><verse number="17" style="v" sid="JDG 1:17"/>Then Judah went with Simeon his brother, and they struck the Canaanite dwelling {in} Zephath. And they devoted it, and they called the name of the city Hormah.
 
 <ms style="ts"/>
@@ -96,7 +96,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 1:36"/><verse eid="JDG 1:36"/></para>
+<verse eid="JDG 1:36"/></para>
   <chapter eid="JDG 1"/>
   <chapter number="2" style="c" sid="JDG 2"/>
   <para style="p"><verse number="1" style="v" sid="JDG 2:1"/>And the angel of Yahweh went up from Gilgal to Bochim and said, “I am bringing you up from Egypt, and I have brought you to the land that I swore to your fathers. And I have said, ‘I will forever not break my covenant with you.
@@ -144,7 +144,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 2:23"/><verse eid="JDG 2:23"/></para>
+<verse eid="JDG 2:23"/></para>
   <chapter eid="JDG 2"/>
   <chapter number="3" style="c" sid="JDG 3"/>
   <para style="p"><verse number="1" style="v" sid="JDG 3:1"/>Now those nations that Yahweh left for the testing of Israel by them, all who had not known any of the wars of Canaan,
@@ -211,7 +211,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 3:31"/><verse eid="JDG 3:31"/></para>
+<verse eid="JDG 3:31"/></para>
   <chapter eid="JDG 3"/>
   <chapter number="4" style="c" sid="JDG 4"/>
   <para style="p"><verse number="1" style="v" sid="JDG 4:1"/>And the sons of Israel resumed to do evil in the eyes of Yahweh after Ehud died.
@@ -270,245 +270,245 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 4:24"/><verse eid="JDG 4:24"/></para>
+<verse eid="JDG 4:24"/></para>
   <chapter eid="JDG 4"/>
   <chapter number="5" style="c" sid="JDG 5"/>
   <para style="p"><verse number="1" style="v" sid="JDG 5:1"/>So Deborah and Barak, the son of Abinoam, sang on that day, saying:
 <verse eid="JDG 5:1"/></para>
   <para style="q1"><verse number="2" style="v" sid="JDG 5:2"/>“For the loosening of long hair in Israel,
 </para>
-  <para style="q2">for the volunteering of the people, bless Yahweh!
+  <para style="q2" vid="JDG 5:2">for the volunteering of the people, bless Yahweh!
 
 <ms style="ts"/>
 <verse eid="JDG 5:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JDG 5:3"/>Listen, kings! Give ear, rulers! I, to Yahweh, {even} I, may I sing.
 </para>
-  <para style="q2">I will make music to Yahweh, the God of Israel.
+  <para style="q2" vid="JDG 5:3">I will make music to Yahweh, the God of Israel.
 <verse eid="JDG 5:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="JDG 5:4"/>Yahweh, at your going forth from Seir,
 </para>
-  <para style="q2">at your marching from the field of Edom,
+  <para style="q2" vid="JDG 5:4">at your marching from the field of Edom,
 </para>
-  <para style="q1">the earth shook, the heavens also dripped,
+  <para style="q1" vid="JDG 5:4">the earth shook, the heavens also dripped,
 </para>
-  <para style="q2">the dark clouds also dripped water.
+  <para style="q2" vid="JDG 5:4">the dark clouds also dripped water.
 
 <ms style="ts"/>
 <verse eid="JDG 5:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="JDG 5:5"/>The mountains flowed from the face of Yahweh,
 </para>
-  <para style="q2">this {is} Sinai from the face of Yahweh,
+  <para style="q2" vid="JDG 5:5">this {is} Sinai from the face of Yahweh,
 </para>
-  <para style="q2">the God of Israel.
+  <para style="q2" vid="JDG 5:5">the God of Israel.
 <verse eid="JDG 5:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="JDG 5:6"/>In the days of Shamgar, the son of Anath,
 </para>
-  <para style="q2">in the days of Jael,
+  <para style="q2" vid="JDG 5:6">in the days of Jael,
 </para>
-  <para style="q1">roads ceased,
+  <para style="q1" vid="JDG 5:6">roads ceased,
 </para>
-  <para style="q2">and walkers of paths walked crooked roads.
+  <para style="q2" vid="JDG 5:6">and walkers of paths walked crooked roads.
 
 <ms style="ts"/>
 <verse eid="JDG 5:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="JDG 5:7"/>The peasantry ceased in Israel,
 </para>
-  <para style="q2">they ceased,
+  <para style="q2" vid="JDG 5:7">they ceased,
 </para>
-  <para style="q1">until when I, Deborah, arose,
+  <para style="q1" vid="JDG 5:7">until when I, Deborah, arose,
 </para>
-  <para style="q2">when I arose, a mother in Israel!
+  <para style="q2" vid="JDG 5:7">when I arose, a mother in Israel!
 <verse eid="JDG 5:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="JDG 5:8"/>He chose new gods,
 </para>
-  <para style="q2">then fighting {was} {at} the gates;
+  <para style="q2" vid="JDG 5:8">then fighting {was} {at} the gates;
 </para>
-  <para style="q1">was a shield seen, or a spear,
+  <para style="q1" vid="JDG 5:8">was a shield seen, or a spear,
 </para>
-  <para style="q2">among 40, 000 in Israel?
+  <para style="q2" vid="JDG 5:8">among 40, 000 in Israel?
 
 <ms style="ts"/>
 <verse eid="JDG 5:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JDG 5:9"/>My heart is to the commanders of Israel,
 </para>
-  <para style="q2">the ones volunteering themselves among the people.
+  <para style="q2" vid="JDG 5:9">the ones volunteering themselves among the people.
 </para>
-  <para style="q2">Bless Yahweh!
+  <para style="q2" vid="JDG 5:9">Bless Yahweh!
 <verse eid="JDG 5:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="JDG 5:10"/>Riders of white donkeys, sitters on carpet,
 </para>
-  <para style="q2">walkers on the road, consider!
+  <para style="q2" vid="JDG 5:10">walkers on the road, consider!
 
 <ms style="ts"/>
 <verse eid="JDG 5:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="JDG 5:11"/>From the voice of the singers at the watering places,
 </para>
-  <para style="q2">there they celebrate the righteous acts of Yahweh,
+  <para style="q2" vid="JDG 5:11">there they celebrate the righteous acts of Yahweh,
 </para>
-  <para style="q1">the righteous acts of his peasantry in Israel.
+  <para style="q1" vid="JDG 5:11">the righteous acts of his peasantry in Israel.
 </para>
-  <para style="q2">Then the people of Yahweh went down to the gates.
+  <para style="q2" vid="JDG 5:11">Then the people of Yahweh went down to the gates.
 
 <ms style="ts"/>
 <verse eid="JDG 5:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="JDG 5:12"/>Awake, awake, Deborah!
 </para>
-  <para style="q2">Awake, awake, speak a song!
+  <para style="q2" vid="JDG 5:12">Awake, awake, speak a song!
 </para>
-  <para style="q1">Arise, Barak,
+  <para style="q1" vid="JDG 5:12">Arise, Barak,
 </para>
-  <para style="q2">and take captive your captivity, son of Abinoam.
+  <para style="q2" vid="JDG 5:12">and take captive your captivity, son of Abinoam.
 <verse eid="JDG 5:12"/></para>
   <para style="q1"><verse number="13" style="v" sid="JDG 5:13"/>Then the remnant came down to the nobles,
 </para>
-  <para style="q2">the people of Yahweh came down to me against the warriors.
+  <para style="q2" vid="JDG 5:13">the people of Yahweh came down to me against the warriors.
 
 <ms style="ts"/>
 <verse eid="JDG 5:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="JDG 5:14"/>From Ephraim, their root {is} in Amalek;
 </para>
-  <para style="q2">after you, Benjamin, with your peoples;
+  <para style="q2" vid="JDG 5:14">after you, Benjamin, with your peoples;
 </para>
-  <para style="q1">from Machir, commanders came down;
+  <para style="q1" vid="JDG 5:14">from Machir, commanders came down;
 </para>
-  <para style="q2">and from Zebulun, the ones holding the scepter of a scribe.
+  <para style="q2" vid="JDG 5:14">and from Zebulun, the ones holding the scepter of a scribe.
 
 <ms style="ts"/>
 <verse eid="JDG 5:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="JDG 5:15"/>And my commanders in Issachar {were} with Deborah,
 </para>
-  <para style="q2">and {as} Issachar, so Barak;
+  <para style="q2" vid="JDG 5:15">and {as} Issachar, so Barak;
 </para>
-  <para style="q2">into a valley he was sent at his feet.
+  <para style="q2" vid="JDG 5:15">into a valley he was sent at his feet.
 </para>
-  <para style="q1">Among the divisions of Reuben,
+  <para style="q1" vid="JDG 5:15">Among the divisions of Reuben,
 </para>
-  <para style="q2">great {were} the searchings of the heart.
+  <para style="q2" vid="JDG 5:15">great {were} the searchings of the heart.
 
 <ms style="ts"/>
 <verse eid="JDG 5:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="JDG 5:16"/>Why did you sit among the sheepfolds?
 </para>
-  <para style="q2">To hear the piping for the flocks?
+  <para style="q2" vid="JDG 5:16">To hear the piping for the flocks?
 </para>
-  <para style="q1">As for the divisions of Reuben,
+  <para style="q1" vid="JDG 5:16">As for the divisions of Reuben,
 </para>
-  <para style="q2">great {were} the searchings of the heart.
+  <para style="q2" vid="JDG 5:16">great {were} the searchings of the heart.
 
 <ms style="ts"/>
 <verse eid="JDG 5:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="JDG 5:17"/>Gilead stayed beyond the Jordan,
 </para>
-  <para style="q2">and Dan, why did he sojourn {on} ships?
+  <para style="q2" vid="JDG 5:17">and Dan, why did he sojourn {on} ships?
 </para>
-  <para style="q1">Asher remained at the coast of the seas,
+  <para style="q1" vid="JDG 5:17">Asher remained at the coast of the seas,
 </para>
-  <para style="q2">and he stayed among his harbors.
+  <para style="q2" vid="JDG 5:17">and he stayed among his harbors.
 <verse eid="JDG 5:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="JDG 5:18"/>Zebulun {was} a people reproaching its soul unto death,
 </para>
-  <para style="q2">also Naphtali on the heights of the field.
+  <para style="q2" vid="JDG 5:18">also Naphtali on the heights of the field.
 
 <ms style="ts"/>
 <verse eid="JDG 5:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="JDG 5:19"/>Kings came, they fought;
 </para>
-  <para style="q2">then the kings of Canaan fought at Taanach,
+  <para style="q2" vid="JDG 5:19">then the kings of Canaan fought at Taanach,
 </para>
-  <para style="q2">by the waters of Megiddo.
+  <para style="q2" vid="JDG 5:19">by the waters of Megiddo.
 </para>
-  <para style="q1">Plunder of silver they did not take.
+  <para style="q1" vid="JDG 5:19">Plunder of silver they did not take.
 <verse eid="JDG 5:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="JDG 5:20"/>From the heavens the stars fought,
 </para>
-  <para style="q2">from their courses they fought against Sisera.
+  <para style="q2" vid="JDG 5:20">from their courses they fought against Sisera.
 
 <ms style="ts"/>
 <verse eid="JDG 5:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="JDG 5:21"/>The wadi of Kishon swept them away,
 </para>
-  <para style="q2">the wadi of antiquity, the wadi of Kishon.
+  <para style="q2" vid="JDG 5:21">the wadi of antiquity, the wadi of Kishon.
 </para>
-  <para style="q1">March on, my soul, {in} strength!
+  <para style="q1" vid="JDG 5:21">March on, my soul, {in} strength!
 <verse eid="JDG 5:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="JDG 5:22"/>Then the hooves of a horse beat,
 </para>
-  <para style="q2">from the galloping, the galloping of his mighty {ones}.
+  <para style="q2" vid="JDG 5:22">from the galloping, the galloping of his mighty {ones}.
 
 <ms style="ts"/>
 <verse eid="JDG 5:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="JDG 5:23"/>‘Curse Meroz!’ said the angel of Yahweh.
 </para>
-  <para style="q2">‘Cursing, you shall curse the dwellers of it,
+  <para style="q2" vid="JDG 5:23">‘Cursing, you shall curse the dwellers of it,
 </para>
-  <para style="q1">because they did not come to the aid of Yahweh,
+  <para style="q1" vid="JDG 5:23">because they did not come to the aid of Yahweh,
 </para>
-  <para style="q2">to the aid of Yahweh against the warriors.’
+  <para style="q2" vid="JDG 5:23">to the aid of Yahweh against the warriors.’
 
 <ms style="ts"/>
 <verse eid="JDG 5:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="JDG 5:24"/>Jael, the wife of Heber the Kenite, is blessed from women,
 </para>
-  <para style="q2">from women in the tent she is blessed.
+  <para style="q2" vid="JDG 5:24">from women in the tent she is blessed.
 <verse eid="JDG 5:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="JDG 5:25"/>Water he requested, milk she gave;
 </para>
-  <para style="q2">in a bowl of nobles she brought curdled milk.
+  <para style="q2" vid="JDG 5:25">in a bowl of nobles she brought curdled milk.
 
 <ms style="ts"/>
 <verse eid="JDG 5:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="JDG 5:26"/>They reached out, her hand to the peg
 </para>
-  <para style="q2">and her right hand to a hammer of workmen.
+  <para style="q2" vid="JDG 5:26">and her right hand to a hammer of workmen.
 </para>
-  <para style="q1">And she struck Sisera, she crushed his head,
+  <para style="q1" vid="JDG 5:26">And she struck Sisera, she crushed his head,
 </para>
-  <para style="q2">and she shattered and pierced his temple.
+  <para style="q2" vid="JDG 5:26">and she shattered and pierced his temple.
 <verse eid="JDG 5:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="JDG 5:27"/>Between her feet, he bowed, he fell, he lay down.
 </para>
-  <para style="q2">Between her feet he bowed, he fell.
+  <para style="q2" vid="JDG 5:27">Between her feet he bowed, he fell.
 </para>
-  <para style="q1">At where he bowed, there he fell, destroyed.
+  <para style="q1" vid="JDG 5:27">At where he bowed, there he fell, destroyed.
 
 <ms style="ts"/>
 <verse eid="JDG 5:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="JDG 5:28"/>Through the window she looked and wailed,
 </para>
-  <para style="q2">the mother of Sisera, through the lattice,
+  <para style="q2" vid="JDG 5:28">the mother of Sisera, through the lattice,
 </para>
-  <para style="q1">‘Why has his chariot delayed to come?
+  <para style="q1" vid="JDG 5:28">‘Why has his chariot delayed to come?
 </para>
-  <para style="q2">Why do the hoofbeats of his chariots tarry?’
+  <para style="q2" vid="JDG 5:28">Why do the hoofbeats of his chariots tarry?’
 
 <ms style="ts"/>
 <verse eid="JDG 5:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="JDG 5:29"/>The wise of her princesses answered,
 </para>
-  <para style="q2">she also returned her answer to herself:
+  <para style="q2" vid="JDG 5:29">she also returned her answer to herself:
 <verse eid="JDG 5:29"/></para>
   <para style="q1"><verse number="30" style="v" sid="JDG 5:30"/>‘Are they not finding, {are} they {not} dividing spoil,
 </para>
-  <para style="q2">a maiden, two maidens to the head of a warrior,
+  <para style="q2" vid="JDG 5:30">a maiden, two maidens to the head of a warrior,
 </para>
-  <para style="q1">spoil of dyed fabrics for Sisera,
+  <para style="q1" vid="JDG 5:30">spoil of dyed fabrics for Sisera,
 </para>
-  <para style="q2">spoil of dyed fabrics {and} embroidery,
+  <para style="q2" vid="JDG 5:30">spoil of dyed fabrics {and} embroidery,
 </para>
-  <para style="q2">dyed fabric {and} two embroideries for the necks of the spoil?’
+  <para style="q2" vid="JDG 5:30">dyed fabric {and} two embroideries for the necks of the spoil?’
 
 <ms style="ts"/>
 <verse eid="JDG 5:30"/></para>
   <para style="q1"><verse number="31" style="v" sid="JDG 5:31"/>So may all of your enemies perish, Yahweh!
 </para>
-  <para style="q2">But {may} the lovers of him {be} like the going forth of the sun in its strength.”
+  <para style="q2" vid="JDG 5:31">But {may} the lovers of him {be} like the going forth of the sun in its strength.”
 
 </para>
-  <para style="p">Then the land rested 40 years.
+  <para style="p" vid="JDG 5:31">Then the land rested 40 years.
 
 <ms style="ts"/>
 
-<verse eid="JDG 5:31"/><verse eid="JDG 5:31"/></para>
+<verse eid="JDG 5:31"/></para>
   <chapter eid="JDG 5"/>
   <chapter number="6" style="c" sid="JDG 6"/>
   <para style="p"><verse number="1" style="v" sid="JDG 6:1"/>And the sons of Israel did evil in the eyes of Yahweh, so Yahweh gave them into the hand of Midian seven years.
@@ -603,7 +603,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 6:40"/><verse eid="JDG 6:40"/></para>
+<verse eid="JDG 6:40"/></para>
   <chapter eid="JDG 6"/>
   <chapter number="7" style="c" sid="JDG 7"/>
   <para style="p"><verse number="1" style="v" sid="JDG 7:1"/>Then Jerubbaal, that {is}, Gideon, arose early, and all of the people who {were} with him, and they encamped beside the spring of Harod. Now the camp of Midian was northward from him, toward the hill of Moreh in the valley.
@@ -666,7 +666,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 7:25"/><verse eid="JDG 7:25"/></para>
+<verse eid="JDG 7:25"/></para>
   <chapter eid="JDG 7"/>
   <chapter number="8" style="c" sid="JDG 8"/>
   <para style="p"><verse number="1" style="v" sid="JDG 8:1"/>And the men of Ephraim said to him, “What {is} this thing you have done to us, not calling to us when you went to fight against Midian?” And they contended with him in strength.
@@ -750,7 +750,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 8:35"/><verse eid="JDG 8:35"/></para>
+<verse eid="JDG 8:35"/></para>
   <chapter eid="JDG 8"/>
   <chapter number="9" style="c" sid="JDG 9"/>
   <para style="p"><verse number="1" style="v" sid="JDG 9:1"/>Now Abimelech, the son of Jerubbaal, went to Shechem to the brothers of his mother, and he spoke to them and to all of the clan of the house of the father of his mother, saying,
@@ -869,7 +869,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 9:57"/><verse eid="JDG 9:57"/></para>
+<verse eid="JDG 9:57"/></para>
   <chapter eid="JDG 9"/>
   <chapter number="10" style="c" sid="JDG 10"/>
   <para style="p"><verse number="1" style="v" sid="JDG 10:1"/>Now after Abimelech, Tola, the son of Puah, the son of Dodo, a man of Issachar, arose to save Israel. And he {was} dwelling in Shamir, in the hill country of Ephraim.
@@ -911,7 +911,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 10:18"/><verse eid="JDG 10:18"/></para>
+<verse eid="JDG 10:18"/></para>
   <chapter eid="JDG 10"/>
   <chapter number="11" style="c" sid="JDG 11"/>
   <para style="p"><verse number="1" style="v" sid="JDG 11:1"/>Now Jephthah the Gileadite was a warrior of valor, but he {was} the son of a whoring woman. Now Gilead had begotten Jephthah.
@@ -991,7 +991,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 11:40"/><verse eid="JDG 11:40"/></para>
+<verse eid="JDG 11:40"/></para>
   <chapter eid="JDG 11"/>
   <chapter number="12" style="c" sid="JDG 12"/>
   <para style="p"><verse number="1" style="v" sid="JDG 12:1"/>And a man of Ephraim was summoned, and he crossed over northward. And they said to Jephthah, “Why did you cross over to fight with the sons of Ammon but did not call us to go with you? We will burn your house over you with fire.”
@@ -1029,7 +1029,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 12:15"/><verse eid="JDG 12:15"/></para>
+<verse eid="JDG 12:15"/></para>
   <chapter eid="JDG 12"/>
   <chapter number="13" style="c" sid="JDG 13"/>
   <para style="p"><verse number="1" style="v" sid="JDG 13:1"/>Then the sons of Israel resumed to do evil in the eyes of Yahweh, so Yahweh gave them into the hand of the Philistines 40 years.
@@ -1092,7 +1092,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 13:25"/><verse eid="JDG 13:25"/></para>
+<verse eid="JDG 13:25"/></para>
   <chapter eid="JDG 13"/>
   <chapter number="14" style="c" sid="JDG 14"/>
   <para style="p"><verse number="1" style="v" sid="JDG 14:1"/>And Samson went down to Timnah, and he saw a woman in Timnah from the daughters of the Philistines.
@@ -1124,12 +1124,12 @@
 <ms style="ts"/>
 <verse eid="JDG 14:13"/><verse number="14" style="v" sid="JDG 14:14"/>So he said to them,
 </para>
-  <para style="q1">“From the eater came forth food,
+  <para style="q1" vid="JDG 14:14">“From the eater came forth food,
 </para>
-  <para style="q2">and from the strong came forth sweet.”
+  <para style="q2" vid="JDG 14:14">and from the strong came forth sweet.”
 
 </para>
-  <para style="m">And they were not able to declare the riddle {for} three days.
+  <para style="m" vid="JDG 14:14">And they were not able to declare the riddle {for} three days.
 
 <ms style="ts"/>
 <verse eid="JDG 14:14"/></para>
@@ -1142,16 +1142,16 @@
 <ms style="ts"/>
 <verse eid="JDG 14:17"/><verse number="18" style="v" sid="JDG 14:18"/>And the men of the city said to him on the seventh day, before the sun came in,
 </para>
-  <para style="q1">“What {is} sweeter than honey?
+  <para style="q1" vid="JDG 14:18">“What {is} sweeter than honey?
 </para>
-  <para style="q2">And what {is} stronger than a lion?”
+  <para style="q2" vid="JDG 14:18">And what {is} stronger than a lion?”
 
 </para>
-  <para style="m">And he said to them,
+  <para style="m" vid="JDG 14:18">And he said to them,
 </para>
-  <para style="q1">“If you had not plowed with my heifer,
+  <para style="q1" vid="JDG 14:18">“If you had not plowed with my heifer,
 </para>
-  <para style="q2">you would not have found my riddle.”
+  <para style="q2" vid="JDG 14:18">you would not have found my riddle.”
 
 <ms style="ts"/>
 <verse eid="JDG 14:18"/></para>
@@ -1160,7 +1160,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 14:20"/><verse eid="JDG 14:20"/></para>
+<verse eid="JDG 14:20"/></para>
   <chapter eid="JDG 14"/>
   <chapter number="15" style="c" sid="JDG 15"/>
   <para style="p"><verse number="1" style="v" sid="JDG 15:1"/>And it happened after some days, in the days of the harvest of wheat, that Samson visited his wife with a kid of goats. And he said, “I will go in to my wife, to the chamber.” But her father would not allow him to go in.
@@ -1198,13 +1198,13 @@
 <verse eid="JDG 15:14"/><verse number="15" style="v" sid="JDG 15:15"/>And he found a fresh jawbone of a donkey, and he stretched out his hand and took it, and with it he struck 1, 000 men.
 <verse eid="JDG 15:15"/><verse number="16" style="v" sid="JDG 15:16"/>And Samson said,
 </para>
-  <para style="q1">“With the jawbone of a donkey,
+  <para style="q1" vid="JDG 15:16">“With the jawbone of a donkey,
 </para>
-  <para style="q2">a heap, two heaps,
+  <para style="q2" vid="JDG 15:16">a heap, two heaps,
 </para>
-  <para style="q1">with the jawbone of a donkey
+  <para style="q1" vid="JDG 15:16">with the jawbone of a donkey
 </para>
-  <para style="q2">I have struck 1, 000 men.”
+  <para style="q2" vid="JDG 15:16">I have struck 1, 000 men.”
 
 <ms style="ts"/>
 <verse eid="JDG 15:16"/></para>
@@ -1217,7 +1217,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 15:20"/><verse eid="JDG 15:20"/></para>
+<verse eid="JDG 15:20"/></para>
   <chapter eid="JDG 15"/>
   <chapter number="16" style="c" sid="JDG 16"/>
   <para style="p"><verse number="1" style="v" sid="JDG 16:1"/>Now Samson went to Gaza and he saw a woman there, a harlot, and he went in to her.
@@ -1291,7 +1291,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 16:31"/><verse eid="JDG 16:31"/></para>
+<verse eid="JDG 16:31"/></para>
   <chapter eid="JDG 16"/>
   <chapter number="17" style="c" sid="JDG 17"/>
   <para style="p"><verse number="1" style="v" sid="JDG 17:1"/>Now there was a man from the hill country of Ephraim, and his name {was} Micah.
@@ -1320,7 +1320,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 17:13"/><verse eid="JDG 17:13"/></para>
+<verse eid="JDG 17:13"/></para>
   <chapter eid="JDG 17"/>
   <chapter number="18" style="c" sid="JDG 18"/>
   <para style="p"><verse number="1" style="v" sid="JDG 18:1"/>In those days a king {was} not in Israel. Now in those days, the tribe of the Danite {was} seeking for itself an inheritance to dwell, for one had not fallen to it up to that day in the midst of the tribes of Israel for an inheritance.
@@ -1389,7 +1389,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 18:31"/><verse eid="JDG 18:31"/></para>
+<verse eid="JDG 18:31"/></para>
   <chapter eid="JDG 18"/>
   <chapter number="19" style="c" sid="JDG 19"/>
   <para style="p"><verse number="1" style="v" sid="JDG 19:1"/>Now it happened in those days, and a king {was} not in Israel, that a man, a Levite, was sojourning in the flanks of the hill country of Ephraim. He took for himself a woman, a concubine, from Bethlehem {in} Judah.
@@ -1457,7 +1457,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 19:30"/><verse eid="JDG 19:30"/></para>
+<verse eid="JDG 19:30"/></para>
   <chapter eid="JDG 19"/>
   <chapter number="20" style="c" sid="JDG 20"/>
   <para style="p"><verse number="1" style="v" sid="JDG 20:1"/>Then all of the sons of Israel came forth, and the congregation was assembled as one man, from Dan and unto Beersheba and the land of Gilead, to Yahweh at Mizpah.
@@ -1564,7 +1564,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JDG 20:48"/><verse eid="JDG 20:48"/></para>
+<verse eid="JDG 20:48"/></para>
   <chapter eid="JDG 20"/>
   <chapter number="21" style="c" sid="JDG 21"/>
   <para style="p"><verse number="1" style="v" sid="JDG 21:1"/>Now a man of Israel had sworn at Mizpah, saying, “A man from us shall not give his daughter to Benjamin for a wife.”

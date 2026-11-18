@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1TI" style="id">EN_ULT en_English_ltr Wed Aug 24 2022 09:31:29 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -21,7 +21,7 @@
   <para style="p"><verse number="2" style="v" sid="1TI 1:2"/>to Timothy, a genuine child in the faith.
 
 </para>
-  <para style="p">Grace, mercy, peace from God the Father and Christ Jesus our Lord.
+  <para style="p" vid="1TI 1:2">Grace, mercy, peace from God the Father and Christ Jesus our Lord.
 
 <ms style="ts"/>
 <verse eid="1TI 1:2"/></para>
@@ -61,7 +61,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1TI 1:20"/><verse eid="1TI 1:20"/></para>
+<verse eid="1TI 1:20"/></para>
   <chapter eid="1TI 1"/>
   <chapter number="2" style="c" sid="1TI 2"/>
   <para style="p"><verse number="1" style="v" sid="1TI 2:1"/>I urge, therefore, first of all, for requests, prayers, intercessions, thanksgivings to be made for all men,
@@ -93,7 +93,7 @@ I am not lying—a teacher of the Gentiles in faith and truth.
 
 <ms style="ts"/>
 
-<verse eid="1TI 2:15"/><verse eid="1TI 2:15"/></para>
+<verse eid="1TI 2:15"/></para>
   <chapter eid="1TI 2"/>
   <chapter number="3" style="c" sid="1TI 3"/>
   <para style="p"><verse number="1" style="v" sid="1TI 3:1"/>This word {is} trustworthy: “If someone aspires to overseership, he desires a good work.”
@@ -131,21 +131,21 @@ but gentle, peaceable, not money-loving,
 <ms style="ts"/>
 <verse eid="1TI 3:15"/><verse number="16" style="v" sid="1TI 3:16"/>And admittedly great is the mystery of godliness:
 </para>
-  <para style="q1">“Who was revealed in flesh,<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">Who,</char> some manuscripts read <char style="fqa" closed="true">God.</char></note>
+  <para style="q1" vid="1TI 3:16">“Who was revealed in flesh,<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">Who,</char> some manuscripts read <char style="fqa" closed="true">God.</char></note>
 </para>
-  <para style="q1">was justified in the Spirit,
+  <para style="q1" vid="1TI 3:16">was justified in the Spirit,
 </para>
-  <para style="q1">was seen by angels,
+  <para style="q1" vid="1TI 3:16">was seen by angels,
 </para>
-  <para style="q1">was proclaimed among the nations,
+  <para style="q1" vid="1TI 3:16">was proclaimed among the nations,
 </para>
-  <para style="q1">was believed in the world,
+  <para style="q1" vid="1TI 3:16">was believed in the world,
 </para>
-  <para style="q1">was taken up in glory.”
+  <para style="q1" vid="1TI 3:16">was taken up in glory.”
 
 <ms style="ts"/>
 
-<verse eid="1TI 3:16"/><verse eid="1TI 3:16"/></para>
+<verse eid="1TI 3:16"/></para>
   <chapter eid="1TI 3"/>
   <chapter number="4" style="c" sid="1TI 4"/>
   <para style="p"><verse number="1" style="v" sid="1TI 4:1"/>Now the Spirit says specifically that in later times some will fall away from the faith, paying attention to deceiving spirits and teachings of demons,
@@ -183,7 +183,7 @@ in faith, in purity.
 
 <ms style="ts"/>
 
-<verse eid="1TI 4:16"/><verse eid="1TI 4:16"/></para>
+<verse eid="1TI 4:16"/></para>
   <chapter eid="1TI 4"/>
   <chapter number="5" style="c" sid="1TI 5"/>
   <para style="p"><verse number="1" style="v" sid="1TI 5:1"/>Do not rebuke an older man, but exhort {him} as a father, younger men as brothers,
@@ -246,7 +246,7 @@ let her aid them, and let the church not be weighed down, so that it may aid the
 
 <ms style="ts"/>
 
-<verse eid="1TI 5:25"/><verse eid="1TI 5:25"/></para>
+<verse eid="1TI 5:25"/></para>
   <chapter eid="1TI 5"/>
   <chapter number="6" style="c" sid="1TI 6"/>
   <para style="p"><verse number="1" style="v" sid="1TI 6:1"/>As many as are slaves under a yoke, let them consider their own masters worthy of all honor, so that the name of God and the teaching may not be blasphemed.
@@ -294,7 +294,7 @@ the one providing us all things richly for enjoyment,
 <verse eid="1TI 6:20"/><verse number="21" style="v" sid="1TI 6:21"/>which some, professing, have missed the mark concerning the faith.
 
 </para>
-  <para style="p">Grace {be} with you.<note style="f" caller="+"> <char style="ft" closed="false">Here some manuscripts add the word </char><char style="fq" closed="true">Amen.</char></note>
+  <para style="p" vid="1TI 6:21">Grace {be} with you.<note style="f" caller="+"> <char style="ft" closed="false">Here some manuscripts add the word </char><char style="fq" closed="true">Amen.</char></note>
 <verse eid="1TI 6:21"/></para>
   <chapter eid="1TI 6"/>
 </usx>

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JAS" style="id">EN_ULT en_English_ltr Thu Aug 18 2022 11:49:46 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -63,7 +63,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JAS 1:27"/><verse eid="JAS 1:27"/></para>
+<verse eid="JAS 1:27"/></para>
   <chapter eid="JAS 1"/>
   <chapter number="2" style="c" sid="JAS 2"/>
   <para style="p"><verse number="1" style="v" sid="JAS 2:1"/>My brothers, do not with favoritism have the faith of our Lord Jesus Christ of glory.
@@ -113,7 +113,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JAS 2:26"/><verse eid="JAS 2:26"/></para>
+<verse eid="JAS 2:26"/></para>
   <chapter eid="JAS 2"/>
   <chapter number="3" style="c" sid="JAS 3"/>
   <para style="p"><verse number="1" style="v" sid="JAS 3:1"/>Do not become many teachers, my brothers, knowing that we will receive greater judgment.
@@ -152,7 +152,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JAS 3:18"/><verse eid="JAS 3:18"/></para>
+<verse eid="JAS 3:18"/></para>
   <chapter eid="JAS 3"/>
   <chapter number="4" style="c" sid="JAS 4"/>
   <para style="p"><verse number="1" style="v" sid="JAS 4:1"/>From where {are} wars and from where {are} battles among you? {Are they} not from there, from your lusts, the ones fighting in your members?
@@ -189,7 +189,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JAS 4:17"/><verse eid="JAS 4:17"/></para>
+<verse eid="JAS 4:17"/></para>
   <chapter eid="JAS 4"/>
   <chapter number="5" style="c" sid="JAS 5"/>
   <para style="p"><verse number="1" style="v" sid="JAS 5:1"/>Come now, the rich, weep, wailing because of your coming miseries.
@@ -197,7 +197,7 @@
 <verse eid="JAS 5:2"/><verse number="3" style="v" sid="JAS 5:3"/>Your gold and silver have been tarnished, and their rust will be for a testimony against you and it will eat your flesh like fire. You have stored up in the last days.
 
 <ms style="ts"/>
-<verse eid="JAS 5:3"/><verse number="4" style="v" sid="JAS 5:4"/>Behold, the pay of the workers who have reaped your fields, which has been withheld from you, is crying out, and the cries of the ones harvesting have entered into the ears of the Lord of Sabaoth.
+<verse eid="JAS 5:3"/><verse number="4" style="v" sid="JAS 5:4"/>Behold, the pay of the workers who have reaped your fields, which has been withheld by you, is crying out, and the cries of the ones harvesting have entered into the ears of the Lord of Sabaoth.
 <verse eid="JAS 5:4"/><verse number="5" style="v" sid="JAS 5:5"/>You have lived luxuriously on the earth and have lived self-indulgently. You have fattened your hearts in a day of slaughter.
 <verse eid="JAS 5:5"/><verse number="6" style="v" sid="JAS 5:6"/>You have condemned, you have killed the righteous. He does not resist you.
 

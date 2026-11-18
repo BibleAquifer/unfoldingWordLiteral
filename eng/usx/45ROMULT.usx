@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="ROM" style="id">EN_ULT en_English_ltr Thu Dec 15 2022 11:37:31 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -84,7 +84,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 1:32"/><verse eid="ROM 1:32"/></para>
+<verse eid="ROM 1:32"/></para>
   <chapter eid="ROM 1"/>
   <chapter number="2" style="c" sid="ROM 2"/>
   <para style="p"><verse number="1" style="v" sid="ROM 2:1"/>Therefore, you are without excuse, O man—everyone judging—for in that which you judge the other you condemn yourself; for you, the one judging practice the same things.
@@ -142,7 +142,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 2:29"/><verse eid="ROM 2:29"/></para>
+<verse eid="ROM 2:29"/></para>
   <chapter eid="ROM 2"/>
   <chapter number="3" style="c" sid="ROM 3"/>
   <para style="p"><verse number="1" style="v" sid="ROM 3:1"/>What then {is} the advantage of the Jew, or what {is} the benefit of the circumcision?
@@ -166,26 +166,26 @@
   <para style="p"><verse number="9" style="v" sid="ROM 3:9"/>What then? Are we better off? Not at all. For we have already accused both Jews and Greeks, all of them, of being under sin.
 <verse eid="ROM 3:9"/><verse number="10" style="v" sid="ROM 3:10"/>Just as it is written:
 </para>
-  <para style="q1">“There is none righteous, not even one.
+  <para style="q1" vid="ROM 3:10">“There is none righteous, not even one.
 
 <ms style="ts"/>
 <verse eid="ROM 3:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="ROM 3:11"/>There is none who understands.
 </para>
-  <para style="q1">There is none who seeks out God.
+  <para style="q1" vid="ROM 3:11">There is none who seeks out God.
 <verse eid="ROM 3:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="ROM 3:12"/>All of them turned away. They together became useless.
 </para>
-  <para style="q1">There is none doing kindness—there is not even one.”
+  <para style="q1" vid="ROM 3:12">There is none doing kindness—there is not even one.”
 
 <verse eid="ROM 3:12"/></para>
   <para style="b"/>
   <ms style="ts"/>
   <para style="q1"><verse number="13" style="v" sid="ROM 3:13"/>“Their throat {is} an opened grave.
 </para>
-  <para style="q1">They keep deceiving with their tongues.
+  <para style="q1" vid="ROM 3:13">They keep deceiving with their tongues.
 </para>
-  <para style="q1">The poison of asps {is} under their lips,”
+  <para style="q1" vid="ROM 3:13">The poison of asps {is} under their lips,”
 
 <verse eid="ROM 3:13"/></para>
   <para style="b"/>
@@ -236,7 +236,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 3:31"/><verse eid="ROM 3:31"/></para>
+<verse eid="ROM 3:31"/></para>
   <chapter eid="ROM 3"/>
   <chapter number="4" style="c" sid="ROM 4"/>
   <para style="p"><verse number="1" style="v" sid="ROM 4:1"/>What then will we say that Abraham, our forefather according to the flesh, has discovered?
@@ -252,7 +252,7 @@
 <verse eid="ROM 4:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="ROM 4:7"/>“Blessed {are those} whose lawless deeds have been forgiven,
 </para>
-  <para style="q1">and whose sins have been covered.
+  <para style="q1" vid="ROM 4:7">and whose sins have been covered.
 <verse eid="ROM 4:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="ROM 4:8"/>Blessed {is} a man whose sin the Lord does certainly not count.”
 
@@ -291,7 +291,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ROM 4:25"/><verse eid="ROM 4:25"/></para>
+<verse eid="ROM 4:25"/></para>
   <chapter eid="ROM 4"/>
   <chapter number="5" style="c" sid="ROM 5"/>
   <para style="p"><verse number="1" style="v" sid="ROM 5:1"/>Therefore, having been justified by faith, let us have peace<note style="f" caller="+"> <char style="ft" closed="false">Instead of </char><char style="fq" closed="true">let us have,</char> some ancient manuscripts read <char style="fqa" closed="true">we have.</char></note>
@@ -340,7 +340,7 @@ with God through our Lord Jesus Christ,
 
 <ms style="ts"/>
 
-<verse eid="ROM 5:21"/><verse eid="ROM 5:21"/></para>
+<verse eid="ROM 5:21"/></para>
   <chapter eid="ROM 5"/>
   <chapter number="6" style="c" sid="ROM 6"/>
   <para style="p"><verse number="1" style="v" sid="ROM 6:1"/>What then will we say? Should we continue in the sin so that the grace might increase?
@@ -389,7 +389,7 @@ with God through our Lord Jesus Christ,
 
 <ms style="ts"/>
 
-<verse eid="ROM 6:23"/><verse eid="ROM 6:23"/></para>
+<verse eid="ROM 6:23"/></para>
   <chapter eid="ROM 6"/>
   <chapter number="7" style="c" sid="ROM 7"/>
   <para style="p"><verse number="1" style="v" sid="ROM 7:1"/>Or do you not know, brothers (for I am speaking to those knowing the law), that the law is lord of the man for as long as he lives?
@@ -446,7 +446,7 @@ with God through our Lord Jesus Christ,
 
 <ms style="ts"/>
 
-<verse eid="ROM 7:25"/><verse eid="ROM 7:25"/></para>
+<verse eid="ROM 7:25"/></para>
   <chapter eid="ROM 7"/>
   <chapter number="8" style="c" sid="ROM 8"/>
   <para style="p"><verse number="1" style="v" sid="ROM 8:1"/>{There is} therefore now no condemnation at all for the ones in Christ Jesus.
@@ -522,20 +522,19 @@ for the ones being called according to his purpose.
 Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or sword?
 <verse eid="ROM 8:35"/><verse number="36" style="v" sid="ROM 8:36"/>Just as it is written,
 </para>
-  <para style="q1">“For your sake we are being put to death the whole day {long}.
+  <para style="q1" vid="ROM 8:36">“For your sake we are being put to death the whole day {long}.
 </para>
-  <para style="q1">We were considered as sheep for slaughter.”
+  <para style="q1" vid="ROM 8:36">We were considered as sheep for slaughter.”
 
+<ms style="ts"/>
 <verse eid="ROM 8:36"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="37" style="v" sid="ROM 8:37"/>But in all these things we are more than conquerors through the one having loved us.
 <verse eid="ROM 8:37"/><verse number="38" style="v" sid="ROM 8:38"/>For I am persuaded that neither death, nor life, nor angels, nor governments, nor things present, nor things to come, nor powers,
 <verse eid="ROM 8:38"/><verse number="39" style="v" sid="ROM 8:39"/>nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which {is} in Christ Jesus our Lord.
 
 <ms style="ts"/>
 
-<verse eid="ROM 8:39"/><verse eid="ROM 8:39"/></para>
+<verse eid="ROM 8:39"/></para>
   <chapter eid="ROM 8"/>
   <chapter number="9" style="c" sid="ROM 9"/>
   <para style="p"><verse number="1" style="v" sid="ROM 9:1"/>I speak truth in Christ. I do not lie—my conscience bearing witness with me in the Holy Spirit—
@@ -585,37 +584,36 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <ms style="ts"/>
 <verse eid="ROM 9:24"/><verse number="25" style="v" sid="ROM 9:25"/>As he says also in Hosea:
 </para>
-  <para style="q1">“I will call those {who were} not my people, ‘my people,’
+  <para style="q1" vid="ROM 9:25">“I will call those {who were} not my people, ‘my people,’
 </para>
-  <para style="q1">and the one not loved, ‘Beloved.’
+  <para style="q1" vid="ROM 9:25">and the one not loved, ‘Beloved.’
 <verse eid="ROM 9:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="ROM 9:26"/>And it will be that in the place where it was said to them, ‘You {are} not my people,’
 </para>
-  <para style="q1">there they will be called ‘sons of the living God.’”
+  <para style="q1" vid="ROM 9:26">there they will be called ‘sons of the living God.’”
 
 <ms style="ts"/>
 <verse eid="ROM 9:26"/></para>
   <para style="m"><verse number="27" style="v" sid="ROM 9:27"/>But Isaiah cries out concerning Israel,
 </para>
-  <para style="q1">“Though the number of the sons of Israel might be as the sand of the sea,
+  <para style="q1" vid="ROM 9:27">“Though the number of the sons of Israel might be as the sand of the sea,
 </para>
-  <para style="q1">the remnant will be saved,
+  <para style="q1" vid="ROM 9:27">the remnant will be saved,
 <verse eid="ROM 9:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="ROM 9:28"/>for the Lord will carry out his word on the earth,
 </para>
-  <para style="q1">finishing {it} and cutting {it} short.”
+  <para style="q1" vid="ROM 9:28">finishing {it} and cutting {it} short.”
 <verse eid="ROM 9:28"/></para>
   <para style="q1"><verse number="29" style="v" sid="ROM 9:29"/>And just as Isaiah has said beforehand,
 </para>
-  <para style="q1">“If the Lord of hosts did not leave us a seed,
+  <para style="q1" vid="ROM 9:29">“If the Lord of hosts did not leave us a seed,
 </para>
-  <para style="q1">we would have become like Sodom,
+  <para style="q1" vid="ROM 9:29">we would have become like Sodom,
 </para>
-  <para style="q1">and we would have been made like Gomorrah.”
+  <para style="q1" vid="ROM 9:29">and we would have been made like Gomorrah.”
 
+<ms style="ts"/>
 <verse eid="ROM 9:29"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="30" style="v" sid="ROM 9:30"/>What then will we say? That the Gentiles, who are not pursuing righteousness, obtained righteousness, but righteousness that {is} by faith.
 <verse eid="ROM 9:30"/><verse number="31" style="v" sid="ROM 9:31"/>But Israel, pursuing a law of righteousness, did not attain {it} through the law.
 
@@ -623,13 +621,13 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <verse eid="ROM 9:31"/><verse number="32" style="v" sid="ROM 9:32"/>Why? Because {it was} not by faith, but as by works. They stumbled over the stone of stumbling,
 <verse eid="ROM 9:32"/><verse number="33" style="v" sid="ROM 9:33"/>just as it is written,
 </para>
-  <para style="q1">“Behold, I place in Zion a stone of stumbling and a rock of offense,
+  <para style="q1" vid="ROM 9:33">“Behold, I place in Zion a stone of stumbling and a rock of offense,
 </para>
-  <para style="q1">and the one believing on it will not be ashamed.”
+  <para style="q1" vid="ROM 9:33">and the one believing on it will not be ashamed.”
 
 <ms style="ts"/>
 
-<verse eid="ROM 9:33"/><verse eid="ROM 9:33"/></para>
+<verse eid="ROM 9:33"/></para>
   <chapter eid="ROM 9"/>
   <chapter number="10" style="c" sid="ROM 10"/>
   <para style="p"><verse number="1" style="v" sid="ROM 10:1"/>Brothers, the good pleasure of my heart and my prayer to God {is} on behalf of them for salvation.
@@ -648,7 +646,7 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <verse eid="ROM 10:7"/><verse number="8" style="v" sid="ROM 10:8"/>But what does it say? “The word is near you, in your mouth and in your heart.”
 
 </para>
-  <para style="p">This is the word of faith, which we proclaim.
+  <para style="p" vid="ROM 10:8">This is the word of faith, which we proclaim.
 <verse eid="ROM 10:8"/><verse number="9" style="v" sid="ROM 10:9"/>For if with your mouth you confess, “Jesus {is} Lord,” and believe in your heart that God raised him from dead ones, you will be saved.
 <verse eid="ROM 10:9"/><verse number="10" style="v" sid="ROM 10:10"/>For with the heart one believes to righteousness, and with the mouth one confesses to salvation.
 
@@ -669,35 +667,32 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <ms style="ts"/>
 <verse eid="ROM 10:17"/><verse number="18" style="v" sid="ROM 10:18"/>But I say, “Did they certainly not hear?” Yes, indeed.
 </para>
-  <para style="q1">“Their sound went out into all the earth,
+  <para style="q1" vid="ROM 10:18">“Their sound went out into all the earth,
 </para>
-  <para style="q1">and their words to the ends of the world.”
+  <para style="q1" vid="ROM 10:18">and their words to the ends of the world.”
 
+<ms style="ts"/>
 <verse eid="ROM 10:18"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="19" style="v" sid="ROM 10:19"/>But I say, “Did Israel certainly not know?” First Moses says,
 </para>
-  <para style="q1">“I myself will provoke you to jealousy by a non-nation;
+  <para style="q1" vid="ROM 10:19">“I myself will provoke you to jealousy by a non-nation;
 </para>
-  <para style="q1">by means of a senseless nation, I will provoke you to anger.”
+  <para style="q1" vid="ROM 10:19">by means of a senseless nation, I will provoke you to anger.”
 
+<ms style="ts"/>
 <verse eid="ROM 10:19"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="20" style="v" sid="ROM 10:20"/>Now Isaiah is very bold, and he says,
 </para>
-  <para style="q1">“I was found by the ones not seeking me;
+  <para style="q1" vid="ROM 10:20">“I was found by the ones not seeking me;
 </para>
-  <para style="q1">I appeared to the ones not asking for me.”
+  <para style="q1" vid="ROM 10:20">I appeared to the ones not asking for me.”
 
 <verse eid="ROM 10:20"/></para>
-  <para style="b"/>
   <para style="m"><verse number="21" style="v" sid="ROM 10:21"/>But to Israel he says, “The whole day I stretched out my hands to a disobedient and contradictory people.”
 
 <ms style="ts"/>
 
-<verse eid="ROM 10:21"/><verse eid="ROM 10:21"/></para>
+<verse eid="ROM 10:21"/></para>
   <chapter eid="ROM 10"/>
   <chapter number="11" style="c" sid="ROM 11"/>
   <para style="p"><verse number="1" style="v" sid="ROM 11:1"/>I say then, God did not reject his people, did he? May it never be! For I myself also am an Israelite, from the seed of Abraham, of the tribe of Benjamin.
@@ -717,17 +712,16 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <ms style="ts"/>
 <verse eid="ROM 11:8"/><verse number="9" style="v" sid="ROM 11:9"/>And David says,
 </para>
-  <para style="q1">“Let their table become for a net and for a trap,
+  <para style="q1" vid="ROM 11:9">“Let their table become for a net and for a trap,
 </para>
-  <para style="q1">and for a stumbling block and for a retribution to them.
+  <para style="q1" vid="ROM 11:9">and for a stumbling block and for a retribution to them.
 <verse eid="ROM 11:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="ROM 11:10"/>Let their eyes be darkened to not see,
 </para>
-  <para style="q1">and make their backs bend continually.”
+  <para style="q1" vid="ROM 11:10">and make their backs bend continually.”
 
+<ms style="ts"/>
 <verse eid="ROM 11:10"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="11" style="v" sid="ROM 11:11"/>I say then, “They did not stumble so that they might fall, did they?” May it never be! Instead, by their transgression, this salvation {is} to the Gentiles, in order to provoke them to jealousy.
 <verse eid="ROM 11:11"/><verse number="12" style="v" sid="ROM 11:12"/>Now if their transgression {is} wealth of the world, and their loss {is} wealth of the Gentiles, how much more {will} their fullness {be}?
 
@@ -762,17 +756,16 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <ms style="ts"/>
 <verse eid="ROM 11:25"/><verse number="26" style="v" sid="ROM 11:26"/>and thus all Israel will be saved, just as it is written:
 </para>
-  <para style="q1">“From Zion will come the Deliverer.
+  <para style="q1" vid="ROM 11:26">“From Zion will come the Deliverer.
 </para>
-  <para style="q1">He will turn away ungodly things from Jacob.
+  <para style="q1" vid="ROM 11:26">He will turn away ungodly things from Jacob.
 <verse eid="ROM 11:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="ROM 11:27"/>And this {will be} for them the covenant with me,
 </para>
-  <para style="q1">when I take away their sins.”
+  <para style="q1" vid="ROM 11:27">when I take away their sins.”
 
+<ms style="ts"/>
 <verse eid="ROM 11:27"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="28" style="v" sid="ROM 11:28"/>Indeed, according to the gospel, {they are} enemies for your sake, but according to election, {they are} beloved for the sake of their forefathers.
 <verse eid="ROM 11:28"/><verse number="29" style="v" sid="ROM 11:29"/>For the gracious gifts and the calling of God {are} without regret.
 
@@ -787,20 +780,20 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <verse eid="ROM 11:33"/></para>
   <para style="q1"><verse number="34" style="v" sid="ROM 11:34"/>For, “Who has known the mind of the Lord
 </para>
-  <para style="q1">or who has become his advisor?”
+  <para style="q1" vid="ROM 11:34">or who has become his advisor?”
 
 <ms style="ts"/>
 <verse eid="ROM 11:34"/></para>
   <para style="q1"><verse number="35" style="v" sid="ROM 11:35"/>Or, “Who gave to him,
 </para>
-  <para style="q1">that he should be repaid by him?”
+  <para style="q1" vid="ROM 11:35">that he should be repaid by him?”
 
 <verse eid="ROM 11:35"/></para>
   <para style="p"><verse number="36" style="v" sid="ROM 11:36"/>For from him and through him and to him {are} all things. To him {be} the glory to the ages. Amen.
 
 <ms style="ts"/>
 
-<verse eid="ROM 11:36"/><verse eid="ROM 11:36"/></para>
+<verse eid="ROM 11:36"/></para>
   <chapter eid="ROM 11"/>
   <chapter number="12" style="c" sid="ROM 12"/>
   <para style="p"><verse number="1" style="v" sid="ROM 12:1"/>I urge you therefore, brothers, by the compassions of God, to present your bodies a living sacrifice, holy, well-pleasing to God, which {is} your reasonable service.
@@ -843,16 +836,16 @@ Tribulation, or distress, or persecution, or hunger, or nakedness, or danger, or
 <verse eid="ROM 12:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="ROM 12:20"/>But, “If your enemy is hungry, feed him.
 </para>
-  <para style="q1">If he is thirsty, give him a drink.
+  <para style="q1" vid="ROM 12:20">If he is thirsty, give him a drink.
 </para>
-  <para style="q1">For doing this, you will heap coals of fire on his head.”
+  <para style="q1" vid="ROM 12:20">For doing this, you will heap coals of fire on his head.”
 
 <verse eid="ROM 12:20"/></para>
   <para style="m"><verse number="21" style="v" sid="ROM 12:21"/>Do not be overcome by the evil, but overcome the evil with the good.
 
 <ms style="ts"/>
 
-<verse eid="ROM 12:21"/><verse eid="ROM 12:21"/></para>
+<verse eid="ROM 12:21"/></para>
   <chapter eid="ROM 12"/>
   <chapter number="13" style="c" sid="ROM 13"/>
   <para style="p"><verse number="1" style="v" sid="ROM 13:1"/>Let every soul be subject to governing authorities, for there is no authority except from God, and the existing {authorities} are appointed by God.
@@ -885,7 +878,7 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 
 <ms style="ts"/>
 
-<verse eid="ROM 13:14"/><verse eid="ROM 13:14"/></para>
+<verse eid="ROM 13:14"/></para>
   <chapter eid="ROM 13"/>
   <chapter number="14" style="c" sid="ROM 14"/>
   <para style="p"><verse number="1" style="v" sid="ROM 14:1"/>Now accept the one being weak in the faith, not for passing judgments on opinions.
@@ -908,13 +901,12 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 <verse eid="ROM 14:9"/><verse number="10" style="v" sid="ROM 14:10"/>But you, why do you judge your brother? And you also, why do you despise your brother? For we will all present ourselves before the judgment seat of God.
 <verse eid="ROM 14:10"/><verse number="11" style="v" sid="ROM 14:11"/>For it is written,
 </para>
-  <para style="q1">“‘As I live,’ says the Lord, ‘to me every knee will bend,
+  <para style="q1" vid="ROM 14:11">“‘As I live,’ says the Lord, ‘to me every knee will bend,
 </para>
-  <para style="q1">and every tongue will confess to God.’”
+  <para style="q1" vid="ROM 14:11">and every tongue will confess to God.’”
 
+<ms style="ts"/>
 <verse eid="ROM 14:11"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="12" style="v" sid="ROM 14:12"/>So then, each one of us will give an account concerning himself to God.
 
 <verse eid="ROM 14:12"/></para>
@@ -942,7 +934,7 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 
 <ms style="ts"/>
 
-<verse eid="ROM 14:23"/><verse eid="ROM 14:23"/></para>
+<verse eid="ROM 14:23"/></para>
   <chapter eid="ROM 14"/>
   <chapter number="15" style="c" sid="ROM 15"/>
   <para style="p"><verse number="1" style="v" sid="ROM 15:1"/>Now we, being able, ought to bear the weaknesses of the ones being unable, and not to please ourselves.
@@ -963,35 +955,31 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 <verse eid="ROM 15:7"/><verse number="8" style="v" sid="ROM 15:8"/>For I say that Christ has become a servant of the circumcision because of the truth of God, to confirm the promises of the fathers,
 <verse eid="ROM 15:8"/><verse number="9" style="v" sid="ROM 15:9"/>and also for the Gentiles to glorify God because of his mercy, just as it is written,
 </para>
-  <para style="q1">“For this {reason}, I will confess you among the Gentiles
+  <para style="q1" vid="ROM 15:9">“For this {reason}, I will confess you among the Gentiles
 </para>
-  <para style="q1">and sing psalms to your name.”
+  <para style="q1" vid="ROM 15:9">and sing psalms to your name.”
 
+<ms style="ts"/>
 <verse eid="ROM 15:9"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="10" style="v" sid="ROM 15:10"/>And again it says,
 </para>
-  <para style="q1">“Rejoice, Gentiles, with his people.”
+  <para style="q1" vid="ROM 15:10">“Rejoice, Gentiles, with his people.”
 
 <verse eid="ROM 15:10"/></para>
-  <para style="b"/>
   <para style="m"><verse number="11" style="v" sid="ROM 15:11"/>And again,
 </para>
-  <para style="q1">“Praise the Lord, all {you} Gentiles;
+  <para style="q1" vid="ROM 15:11">“Praise the Lord, all {you} Gentiles;
 </para>
-  <para style="q1">and let all the peoples extol him.”
+  <para style="q1" vid="ROM 15:11">and let all the peoples extol him.”
 
+<ms style="ts"/>
 <verse eid="ROM 15:11"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="12" style="v" sid="ROM 15:12"/>And again, Isaiah says,
 </para>
-  <para style="q1">“The root of Jesse will come, even the one rising to rule over the Gentiles; in him the Gentiles will hope.”
+  <para style="q1" vid="ROM 15:12">“The root of Jesse will come, even the one rising to rule over the Gentiles; in him the Gentiles will hope.”
 
+<ms style="ts"/>
 <verse eid="ROM 15:12"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="13" style="v" sid="ROM 15:13"/>Now may the God of hope fill you with all joy and peace in believing so that you might abound in this hope by the power of the Holy Spirit.
 
 <ms style="ts"/>
@@ -1011,13 +999,12 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 <verse eid="ROM 15:19"/><verse number="20" style="v" sid="ROM 15:20"/>but in this way, counting it honor to proclaim the gospel, not where Christ has been named, in order that I might not build upon another man’s foundation.
 <verse eid="ROM 15:20"/><verse number="21" style="v" sid="ROM 15:21"/>But just as it is written:
 </para>
-  <para style="q1">“Those to whom it was not reported concerning him will see,
+  <para style="q1" vid="ROM 15:21">“Those to whom it was not reported concerning him will see,
 </para>
-  <para style="q1">and those who have not heard will understand.”
+  <para style="q1" vid="ROM 15:21">and those who have not heard will understand.”
 
+<ms style="ts"/>
 <verse eid="ROM 15:21"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="22" style="v" sid="ROM 15:22"/>Therefore, I was also prevented these many times from coming to you.
 <verse eid="ROM 15:22"/><verse number="23" style="v" sid="ROM 15:23"/>But now, no longer having a place in these regions, and having a longing from a considerable {number} of years to come to you,
 
@@ -1044,7 +1031,7 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 
 <ms style="ts"/>
 
-<verse eid="ROM 15:33"/><verse eid="ROM 15:33"/></para>
+<verse eid="ROM 15:33"/></para>
   <chapter eid="ROM 15"/>
   <chapter number="16" style="c" sid="ROM 16"/>
   <para style="p"><verse number="1" style="v" sid="ROM 16:1"/>Now I commend to you Phoebe our sister, also being a servant of the church which {is} in Cenchrea,
@@ -1085,7 +1072,7 @@ to awake from sleep. For now our salvation {is} nearer than when we believed.
 <verse eid="ROM 16:19"/><verse number="20" style="v" sid="ROM 16:20"/>Now the God of peace will crush Satan under your feet with haste.
 
 </para>
-  <para style="p">The grace of our Lord Jesus Christ {be} with you.
+  <para style="p" vid="ROM 16:20">The grace of our Lord Jesus Christ {be} with you.
 
 <ms style="ts"/>
 <verse eid="ROM 16:20"/></para>

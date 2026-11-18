@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JON" style="id">EN_ULT en_English_ltr Wed Feb 22 2023 09:46:41 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -54,68 +54,66 @@
 <verse eid="JON 1:14"/><verse number="15" style="v" sid="JON 1:15"/>So they lifted up Jonah and threw him into the sea, and the sea ceased from its raging.
 <verse eid="JON 1:15"/><verse number="16" style="v" sid="JON 1:16"/>Then the men feared Yahweh {with} great fear, and they sacrificed a sacrifice to Yahweh and vowed vows.
 
+<ms style="ts"/>
 <verse eid="JON 1:16"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="p"><verse number="17" style="v" sid="JON 1:17"/>Now Yahweh appointed a great fish to swallow Jonah, and Jonah was in the abdomen of the fish three days and three nights.<note style="f" caller="+"> <char style="fq" closed="false">Now Yahweh appointed … and three nights </char><char style="ft" closed="false">Some versions place this text at the beginning of verse 1 in chapter 2.</char></note>
 
 <ms style="ts"/>
 
-<verse eid="JON 1:17"/><verse eid="JON 1:17"/></para>
+<verse eid="JON 1:17"/></para>
   <chapter eid="JON 1"/>
   <chapter number="2" style="c" sid="JON 2"/>
   <para style="p"><verse number="1" style="v" sid="JON 2:1"/>And Jonah prayed to Yahweh his God from the abdomen of the fish.
 <verse eid="JON 2:1"/><verse number="2" style="v" sid="JON 2:2"/>And he said,
 </para>
-  <para style="q1">“I cried out to Yahweh from my distress, and he answered me.
+  <para style="q1" vid="JON 2:2">“I cried out to Yahweh from my distress, and he answered me.
 </para>
-  <para style="q2">From the belly of Sheol I cried out; you heard my voice.
+  <para style="q2" vid="JON 2:2">From the belly of Sheol I cried out; you heard my voice.
 
 <ms style="ts"/>
 <verse eid="JON 2:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="JON 2:3"/>Now you had cast me {to} the deep, into the heart of the seas, and a current surrounded me;
 </para>
-  <para style="q2">all your billows and your waves passed over me.
+  <para style="q2" vid="JON 2:3">all your billows and your waves passed over me.
 <verse eid="JON 2:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="JON 2:4"/>But I, I said, ‘I have been driven out from before your eyes;
 </para>
-  <para style="q2">yet I might again look toward the temple of your holiness.’
+  <para style="q2" vid="JON 2:4">yet I might again look toward the temple of your holiness.’
 
 <ms style="ts"/>
 <verse eid="JON 2:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="JON 2:5"/>Water had closed around me even as far as life, the deep was surrounding me;
 </para>
-  <para style="q2">seaweed was wrapped around my head.
+  <para style="q2" vid="JON 2:5">seaweed was wrapped around my head.
 <verse eid="JON 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="JON 2:6"/>I had gone down to the bases of the mountains. The earth, its bars {were} around me forever,
 </para>
-  <para style="q2">but you brought up my life from the pit, Yahweh, my God!
+  <para style="q2" vid="JON 2:6">but you brought up my life from the pit, Yahweh, my God!
 
 <ms style="ts"/>
 <verse eid="JON 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="JON 2:7"/>When my life fainted upon me, I remembered Yahweh
 </para>
-  <para style="q2">and my prayer came to you, to the temple of your holiness.
+  <para style="q2" vid="JON 2:7">and my prayer came to you, to the temple of your holiness.
 <verse eid="JON 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="JON 2:8"/>Those who give attention to vanities of worthlessness
 </para>
-  <para style="q2">forsake their covenant faithfulness.
+  <para style="q2" vid="JON 2:8">forsake their covenant faithfulness.
 
 <ms style="ts"/>
 <verse eid="JON 2:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="JON 2:9"/>But I, I will sacrifice to you with a voice of thanksgiving;
 </para>
-  <para style="q2">I will fulfill what I have vowed.
+  <para style="q2" vid="JON 2:9">I will fulfill what I have vowed.
 </para>
-  <para style="q1">Salvation belongs to Yahweh!”
+  <para style="q1" vid="JON 2:9">Salvation belongs to Yahweh!”
 
 <verse eid="JON 2:9"/></para>
   <para style="m"><verse number="10" style="v" sid="JON 2:10"/>And Yahweh spoke to the fish, and it vomited Jonah onto the dry land.
 
+<ms style="ts"/>
+
 <verse eid="JON 2:10"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="JON 2:10"/>
   <chapter eid="JON 2"/>
   <chapter number="3" style="c" sid="JON 3"/>
   <para style="p"><verse number="1" style="v" sid="JON 3:1"/>Then the word of Yahweh came to Jonah a second time, saying,
@@ -123,7 +121,7 @@
 <verse eid="JON 3:2"/><verse number="3" style="v" sid="JON 3:3"/>So Jonah got up and went to Nineveh, according to the word of Yahweh.
 
 </para>
-  <para style="p">Now Nineveh was a city great to God, a journey of three days.
+  <para style="p" vid="JON 3:3">Now Nineveh was a city great to God, a journey of three days.
 
 <ms style="ts"/>
 <verse eid="JON 3:3"/><verse number="4" style="v" sid="JON 3:4"/>So Jonah began to go into the city a journey of one day, and he called out and said, “Still 40 days, then Nineveh will be overthrown.”
@@ -145,10 +143,9 @@
 <verse eid="JON 3:9"/></para>
   <para style="p"><verse number="10" style="v" sid="JON 3:10"/>And God saw their deeds, that they turned away from their evil ways. And God relented in regard to the evil that he had said he would do to them, and he did not do {it}.
 
+<ms style="ts"/>
+
 <verse eid="JON 3:10"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
-  <verse eid="JON 3:10"/>
   <chapter eid="JON 3"/>
   <chapter number="4" style="c" sid="JON 4"/>
   <para style="p"><verse number="1" style="v" sid="JON 4:1"/>But it made evil to Jonah a great evil, and it burned to him.
