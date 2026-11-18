@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="TIT" style="id">EN_ULT en_English_ltr Wed Aug 24 2022 09:32:57 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -49,7 +49,7 @@
 
 <ms style="ts"/>
 
-<verse eid="TIT 1:16"/><verse eid="TIT 1:16"/></para>
+<verse eid="TIT 1:16"/></para>
   <chapter eid="TIT 1"/>
   <chapter number="2" style="c" sid="TIT 2"/>
   <para style="p"><verse number="1" style="v" sid="TIT 2:1"/>But you, speak what fits with sound teaching.
@@ -83,7 +83,7 @@
 
 <ms style="ts"/>
 
-<verse eid="TIT 2:15"/><verse eid="TIT 2:15"/></para>
+<verse eid="TIT 2:15"/></para>
   <chapter eid="TIT 2"/>
   <chapter number="3" style="c" sid="TIT 3"/>
   <para style="p"><verse number="1" style="v" sid="TIT 3:1"/>Remind them to submit to rulers {and} authorities, to obey {them}, to be ready for every good work,

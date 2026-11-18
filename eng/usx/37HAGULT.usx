@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="HAG" style="id">EN_ULT en_English_ltr Fri Jun 30 2023 06:16:57 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -23,45 +23,45 @@
 <verse eid="HAG 1:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="HAG 1:6"/>You have sown much, but you have brought in little.
 </para>
-  <para style="q1">You eat, but not to satiety.
+  <para style="q1" vid="HAG 1:6">You eat, but not to satiety.
 </para>
-  <para style="q2">You drink, but not {enough} to become drunk.
+  <para style="q2" vid="HAG 1:6">You drink, but not {enough} to become drunk.
 </para>
-  <para style="q1">One wears clothes, but he does not warm himself.
+  <para style="q1" vid="HAG 1:6">One wears clothes, but he does not warm himself.
 </para>
-  <para style="q2">And the wage earner earns wages into a punctured bag!’
+  <para style="q2" vid="HAG 1:6">And the wage earner earns wages into a punctured bag!’
 <verse eid="HAG 1:6"/><verse number="7" style="v" sid="HAG 1:7"/>Thus says Yahweh of Armies: ‘Set your heart upon your ways!
 <verse eid="HAG 1:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="HAG 1:8"/>Go up {to} the mountain and bring timber and build the house,
 </para>
-  <para style="q2">and I will take pleasure in it, and I will be glorified,’ says Yahweh.
+  <para style="q2" vid="HAG 1:8">and I will take pleasure in it, and I will be glorified,’ says Yahweh.
 <verse eid="HAG 1:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="HAG 1:9"/>‘You looked for much, but behold, little!
 </para>
-  <para style="q2">And you brought {it} home, but I blew upon it!
+  <para style="q2" vid="HAG 1:9">And you brought {it} home, but I blew upon it!
 
 </para>
-  <para style="p">Because of what?’—the declaration of Yahweh of Armies.
+  <para style="p" vid="HAG 1:9">Because of what?’—the declaration of Yahweh of Armies.
 </para>
-  <para style="q1">‘Because of my house, that it {is} desolate,
+  <para style="q1" vid="HAG 1:9">‘Because of my house, that it {is} desolate,
 </para>
-  <para style="q2">but you are running, a man to his house.
+  <para style="q2" vid="HAG 1:9">but you are running, a man to his house.
 
 <ms style="ts"/>
 <verse eid="HAG 1:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="HAG 1:10"/>Therefore the heavens above you refrain from dew
 </para>
-  <para style="q2">and the earth withholds its produce.
+  <para style="q2" vid="HAG 1:10">and the earth withholds its produce.
 <verse eid="HAG 1:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="HAG 1:11"/>And I have called for desolation upon the land and upon the mountains
 </para>
-  <para style="q2">and upon the grain and upon the new wine
+  <para style="q2" vid="HAG 1:11">and upon the grain and upon the new wine
 </para>
-  <para style="q2">and upon the oil and upon what the ground produces
+  <para style="q2" vid="HAG 1:11">and upon the oil and upon what the ground produces
 </para>
-  <para style="q1">and upon the man and upon the beast
+  <para style="q1" vid="HAG 1:11">and upon the man and upon the beast
 </para>
-  <para style="q2">and upon all the labor of {your} hands!’”
+  <para style="q2" vid="HAG 1:11">and upon all the labor of {your} hands!’”
 
 <ms style="ts"/>
 <verse eid="HAG 1:11"/></para>
@@ -74,7 +74,7 @@
 
 <ms style="ts"/>
 
-<verse eid="HAG 1:15"/><verse eid="HAG 1:15"/></para>
+<verse eid="HAG 1:15"/></para>
   <chapter eid="HAG 1"/>
   <chapter number="2" style="c" sid="HAG 2"/>
   <para style="p"><verse number="1" style="v" sid="HAG 2:1"/>in the seventh, on the twenty-first of the month, the word of Yahweh was by the hand of Haggai the prophet, saying,
@@ -88,15 +88,15 @@
 <ms style="ts"/>
 <verse eid="HAG 2:5"/><verse number="6" style="v" sid="HAG 2:6"/>For thus says Yahweh of Armies: ‘Yet once, it {will be} a little {while},
 </para>
-  <para style="q1">and I {will be} shaking the heavens and the earth
+  <para style="q1" vid="HAG 2:6">and I {will be} shaking the heavens and the earth
 </para>
-  <para style="q2">and the sea and the dry land!
+  <para style="q2" vid="HAG 2:6">and the sea and the dry land!
 <verse eid="HAG 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="HAG 2:7"/>And I will shake all of the nations,
 </para>
-  <para style="q2">and they will come {with} the treasure of all of the nations,
+  <para style="q2" vid="HAG 2:7">and they will come {with} the treasure of all of the nations,
 </para>
-  <para style="q2">and I will fill this house {with} glory,’ says Yahweh of Armies.
+  <para style="q2" vid="HAG 2:7">and I will fill this house {with} glory,’ says Yahweh of Armies.
 
 <ms style="ts"/>
 <verse eid="HAG 2:7"/><verse number="8" style="v" sid="HAG 2:8"/>‘The silver is mine, and the gold is mine’—the declaration of Yahweh of Armies.
@@ -126,17 +126,17 @@
   <para style="p"><verse number="20" style="v" sid="HAG 2:20"/>And the word of Yahweh was to Haggai a second time on the twenty-fourth of the month, saying,
 <verse eid="HAG 2:20"/><verse number="21" style="v" sid="HAG 2:21"/>“Speak to Zerubbabel, the governor of Judah, saying,
 </para>
-  <para style="q1">‘I {am} shaking the heavens and the earth.
+  <para style="q1" vid="HAG 2:21">‘I {am} shaking the heavens and the earth.
 <verse eid="HAG 2:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="HAG 2:22"/>And I will overthrow the throne of kingdoms
 </para>
-  <para style="q2">and I will destroy the strength of the kingdoms of the nations!
+  <para style="q2" vid="HAG 2:22">and I will destroy the strength of the kingdoms of the nations!
 </para>
-  <para style="q1">And I will overthrow the chariot and its rider,
+  <para style="q1" vid="HAG 2:22">And I will overthrow the chariot and its rider,
 </para>
-  <para style="q2">and the horses and their riders will fall,
+  <para style="q2" vid="HAG 2:22">and the horses and their riders will fall,
 </para>
-  <para style="q2">a man by the sword of his brother.
+  <para style="q2" vid="HAG 2:22">a man by the sword of his brother.
 
 <ms style="ts"/>
 <verse eid="HAG 2:22"/></para>

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JOS" style="id">EN_ULT en_English_ltr Wed Nov 13 2024 10:35:15 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -52,7 +52,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 1:18"/><verse eid="JOS 1:18"/></para>
+<verse eid="JOS 1:18"/></para>
   <chapter eid="JOS 1"/>
   <chapter number="2" style="c" sid="JOS 2"/>
   <para style="p"><verse number="1" style="v" sid="JOS 2:1"/>And Joshua, the son of Nun, secretly sent from Shittim two men, spies, saying, “Go, see the land and Jericho.” And they went and entered the house of a woman, a prostitute, and her name {was} Rahab, and they stayed there.
@@ -105,7 +105,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 2:24"/><verse eid="JOS 2:24"/></para>
+<verse eid="JOS 2:24"/></para>
   <chapter eid="JOS 2"/>
   <chapter number="3" style="c" sid="JOS 3"/>
   <para style="p"><verse number="1" style="v" sid="JOS 3:1"/>And Joshua rose early in the morning, and they set out from Shittim. And they came unto the Jordan, he and all of the sons of Israel, and they lodged there before they crossed over.
@@ -146,7 +146,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 3:17"/><verse eid="JOS 3:17"/></para>
+<verse eid="JOS 3:17"/></para>
   <chapter eid="JOS 3"/>
   <chapter number="4" style="c" sid="JOS 4"/>
   <para style="p"><verse number="1" style="v" sid="JOS 4:1"/>And it happened, when all of the nation had finished crossing over the Jordan, that Yahweh spoke to Joshua, saying,
@@ -201,7 +201,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 4:24"/><verse eid="JOS 4:24"/></para>
+<verse eid="JOS 4:24"/></para>
   <chapter eid="JOS 4"/>
   <chapter number="5" style="c" sid="JOS 5"/>
   <para style="p"><verse number="1" style="v" sid="JOS 5:1"/>And it happened that when all of the kings of the Amorite who {were} on the other side of the Jordan, toward the sea, and all of the kings of the Canaanite who {were} beside the sea heard that Yahweh had dried up the waters of the Jordan from the face of the sons of Israel until they had crossed over, then their heart melted, and a spirit was no longer in them from the face of the sons of Israel.
@@ -241,7 +241,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 5:15"/><verse eid="JOS 5:15"/></para>
+<verse eid="JOS 5:15"/></para>
   <chapter eid="JOS 5"/>
   <chapter number="6" style="c" sid="JOS 6"/>
   <para style="p"><verse number="1" style="v" sid="JOS 6:1"/>Now Jericho {was} shutting and {was} being shut up from the face of the sons of Israel. There was no going out and there was no coming in.
@@ -305,7 +305,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 6:27"/><verse eid="JOS 6:27"/></para>
+<verse eid="JOS 6:27"/></para>
   <chapter eid="JOS 6"/>
   <chapter number="7" style="c" sid="JOS 7"/>
   <para style="p"><verse number="1" style="v" sid="JOS 7:1"/>But the sons of Israel treacherously committed a treacherous act regarding a devoted thing. For Achan, the son of Carmi, the son of Zabdi, the son of Zerah, from the tribe of Judah, took from the devoted thing. And the nose of Yahweh burned against the sons of Israel.
@@ -366,7 +366,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 7:26"/><verse eid="JOS 7:26"/></para>
+<verse eid="JOS 7:26"/></para>
   <chapter eid="JOS 7"/>
   <chapter number="8" style="c" sid="JOS 8"/>
   <para style="p"><verse number="1" style="v" sid="JOS 8:1"/>And Yahweh said to Joshua, “Do not fear and do not be dismayed. Take with you all of the people of war and arise, go up to Ai. See, I have given into your hand the king of Ai and his people and his city and his land.
@@ -443,7 +443,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 8:35"/><verse eid="JOS 8:35"/></para>
+<verse eid="JOS 8:35"/></para>
   <chapter eid="JOS 8"/>
   <chapter number="9" style="c" sid="JOS 9"/>
   <para style="p"><verse number="1" style="v" sid="JOS 9:1"/>And it happened, when all of the kings heard who {were} on the other side of the Jordan, in the hill country and in the lowlands and in all of the coast of the Great Sea toward the front of Lebanon, the Hittite and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite,
@@ -501,7 +501,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 9:27"/><verse eid="JOS 9:27"/></para>
+<verse eid="JOS 9:27"/></para>
   <chapter eid="JOS 9"/>
   <chapter number="10" style="c" sid="JOS 10"/>
   <para style="p"><verse number="1" style="v" sid="JOS 10:1"/>And it happened, when Adoni Zedek, the king of Jerusalem, heard that Joshua had captured Ai and had devoted it, just as he had done to Jericho and to its king, thus he had done to Ai and to its king, and that the dwellers of Gibeon had made peace with Israel and {were} in their midst,
@@ -537,7 +537,7 @@
 <verse eid="JOS 10:12"/><verse number="13" style="v" sid="JOS 10:13"/>And the sun was still, and the moon stood, until the nation avenged its enemies.
 
 </para>
-  <para style="p">Is it not written in the Book of Jashar? And the sun stood in the middle of the heavens, and it did not hurry to go {down}, about a whole day.
+  <para style="p" vid="JOS 10:13">Is it not written in the Book of Jashar? And the sun stood in the middle of the heavens, and it did not hurry to go {down}, about a whole day.
 
 <verse eid="JOS 10:13"/></para>
   <para style="p"><verse number="14" style="v" sid="JOS 10:14"/>And none has been like that day to the face of it or after it, for Yahweh listening to the voice of a man, because Yahweh fought for Israel.
@@ -606,7 +606,7 @@
 
 <ms style="ts"/>
 <verse eid="JOS 10:39"/></para>
-  <para style="p"><verse number="40" style="v" sid="JOS 10:40"/>And Joshua struck all of the land, the hill country and the Negev and the lowland and the slopes, and all of their kings. He did not leave a survivor. And he devoted every breathing thing, just as Yahweh, the God of Israel, had commanded.
+  <para style="p"><verse number="40" style="v" sid="JOS 10:40"/>And Joshua struck all of the land, the hill country and the Negeb and the lowland and the slopes, and all of their kings. He did not leave a survivor. And he devoted every breathing thing, just as Yahweh, the God of Israel, had commanded.
 <verse eid="JOS 10:40"/><verse number="41" style="v" sid="JOS 10:41"/>And Joshua struck them from Kadesh Barnea and unto Gaza, and all of the land of Goshen and unto Gibeon.
 
 <ms style="ts"/>
@@ -615,7 +615,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 10:43"/><verse eid="JOS 10:43"/></para>
+<verse eid="JOS 10:43"/></para>
   <chapter eid="JOS 10"/>
   <chapter number="11" style="c" sid="JOS 11"/>
   <para style="p"><verse number="1" style="v" sid="JOS 11:1"/>And it happened, when Jabin, the king of Hazor, heard, that he sent to Jobab, the king of Madon, and to the king of Shimron and to the king of Achshaph
@@ -650,7 +650,7 @@
 
 <ms style="ts"/>
 <verse eid="JOS 11:15"/></para>
-  <para style="p"><verse number="16" style="v" sid="JOS 11:16"/>And Joshua captured all of this land: the hill country and all of the Negev and all of the land of Goshen and the lowland and the Arabah and the hill country of Israel and its lowland,
+  <para style="p"><verse number="16" style="v" sid="JOS 11:16"/>And Joshua captured all of this land: the hill country and all of the Negeb and all of the land of Goshen and the lowland and the Arabah and the hill country of Israel and its lowland,
 <verse eid="JOS 11:16"/><verse number="17" style="v" sid="JOS 11:17"/>from Mount Halak, the one ascending to Seir, and unto Baal Gad in the Valley of Lebanon below Mount Hermon. And he captured all of their kings and struck them and killed them.
 
 <ms style="ts"/>
@@ -668,7 +668,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 11:23"/><verse eid="JOS 11:23"/></para>
+<verse eid="JOS 11:23"/></para>
   <chapter eid="JOS 11"/>
   <chapter number="12" style="c" sid="JOS 12"/>
   <para style="p"><verse number="1" style="v" sid="JOS 12:1"/>Now these {are} the kings of the land whom the sons of Israel struck and possessed their land on the other side of the Jordan, from the rising of the sun, from the wadi of Arnon unto Mount Hermon, and all of the Arabah from the sunrise:
@@ -688,7 +688,7 @@
 <ms style="ts"/>
 <verse eid="JOS 12:6"/></para>
   <para style="p"><verse number="7" style="v" sid="JOS 12:7"/>Now these {are} the kings of the land whom Joshua and the sons of Israel struck on the other side of the Jordan, toward the sea, from Baal Gad in the valley of the Lebanon and unto Mount Halak, the one ascending to Seir. And Joshua gave it to the tribes of Israel {as} a possession according to their divisions,
-<verse eid="JOS 12:7"/><verse number="8" style="v" sid="JOS 12:8"/>in the hill country, and in the lowland, and in the Arabah, and on the slopes, and in the wilderness, and in the Negev—the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:
+<verse eid="JOS 12:7"/><verse number="8" style="v" sid="JOS 12:8"/>in the hill country, and in the lowland, and in the Arabah, and on the slopes, and in the wilderness, and in the Negeb—the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:
 
 <ms style="ts"/>
 <verse eid="JOS 12:8"/><verse number="9" style="v" sid="JOS 12:9"/>the king of Jericho, one; the king of Ai, which {is} from the side of Bethel, one;
@@ -716,7 +716,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 12:24"/><verse eid="JOS 12:24"/></para>
+<verse eid="JOS 12:24"/></para>
   <chapter eid="JOS 12"/>
   <chapter number="13" style="c" sid="JOS 13"/>
   <para style="p"><verse number="1" style="v" sid="JOS 13:1"/>Now Joshua had aged, he had come into days. And Yahweh said to him, “You have aged, you have come into days, and very much land remains to possess it.
@@ -788,7 +788,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 13:33"/><verse eid="JOS 13:33"/></para>
+<verse eid="JOS 13:33"/></para>
   <chapter eid="JOS 13"/>
   <chapter number="14" style="c" sid="JOS 14"/>
   <para style="p"><verse number="1" style="v" sid="JOS 14:1"/>Now these {are} what the sons of Israel inherited in the land of Canaan, which Eleazar the priest and Joshua, the son of Nun, and the heads of the fathers of the tribes of the sons of Israel caused them to inherit.
@@ -821,7 +821,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 14:15"/><verse eid="JOS 14:15"/></para>
+<verse eid="JOS 14:15"/></para>
   <chapter eid="JOS 14"/>
   <chapter number="15" style="c" sid="JOS 15"/>
   <para style="p"><verse number="1" style="v" sid="JOS 15:1"/>Now the lot for the tribe of the sons of Judah according to their clans was to the border of Edom, from the wilderness of Zin southward from the end of the south.
@@ -859,12 +859,12 @@
 
 <ms style="ts"/>
 <verse eid="JOS 15:17"/><verse number="18" style="v" sid="JOS 15:18"/>Now it happened, in the coming of her, that she persuaded him to request the field from her father. And she descended from upon the donkey, and Caleb said to her, “What for you?”
-<verse eid="JOS 15:18"/><verse number="19" style="v" sid="JOS 15:19"/>And she said, “Give to me a blessing. Since you have given me land of the Negev, you shall also give to me springs of waters.” So he gave to her the upper springs and the lower springs.
+<verse eid="JOS 15:18"/><verse number="19" style="v" sid="JOS 15:19"/>And she said, “Give to me a blessing. Since you have given me land of the Negeb, you shall also give to me springs of waters.” So he gave to her the upper springs and the lower springs.
 
 <ms style="ts"/>
 <verse eid="JOS 15:19"/></para>
   <para style="p"><verse number="20" style="v" sid="JOS 15:20"/>This {is} the inheritance of the tribe of the sons of Judah according to their clans:
-<verse eid="JOS 15:20"/><verse number="21" style="v" sid="JOS 15:21"/>Now the cities at the end of the tribe of the sons of Judah, toward the border of Edom in the Negev, were: Kabzeel and Eder and Jagur
+<verse eid="JOS 15:20"/><verse number="21" style="v" sid="JOS 15:21"/>Now the cities at the end of the tribe of the sons of Judah, toward the border of Edom in the Negeb, were: Kabzeel and Eder and Jagur
 <verse eid="JOS 15:21"/><verse number="22" style="v" sid="JOS 15:22"/>and Kinah and Dimonah and Adadah
 <verse eid="JOS 15:22"/><verse number="23" style="v" sid="JOS 15:23"/>and Kedesh and Hazor and Ithnan,
 <verse eid="JOS 15:23"/><verse number="24" style="v" sid="JOS 15:24"/>Ziph and Telem and Bealoth
@@ -942,7 +942,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 15:63"/><verse eid="JOS 15:63"/></para>
+<verse eid="JOS 15:63"/></para>
   <chapter eid="JOS 15"/>
   <chapter number="16" style="c" sid="JOS 16"/>
   <para style="p"><verse number="1" style="v" sid="JOS 16:1"/>Now the lot for the sons of Joseph went out from the Jordan {at} Jericho, to the waters of Jericho from the sunrise, going up {through} the wilderness from Jericho into the hill country of Bethel.
@@ -963,7 +963,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 16:10"/><verse eid="JOS 16:10"/></para>
+<verse eid="JOS 16:10"/></para>
   <chapter eid="JOS 16"/>
   <chapter number="17" style="c" sid="JOS 17"/>
   <para style="p"><verse number="1" style="v" sid="JOS 17:1"/>And a lot was for the tribe of Manasseh. (Now he was the firstborn of Joseph.) For Machir, the firstborn of Manasseh, the father of Gilead, because he was a man of war, so to him were Gilead and Bashan.
@@ -1003,7 +1003,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 17:18"/><verse eid="JOS 17:18"/></para>
+<verse eid="JOS 17:18"/></para>
   <chapter eid="JOS 17"/>
   <chapter number="18" style="c" sid="JOS 18"/>
   <para style="p"><verse number="1" style="v" sid="JOS 18:1"/>Then all of the congregation of the sons of Israel assembled at Shiloh, and they placed the Tent of Meeting there. And the land was subdued to their face.
@@ -1060,7 +1060,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 18:28"/><verse eid="JOS 18:28"/></para>
+<verse eid="JOS 18:28"/></para>
   <chapter eid="JOS 18"/>
   <chapter number="19" style="c" sid="JOS 19"/>
   <para style="p"><verse number="1" style="v" sid="JOS 19:1"/>And the second lot came out for Simeon, for the tribe of the sons of Simeon according to their clans. And their inheritance was in the midst of the inheritance of the sons of Judah.
@@ -1074,7 +1074,7 @@
 <verse eid="JOS 19:6"/><verse number="7" style="v" sid="JOS 19:7"/>Ain, Rimmon and Ether and Ashan: four cities and their villages;
 
 <ms style="ts"/>
-<verse eid="JOS 19:7"/><verse number="8" style="v" sid="JOS 19:8"/>and all of the villages that {were} around these cities unto Baalath Beer (Ramah of the Negev). This {was} the inheritance of the tribe of the sons of Simeon according to their clans.
+<verse eid="JOS 19:7"/><verse number="8" style="v" sid="JOS 19:8"/>and all of the villages that {were} around these cities unto Baalath Beer (Ramah of the Negeb). This {was} the inheritance of the tribe of the sons of Simeon according to their clans.
 <verse eid="JOS 19:8"/><verse number="9" style="v" sid="JOS 19:9"/>From the portion of the sons of Judah {was} the inheritance of the sons of Simeon. For the division of the sons of Judah was {too} great for them, so the sons of Simeon inherited in the midst of their inheritance.
 
 <ms style="ts"/>
@@ -1162,7 +1162,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 19:51"/><verse eid="JOS 19:51"/></para>
+<verse eid="JOS 19:51"/></para>
   <chapter eid="JOS 19"/>
   <chapter number="20" style="c" sid="JOS 20"/>
   <para style="p"><verse number="1" style="v" sid="JOS 20:1"/>And Yahweh spoke to Joshua, saying,
@@ -1182,7 +1182,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 20:9"/><verse eid="JOS 20:9"/></para>
+<verse eid="JOS 20:9"/></para>
   <chapter eid="JOS 20"/>
   <chapter number="21" style="c" sid="JOS 21"/>
   <para style="p"><verse number="1" style="v" sid="JOS 21:1"/>And the heads of the fathers of the Levites came near to Eleazar the priest and to Joshua, the son of Nun, and to the heads of the fathers of the tribes of the sons of Israel.
@@ -1292,7 +1292,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 21:45"/><verse eid="JOS 21:45"/></para>
+<verse eid="JOS 21:45"/></para>
   <chapter eid="JOS 21"/>
   <chapter number="22" style="c" sid="JOS 22"/>
   <para style="p"><verse number="1" style="v" sid="JOS 22:1"/>Then Joshua called to the Reubenite and to the Gadite and to half of the tribe of Manasseh.
@@ -1371,7 +1371,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 22:34"/><verse eid="JOS 22:34"/></para>
+<verse eid="JOS 22:34"/></para>
   <chapter eid="JOS 22"/>
   <chapter number="23" style="c" sid="JOS 23"/>
   <para style="p"><verse number="1" style="v" sid="JOS 23:1"/>And it happened from many days afterward, when Yahweh had given rest to Israel from all of their enemies from all around, that Joshua had aged, he had come into days.
@@ -1405,7 +1405,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JOS 23:16"/><verse eid="JOS 23:16"/></para>
+<verse eid="JOS 23:16"/></para>
   <chapter eid="JOS 23"/>
   <chapter number="24" style="c" sid="JOS 24"/>
   <para style="p"><verse number="1" style="v" sid="JOS 24:1"/>And Joshua gathered all of the tribes of Israel to Shechem. And he called to the elders of Israel and to its heads and to its judges and to its officers. And they presented themselves to the face of God.

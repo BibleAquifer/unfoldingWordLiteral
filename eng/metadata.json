@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "unfoldingWordLiteral",
-"date_created": "2026-09-28",
+"date_created": "2026-11-18",
 "language": "eng",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-28T15:09:34.526006"
+"dateCreated": "2026-11-18T09:13:27.119888"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "unfoldingWordLiteral": {
-"timestamp": "2026-09-28T15:09:34.526006"
+"timestamp": "2026-11-18T09:13:27.119888"
 }
 }
 },
@@ -87,7 +87,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 601185,
+"size": 601183,
 "scope": {
 "GEN": [
 "Genesis 1:1",
@@ -1628,7 +1628,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 480555,
+"size": 480542,
 "scope": {
 "EXO": [
 "Exodus 1:1",
@@ -2849,7 +2849,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 353424,
+"size": 353422,
 "scope": {
 "LEV": [
 "Leviticus 1:1",
@@ -3711,6 +3711,1302 @@
 "Leviticus 27:32",
 "Leviticus 27:33",
 "Leviticus 27:34"
+]
+}
+},
+"json/04.content.json": {
+"mimeType": "text/json",
+"size": 503133,
+"scope": {
+"NUM": [
+"Numbers 1:1",
+"Numbers 1:2",
+"Numbers 1:3",
+"Numbers 1:4",
+"Numbers 1:5",
+"Numbers 1:6",
+"Numbers 1:7",
+"Numbers 1:8",
+"Numbers 1:9",
+"Numbers 1:10",
+"Numbers 1:11",
+"Numbers 1:12",
+"Numbers 1:13",
+"Numbers 1:14",
+"Numbers 1:15",
+"Numbers 1:16",
+"Numbers 1:17",
+"Numbers 1:18",
+"Numbers 1:19",
+"Numbers 1:20",
+"Numbers 1:21",
+"Numbers 1:22",
+"Numbers 1:23",
+"Numbers 1:24",
+"Numbers 1:25",
+"Numbers 1:26",
+"Numbers 1:27",
+"Numbers 1:28",
+"Numbers 1:29",
+"Numbers 1:30",
+"Numbers 1:31",
+"Numbers 1:32",
+"Numbers 1:33",
+"Numbers 1:34",
+"Numbers 1:35",
+"Numbers 1:36",
+"Numbers 1:37",
+"Numbers 1:38",
+"Numbers 1:39",
+"Numbers 1:40",
+"Numbers 1:41",
+"Numbers 1:42",
+"Numbers 1:43",
+"Numbers 1:44",
+"Numbers 1:45",
+"Numbers 1:46",
+"Numbers 1:47",
+"Numbers 1:48",
+"Numbers 1:49",
+"Numbers 1:50",
+"Numbers 1:51",
+"Numbers 1:52",
+"Numbers 1:53",
+"Numbers 1:54",
+"Numbers 2:1",
+"Numbers 2:2",
+"Numbers 2:3",
+"Numbers 2:4",
+"Numbers 2:5",
+"Numbers 2:6",
+"Numbers 2:7",
+"Numbers 2:8",
+"Numbers 2:9",
+"Numbers 2:10",
+"Numbers 2:11",
+"Numbers 2:12",
+"Numbers 2:13",
+"Numbers 2:14",
+"Numbers 2:15",
+"Numbers 2:16",
+"Numbers 2:17",
+"Numbers 2:18",
+"Numbers 2:19",
+"Numbers 2:20",
+"Numbers 2:21",
+"Numbers 2:22",
+"Numbers 2:23",
+"Numbers 2:24",
+"Numbers 2:25",
+"Numbers 2:26",
+"Numbers 2:27",
+"Numbers 2:28",
+"Numbers 2:29",
+"Numbers 2:30",
+"Numbers 2:31",
+"Numbers 2:32",
+"Numbers 2:33",
+"Numbers 2:34",
+"Numbers 3:1",
+"Numbers 3:2",
+"Numbers 3:3",
+"Numbers 3:4",
+"Numbers 3:5",
+"Numbers 3:6",
+"Numbers 3:7",
+"Numbers 3:8",
+"Numbers 3:9",
+"Numbers 3:10",
+"Numbers 3:11",
+"Numbers 3:12",
+"Numbers 3:13",
+"Numbers 3:14",
+"Numbers 3:15",
+"Numbers 3:16",
+"Numbers 3:17",
+"Numbers 3:18",
+"Numbers 3:19",
+"Numbers 3:20",
+"Numbers 3:21",
+"Numbers 3:22",
+"Numbers 3:23",
+"Numbers 3:24",
+"Numbers 3:25",
+"Numbers 3:26",
+"Numbers 3:27",
+"Numbers 3:28",
+"Numbers 3:29",
+"Numbers 3:30",
+"Numbers 3:31",
+"Numbers 3:32",
+"Numbers 3:33",
+"Numbers 3:34",
+"Numbers 3:35",
+"Numbers 3:36",
+"Numbers 3:37",
+"Numbers 3:38",
+"Numbers 3:39",
+"Numbers 3:40",
+"Numbers 3:41",
+"Numbers 3:42",
+"Numbers 3:43",
+"Numbers 3:44",
+"Numbers 3:45",
+"Numbers 3:46",
+"Numbers 3:47",
+"Numbers 3:48",
+"Numbers 3:49",
+"Numbers 3:50",
+"Numbers 3:51",
+"Numbers 4:1",
+"Numbers 4:2",
+"Numbers 4:3",
+"Numbers 4:4",
+"Numbers 4:5",
+"Numbers 4:6",
+"Numbers 4:7",
+"Numbers 4:8",
+"Numbers 4:9",
+"Numbers 4:10",
+"Numbers 4:11",
+"Numbers 4:12",
+"Numbers 4:13",
+"Numbers 4:14",
+"Numbers 4:15",
+"Numbers 4:16",
+"Numbers 4:17",
+"Numbers 4:18",
+"Numbers 4:19",
+"Numbers 4:20",
+"Numbers 4:21",
+"Numbers 4:22",
+"Numbers 4:23",
+"Numbers 4:24",
+"Numbers 4:25",
+"Numbers 4:26",
+"Numbers 4:27",
+"Numbers 4:28",
+"Numbers 4:29",
+"Numbers 4:30",
+"Numbers 4:31",
+"Numbers 4:32",
+"Numbers 4:33",
+"Numbers 4:34",
+"Numbers 4:35",
+"Numbers 4:36",
+"Numbers 4:37",
+"Numbers 4:38",
+"Numbers 4:39",
+"Numbers 4:40",
+"Numbers 4:41",
+"Numbers 4:42",
+"Numbers 4:43",
+"Numbers 4:44",
+"Numbers 4:45",
+"Numbers 4:46",
+"Numbers 4:47",
+"Numbers 4:48",
+"Numbers 4:49",
+"Numbers 5:1",
+"Numbers 5:2",
+"Numbers 5:3",
+"Numbers 5:4",
+"Numbers 5:5",
+"Numbers 5:6",
+"Numbers 5:7",
+"Numbers 5:8",
+"Numbers 5:9",
+"Numbers 5:10",
+"Numbers 5:11",
+"Numbers 5:12",
+"Numbers 5:13",
+"Numbers 5:14",
+"Numbers 5:15",
+"Numbers 5:16",
+"Numbers 5:17",
+"Numbers 5:18",
+"Numbers 5:19",
+"Numbers 5:20",
+"Numbers 5:21",
+"Numbers 5:22",
+"Numbers 5:23",
+"Numbers 5:24",
+"Numbers 5:25",
+"Numbers 5:26",
+"Numbers 5:27",
+"Numbers 5:28",
+"Numbers 5:29",
+"Numbers 5:30",
+"Numbers 5:31",
+"Numbers 6:1",
+"Numbers 6:2",
+"Numbers 6:3",
+"Numbers 6:4",
+"Numbers 6:5",
+"Numbers 6:6",
+"Numbers 6:7",
+"Numbers 6:8",
+"Numbers 6:9",
+"Numbers 6:10",
+"Numbers 6:11",
+"Numbers 6:12",
+"Numbers 6:13",
+"Numbers 6:14",
+"Numbers 6:15",
+"Numbers 6:16",
+"Numbers 6:17",
+"Numbers 6:18",
+"Numbers 6:19",
+"Numbers 6:20",
+"Numbers 6:21",
+"Numbers 6:22",
+"Numbers 6:23",
+"Numbers 6:24",
+"Numbers 6:25",
+"Numbers 6:26",
+"Numbers 6:27",
+"Numbers 7:1",
+"Numbers 7:2",
+"Numbers 7:3",
+"Numbers 7:4",
+"Numbers 7:5",
+"Numbers 7:6",
+"Numbers 7:7",
+"Numbers 7:8",
+"Numbers 7:9",
+"Numbers 7:10",
+"Numbers 7:11",
+"Numbers 7:12",
+"Numbers 7:13",
+"Numbers 7:14",
+"Numbers 7:15",
+"Numbers 7:16",
+"Numbers 7:17",
+"Numbers 7:18",
+"Numbers 7:19",
+"Numbers 7:20",
+"Numbers 7:21",
+"Numbers 7:22",
+"Numbers 7:23",
+"Numbers 7:24",
+"Numbers 7:25",
+"Numbers 7:26",
+"Numbers 7:27",
+"Numbers 7:28",
+"Numbers 7:29",
+"Numbers 7:30",
+"Numbers 7:31",
+"Numbers 7:32",
+"Numbers 7:33",
+"Numbers 7:34",
+"Numbers 7:35",
+"Numbers 7:36",
+"Numbers 7:37",
+"Numbers 7:38",
+"Numbers 7:39",
+"Numbers 7:40",
+"Numbers 7:41",
+"Numbers 7:42",
+"Numbers 7:43",
+"Numbers 7:44",
+"Numbers 7:45",
+"Numbers 7:46",
+"Numbers 7:47",
+"Numbers 7:48",
+"Numbers 7:49",
+"Numbers 7:50",
+"Numbers 7:51",
+"Numbers 7:52",
+"Numbers 7:53",
+"Numbers 7:54",
+"Numbers 7:55",
+"Numbers 7:56",
+"Numbers 7:57",
+"Numbers 7:58",
+"Numbers 7:59",
+"Numbers 7:60",
+"Numbers 7:61",
+"Numbers 7:62",
+"Numbers 7:63",
+"Numbers 7:64",
+"Numbers 7:65",
+"Numbers 7:66",
+"Numbers 7:67",
+"Numbers 7:68",
+"Numbers 7:69",
+"Numbers 7:70",
+"Numbers 7:71",
+"Numbers 7:72",
+"Numbers 7:73",
+"Numbers 7:74",
+"Numbers 7:75",
+"Numbers 7:76",
+"Numbers 7:77",
+"Numbers 7:78",
+"Numbers 7:79",
+"Numbers 7:80",
+"Numbers 7:81",
+"Numbers 7:82",
+"Numbers 7:83",
+"Numbers 7:84",
+"Numbers 7:85",
+"Numbers 7:86",
+"Numbers 7:87",
+"Numbers 7:88",
+"Numbers 7:89",
+"Numbers 8:1",
+"Numbers 8:2",
+"Numbers 8:3",
+"Numbers 8:4",
+"Numbers 8:5",
+"Numbers 8:6",
+"Numbers 8:7",
+"Numbers 8:8",
+"Numbers 8:9",
+"Numbers 8:10",
+"Numbers 8:11",
+"Numbers 8:12",
+"Numbers 8:13",
+"Numbers 8:14",
+"Numbers 8:15",
+"Numbers 8:16",
+"Numbers 8:17",
+"Numbers 8:18",
+"Numbers 8:19",
+"Numbers 8:20",
+"Numbers 8:21",
+"Numbers 8:22",
+"Numbers 8:23",
+"Numbers 8:24",
+"Numbers 8:25",
+"Numbers 8:26",
+"Numbers 9:1",
+"Numbers 9:2",
+"Numbers 9:3",
+"Numbers 9:4",
+"Numbers 9:5",
+"Numbers 9:6",
+"Numbers 9:7",
+"Numbers 9:8",
+"Numbers 9:9",
+"Numbers 9:10",
+"Numbers 9:11",
+"Numbers 9:12",
+"Numbers 9:13",
+"Numbers 9:14",
+"Numbers 9:15",
+"Numbers 9:16",
+"Numbers 9:17",
+"Numbers 9:18",
+"Numbers 9:19",
+"Numbers 9:20",
+"Numbers 9:21",
+"Numbers 9:22",
+"Numbers 9:23",
+"Numbers 10:1",
+"Numbers 10:2",
+"Numbers 10:3",
+"Numbers 10:4",
+"Numbers 10:5",
+"Numbers 10:6",
+"Numbers 10:7",
+"Numbers 10:8",
+"Numbers 10:9",
+"Numbers 10:10",
+"Numbers 10:11",
+"Numbers 10:12",
+"Numbers 10:13",
+"Numbers 10:14",
+"Numbers 10:15",
+"Numbers 10:16",
+"Numbers 10:17",
+"Numbers 10:18",
+"Numbers 10:19",
+"Numbers 10:20",
+"Numbers 10:21",
+"Numbers 10:22",
+"Numbers 10:23",
+"Numbers 10:24",
+"Numbers 10:25",
+"Numbers 10:26",
+"Numbers 10:27",
+"Numbers 10:28",
+"Numbers 10:29",
+"Numbers 10:30",
+"Numbers 10:31",
+"Numbers 10:32",
+"Numbers 10:33",
+"Numbers 10:34",
+"Numbers 10:35",
+"Numbers 10:36",
+"Numbers 11:1",
+"Numbers 11:2",
+"Numbers 11:3",
+"Numbers 11:4",
+"Numbers 11:5",
+"Numbers 11:6",
+"Numbers 11:7",
+"Numbers 11:8",
+"Numbers 11:9",
+"Numbers 11:10",
+"Numbers 11:11",
+"Numbers 11:12",
+"Numbers 11:13",
+"Numbers 11:14",
+"Numbers 11:15",
+"Numbers 11:16",
+"Numbers 11:17",
+"Numbers 11:18",
+"Numbers 11:19",
+"Numbers 11:20",
+"Numbers 11:21",
+"Numbers 11:22",
+"Numbers 11:23",
+"Numbers 11:24",
+"Numbers 11:25",
+"Numbers 11:26",
+"Numbers 11:27",
+"Numbers 11:28",
+"Numbers 11:29",
+"Numbers 11:30",
+"Numbers 11:31",
+"Numbers 11:32",
+"Numbers 11:33",
+"Numbers 11:34",
+"Numbers 11:35",
+"Numbers 12:1",
+"Numbers 12:2",
+"Numbers 12:3",
+"Numbers 12:4",
+"Numbers 12:5",
+"Numbers 12:6",
+"Numbers 12:7",
+"Numbers 12:8",
+"Numbers 12:9",
+"Numbers 12:10",
+"Numbers 12:11",
+"Numbers 12:12",
+"Numbers 12:13",
+"Numbers 12:14",
+"Numbers 12:15",
+"Numbers 12:16",
+"Numbers 13:1",
+"Numbers 13:2",
+"Numbers 13:3",
+"Numbers 13:4",
+"Numbers 13:5",
+"Numbers 13:6",
+"Numbers 13:7",
+"Numbers 13:8",
+"Numbers 13:9",
+"Numbers 13:10",
+"Numbers 13:11",
+"Numbers 13:12",
+"Numbers 13:13",
+"Numbers 13:14",
+"Numbers 13:15",
+"Numbers 13:16",
+"Numbers 13:17",
+"Numbers 13:18",
+"Numbers 13:19",
+"Numbers 13:20",
+"Numbers 13:21",
+"Numbers 13:22",
+"Numbers 13:23",
+"Numbers 13:24",
+"Numbers 13:25",
+"Numbers 13:26",
+"Numbers 13:27",
+"Numbers 13:28",
+"Numbers 13:29",
+"Numbers 13:30",
+"Numbers 13:31",
+"Numbers 13:32",
+"Numbers 13:33",
+"Numbers 14:1",
+"Numbers 14:2",
+"Numbers 14:3",
+"Numbers 14:4",
+"Numbers 14:5",
+"Numbers 14:6",
+"Numbers 14:7",
+"Numbers 14:8",
+"Numbers 14:9",
+"Numbers 14:10",
+"Numbers 14:11",
+"Numbers 14:12",
+"Numbers 14:13",
+"Numbers 14:14",
+"Numbers 14:15",
+"Numbers 14:16",
+"Numbers 14:17",
+"Numbers 14:18",
+"Numbers 14:19",
+"Numbers 14:20",
+"Numbers 14:21",
+"Numbers 14:22",
+"Numbers 14:23",
+"Numbers 14:24",
+"Numbers 14:25",
+"Numbers 14:26",
+"Numbers 14:27",
+"Numbers 14:28",
+"Numbers 14:29",
+"Numbers 14:30",
+"Numbers 14:31",
+"Numbers 14:32",
+"Numbers 14:33",
+"Numbers 14:34",
+"Numbers 14:35",
+"Numbers 14:36",
+"Numbers 14:37",
+"Numbers 14:38",
+"Numbers 14:39",
+"Numbers 14:40",
+"Numbers 14:41",
+"Numbers 14:42",
+"Numbers 14:43",
+"Numbers 14:44",
+"Numbers 14:45",
+"Numbers 15:1",
+"Numbers 15:2",
+"Numbers 15:3",
+"Numbers 15:4",
+"Numbers 15:5",
+"Numbers 15:6",
+"Numbers 15:7",
+"Numbers 15:8",
+"Numbers 15:9",
+"Numbers 15:10",
+"Numbers 15:11",
+"Numbers 15:12",
+"Numbers 15:13",
+"Numbers 15:14",
+"Numbers 15:15",
+"Numbers 15:16",
+"Numbers 15:17",
+"Numbers 15:18",
+"Numbers 15:19",
+"Numbers 15:20",
+"Numbers 15:21",
+"Numbers 15:22",
+"Numbers 15:23",
+"Numbers 15:24",
+"Numbers 15:25",
+"Numbers 15:26",
+"Numbers 15:27",
+"Numbers 15:28",
+"Numbers 15:29",
+"Numbers 15:30",
+"Numbers 15:31",
+"Numbers 15:32",
+"Numbers 15:33",
+"Numbers 15:34",
+"Numbers 15:35",
+"Numbers 15:36",
+"Numbers 15:37",
+"Numbers 15:38",
+"Numbers 15:39",
+"Numbers 15:40",
+"Numbers 15:41",
+"Numbers 16:1",
+"Numbers 16:2",
+"Numbers 16:3",
+"Numbers 16:4",
+"Numbers 16:5",
+"Numbers 16:6",
+"Numbers 16:7",
+"Numbers 16:8",
+"Numbers 16:9",
+"Numbers 16:10",
+"Numbers 16:11",
+"Numbers 16:12",
+"Numbers 16:13",
+"Numbers 16:14",
+"Numbers 16:15",
+"Numbers 16:16",
+"Numbers 16:17",
+"Numbers 16:18",
+"Numbers 16:19",
+"Numbers 16:20",
+"Numbers 16:21",
+"Numbers 16:22",
+"Numbers 16:23",
+"Numbers 16:24",
+"Numbers 16:25",
+"Numbers 16:26",
+"Numbers 16:27",
+"Numbers 16:28",
+"Numbers 16:29",
+"Numbers 16:30",
+"Numbers 16:31",
+"Numbers 16:32",
+"Numbers 16:33",
+"Numbers 16:34",
+"Numbers 16:35",
+"Numbers 16:36",
+"Numbers 16:37",
+"Numbers 16:38",
+"Numbers 16:39",
+"Numbers 16:40",
+"Numbers 16:41",
+"Numbers 16:42",
+"Numbers 16:43",
+"Numbers 16:44",
+"Numbers 16:45",
+"Numbers 16:46",
+"Numbers 16:47",
+"Numbers 16:48",
+"Numbers 16:49",
+"Numbers 16:50",
+"Numbers 17:1",
+"Numbers 17:2",
+"Numbers 17:3",
+"Numbers 17:4",
+"Numbers 17:5",
+"Numbers 17:6",
+"Numbers 17:7",
+"Numbers 17:8",
+"Numbers 17:9",
+"Numbers 17:10",
+"Numbers 17:11",
+"Numbers 17:12",
+"Numbers 17:13",
+"Numbers 18:1",
+"Numbers 18:2",
+"Numbers 18:3",
+"Numbers 18:4",
+"Numbers 18:5",
+"Numbers 18:6",
+"Numbers 18:7",
+"Numbers 18:8",
+"Numbers 18:9",
+"Numbers 18:10",
+"Numbers 18:11",
+"Numbers 18:12",
+"Numbers 18:13",
+"Numbers 18:14",
+"Numbers 18:15",
+"Numbers 18:16",
+"Numbers 18:17",
+"Numbers 18:18",
+"Numbers 18:19",
+"Numbers 18:20",
+"Numbers 18:21",
+"Numbers 18:22",
+"Numbers 18:23",
+"Numbers 18:24",
+"Numbers 18:25",
+"Numbers 18:26",
+"Numbers 18:27",
+"Numbers 18:28",
+"Numbers 18:29",
+"Numbers 18:30",
+"Numbers 18:31",
+"Numbers 18:32",
+"Numbers 19:1",
+"Numbers 19:2",
+"Numbers 19:3",
+"Numbers 19:4",
+"Numbers 19:5",
+"Numbers 19:6",
+"Numbers 19:7",
+"Numbers 19:8",
+"Numbers 19:9",
+"Numbers 19:10",
+"Numbers 19:11",
+"Numbers 19:12",
+"Numbers 19:13",
+"Numbers 19:14",
+"Numbers 19:15",
+"Numbers 19:16",
+"Numbers 19:17",
+"Numbers 19:18",
+"Numbers 19:19",
+"Numbers 19:20",
+"Numbers 19:21",
+"Numbers 19:22",
+"Numbers 20:1",
+"Numbers 20:2",
+"Numbers 20:3",
+"Numbers 20:4",
+"Numbers 20:5",
+"Numbers 20:6",
+"Numbers 20:7",
+"Numbers 20:8",
+"Numbers 20:9",
+"Numbers 20:10",
+"Numbers 20:11",
+"Numbers 20:12",
+"Numbers 20:13",
+"Numbers 20:14",
+"Numbers 20:15",
+"Numbers 20:16",
+"Numbers 20:17",
+"Numbers 20:18",
+"Numbers 20:19",
+"Numbers 20:20",
+"Numbers 20:21",
+"Numbers 20:22",
+"Numbers 20:23",
+"Numbers 20:24",
+"Numbers 20:25",
+"Numbers 20:26",
+"Numbers 20:27",
+"Numbers 20:28",
+"Numbers 20:29",
+"Numbers 21:1",
+"Numbers 21:2",
+"Numbers 21:3",
+"Numbers 21:4",
+"Numbers 21:5",
+"Numbers 21:6",
+"Numbers 21:7",
+"Numbers 21:8",
+"Numbers 21:9",
+"Numbers 21:10",
+"Numbers 21:11",
+"Numbers 21:12",
+"Numbers 21:13",
+"Numbers 21:14",
+"Numbers 21:15",
+"Numbers 21:16",
+"Numbers 21:17",
+"Numbers 21:18",
+"Numbers 21:19",
+"Numbers 21:20",
+"Numbers 21:21",
+"Numbers 21:22",
+"Numbers 21:23",
+"Numbers 21:24",
+"Numbers 21:25",
+"Numbers 21:26",
+"Numbers 21:27",
+"Numbers 21:28",
+"Numbers 21:29",
+"Numbers 21:30",
+"Numbers 21:31",
+"Numbers 21:32",
+"Numbers 21:33",
+"Numbers 21:34",
+"Numbers 21:35",
+"Numbers 22:1",
+"Numbers 22:2",
+"Numbers 22:3",
+"Numbers 22:4",
+"Numbers 22:5",
+"Numbers 22:6",
+"Numbers 22:7",
+"Numbers 22:8",
+"Numbers 22:9",
+"Numbers 22:10",
+"Numbers 22:11",
+"Numbers 22:12",
+"Numbers 22:13",
+"Numbers 22:14",
+"Numbers 22:15",
+"Numbers 22:16",
+"Numbers 22:17",
+"Numbers 22:18",
+"Numbers 22:19",
+"Numbers 22:20",
+"Numbers 22:21",
+"Numbers 22:22",
+"Numbers 22:23",
+"Numbers 22:24",
+"Numbers 22:25",
+"Numbers 22:26",
+"Numbers 22:27",
+"Numbers 22:28",
+"Numbers 22:29",
+"Numbers 22:30",
+"Numbers 22:31",
+"Numbers 22:32",
+"Numbers 22:33",
+"Numbers 22:34",
+"Numbers 22:35",
+"Numbers 22:36",
+"Numbers 22:37",
+"Numbers 22:38",
+"Numbers 22:39",
+"Numbers 22:40",
+"Numbers 22:41",
+"Numbers 23:1",
+"Numbers 23:2",
+"Numbers 23:3",
+"Numbers 23:4",
+"Numbers 23:5",
+"Numbers 23:6",
+"Numbers 23:7",
+"Numbers 23:8",
+"Numbers 23:9",
+"Numbers 23:10",
+"Numbers 23:11",
+"Numbers 23:12",
+"Numbers 23:13",
+"Numbers 23:14",
+"Numbers 23:15",
+"Numbers 23:16",
+"Numbers 23:17",
+"Numbers 23:18",
+"Numbers 23:19",
+"Numbers 23:20",
+"Numbers 23:21",
+"Numbers 23:22",
+"Numbers 23:23",
+"Numbers 23:24",
+"Numbers 23:25",
+"Numbers 23:26",
+"Numbers 23:27",
+"Numbers 23:28",
+"Numbers 23:29",
+"Numbers 23:30",
+"Numbers 24:1",
+"Numbers 24:2",
+"Numbers 24:3",
+"Numbers 24:4",
+"Numbers 24:5",
+"Numbers 24:6",
+"Numbers 24:7",
+"Numbers 24:8",
+"Numbers 24:9",
+"Numbers 24:10",
+"Numbers 24:11",
+"Numbers 24:12",
+"Numbers 24:13",
+"Numbers 24:14",
+"Numbers 24:15",
+"Numbers 24:16",
+"Numbers 24:17",
+"Numbers 24:18",
+"Numbers 24:19",
+"Numbers 24:20",
+"Numbers 24:21",
+"Numbers 24:22",
+"Numbers 24:23",
+"Numbers 24:24",
+"Numbers 24:25",
+"Numbers 25:1",
+"Numbers 25:2",
+"Numbers 25:3",
+"Numbers 25:4",
+"Numbers 25:5",
+"Numbers 25:6",
+"Numbers 25:7",
+"Numbers 25:8",
+"Numbers 25:9",
+"Numbers 25:10",
+"Numbers 25:11",
+"Numbers 25:12",
+"Numbers 25:13",
+"Numbers 25:14",
+"Numbers 25:15",
+"Numbers 25:16",
+"Numbers 25:17",
+"Numbers 25:18",
+"Numbers 26:1",
+"Numbers 26:2",
+"Numbers 26:3",
+"Numbers 26:4",
+"Numbers 26:5",
+"Numbers 26:6",
+"Numbers 26:7",
+"Numbers 26:8",
+"Numbers 26:9",
+"Numbers 26:10",
+"Numbers 26:11",
+"Numbers 26:12",
+"Numbers 26:13",
+"Numbers 26:14",
+"Numbers 26:15",
+"Numbers 26:16",
+"Numbers 26:17",
+"Numbers 26:18",
+"Numbers 26:19",
+"Numbers 26:20",
+"Numbers 26:21",
+"Numbers 26:22",
+"Numbers 26:23",
+"Numbers 26:24",
+"Numbers 26:25",
+"Numbers 26:26",
+"Numbers 26:27",
+"Numbers 26:28",
+"Numbers 26:29",
+"Numbers 26:30",
+"Numbers 26:31",
+"Numbers 26:32",
+"Numbers 26:33",
+"Numbers 26:34",
+"Numbers 26:35",
+"Numbers 26:36",
+"Numbers 26:37",
+"Numbers 26:38",
+"Numbers 26:39",
+"Numbers 26:40",
+"Numbers 26:41",
+"Numbers 26:42",
+"Numbers 26:43",
+"Numbers 26:44",
+"Numbers 26:45",
+"Numbers 26:46",
+"Numbers 26:47",
+"Numbers 26:48",
+"Numbers 26:49",
+"Numbers 26:50",
+"Numbers 26:51",
+"Numbers 26:52",
+"Numbers 26:53",
+"Numbers 26:54",
+"Numbers 26:55",
+"Numbers 26:56",
+"Numbers 26:57",
+"Numbers 26:58",
+"Numbers 26:59",
+"Numbers 26:60",
+"Numbers 26:61",
+"Numbers 26:62",
+"Numbers 26:63",
+"Numbers 26:64",
+"Numbers 26:65",
+"Numbers 27:1",
+"Numbers 27:2",
+"Numbers 27:3",
+"Numbers 27:4",
+"Numbers 27:5",
+"Numbers 27:6",
+"Numbers 27:7",
+"Numbers 27:8",
+"Numbers 27:9",
+"Numbers 27:10",
+"Numbers 27:11",
+"Numbers 27:12",
+"Numbers 27:13",
+"Numbers 27:14",
+"Numbers 27:15",
+"Numbers 27:16",
+"Numbers 27:17",
+"Numbers 27:18",
+"Numbers 27:19",
+"Numbers 27:20",
+"Numbers 27:21",
+"Numbers 27:22",
+"Numbers 27:23",
+"Numbers 28:1",
+"Numbers 28:2",
+"Numbers 28:3",
+"Numbers 28:4",
+"Numbers 28:5",
+"Numbers 28:6",
+"Numbers 28:7",
+"Numbers 28:8",
+"Numbers 28:9",
+"Numbers 28:10",
+"Numbers 28:11",
+"Numbers 28:12",
+"Numbers 28:13",
+"Numbers 28:14",
+"Numbers 28:15",
+"Numbers 28:16",
+"Numbers 28:17",
+"Numbers 28:18",
+"Numbers 28:19",
+"Numbers 28:20",
+"Numbers 28:21",
+"Numbers 28:22",
+"Numbers 28:23",
+"Numbers 28:24",
+"Numbers 28:25",
+"Numbers 28:26",
+"Numbers 28:27",
+"Numbers 28:28",
+"Numbers 28:29",
+"Numbers 28:30",
+"Numbers 28:31",
+"Numbers 29:1",
+"Numbers 29:2",
+"Numbers 29:3",
+"Numbers 29:4",
+"Numbers 29:5",
+"Numbers 29:6",
+"Numbers 29:7",
+"Numbers 29:8",
+"Numbers 29:9",
+"Numbers 29:10",
+"Numbers 29:11",
+"Numbers 29:12",
+"Numbers 29:13",
+"Numbers 29:14",
+"Numbers 29:15",
+"Numbers 29:16",
+"Numbers 29:17",
+"Numbers 29:18",
+"Numbers 29:19",
+"Numbers 29:20",
+"Numbers 29:21",
+"Numbers 29:22",
+"Numbers 29:23",
+"Numbers 29:24",
+"Numbers 29:25",
+"Numbers 29:26",
+"Numbers 29:27",
+"Numbers 29:28",
+"Numbers 29:29",
+"Numbers 29:30",
+"Numbers 29:31",
+"Numbers 29:32",
+"Numbers 29:33",
+"Numbers 29:34",
+"Numbers 29:35",
+"Numbers 29:36",
+"Numbers 29:37",
+"Numbers 29:38",
+"Numbers 29:39",
+"Numbers 29:40",
+"Numbers 30:1",
+"Numbers 30:2",
+"Numbers 30:3",
+"Numbers 30:4",
+"Numbers 30:5",
+"Numbers 30:6",
+"Numbers 30:7",
+"Numbers 30:8",
+"Numbers 30:9",
+"Numbers 30:10",
+"Numbers 30:11",
+"Numbers 30:12",
+"Numbers 30:13",
+"Numbers 30:14",
+"Numbers 30:15",
+"Numbers 30:16",
+"Numbers 31:1",
+"Numbers 31:2",
+"Numbers 31:3",
+"Numbers 31:4",
+"Numbers 31:5",
+"Numbers 31:6",
+"Numbers 31:7",
+"Numbers 31:8",
+"Numbers 31:9",
+"Numbers 31:10",
+"Numbers 31:11",
+"Numbers 31:12",
+"Numbers 31:13",
+"Numbers 31:14",
+"Numbers 31:15",
+"Numbers 31:16",
+"Numbers 31:17",
+"Numbers 31:18",
+"Numbers 31:19",
+"Numbers 31:20",
+"Numbers 31:21",
+"Numbers 31:22",
+"Numbers 31:23",
+"Numbers 31:24",
+"Numbers 31:25",
+"Numbers 31:26",
+"Numbers 31:27",
+"Numbers 31:28",
+"Numbers 31:29",
+"Numbers 31:30",
+"Numbers 31:31",
+"Numbers 31:32",
+"Numbers 31:33",
+"Numbers 31:34",
+"Numbers 31:35",
+"Numbers 31:36",
+"Numbers 31:37",
+"Numbers 31:38",
+"Numbers 31:39",
+"Numbers 31:40",
+"Numbers 31:41",
+"Numbers 31:42",
+"Numbers 31:43",
+"Numbers 31:44",
+"Numbers 31:45",
+"Numbers 31:46",
+"Numbers 31:47",
+"Numbers 31:48",
+"Numbers 31:49",
+"Numbers 31:50",
+"Numbers 31:51",
+"Numbers 31:52",
+"Numbers 31:53",
+"Numbers 31:54",
+"Numbers 32:1",
+"Numbers 32:2",
+"Numbers 32:3",
+"Numbers 32:4",
+"Numbers 32:5",
+"Numbers 32:6",
+"Numbers 32:7",
+"Numbers 32:8",
+"Numbers 32:9",
+"Numbers 32:10",
+"Numbers 32:11",
+"Numbers 32:12",
+"Numbers 32:13",
+"Numbers 32:14",
+"Numbers 32:15",
+"Numbers 32:16",
+"Numbers 32:17",
+"Numbers 32:18",
+"Numbers 32:19",
+"Numbers 32:20",
+"Numbers 32:21",
+"Numbers 32:22",
+"Numbers 32:23",
+"Numbers 32:24",
+"Numbers 32:25",
+"Numbers 32:26",
+"Numbers 32:27",
+"Numbers 32:28",
+"Numbers 32:29",
+"Numbers 32:30",
+"Numbers 32:31",
+"Numbers 32:32",
+"Numbers 32:33",
+"Numbers 32:34",
+"Numbers 32:35",
+"Numbers 32:36",
+"Numbers 32:37",
+"Numbers 32:38",
+"Numbers 32:39",
+"Numbers 32:40",
+"Numbers 32:41",
+"Numbers 32:42",
+"Numbers 33:1",
+"Numbers 33:2",
+"Numbers 33:3",
+"Numbers 33:4",
+"Numbers 33:5",
+"Numbers 33:6",
+"Numbers 33:7",
+"Numbers 33:8",
+"Numbers 33:9",
+"Numbers 33:10",
+"Numbers 33:11",
+"Numbers 33:12",
+"Numbers 33:13",
+"Numbers 33:14",
+"Numbers 33:15",
+"Numbers 33:16",
+"Numbers 33:17",
+"Numbers 33:18",
+"Numbers 33:19",
+"Numbers 33:20",
+"Numbers 33:21",
+"Numbers 33:22",
+"Numbers 33:23",
+"Numbers 33:24",
+"Numbers 33:25",
+"Numbers 33:26",
+"Numbers 33:27",
+"Numbers 33:28",
+"Numbers 33:29",
+"Numbers 33:30",
+"Numbers 33:31",
+"Numbers 33:32",
+"Numbers 33:33",
+"Numbers 33:34",
+"Numbers 33:35",
+"Numbers 33:36",
+"Numbers 33:37",
+"Numbers 33:38",
+"Numbers 33:39",
+"Numbers 33:40",
+"Numbers 33:41",
+"Numbers 33:42",
+"Numbers 33:43",
+"Numbers 33:44",
+"Numbers 33:45",
+"Numbers 33:46",
+"Numbers 33:47",
+"Numbers 33:48",
+"Numbers 33:49",
+"Numbers 33:50",
+"Numbers 33:51",
+"Numbers 33:52",
+"Numbers 33:53",
+"Numbers 33:54",
+"Numbers 33:55",
+"Numbers 33:56",
+"Numbers 34:1",
+"Numbers 34:2",
+"Numbers 34:3",
+"Numbers 34:4",
+"Numbers 34:5",
+"Numbers 34:6",
+"Numbers 34:7",
+"Numbers 34:8",
+"Numbers 34:9",
+"Numbers 34:10",
+"Numbers 34:11",
+"Numbers 34:12",
+"Numbers 34:13",
+"Numbers 34:14",
+"Numbers 34:15",
+"Numbers 34:16",
+"Numbers 34:17",
+"Numbers 34:18",
+"Numbers 34:19",
+"Numbers 34:20",
+"Numbers 34:21",
+"Numbers 34:22",
+"Numbers 34:23",
+"Numbers 34:24",
+"Numbers 34:25",
+"Numbers 34:26",
+"Numbers 34:27",
+"Numbers 34:28",
+"Numbers 34:29",
+"Numbers 35:1",
+"Numbers 35:2",
+"Numbers 35:3",
+"Numbers 35:4",
+"Numbers 35:5",
+"Numbers 35:6",
+"Numbers 35:7",
+"Numbers 35:8",
+"Numbers 35:9",
+"Numbers 35:10",
+"Numbers 35:11",
+"Numbers 35:12",
+"Numbers 35:13",
+"Numbers 35:14",
+"Numbers 35:15",
+"Numbers 35:16",
+"Numbers 35:17",
+"Numbers 35:18",
+"Numbers 35:19",
+"Numbers 35:20",
+"Numbers 35:21",
+"Numbers 35:22",
+"Numbers 35:23",
+"Numbers 35:24",
+"Numbers 35:25",
+"Numbers 35:26",
+"Numbers 35:27",
+"Numbers 35:28",
+"Numbers 35:29",
+"Numbers 35:30",
+"Numbers 35:31",
+"Numbers 35:32",
+"Numbers 35:33",
+"Numbers 35:34",
+"Numbers 36:1",
+"Numbers 36:2",
+"Numbers 36:3",
+"Numbers 36:4",
+"Numbers 36:5",
+"Numbers 36:6",
+"Numbers 36:7",
+"Numbers 36:8",
+"Numbers 36:9",
+"Numbers 36:10",
+"Numbers 36:11",
+"Numbers 36:12",
+"Numbers 36:13"
 ]
 }
 },
@@ -6068,7 +7364,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 343205,
+"size": 343204,
 "scope": {
 "1SA": [
 "1 Samuel 1:1",
@@ -6886,7 +8182,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 290110,
+"size": 290109,
 "scope": {
 "2SA": [
 "2 Samuel 1:1",
@@ -8413,7 +9709,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 309194,
+"size": 309193,
 "scope": {
 "2KI": [
 "2 Kings 1:1",
@@ -11095,7 +12391,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 874294,
+"size": 874292,
 "scope": {
 "PSA": [
 "Psalms 1:1",
@@ -14549,6 +15845,236 @@
 ]
 }
 },
+"json/21.content.json": {
+"mimeType": "text/json",
+"size": 88112,
+"scope": {
+"ECC": [
+"Ecclesiastes 1:1",
+"Ecclesiastes 1:2",
+"Ecclesiastes 1:3",
+"Ecclesiastes 1:4",
+"Ecclesiastes 1:5",
+"Ecclesiastes 1:6",
+"Ecclesiastes 1:7",
+"Ecclesiastes 1:8",
+"Ecclesiastes 1:9",
+"Ecclesiastes 1:10",
+"Ecclesiastes 1:11",
+"Ecclesiastes 1:12",
+"Ecclesiastes 1:13",
+"Ecclesiastes 1:14",
+"Ecclesiastes 1:15",
+"Ecclesiastes 1:16",
+"Ecclesiastes 1:17",
+"Ecclesiastes 1:18",
+"Ecclesiastes 2:1",
+"Ecclesiastes 2:2",
+"Ecclesiastes 2:3",
+"Ecclesiastes 2:4",
+"Ecclesiastes 2:5",
+"Ecclesiastes 2:6",
+"Ecclesiastes 2:7",
+"Ecclesiastes 2:8",
+"Ecclesiastes 2:9",
+"Ecclesiastes 2:10",
+"Ecclesiastes 2:11",
+"Ecclesiastes 2:12",
+"Ecclesiastes 2:13",
+"Ecclesiastes 2:14",
+"Ecclesiastes 2:15",
+"Ecclesiastes 2:16",
+"Ecclesiastes 2:17",
+"Ecclesiastes 2:18",
+"Ecclesiastes 2:19",
+"Ecclesiastes 2:20",
+"Ecclesiastes 2:21",
+"Ecclesiastes 2:22",
+"Ecclesiastes 2:23",
+"Ecclesiastes 2:24",
+"Ecclesiastes 2:25",
+"Ecclesiastes 2:26",
+"Ecclesiastes 3:1",
+"Ecclesiastes 3:2",
+"Ecclesiastes 3:3",
+"Ecclesiastes 3:4",
+"Ecclesiastes 3:5",
+"Ecclesiastes 3:6",
+"Ecclesiastes 3:7",
+"Ecclesiastes 3:8",
+"Ecclesiastes 3:9",
+"Ecclesiastes 3:10",
+"Ecclesiastes 3:11",
+"Ecclesiastes 3:12",
+"Ecclesiastes 3:13",
+"Ecclesiastes 3:14",
+"Ecclesiastes 3:15",
+"Ecclesiastes 3:16",
+"Ecclesiastes 3:17",
+"Ecclesiastes 3:18",
+"Ecclesiastes 3:19",
+"Ecclesiastes 3:20",
+"Ecclesiastes 3:21",
+"Ecclesiastes 3:22",
+"Ecclesiastes 4:1",
+"Ecclesiastes 4:2",
+"Ecclesiastes 4:3",
+"Ecclesiastes 4:4",
+"Ecclesiastes 4:5",
+"Ecclesiastes 4:6",
+"Ecclesiastes 4:7",
+"Ecclesiastes 4:8",
+"Ecclesiastes 4:9",
+"Ecclesiastes 4:10",
+"Ecclesiastes 4:11",
+"Ecclesiastes 4:12",
+"Ecclesiastes 4:13",
+"Ecclesiastes 4:14",
+"Ecclesiastes 4:15",
+"Ecclesiastes 4:16",
+"Ecclesiastes 5:1",
+"Ecclesiastes 5:2",
+"Ecclesiastes 5:3",
+"Ecclesiastes 5:4",
+"Ecclesiastes 5:5",
+"Ecclesiastes 5:6",
+"Ecclesiastes 5:7",
+"Ecclesiastes 5:8",
+"Ecclesiastes 5:9",
+"Ecclesiastes 5:10",
+"Ecclesiastes 5:11",
+"Ecclesiastes 5:12",
+"Ecclesiastes 5:13",
+"Ecclesiastes 5:14",
+"Ecclesiastes 5:15",
+"Ecclesiastes 5:16",
+"Ecclesiastes 5:17",
+"Ecclesiastes 5:18",
+"Ecclesiastes 5:19",
+"Ecclesiastes 5:20",
+"Ecclesiastes 6:1",
+"Ecclesiastes 6:2",
+"Ecclesiastes 6:3",
+"Ecclesiastes 6:4",
+"Ecclesiastes 6:5",
+"Ecclesiastes 6:6",
+"Ecclesiastes 6:7",
+"Ecclesiastes 6:8",
+"Ecclesiastes 6:9",
+"Ecclesiastes 6:10",
+"Ecclesiastes 6:11",
+"Ecclesiastes 6:12",
+"Ecclesiastes 7:1",
+"Ecclesiastes 7:2",
+"Ecclesiastes 7:3",
+"Ecclesiastes 7:4",
+"Ecclesiastes 7:5",
+"Ecclesiastes 7:6",
+"Ecclesiastes 7:7",
+"Ecclesiastes 7:8",
+"Ecclesiastes 7:9",
+"Ecclesiastes 7:10",
+"Ecclesiastes 7:11",
+"Ecclesiastes 7:12",
+"Ecclesiastes 7:13",
+"Ecclesiastes 7:14",
+"Ecclesiastes 7:15",
+"Ecclesiastes 7:16",
+"Ecclesiastes 7:17",
+"Ecclesiastes 7:18",
+"Ecclesiastes 7:19",
+"Ecclesiastes 7:20",
+"Ecclesiastes 7:21",
+"Ecclesiastes 7:22",
+"Ecclesiastes 7:23",
+"Ecclesiastes 7:24",
+"Ecclesiastes 7:25",
+"Ecclesiastes 7:26",
+"Ecclesiastes 7:27",
+"Ecclesiastes 7:28",
+"Ecclesiastes 7:29",
+"Ecclesiastes 8:1",
+"Ecclesiastes 8:2",
+"Ecclesiastes 8:3",
+"Ecclesiastes 8:4",
+"Ecclesiastes 8:5",
+"Ecclesiastes 8:6",
+"Ecclesiastes 8:7",
+"Ecclesiastes 8:8",
+"Ecclesiastes 8:9",
+"Ecclesiastes 8:10",
+"Ecclesiastes 8:11",
+"Ecclesiastes 8:12",
+"Ecclesiastes 8:13",
+"Ecclesiastes 8:14",
+"Ecclesiastes 8:15",
+"Ecclesiastes 8:16",
+"Ecclesiastes 8:17",
+"Ecclesiastes 9:1",
+"Ecclesiastes 9:2",
+"Ecclesiastes 9:3",
+"Ecclesiastes 9:4",
+"Ecclesiastes 9:5",
+"Ecclesiastes 9:6",
+"Ecclesiastes 9:7",
+"Ecclesiastes 9:8",
+"Ecclesiastes 9:9",
+"Ecclesiastes 9:10",
+"Ecclesiastes 9:11",
+"Ecclesiastes 9:12",
+"Ecclesiastes 9:13",
+"Ecclesiastes 9:14",
+"Ecclesiastes 9:15",
+"Ecclesiastes 9:16",
+"Ecclesiastes 9:17",
+"Ecclesiastes 9:18",
+"Ecclesiastes 10:1",
+"Ecclesiastes 10:2",
+"Ecclesiastes 10:3",
+"Ecclesiastes 10:4",
+"Ecclesiastes 10:5",
+"Ecclesiastes 10:6",
+"Ecclesiastes 10:7",
+"Ecclesiastes 10:8",
+"Ecclesiastes 10:9",
+"Ecclesiastes 10:10",
+"Ecclesiastes 10:11",
+"Ecclesiastes 10:12",
+"Ecclesiastes 10:13",
+"Ecclesiastes 10:14",
+"Ecclesiastes 10:15",
+"Ecclesiastes 10:16",
+"Ecclesiastes 10:17",
+"Ecclesiastes 10:18",
+"Ecclesiastes 10:19",
+"Ecclesiastes 10:20",
+"Ecclesiastes 11:1",
+"Ecclesiastes 11:2",
+"Ecclesiastes 11:3",
+"Ecclesiastes 11:4",
+"Ecclesiastes 11:5",
+"Ecclesiastes 11:6",
+"Ecclesiastes 11:7",
+"Ecclesiastes 11:8",
+"Ecclesiastes 11:9",
+"Ecclesiastes 11:10",
+"Ecclesiastes 12:1",
+"Ecclesiastes 12:2",
+"Ecclesiastes 12:3",
+"Ecclesiastes 12:4",
+"Ecclesiastes 12:5",
+"Ecclesiastes 12:6",
+"Ecclesiastes 12:7",
+"Ecclesiastes 12:8",
+"Ecclesiastes 12:9",
+"Ecclesiastes 12:10",
+"Ecclesiastes 12:11",
+"Ecclesiastes 12:12",
+"Ecclesiastes 12:13",
+"Ecclesiastes 12:14"
+]
+}
+},
 "json/22.content.json": {
 "mimeType": "text/json",
 "size": 44975,
@@ -16067,7 +17593,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 88373,
+"size": 88375,
 "scope": {
 "ZEC": [
 "Zechariah 1:1",
@@ -18114,7 +19640,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 429500,
+"size": 429486,
 "scope": {
 "LUK": [
 "Luke 1:1",
@@ -19273,7 +20799,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 327301,
+"size": 327298,
 "scope": {
 "JHN": [
 "John 1:1",
@@ -23311,7 +24837,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 117710,
+"size": 117709,
 "scope": {
 "HEB": [
 "Hebrews 1:1",
@@ -23622,7 +25148,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 39898,
+"size": 39896,
 "scope": {
 "JAS": [
 "James 1:1",
@@ -24523,44 +26049,58 @@
 },
 "usfm/01GENULT.SFM": {
 "mimeType": "text/plain",
-"size": 221286,
+"size": 221284,
 "scope": {
 "GEN": []
 }
 },
 "usx/01GENULT.usx": {
 "mimeType": "application/xml",
-"size": 344717,
+"size": 346019,
 "scope": {
 "GEN": []
 }
 },
 "usfm/02EXOULT.SFM": {
 "mimeType": "text/plain",
-"size": 180984,
+"size": 180971,
 "scope": {
 "EXO": []
 }
 },
 "usx/02EXOULT.usx": {
 "mimeType": "application/xml",
-"size": 277035,
+"size": 276899,
 "scope": {
 "EXO": []
 }
 },
 "usfm/03LEVULT.SFM": {
 "mimeType": "text/plain",
-"size": 138412,
+"size": 138410,
 "scope": {
 "LEV": []
 }
 },
 "usx/03LEVULT.usx": {
 "mimeType": "application/xml",
-"size": 204428,
+"size": 203844,
 "scope": {
 "LEV": []
+}
+},
+"usfm/04NUMULT.SFM": {
+"mimeType": "text/plain",
+"size": 183931,
+"scope": {
+"NUM": []
+}
+},
+"usx/04NUMULT.usx": {
+"mimeType": "application/xml",
+"size": 286321,
+"scope": {
+"NUM": []
 }
 },
 "usfm/05DEUULT.SFM": {
@@ -24572,7 +26112,7 @@
 },
 "usx/05DEUULT.usx": {
 "mimeType": "application/xml",
-"size": 235217,
+"size": 237332,
 "scope": {
 "DEU": []
 }
@@ -24586,7 +26126,7 @@
 },
 "usx/06JOSULT.usx": {
 "mimeType": "application/xml",
-"size": 158232,
+"size": 157708,
 "scope": {
 "JOS": []
 }
@@ -24600,7 +26140,7 @@
 },
 "usx/07JDGULT.usx": {
 "mimeType": "application/xml",
-"size": 156126,
+"size": 156836,
 "scope": {
 "JDG": []
 }
@@ -24614,35 +26154,35 @@
 },
 "usx/08RUTULT.usx": {
 "mimeType": "application/xml",
-"size": 24171,
+"size": 24175,
 "scope": {
 "RUT": []
 }
 },
 "usfm/091SAULT.SFM": {
 "mimeType": "text/plain",
-"size": 141503,
+"size": 141502,
 "scope": {
 "1SA": []
 }
 },
 "usx/091SAULT.usx": {
 "mimeType": "application/xml",
-"size": 204134,
+"size": 204058,
 "scope": {
 "1SA": []
 }
 },
 "usfm/102SAULT.SFM": {
 "mimeType": "text/plain",
-"size": 118819,
+"size": 118818,
 "scope": {
 "2SA": []
 }
 },
 "usx/102SAULT.usx": {
 "mimeType": "application/xml",
-"size": 179299,
+"size": 179777,
 "scope": {
 "2SA": []
 }
@@ -24656,21 +26196,21 @@
 },
 "usx/111KIULT.usx": {
 "mimeType": "application/xml",
-"size": 198857,
+"size": 198364,
 "scope": {
 "1KI": []
 }
 },
 "usfm/122KIULT.SFM": {
 "mimeType": "text/plain",
-"size": 130737,
+"size": 130736,
 "scope": {
 "2KI": []
 }
 },
 "usx/122KIULT.usx": {
 "mimeType": "application/xml",
-"size": 184812,
+"size": 184246,
 "scope": {
 "2KI": []
 }
@@ -24684,21 +26224,21 @@
 },
 "usx/15EZRULT.usx": {
 "mimeType": "application/xml",
-"size": 66817,
+"size": 66712,
 "scope": {
 "EZR": []
 }
 },
 "usfm/16NEHULT.SFM": {
 "mimeType": "text/plain",
-"size": 62975,
+"size": 62972,
 "scope": {
 "NEH": []
 }
 },
 "usx/16NEHULT.usx": {
 "mimeType": "application/xml",
-"size": 99020,
+"size": 99044,
 "scope": {
 "NEH": []
 }
@@ -24712,7 +26252,7 @@
 },
 "usx/17ESTULT.usx": {
 "mimeType": "application/xml",
-"size": 46620,
+"size": 46415,
 "scope": {
 "EST": []
 }
@@ -24726,21 +26266,21 @@
 },
 "usx/18JOBULT.usx": {
 "mimeType": "application/xml",
-"size": 235139,
+"size": 251154,
 "scope": {
 "JOB": []
 }
 },
 "usfm/19PSAULT.SFM": {
 "mimeType": "text/plain",
-"size": 273137,
+"size": 273135,
 "scope": {
 "PSA": []
 }
 },
 "usx/19PSAULT.usx": {
 "mimeType": "application/xml",
-"size": 586400,
+"size": 632132,
 "scope": {
 "PSA": []
 }
@@ -24754,9 +26294,23 @@
 },
 "usx/20PROULT.usx": {
 "mimeType": "application/xml",
-"size": 207273,
+"size": 221370,
 "scope": {
 "PRO": []
+}
+},
+"usfm/21ECCULT.SFM": {
+"mimeType": "text/plain",
+"size": 33727,
+"scope": {
+"ECC": []
+}
+},
+"usx/21ECCULT.usx": {
+"mimeType": "application/xml",
+"size": 61095,
+"scope": {
+"ECC": []
 }
 },
 "usfm/22SNGULT.SFM": {
@@ -24768,7 +26322,7 @@
 },
 "usx/22SNGULT.usx": {
 "mimeType": "application/xml",
-"size": 35444,
+"size": 38983,
 "scope": {
 "SNG": []
 }
@@ -24782,7 +26336,7 @@
 },
 "usx/25LAMULT.usx": {
 "mimeType": "application/xml",
-"size": 46635,
+"size": 52854,
 "scope": {
 "LAM": []
 }
@@ -24796,7 +26350,7 @@
 },
 "usx/27DANULT.usx": {
 "mimeType": "application/xml",
-"size": 95575,
+"size": 95973,
 "scope": {
 "DAN": []
 }
@@ -24810,7 +26364,7 @@
 },
 "usx/28HOSULT.usx": {
 "mimeType": "application/xml",
-"size": 62031,
+"size": 68751,
 "scope": {
 "HOS": []
 }
@@ -24824,49 +26378,49 @@
 },
 "usx/29JOLULT.usx": {
 "mimeType": "application/xml",
-"size": 23918,
+"size": 26762,
 "scope": {
 "JOL": []
 }
 },
 "usfm/30AMOULT.SFM": {
 "mimeType": "text/plain",
-"size": 25785,
+"size": 25784,
 "scope": {
 "AMO": []
 }
 },
 "usx/30AMOULT.usx": {
 "mimeType": "application/xml",
-"size": 47026,
+"size": 51570,
 "scope": {
 "AMO": []
 }
 },
 "usfm/31OBAULT.SFM": {
 "mimeType": "text/plain",
-"size": 4078,
+"size": 4075,
 "scope": {
 "OBA": []
 }
 },
 "usx/31OBAULT.usx": {
 "mimeType": "application/xml",
-"size": 7094,
+"size": 7602,
 "scope": {
 "OBA": []
 }
 },
 "usfm/32JONULT.SFM": {
 "mimeType": "text/plain",
-"size": 7929,
+"size": 7920,
 "scope": {
 "JON": []
 }
 },
 "usx/32JONULT.usx": {
 "mimeType": "application/xml",
-"size": 12641,
+"size": 12658,
 "scope": {
 "JON": []
 }
@@ -24880,7 +26434,7 @@
 },
 "usx/33MICULT.usx": {
 "mimeType": "application/xml",
-"size": 36387,
+"size": 40736,
 "scope": {
 "MIC": []
 }
@@ -24894,21 +26448,21 @@
 },
 "usx/34NAMULT.usx": {
 "mimeType": "application/xml",
-"size": 13512,
+"size": 14224,
 "scope": {
 "NAM": []
 }
 },
 "usfm/35HABULT.SFM": {
 "mimeType": "text/plain",
-"size": 9145,
+"size": 9139,
 "scope": {
 "HAB": []
 }
 },
 "usx/35HABULT.usx": {
 "mimeType": "application/xml",
-"size": 17351,
+"size": 18943,
 "scope": {
 "HAB": []
 }
@@ -24922,7 +26476,7 @@
 },
 "usx/36ZEPULT.usx": {
 "mimeType": "application/xml",
-"size": 18800,
+"size": 20948,
 "scope": {
 "ZEP": []
 }
@@ -24936,21 +26490,21 @@
 },
 "usx/37HAGULT.usx": {
 "mimeType": "application/xml",
-"size": 10341,
+"size": 10652,
 "scope": {
 "HAG": []
 }
 },
 "usfm/38ZECULT.SFM": {
 "mimeType": "text/plain",
-"size": 36677,
+"size": 36679,
 "scope": {
 "ZEC": []
 }
 },
 "usx/38ZECULT.usx": {
 "mimeType": "application/xml",
-"size": 56739,
+"size": 58190,
 "scope": {
 "ZEC": []
 }
@@ -24964,7 +26518,7 @@
 },
 "usx/39MALULT.usx": {
 "mimeType": "application/xml",
-"size": 15801,
+"size": 15734,
 "scope": {
 "MAL": []
 }
@@ -24978,49 +26532,49 @@
 },
 "usx/40MATULT.usx": {
 "mimeType": "application/xml",
-"size": 235427,
+"size": 236264,
 "scope": {
 "MAT": []
 }
 },
 "usfm/41MRKULT.SFM": {
 "mimeType": "text/plain",
-"size": 92182,
+"size": 92179,
 "scope": {
 "MRK": []
 }
 },
 "usx/41MRKULT.usx": {
 "mimeType": "application/xml",
-"size": 150963,
+"size": 151293,
 "scope": {
 "MRK": []
 }
 },
 "usfm/42LUKULT.SFM": {
 "mimeType": "text/plain",
-"size": 148471,
+"size": 148457,
 "scope": {
 "LUK": []
 }
 },
 "usx/42LUKULT.usx": {
 "mimeType": "application/xml",
-"size": 235453,
+"size": 235496,
 "scope": {
 "LUK": []
 }
 },
 "usfm/43JHNULT.SFM": {
 "mimeType": "text/plain",
-"size": 112049,
+"size": 112037,
 "scope": {
 "JHN": []
 }
 },
 "usx/43JHNULT.usx": {
 "mimeType": "application/xml",
-"size": 176218,
+"size": 175885,
 "scope": {
 "JHN": []
 }
@@ -25034,21 +26588,21 @@
 },
 "usx/44ACTULT.usx": {
 "mimeType": "application/xml",
-"size": 218330,
+"size": 218645,
 "scope": {
 "ACT": []
 }
 },
 "usfm/45ROMULT.SFM": {
 "mimeType": "text/plain",
-"size": 57768,
+"size": 57729,
 "scope": {
 "ROM": []
 }
 },
 "usx/45ROMULT.usx": {
 "mimeType": "application/xml",
-"size": 92883,
+"size": 92979,
 "scope": {
 "ROM": []
 }
@@ -25062,7 +26616,7 @@
 },
 "usx/461COULT.usx": {
 "mimeType": "application/xml",
-"size": 88922,
+"size": 88859,
 "scope": {
 "1CO": []
 }
@@ -25076,7 +26630,7 @@
 },
 "usx/472COULT.usx": {
 "mimeType": "application/xml",
-"size": 58536,
+"size": 58524,
 "scope": {
 "2CO": []
 }
@@ -25090,7 +26644,7 @@
 },
 "usx/48GALULT.usx": {
 "mimeType": "application/xml",
-"size": 29136,
+"size": 29083,
 "scope": {
 "GAL": []
 }
@@ -25104,7 +26658,7 @@
 },
 "usx/49EPHULT.usx": {
 "mimeType": "application/xml",
-"size": 30118,
+"size": 30092,
 "scope": {
 "EPH": []
 }
@@ -25118,7 +26672,7 @@
 },
 "usx/50PHPULT.usx": {
 "mimeType": "application/xml",
-"size": 21144,
+"size": 21205,
 "scope": {
 "PHP": []
 }
@@ -25132,7 +26686,7 @@
 },
 "usx/51COLULT.usx": {
 "mimeType": "application/xml",
-"size": 20487,
+"size": 20420,
 "scope": {
 "COL": []
 }
@@ -25146,7 +26700,7 @@
 },
 "usx/521THULT.usx": {
 "mimeType": "application/xml",
-"size": 20069,
+"size": 19979,
 "scope": {
 "1TH": []
 }
@@ -25160,7 +26714,7 @@
 },
 "usx/532THULT.usx": {
 "mimeType": "application/xml",
-"size": 10357,
+"size": 10313,
 "scope": {
 "2TH": []
 }
@@ -25174,7 +26728,7 @@
 },
 "usx/541TIULT.usx": {
 "mimeType": "application/xml",
-"size": 25064,
+"size": 25070,
 "scope": {
 "1TI": []
 }
@@ -25188,7 +26742,7 @@
 },
 "usx/552TIULT.usx": {
 "mimeType": "application/xml",
-"size": 17821,
+"size": 17813,
 "scope": {
 "2TI": []
 }
@@ -25202,7 +26756,7 @@
 },
 "usx/56TITULT.usx": {
 "mimeType": "application/xml",
-"size": 9549,
+"size": 9505,
 "scope": {
 "TIT": []
 }
@@ -25216,35 +26770,35 @@
 },
 "usx/57PHMULT.usx": {
 "mimeType": "application/xml",
-"size": 4822,
+"size": 4824,
 "scope": {
 "PHM": []
 }
 },
 "usfm/58HEBULT.SFM": {
 "mimeType": "text/plain",
-"size": 44276,
+"size": 44275,
 "scope": {
 "HEB": []
 }
 },
 "usx/58HEBULT.usx": {
 "mimeType": "application/xml",
-"size": 70511,
+"size": 71536,
 "scope": {
 "HEB": []
 }
 },
 "usfm/59JASULT.SFM": {
 "mimeType": "text/plain",
-"size": 13567,
+"size": 13565,
 "scope": {
 "JAS": []
 }
 },
 "usx/59JASULT.usx": {
 "mimeType": "application/xml",
-"size": 21632,
+"size": 21540,
 "scope": {
 "JAS": []
 }
@@ -25258,7 +26812,7 @@
 },
 "usx/601PEULT.usx": {
 "mimeType": "application/xml",
-"size": 23225,
+"size": 23427,
 "scope": {
 "1PE": []
 }
@@ -25272,7 +26826,7 @@
 },
 "usx/612PEULT.usx": {
 "mimeType": "application/xml",
-"size": 14609,
+"size": 14565,
 "scope": {
 "2PE": []
 }
@@ -25286,7 +26840,7 @@
 },
 "usx/621JNULT.usx": {
 "mimeType": "application/xml",
-"size": 23341,
+"size": 23251,
 "scope": {
 "1JN": []
 }
@@ -25300,7 +26854,7 @@
 },
 "usx/632JNULT.usx": {
 "mimeType": "application/xml",
-"size": 3065,
+"size": 3067,
 "scope": {
 "2JN": []
 }
@@ -25314,7 +26868,7 @@
 },
 "usx/643JNULT.usx": {
 "mimeType": "application/xml",
-"size": 3244,
+"size": 3246,
 "scope": {
 "3JN": []
 }
@@ -25328,7 +26882,7 @@
 },
 "usx/65JUDULT.usx": {
 "mimeType": "application/xml",
-"size": 6310,
+"size": 6312,
 "scope": {
 "JUD": []
 }
@@ -25342,1267 +26896,28 @@
 },
 "usx/66REVULT.usx": {
 "mimeType": "application/xml",
-"size": 105858,
-"scope": {
-"REV": []
-}
-},
-"md/18.content.md": {
-"mimeType": "text/markdown",
-"size": 130029,
-"scope": {
-"JOB": []
-}
-},
-"md/58.content.md": {
-"mimeType": "text/markdown",
-"size": 51754,
-"scope": {
-"HEB": []
-}
-},
-"md/29.content.md": {
-"mimeType": "text/markdown",
-"size": 13443,
-"scope": {
-"JOL": []
-}
-},
-"md/59.content.md": {
-"mimeType": "text/markdown",
-"size": 16644,
-"scope": {
-"JAS": []
-}
-},
-"md/19.content.md": {
-"mimeType": "text/markdown",
-"size": 321723,
-"scope": {
-"PSA": []
-}
-},
-"md/28.content.md": {
-"mimeType": "text/markdown",
-"size": 34856,
-"scope": {
-"HOS": []
-}
-},
-"md/62.content.md": {
-"mimeType": "text/markdown",
-"size": 17219,
-"scope": {
-"1JN": []
-}
-},
-"md/37.content.md": {
-"mimeType": "text/markdown",
-"size": 7865,
-"scope": {
-"HAG": []
-}
-},
-"md/65.content.md": {
-"mimeType": "text/markdown",
-"size": 4918,
-"scope": {
-"JUD": []
-}
-},
-"md/30.content.md": {
-"mimeType": "text/markdown",
-"size": 27783,
-"scope": {
-"AMO": []
-}
-},
-"md/25.content.md": {
-"mimeType": "text/markdown",
-"size": 24933,
-"scope": {
-"LAM": []
-}
-},
-"md/22.content.md": {
-"mimeType": "text/markdown",
-"size": 19746,
-"scope": {
-"SNG": []
-}
-},
-"md/41.content.md": {
-"mimeType": "text/markdown",
-"size": 106137,
-"scope": {
-"MRK": []
-}
-},
-"md/46.content.md": {
-"mimeType": "text/markdown",
-"size": 69797,
-"scope": {
-"1CO": []
-}
-},
-"md/53.content.md": {
-"mimeType": "text/markdown",
-"size": 8068,
-"scope": {
-"2TH": []
-}
-},
-"md/06.content.md": {
-"mimeType": "text/markdown",
-"size": 127022,
-"scope": {
-"JOS": []
-}
-},
-"md/54.content.md": {
-"mimeType": "text/markdown",
-"size": 17343,
-"scope": {
-"1TI": []
-}
-},
-"md/01.content.md": {
-"mimeType": "text/markdown",
-"size": 265936,
-"scope": {
-"GEN": []
-}
-},
-"md/31.content.md": {
-"mimeType": "text/markdown",
-"size": 4627,
-"scope": {
-"OBA": []
-}
-},
-"md/64.content.md": {
-"mimeType": "text/markdown",
-"size": 2523,
-"scope": {
-"3JN": []
-}
-},
-"md/36.content.md": {
-"mimeType": "text/markdown",
-"size": 11214,
-"scope": {
-"ZEP": []
-}
-},
-"md/63.content.md": {
-"mimeType": "text/markdown",
-"size": 2454,
-"scope": {
-"2JN": []
-}
-},
-"md/55.content.md": {
-"mimeType": "text/markdown",
-"size": 12764,
-"scope": {
-"2TI": []
-}
-},
-"md/07.content.md": {
-"mimeType": "text/markdown",
-"size": 123830,
-"scope": {
-"JDG": []
-}
-},
-"md/52.content.md": {
-"mimeType": "text/markdown",
-"size": 14262,
-"scope": {
-"1TH": []
-}
-},
-"md/12.content.md": {
-"mimeType": "text/markdown",
-"size": 152129,
-"scope": {
-"2KI": []
-}
-},
-"md/47.content.md": {
-"mimeType": "text/markdown",
-"size": 45401,
-"scope": {
-"2CO": []
-}
-},
-"md/15.content.md": {
-"mimeType": "text/markdown",
-"size": 49408,
-"scope": {
-"EZR": []
-}
-},
-"md/40.content.md": {
-"mimeType": "text/markdown",
-"size": 169826,
-"scope": {
-"MAT": []
-}
-},
-"md/61.content.md": {
-"mimeType": "text/markdown",
-"size": 11464,
-"scope": {
-"2PE": []
-}
-},
-"md/34.content.md": {
-"mimeType": "text/markdown",
-"size": 8713,
-"scope": {
-"NAM": []
-}
-},
-"md/66.content.md": {
-"mimeType": "text/markdown",
-"size": 79176,
-"scope": {
-"REV": []
-}
-},
-"md/33.content.md": {
-"mimeType": "text/markdown",
-"size": 20246,
-"scope": {
-"MIC": []
-}
-},
-"md/50.content.md": {
-"mimeType": "text/markdown",
-"size": 16603,
-"scope": {
-"PHP": []
-}
-},
-"md/05.content.md": {
-"mimeType": "text/markdown",
-"size": 184546,
-"scope": {
-"DEU": []
-}
-},
-"md/57.content.md": {
-"mimeType": "text/markdown",
-"size": 3767,
-"scope": {
-"PHM": []
-}
-},
-"md/02.content.md": {
-"mimeType": "text/markdown",
-"size": 215358,
-"scope": {
-"EXO": []
-}
-},
-"md/42.content.md": {
-"mimeType": "text/markdown",
-"size": 177844,
-"scope": {
-"LUK": []
-}
-},
-"md/17.content.md": {
-"mimeType": "text/markdown",
-"size": 38124,
-"scope": {
-"EST": []
-}
-},
-"md/45.content.md": {
-"mimeType": "text/markdown",
-"size": 68980,
-"scope": {
-"ROM": []
-}
-},
-"md/10.content.md": {
-"mimeType": "text/markdown",
-"size": 138305,
-"scope": {
-"2SA": []
-}
-},
-"md/32.content.md": {
-"mimeType": "text/markdown",
-"size": 9129,
-"scope": {
-"JON": []
-}
-},
-"md/35.content.md": {
-"mimeType": "text/markdown",
-"size": 10229,
-"scope": {
-"HAB": []
-}
-},
-"md/60.content.md": {
-"mimeType": "text/markdown",
-"size": 17597,
-"scope": {
-"1PE": []
-}
-},
-"md/20.content.md": {
-"mimeType": "text/markdown",
-"size": 118385,
-"scope": {
-"PRO": []
-}
-},
-"md/27.content.md": {
-"mimeType": "text/markdown",
-"size": 77541,
-"scope": {
-"DAN": []
-}
-},
-"md/11.content.md": {
-"mimeType": "text/markdown",
-"size": 162419,
-"scope": {
-"1KI": []
-}
-},
-"md/44.content.md": {
-"mimeType": "text/markdown",
-"size": 167100,
-"scope": {
-"ACT": []
-}
-},
-"md/16.content.md": {
-"mimeType": "text/markdown",
-"size": 73629,
-"scope": {
-"NEH": []
-}
-},
-"md/43.content.md": {
-"mimeType": "text/markdown",
-"size": 135198,
-"scope": {
-"JHN": []
-}
-},
-"md/03.content.md": {
-"mimeType": "text/markdown",
-"size": 165716,
-"scope": {
-"LEV": []
-}
-},
-"md/56.content.md": {
-"mimeType": "text/markdown",
-"size": 7289,
-"scope": {
-"TIT": []
-}
-},
-"md/51.content.md": {
-"mimeType": "text/markdown",
-"size": 15218,
-"scope": {
-"COL": []
-}
-},
-"md/09.content.md": {
-"mimeType": "text/markdown",
-"size": 166235,
-"scope": {
-"1SA": []
-}
-},
-"md/49.content.md": {
-"mimeType": "text/markdown",
-"size": 23270,
-"scope": {
-"EPH": []
-}
-},
-"md/38.content.md": {
-"mimeType": "text/markdown",
-"size": 42559,
-"scope": {
-"ZEC": []
-}
-},
-"md/48.content.md": {
-"mimeType": "text/markdown",
-"size": 22826,
-"scope": {
-"GAL": []
-}
-},
-"md/08.content.md": {
-"mimeType": "text/markdown",
-"size": 17347,
-"scope": {
-"RUT": []
-}
-},
-"md/39.content.md": {
-"mimeType": "text/markdown",
-"size": 12057,
-"scope": {
-"MAL": []
-}
-},
-"docx/01.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 119225,
-"scope": {
-"GEN": []
-}
-},
-"docx/02.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 100821,
-"scope": {
-"EXO": []
-}
-},
-"docx/03.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 79721,
-"scope": {
-"LEV": []
-}
-},
-"docx/05.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 93533,
-"scope": {
-"DEU": []
-}
-},
-"docx/06.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 75912,
-"scope": {
-"JOS": []
-}
-},
-"docx/07.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 78390,
-"scope": {
-"JDG": []
-}
-},
-"docx/08.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47700,
-"scope": {
-"RUT": []
-}
-},
-"docx/09.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 90846,
-"scope": {
-"1SA": []
-}
-},
-"docx/10.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 83256,
-"scope": {
-"2SA": []
-}
-},
-"docx/11.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 87341,
-"scope": {
-"1KI": []
-}
-},
-"docx/12.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 83381,
-"scope": {
-"2KI": []
-}
-},
-"docx/15.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56732,
-"scope": {
-"EZR": []
-}
-},
-"docx/16.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64034,
-"scope": {
-"NEH": []
-}
-},
-"docx/17.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52948,
-"scope": {
-"EST": []
-}
-},
-"docx/18.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 85974,
-"scope": {
-"JOB": []
-}
-},
-"docx/19.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 143057,
-"scope": {
-"PSA": []
-}
-},
-"docx/20.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 78536,
-"scope": {
-"PRO": []
-}
-},
-"docx/22.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48416,
-"scope": {
-"SNG": []
-}
-},
-"docx/25.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50304,
-"scope": {
-"LAM": []
-}
-},
-"docx/27.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64354,
-"scope": {
-"DAN": []
-}
-},
-"docx/28.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53896,
-"scope": {
-"HOS": []
-}
-},
-"docx/29.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46630,
-"scope": {
-"JOL": []
-}
-},
-"docx/30.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50888,
-"scope": {
-"AMO": []
-}
-},
-"docx/31.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43491,
-"scope": {
-"OBA": []
-}
-},
-"docx/32.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45036,
-"scope": {
-"JON": []
-}
-},
-"docx/33.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49351,
-"scope": {
-"MIC": []
-}
-},
-"docx/34.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45282,
-"scope": {
-"NAM": []
-}
-},
-"docx/35.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45777,
-"scope": {
-"HAB": []
-}
-},
-"docx/36.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45728,
-"scope": {
-"ZEP": []
-}
-},
-"docx/37.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44256,
-"scope": {
-"HAG": []
-}
-},
-"docx/38.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54549,
-"scope": {
-"ZEC": []
-}
-},
-"docx/39.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45997,
-"scope": {
-"MAL": []
-}
-},
-"docx/40.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 93681,
-"scope": {
-"MAT": []
-}
-},
-"docx/41.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 75600,
-"scope": {
-"MRK": []
-}
-},
-"docx/42.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 99643,
-"scope": {
-"LUK": []
-}
-},
-"docx/43.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 82498,
-"scope": {
-"JHN": []
-}
-},
-"docx/44.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 97293,
-"scope": {
-"ACT": []
-}
-},
-"docx/45.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64133,
-"scope": {
-"ROM": []
-}
-},
-"docx/46.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 63354,
-"scope": {
-"1CO": []
-}
-},
-"docx/47.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56711,
-"scope": {
-"2CO": []
-}
-},
-"docx/48.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49543,
-"scope": {
-"GAL": []
-}
-},
-"docx/49.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49644,
-"scope": {
-"EPH": []
-}
-},
-"docx/50.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47596,
-"scope": {
-"PHP": []
-}
-},
-"docx/51.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47128,
-"scope": {
-"COL": []
-}
-},
-"docx/52.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46588,
-"scope": {
-"1TH": []
-}
-},
-"docx/53.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44515,
-"scope": {
-"2TH": []
-}
-},
-"docx/54.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48057,
-"scope": {
-"1TI": []
-}
-},
-"docx/55.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46611,
-"scope": {
-"2TI": []
-}
-},
-"docx/56.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44660,
-"scope": {
-"TIT": []
-}
-},
-"docx/57.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43209,
-"scope": {
-"PHM": []
-}
-},
-"docx/58.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 59511,
-"scope": {
-"HEB": []
-}
-},
-"docx/59.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47965,
-"scope": {
-"JAS": []
-}
-},
-"docx/60.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48296,
-"scope": {
-"1PE": []
-}
-},
-"docx/61.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46033,
-"scope": {
-"2PE": []
-}
-},
-"docx/62.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46815,
-"scope": {
-"1JN": []
-}
-},
-"docx/63.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42703,
-"scope": {
-"2JN": []
-}
-},
-"docx/64.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42740,
-"scope": {
-"3JN": []
-}
-},
-"docx/65.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43808,
-"scope": {
-"JUD": []
-}
-},
-"docx/66.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 65113,
-"scope": {
-"REV": []
-}
-},
-"pdf/01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 931194,
-"scope": {
-"GEN": []
-}
-},
-"pdf/02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 744792,
-"scope": {
-"EXO": []
-}
-},
-"pdf/03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 543061,
-"scope": {
-"LEV": []
-}
-},
-"pdf/05.content.pdf": {
-"mimeType": "application/pdf",
-"size": 615962,
-"scope": {
-"DEU": []
-}
-},
-"pdf/06.content.pdf": {
-"mimeType": "application/pdf",
-"size": 429262,
-"scope": {
-"JOS": []
-}
-},
-"pdf/07.content.pdf": {
-"mimeType": "application/pdf",
-"size": 413768,
-"scope": {
-"JDG": []
-}
-},
-"pdf/08.content.pdf": {
-"mimeType": "application/pdf",
-"size": 73794,
-"scope": {
-"RUT": []
-}
-},
-"pdf/09.content.pdf": {
-"mimeType": "application/pdf",
-"size": 544817,
-"scope": {
-"1SA": []
-}
-},
-"pdf/10.content.pdf": {
-"mimeType": "application/pdf",
-"size": 460869,
-"scope": {
-"2SA": []
-}
-},
-"pdf/11.content.pdf": {
-"mimeType": "application/pdf",
-"size": 533589,
-"scope": {
-"1KI": []
-}
-},
-"pdf/12.content.pdf": {
-"mimeType": "application/pdf",
-"size": 489372,
-"scope": {
-"2KI": []
-}
-},
-"pdf/15.content.pdf": {
-"mimeType": "application/pdf",
-"size": 185391,
-"scope": {
-"EZR": []
-}
-},
-"pdf/16.content.pdf": {
-"mimeType": "application/pdf",
-"size": 260810,
-"scope": {
-"NEH": []
-}
-},
-"pdf/17.content.pdf": {
-"mimeType": "application/pdf",
-"size": 134866,
-"scope": {
-"EST": []
-}
-},
-"pdf/18.content.pdf": {
-"mimeType": "application/pdf",
-"size": 579615,
-"scope": {
-"JOB": []
-}
-},
-"pdf/19.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1377542,
-"scope": {
-"PSA": []
-}
-},
-"pdf/20.content.pdf": {
-"mimeType": "application/pdf",
-"size": 497710,
-"scope": {
-"PRO": []
-}
-},
-"pdf/22.content.pdf": {
-"mimeType": "application/pdf",
-"size": 87291,
-"scope": {
-"SNG": []
-}
-},
-"pdf/25.content.pdf": {
-"mimeType": "application/pdf",
-"size": 106649,
-"scope": {
-"LAM": []
-}
-},
-"pdf/27.content.pdf": {
-"mimeType": "application/pdf",
-"size": 254283,
-"scope": {
-"DAN": []
-}
-},
-"pdf/28.content.pdf": {
-"mimeType": "application/pdf",
-"size": 140874,
-"scope": {
-"HOS": []
-}
-},
-"pdf/29.content.pdf": {
-"mimeType": "application/pdf",
-"size": 63012,
-"scope": {
-"JOL": []
-}
-},
-"pdf/30.content.pdf": {
-"mimeType": "application/pdf",
-"size": 112008,
-"scope": {
-"AMO": []
-}
-},
-"pdf/31.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31546,
-"scope": {
-"OBA": []
-}
-},
-"pdf/32.content.pdf": {
-"mimeType": "application/pdf",
-"size": 48409,
-"scope": {
-"JON": []
-}
-},
-"pdf/33.content.pdf": {
-"mimeType": "application/pdf",
-"size": 86350,
-"scope": {
-"MIC": []
-}
-},
-"pdf/34.content.pdf": {
-"mimeType": "application/pdf",
-"size": 48104,
-"scope": {
-"NAM": []
-}
-},
-"pdf/35.content.pdf": {
-"mimeType": "application/pdf",
-"size": 52617,
-"scope": {
-"HAB": []
-}
-},
-"pdf/36.content.pdf": {
-"mimeType": "application/pdf",
-"size": 53768,
-"scope": {
-"ZEP": []
-}
-},
-"pdf/37.content.pdf": {
-"mimeType": "application/pdf",
-"size": 41850,
-"scope": {
-"HAG": []
-}
-},
-"pdf/38.content.pdf": {
-"mimeType": "application/pdf",
-"size": 153984,
-"scope": {
-"ZEC": []
-}
-},
-"pdf/39.content.pdf": {
-"mimeType": "application/pdf",
-"size": 56233,
-"scope": {
-"MAL": []
-}
-},
-"pdf/40.content.pdf": {
-"mimeType": "application/pdf",
-"size": 629236,
-"scope": {
-"MAT": []
-}
-},
-"pdf/41.content.pdf": {
-"mimeType": "application/pdf",
-"size": 405306,
-"scope": {
-"MRK": []
-}
-},
-"pdf/42.content.pdf": {
-"mimeType": "application/pdf",
-"size": 672605,
-"scope": {
-"LUK": []
-}
-},
-"pdf/43.content.pdf": {
-"mimeType": "application/pdf",
-"size": 513176,
-"scope": {
-"JHN": []
-}
-},
-"pdf/44.content.pdf": {
-"mimeType": "application/pdf",
-"size": 617234,
-"scope": {
-"ACT": []
-}
-},
-"pdf/45.content.pdf": {
-"mimeType": "application/pdf",
-"size": 266866,
-"scope": {
-"ROM": []
-}
-},
-"pdf/46.content.pdf": {
-"mimeType": "application/pdf",
-"size": 263412,
-"scope": {
-"1CO": []
-}
-},
-"pdf/47.content.pdf": {
-"mimeType": "application/pdf",
-"size": 172710,
-"scope": {
-"2CO": []
-}
-},
-"pdf/48.content.pdf": {
-"mimeType": "application/pdf",
-"size": 101882,
-"scope": {
-"GAL": []
-}
-},
-"pdf/49.content.pdf": {
-"mimeType": "application/pdf",
-"size": 104611,
-"scope": {
-"EPH": []
-}
-},
-"pdf/50.content.pdf": {
-"mimeType": "application/pdf",
-"size": 77736,
-"scope": {
-"PHP": []
-}
-},
-"pdf/51.content.pdf": {
-"mimeType": "application/pdf",
-"size": 72426,
-"scope": {
-"COL": []
-}
-},
-"pdf/52.content.pdf": {
-"mimeType": "application/pdf",
-"size": 68886,
-"scope": {
-"1TH": []
-}
-},
-"pdf/53.content.pdf": {
-"mimeType": "application/pdf",
-"size": 45539,
-"scope": {
-"2TH": []
-}
-},
-"pdf/54.content.pdf": {
-"mimeType": "application/pdf",
-"size": 82836,
-"scope": {
-"1TI": []
-}
-},
-"pdf/55.content.pdf": {
-"mimeType": "application/pdf",
-"size": 65332,
-"scope": {
-"2TI": []
-}
-},
-"pdf/56.content.pdf": {
-"mimeType": "application/pdf",
-"size": 44709,
-"scope": {
-"TIT": []
-}
-},
-"pdf/57.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31227,
-"scope": {
-"PHM": []
-}
-},
-"pdf/58.content.pdf": {
-"mimeType": "application/pdf",
-"size": 199719,
-"scope": {
-"HEB": []
-}
-},
-"pdf/59.content.pdf": {
-"mimeType": "application/pdf",
-"size": 80143,
-"scope": {
-"JAS": []
-}
-},
-"pdf/60.content.pdf": {
-"mimeType": "application/pdf",
-"size": 80311,
-"scope": {
-"1PE": []
-}
-},
-"pdf/61.content.pdf": {
-"mimeType": "application/pdf",
-"size": 56504,
-"scope": {
-"2PE": []
-}
-},
-"pdf/62.content.pdf": {
-"mimeType": "application/pdf",
-"size": 78195,
-"scope": {
-"1JN": []
-}
-},
-"pdf/63.content.pdf": {
-"mimeType": "application/pdf",
-"size": 25234,
-"scope": {
-"2JN": []
-}
-},
-"pdf/64.content.pdf": {
-"mimeType": "application/pdf",
-"size": 25786,
-"scope": {
-"3JN": []
-}
-},
-"pdf/65.content.pdf": {
-"mimeType": "application/pdf",
-"size": 33044,
-"scope": {
-"JUD": []
-}
-},
-"pdf/66.content.pdf": {
-"mimeType": "application/pdf",
-"size": 273963,
+"size": 107642,
 "scope": {
 "REV": []
 }
 },
 "alignments/json/01.alignment.json": {
 "mimeType": "text/json",
-"size": 5540483,
+"size": 5540394,
 "scope": {
 "GEN": []
 }
 },
 "alignments/json/02.alignment.json": {
 "mimeType": "text/json",
-"size": 4540237,
+"size": 4539775,
 "scope": {
 "EXO": []
 }
 },
 "alignments/json/03.alignment.json": {
 "mimeType": "text/json",
-"size": 2905493,
+"size": 2905247,
 "scope": {
 "LEV": []
 }
@@ -26637,7 +26952,7 @@
 },
 "alignments/json/09.alignment.json": {
 "mimeType": "text/json",
-"size": 3419610,
+"size": 3419609,
 "scope": {
 "1SA": []
 }
@@ -26658,7 +26973,7 @@
 },
 "alignments/json/12.alignment.json": {
 "mimeType": "text/json",
-"size": 2753443,
+"size": 2753442,
 "scope": {
 "2KI": []
 }
@@ -26693,7 +27008,7 @@
 },
 "alignments/json/19.alignment.json": {
 "mimeType": "text/json",
-"size": 4937148,
+"size": 4937146,
 "scope": {
 "PSA": []
 }
@@ -26735,7 +27050,7 @@
 },
 "alignments/json/34.alignment.json": {
 "mimeType": "text/json",
-"size": 143451,
+"size": 143422,
 "scope": {
 "NAM": []
 }
@@ -27256,7 +27571,7 @@
 },
 "alignments/json/42-007.alignment.json": {
 "mimeType": "text/json",
-"size": 192228,
+"size": 192195,
 "scope": {
 "LUK": [
 "7"
@@ -27337,7 +27652,7 @@
 },
 "alignments/json/42-016.alignment.json": {
 "mimeType": "text/json",
-"size": 124099,
+"size": 124031,
 "scope": {
 "LUK": [
 "16"
@@ -27436,7 +27751,7 @@
 },
 "alignments/json/43-003.alignment.json": {
 "mimeType": "text/json",
-"size": 132929,
+"size": 132851,
 "scope": {
 "JHN": [
 "3"
@@ -27814,7 +28129,7 @@
 },
 "alignments/json/44-024.alignment.json": {
 "mimeType": "text/json",
-"size": 96873,
+"size": 96708,
 "scope": {
 "ACT": [
 "24"
@@ -27850,7 +28165,7 @@
 },
 "alignments/json/44-028.alignment.json": {
 "mimeType": "text/json",
-"size": 127789,
+"size": 127428,
 "scope": {
 "ACT": [
 "28"
@@ -28174,7 +28489,7 @@
 },
 "alignments/json/47-004.alignment.json": {
 "mimeType": "text/json",
-"size": 66975,
+"size": 66812,
 "scope": {
 "2CO": [
 "4"
@@ -28714,7 +29029,7 @@
 },
 "alignments/json/58-009.alignment.json": {
 "mimeType": "text/json",
-"size": 111323,
+"size": 111322,
 "scope": {
 "HEB": [
 "9"
@@ -28795,7 +29110,7 @@
 },
 "alignments/json/59-005.alignment.json": {
 "mimeType": "text/json",
-"size": 76244,
+"size": 76091,
 "scope": {
 "JAS": [
 "5"
@@ -29142,6 +29457,1287 @@
 "REV": [
 "22"
 ]
+}
+},
+"md/18.content.md": {
+"mimeType": "text/markdown",
+"size": 130029,
+"scope": {
+"JOB": []
+}
+},
+"md/58.content.md": {
+"mimeType": "text/markdown",
+"size": 51753,
+"scope": {
+"HEB": []
+}
+},
+"md/29.content.md": {
+"mimeType": "text/markdown",
+"size": 13443,
+"scope": {
+"JOL": []
+}
+},
+"md/59.content.md": {
+"mimeType": "text/markdown",
+"size": 16642,
+"scope": {
+"JAS": []
+}
+},
+"md/19.content.md": {
+"mimeType": "text/markdown",
+"size": 321721,
+"scope": {
+"PSA": []
+}
+},
+"md/28.content.md": {
+"mimeType": "text/markdown",
+"size": 34856,
+"scope": {
+"HOS": []
+}
+},
+"md/62.content.md": {
+"mimeType": "text/markdown",
+"size": 17219,
+"scope": {
+"1JN": []
+}
+},
+"md/37.content.md": {
+"mimeType": "text/markdown",
+"size": 7865,
+"scope": {
+"HAG": []
+}
+},
+"md/65.content.md": {
+"mimeType": "text/markdown",
+"size": 4918,
+"scope": {
+"JUD": []
+}
+},
+"md/30.content.md": {
+"mimeType": "text/markdown",
+"size": 27783,
+"scope": {
+"AMO": []
+}
+},
+"md/25.content.md": {
+"mimeType": "text/markdown",
+"size": 24933,
+"scope": {
+"LAM": []
+}
+},
+"md/22.content.md": {
+"mimeType": "text/markdown",
+"size": 19746,
+"scope": {
+"SNG": []
+}
+},
+"md/41.content.md": {
+"mimeType": "text/markdown",
+"size": 106137,
+"scope": {
+"MRK": []
+}
+},
+"md/46.content.md": {
+"mimeType": "text/markdown",
+"size": 69797,
+"scope": {
+"1CO": []
+}
+},
+"md/53.content.md": {
+"mimeType": "text/markdown",
+"size": 8068,
+"scope": {
+"2TH": []
+}
+},
+"md/06.content.md": {
+"mimeType": "text/markdown",
+"size": 127022,
+"scope": {
+"JOS": []
+}
+},
+"md/54.content.md": {
+"mimeType": "text/markdown",
+"size": 17343,
+"scope": {
+"1TI": []
+}
+},
+"md/01.content.md": {
+"mimeType": "text/markdown",
+"size": 265934,
+"scope": {
+"GEN": []
+}
+},
+"md/31.content.md": {
+"mimeType": "text/markdown",
+"size": 4627,
+"scope": {
+"OBA": []
+}
+},
+"md/64.content.md": {
+"mimeType": "text/markdown",
+"size": 2523,
+"scope": {
+"3JN": []
+}
+},
+"md/36.content.md": {
+"mimeType": "text/markdown",
+"size": 11214,
+"scope": {
+"ZEP": []
+}
+},
+"md/63.content.md": {
+"mimeType": "text/markdown",
+"size": 2454,
+"scope": {
+"2JN": []
+}
+},
+"md/55.content.md": {
+"mimeType": "text/markdown",
+"size": 12764,
+"scope": {
+"2TI": []
+}
+},
+"md/07.content.md": {
+"mimeType": "text/markdown",
+"size": 123830,
+"scope": {
+"JDG": []
+}
+},
+"md/52.content.md": {
+"mimeType": "text/markdown",
+"size": 14262,
+"scope": {
+"1TH": []
+}
+},
+"md/12.content.md": {
+"mimeType": "text/markdown",
+"size": 152128,
+"scope": {
+"2KI": []
+}
+},
+"md/47.content.md": {
+"mimeType": "text/markdown",
+"size": 45401,
+"scope": {
+"2CO": []
+}
+},
+"md/15.content.md": {
+"mimeType": "text/markdown",
+"size": 49408,
+"scope": {
+"EZR": []
+}
+},
+"md/40.content.md": {
+"mimeType": "text/markdown",
+"size": 169826,
+"scope": {
+"MAT": []
+}
+},
+"md/21.content.md": {
+"mimeType": "text/markdown",
+"size": 39888,
+"scope": {
+"ECC": []
+}
+},
+"md/61.content.md": {
+"mimeType": "text/markdown",
+"size": 11464,
+"scope": {
+"2PE": []
+}
+},
+"md/34.content.md": {
+"mimeType": "text/markdown",
+"size": 8713,
+"scope": {
+"NAM": []
+}
+},
+"md/66.content.md": {
+"mimeType": "text/markdown",
+"size": 79176,
+"scope": {
+"REV": []
+}
+},
+"md/33.content.md": {
+"mimeType": "text/markdown",
+"size": 20246,
+"scope": {
+"MIC": []
+}
+},
+"md/50.content.md": {
+"mimeType": "text/markdown",
+"size": 16603,
+"scope": {
+"PHP": []
+}
+},
+"md/05.content.md": {
+"mimeType": "text/markdown",
+"size": 184546,
+"scope": {
+"DEU": []
+}
+},
+"md/57.content.md": {
+"mimeType": "text/markdown",
+"size": 3767,
+"scope": {
+"PHM": []
+}
+},
+"md/02.content.md": {
+"mimeType": "text/markdown",
+"size": 215345,
+"scope": {
+"EXO": []
+}
+},
+"md/42.content.md": {
+"mimeType": "text/markdown",
+"size": 177830,
+"scope": {
+"LUK": []
+}
+},
+"md/17.content.md": {
+"mimeType": "text/markdown",
+"size": 38124,
+"scope": {
+"EST": []
+}
+},
+"md/45.content.md": {
+"mimeType": "text/markdown",
+"size": 68980,
+"scope": {
+"ROM": []
+}
+},
+"md/10.content.md": {
+"mimeType": "text/markdown",
+"size": 138304,
+"scope": {
+"2SA": []
+}
+},
+"md/32.content.md": {
+"mimeType": "text/markdown",
+"size": 9129,
+"scope": {
+"JON": []
+}
+},
+"md/35.content.md": {
+"mimeType": "text/markdown",
+"size": 10229,
+"scope": {
+"HAB": []
+}
+},
+"md/60.content.md": {
+"mimeType": "text/markdown",
+"size": 17597,
+"scope": {
+"1PE": []
+}
+},
+"md/20.content.md": {
+"mimeType": "text/markdown",
+"size": 118385,
+"scope": {
+"PRO": []
+}
+},
+"md/27.content.md": {
+"mimeType": "text/markdown",
+"size": 77541,
+"scope": {
+"DAN": []
+}
+},
+"md/11.content.md": {
+"mimeType": "text/markdown",
+"size": 162419,
+"scope": {
+"1KI": []
+}
+},
+"md/44.content.md": {
+"mimeType": "text/markdown",
+"size": 167100,
+"scope": {
+"ACT": []
+}
+},
+"md/16.content.md": {
+"mimeType": "text/markdown",
+"size": 73629,
+"scope": {
+"NEH": []
+}
+},
+"md/43.content.md": {
+"mimeType": "text/markdown",
+"size": 135195,
+"scope": {
+"JHN": []
+}
+},
+"md/03.content.md": {
+"mimeType": "text/markdown",
+"size": 165714,
+"scope": {
+"LEV": []
+}
+},
+"md/56.content.md": {
+"mimeType": "text/markdown",
+"size": 7289,
+"scope": {
+"TIT": []
+}
+},
+"md/04.content.md": {
+"mimeType": "text/markdown",
+"size": 221542,
+"scope": {
+"NUM": []
+}
+},
+"md/51.content.md": {
+"mimeType": "text/markdown",
+"size": 15218,
+"scope": {
+"COL": []
+}
+},
+"md/09.content.md": {
+"mimeType": "text/markdown",
+"size": 166234,
+"scope": {
+"1SA": []
+}
+},
+"md/49.content.md": {
+"mimeType": "text/markdown",
+"size": 23270,
+"scope": {
+"EPH": []
+}
+},
+"md/38.content.md": {
+"mimeType": "text/markdown",
+"size": 42561,
+"scope": {
+"ZEC": []
+}
+},
+"md/48.content.md": {
+"mimeType": "text/markdown",
+"size": 22826,
+"scope": {
+"GAL": []
+}
+},
+"md/08.content.md": {
+"mimeType": "text/markdown",
+"size": 17347,
+"scope": {
+"RUT": []
+}
+},
+"md/39.content.md": {
+"mimeType": "text/markdown",
+"size": 12057,
+"scope": {
+"MAL": []
+}
+},
+"docx/01.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 119221,
+"scope": {
+"GEN": []
+}
+},
+"docx/02.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 100817,
+"scope": {
+"EXO": []
+}
+},
+"docx/03.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 79721,
+"scope": {
+"LEV": []
+}
+},
+"docx/04.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 94828,
+"scope": {
+"NUM": []
+}
+},
+"docx/05.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 93533,
+"scope": {
+"DEU": []
+}
+},
+"docx/06.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 75910,
+"scope": {
+"JOS": []
+}
+},
+"docx/07.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 78390,
+"scope": {
+"JDG": []
+}
+},
+"docx/08.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47700,
+"scope": {
+"RUT": []
+}
+},
+"docx/09.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 90844,
+"scope": {
+"1SA": []
+}
+},
+"docx/10.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 83257,
+"scope": {
+"2SA": []
+}
+},
+"docx/11.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 87341,
+"scope": {
+"1KI": []
+}
+},
+"docx/12.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 83379,
+"scope": {
+"2KI": []
+}
+},
+"docx/15.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 56732,
+"scope": {
+"EZR": []
+}
+},
+"docx/16.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 64034,
+"scope": {
+"NEH": []
+}
+},
+"docx/17.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52948,
+"scope": {
+"EST": []
+}
+},
+"docx/18.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 85974,
+"scope": {
+"JOB": []
+}
+},
+"docx/19.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 143054,
+"scope": {
+"PSA": []
+}
+},
+"docx/20.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 78536,
+"scope": {
+"PRO": []
+}
+},
+"docx/21.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 54459,
+"scope": {
+"ECC": []
+}
+},
+"docx/22.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48416,
+"scope": {
+"SNG": []
+}
+},
+"docx/25.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50304,
+"scope": {
+"LAM": []
+}
+},
+"docx/27.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 64354,
+"scope": {
+"DAN": []
+}
+},
+"docx/28.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 53896,
+"scope": {
+"HOS": []
+}
+},
+"docx/29.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46630,
+"scope": {
+"JOL": []
+}
+},
+"docx/30.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50888,
+"scope": {
+"AMO": []
+}
+},
+"docx/31.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43490,
+"scope": {
+"OBA": []
+}
+},
+"docx/32.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45036,
+"scope": {
+"JON": []
+}
+},
+"docx/33.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49351,
+"scope": {
+"MIC": []
+}
+},
+"docx/34.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45282,
+"scope": {
+"NAM": []
+}
+},
+"docx/35.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45777,
+"scope": {
+"HAB": []
+}
+},
+"docx/36.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45728,
+"scope": {
+"ZEP": []
+}
+},
+"docx/37.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44256,
+"scope": {
+"HAG": []
+}
+},
+"docx/38.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 54553,
+"scope": {
+"ZEC": []
+}
+},
+"docx/39.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45997,
+"scope": {
+"MAL": []
+}
+},
+"docx/40.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 93681,
+"scope": {
+"MAT": []
+}
+},
+"docx/41.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 75600,
+"scope": {
+"MRK": []
+}
+},
+"docx/42.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 99642,
+"scope": {
+"LUK": []
+}
+},
+"docx/43.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 82498,
+"scope": {
+"JHN": []
+}
+},
+"docx/44.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 97293,
+"scope": {
+"ACT": []
+}
+},
+"docx/45.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 64133,
+"scope": {
+"ROM": []
+}
+},
+"docx/46.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 63354,
+"scope": {
+"1CO": []
+}
+},
+"docx/47.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 56711,
+"scope": {
+"2CO": []
+}
+},
+"docx/48.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49543,
+"scope": {
+"GAL": []
+}
+},
+"docx/49.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49644,
+"scope": {
+"EPH": []
+}
+},
+"docx/50.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47596,
+"scope": {
+"PHP": []
+}
+},
+"docx/51.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47128,
+"scope": {
+"COL": []
+}
+},
+"docx/52.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46588,
+"scope": {
+"1TH": []
+}
+},
+"docx/53.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44515,
+"scope": {
+"2TH": []
+}
+},
+"docx/54.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48057,
+"scope": {
+"1TI": []
+}
+},
+"docx/55.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46611,
+"scope": {
+"2TI": []
+}
+},
+"docx/56.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44660,
+"scope": {
+"TIT": []
+}
+},
+"docx/57.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43209,
+"scope": {
+"PHM": []
+}
+},
+"docx/58.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 59510,
+"scope": {
+"HEB": []
+}
+},
+"docx/59.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47965,
+"scope": {
+"JAS": []
+}
+},
+"docx/60.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48296,
+"scope": {
+"1PE": []
+}
+},
+"docx/61.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46033,
+"scope": {
+"2PE": []
+}
+},
+"docx/62.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46815,
+"scope": {
+"1JN": []
+}
+},
+"docx/63.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42703,
+"scope": {
+"2JN": []
+}
+},
+"docx/64.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42740,
+"scope": {
+"3JN": []
+}
+},
+"docx/65.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43808,
+"scope": {
+"JUD": []
+}
+},
+"docx/66.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 65113,
+"scope": {
+"REV": []
+}
+},
+"pdf/01.content.pdf": {
+"mimeType": "application/pdf",
+"size": 931215,
+"scope": {
+"GEN": []
+}
+},
+"pdf/02.content.pdf": {
+"mimeType": "application/pdf",
+"size": 744733,
+"scope": {
+"EXO": []
+}
+},
+"pdf/03.content.pdf": {
+"mimeType": "application/pdf",
+"size": 543061,
+"scope": {
+"LEV": []
+}
+},
+"pdf/04.content.pdf": {
+"mimeType": "application/pdf",
+"size": 764240,
+"scope": {
+"NUM": []
+}
+},
+"pdf/05.content.pdf": {
+"mimeType": "application/pdf",
+"size": 615959,
+"scope": {
+"DEU": []
+}
+},
+"pdf/06.content.pdf": {
+"mimeType": "application/pdf",
+"size": 429254,
+"scope": {
+"JOS": []
+}
+},
+"pdf/07.content.pdf": {
+"mimeType": "application/pdf",
+"size": 413764,
+"scope": {
+"JDG": []
+}
+},
+"pdf/08.content.pdf": {
+"mimeType": "application/pdf",
+"size": 73794,
+"scope": {
+"RUT": []
+}
+},
+"pdf/09.content.pdf": {
+"mimeType": "application/pdf",
+"size": 544809,
+"scope": {
+"1SA": []
+}
+},
+"pdf/10.content.pdf": {
+"mimeType": "application/pdf",
+"size": 460860,
+"scope": {
+"2SA": []
+}
+},
+"pdf/11.content.pdf": {
+"mimeType": "application/pdf",
+"size": 533589,
+"scope": {
+"1KI": []
+}
+},
+"pdf/12.content.pdf": {
+"mimeType": "application/pdf",
+"size": 489398,
+"scope": {
+"2KI": []
+}
+},
+"pdf/15.content.pdf": {
+"mimeType": "application/pdf",
+"size": 185391,
+"scope": {
+"EZR": []
+}
+},
+"pdf/16.content.pdf": {
+"mimeType": "application/pdf",
+"size": 260810,
+"scope": {
+"NEH": []
+}
+},
+"pdf/17.content.pdf": {
+"mimeType": "application/pdf",
+"size": 134866,
+"scope": {
+"EST": []
+}
+},
+"pdf/18.content.pdf": {
+"mimeType": "application/pdf",
+"size": 579615,
+"scope": {
+"JOB": []
+}
+},
+"pdf/19.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1377538,
+"scope": {
+"PSA": []
+}
+},
+"pdf/20.content.pdf": {
+"mimeType": "application/pdf",
+"size": 497710,
+"scope": {
+"PRO": []
+}
+},
+"pdf/21.content.pdf": {
+"mimeType": "application/pdf",
+"size": 152687,
+"scope": {
+"ECC": []
+}
+},
+"pdf/22.content.pdf": {
+"mimeType": "application/pdf",
+"size": 87291,
+"scope": {
+"SNG": []
+}
+},
+"pdf/25.content.pdf": {
+"mimeType": "application/pdf",
+"size": 106649,
+"scope": {
+"LAM": []
+}
+},
+"pdf/27.content.pdf": {
+"mimeType": "application/pdf",
+"size": 254283,
+"scope": {
+"DAN": []
+}
+},
+"pdf/28.content.pdf": {
+"mimeType": "application/pdf",
+"size": 140874,
+"scope": {
+"HOS": []
+}
+},
+"pdf/29.content.pdf": {
+"mimeType": "application/pdf",
+"size": 63012,
+"scope": {
+"JOL": []
+}
+},
+"pdf/30.content.pdf": {
+"mimeType": "application/pdf",
+"size": 112008,
+"scope": {
+"AMO": []
+}
+},
+"pdf/31.content.pdf": {
+"mimeType": "application/pdf",
+"size": 31541,
+"scope": {
+"OBA": []
+}
+},
+"pdf/32.content.pdf": {
+"mimeType": "application/pdf",
+"size": 48409,
+"scope": {
+"JON": []
+}
+},
+"pdf/33.content.pdf": {
+"mimeType": "application/pdf",
+"size": 86350,
+"scope": {
+"MIC": []
+}
+},
+"pdf/34.content.pdf": {
+"mimeType": "application/pdf",
+"size": 48104,
+"scope": {
+"NAM": []
+}
+},
+"pdf/35.content.pdf": {
+"mimeType": "application/pdf",
+"size": 52617,
+"scope": {
+"HAB": []
+}
+},
+"pdf/36.content.pdf": {
+"mimeType": "application/pdf",
+"size": 53768,
+"scope": {
+"ZEP": []
+}
+},
+"pdf/37.content.pdf": {
+"mimeType": "application/pdf",
+"size": 41850,
+"scope": {
+"HAG": []
+}
+},
+"pdf/38.content.pdf": {
+"mimeType": "application/pdf",
+"size": 154047,
+"scope": {
+"ZEC": []
+}
+},
+"pdf/39.content.pdf": {
+"mimeType": "application/pdf",
+"size": 56233,
+"scope": {
+"MAL": []
+}
+},
+"pdf/40.content.pdf": {
+"mimeType": "application/pdf",
+"size": 629236,
+"scope": {
+"MAT": []
+}
+},
+"pdf/41.content.pdf": {
+"mimeType": "application/pdf",
+"size": 405306,
+"scope": {
+"MRK": []
+}
+},
+"pdf/42.content.pdf": {
+"mimeType": "application/pdf",
+"size": 672608,
+"scope": {
+"LUK": []
+}
+},
+"pdf/43.content.pdf": {
+"mimeType": "application/pdf",
+"size": 513169,
+"scope": {
+"JHN": []
+}
+},
+"pdf/44.content.pdf": {
+"mimeType": "application/pdf",
+"size": 617234,
+"scope": {
+"ACT": []
+}
+},
+"pdf/45.content.pdf": {
+"mimeType": "application/pdf",
+"size": 266866,
+"scope": {
+"ROM": []
+}
+},
+"pdf/46.content.pdf": {
+"mimeType": "application/pdf",
+"size": 263412,
+"scope": {
+"1CO": []
+}
+},
+"pdf/47.content.pdf": {
+"mimeType": "application/pdf",
+"size": 172710,
+"scope": {
+"2CO": []
+}
+},
+"pdf/48.content.pdf": {
+"mimeType": "application/pdf",
+"size": 101882,
+"scope": {
+"GAL": []
+}
+},
+"pdf/49.content.pdf": {
+"mimeType": "application/pdf",
+"size": 104611,
+"scope": {
+"EPH": []
+}
+},
+"pdf/50.content.pdf": {
+"mimeType": "application/pdf",
+"size": 77736,
+"scope": {
+"PHP": []
+}
+},
+"pdf/51.content.pdf": {
+"mimeType": "application/pdf",
+"size": 72426,
+"scope": {
+"COL": []
+}
+},
+"pdf/52.content.pdf": {
+"mimeType": "application/pdf",
+"size": 68886,
+"scope": {
+"1TH": []
+}
+},
+"pdf/53.content.pdf": {
+"mimeType": "application/pdf",
+"size": 45539,
+"scope": {
+"2TH": []
+}
+},
+"pdf/54.content.pdf": {
+"mimeType": "application/pdf",
+"size": 82836,
+"scope": {
+"1TI": []
+}
+},
+"pdf/55.content.pdf": {
+"mimeType": "application/pdf",
+"size": 65332,
+"scope": {
+"2TI": []
+}
+},
+"pdf/56.content.pdf": {
+"mimeType": "application/pdf",
+"size": 44709,
+"scope": {
+"TIT": []
+}
+},
+"pdf/57.content.pdf": {
+"mimeType": "application/pdf",
+"size": 31227,
+"scope": {
+"PHM": []
+}
+},
+"pdf/58.content.pdf": {
+"mimeType": "application/pdf",
+"size": 199720,
+"scope": {
+"HEB": []
+}
+},
+"pdf/59.content.pdf": {
+"mimeType": "application/pdf",
+"size": 80138,
+"scope": {
+"JAS": []
+}
+},
+"pdf/60.content.pdf": {
+"mimeType": "application/pdf",
+"size": 80311,
+"scope": {
+"1PE": []
+}
+},
+"pdf/61.content.pdf": {
+"mimeType": "application/pdf",
+"size": 56504,
+"scope": {
+"2PE": []
+}
+},
+"pdf/62.content.pdf": {
+"mimeType": "application/pdf",
+"size": 78195,
+"scope": {
+"1JN": []
+}
+},
+"pdf/63.content.pdf": {
+"mimeType": "application/pdf",
+"size": 25234,
+"scope": {
+"2JN": []
+}
+},
+"pdf/64.content.pdf": {
+"mimeType": "application/pdf",
+"size": 25786,
+"scope": {
+"3JN": []
+}
+},
+"pdf/65.content.pdf": {
+"mimeType": "application/pdf",
+"size": 33044,
+"scope": {
+"JUD": []
+}
+},
+"pdf/66.content.pdf": {
+"mimeType": "application/pdf",
+"size": 273963,
+"scope": {
+"REV": []
 }
 }
 },

@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EST" style="id">EN_ULT en_English_ltr Wed May 26 2021 16:37:31 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -59,7 +59,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 1:22"/><verse eid="EST 1:22"/></para>
+<verse eid="EST 1:22"/></para>
   <chapter eid="EST 1"/>
   <chapter number="2" style="c" sid="EST 2"/>
   <para style="p"><verse number="1" style="v" sid="EST 2:1"/>After these things, when the rage of the king Ahasuerus subsided, he remembered Vashti and what she had done, and what had been decided concerning her.
@@ -108,7 +108,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 2:23"/><verse eid="EST 2:23"/></para>
+<verse eid="EST 2:23"/></para>
   <chapter eid="EST 2"/>
   <chapter number="3" style="c" sid="EST 3"/>
   <para style="p"><verse number="1" style="v" sid="EST 3:1"/>After these things, the king Ahasuerus made Haman, the son of Hammedatha, the Agagite, great. And he lifted him up and placed his seat of authority from over all the officials who were with him.
@@ -145,7 +145,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 3:15"/><verse eid="EST 3:15"/></para>
+<verse eid="EST 3:15"/></para>
   <chapter eid="EST 3"/>
   <chapter number="4" style="c" sid="EST 4"/>
   <para style="p"><verse number="1" style="v" sid="EST 4:1"/>Now when Mordecai knew about all that had been done, Mordecai tore his garments and put on sackcloth and ashes. And he went out into the midst of the city and cried out a great and bitter outcry.
@@ -184,7 +184,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 4:17"/><verse eid="EST 4:17"/></para>
+<verse eid="EST 4:17"/></para>
   <chapter eid="EST 4"/>
   <chapter number="5" style="c" sid="EST 5"/>
   <para style="p"><verse number="1" style="v" sid="EST 5:1"/>And it happened on the third day that Esther put on royalty and stood in the inner court of the palace of the king, opposite to the house of the king. Now the king was sitting on the throne of his royalty in the palace of royalty opposite to the entrance of the palace.
@@ -217,7 +217,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 5:14"/><verse eid="EST 5:14"/></para>
+<verse eid="EST 5:14"/></para>
   <chapter eid="EST 5"/>
   <chapter number="6" style="c" sid="EST 6"/>
   <para style="p"><verse number="1" style="v" sid="EST 6:1"/>That night the sleep of the king fled away. And he said to bring the book of records of the events of days, and they were being called out before the face of the king.
@@ -252,7 +252,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 6:14"/><verse eid="EST 6:14"/></para>
+<verse eid="EST 6:14"/></para>
   <chapter eid="EST 6"/>
   <chapter number="7" style="c" sid="EST 7"/>
   <para style="p"><verse number="1" style="v" sid="EST 7:1"/>And the king came with Haman to drink with Esther the queen.
@@ -278,7 +278,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 7:10"/><verse eid="EST 7:10"/></para>
+<verse eid="EST 7:10"/></para>
   <chapter eid="EST 7"/>
   <chapter number="8" style="c" sid="EST 8"/>
   <para style="p"><verse number="1" style="v" sid="EST 8:1"/>On that day, the king Ahasuerus gave to Esther the queen the house of Haman, the adversary of the Jews. And Mordecai came before the face of the king because Esther told what he was to her.
@@ -319,7 +319,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 8:17"/><verse eid="EST 8:17"/></para>
+<verse eid="EST 8:17"/></para>
   <chapter eid="EST 8"/>
   <chapter number="9" style="c" sid="EST 9"/>
   <para style="p"><verse number="1" style="v" sid="EST 9:1"/>Now in month 12, which is the month of Adar, on day 13 of it, when the word of the king and his law had reached the time to be done, on the day when the enemies of the Jews hoped to dominate them: but being overturned, it happened that the Jews themselves dominated those who hated them.
@@ -385,7 +385,7 @@
 
 <ms style="ts"/>
 
-<verse eid="EST 9:32"/><verse eid="EST 9:32"/></para>
+<verse eid="EST 9:32"/></para>
   <chapter eid="EST 9"/>
   <chapter number="10" style="c" sid="EST 10"/>
   <para style="p"><verse number="1" style="v" sid="EST 10:1"/>And the king Ahasuerus set a tribute on the land and the islands of the sea.

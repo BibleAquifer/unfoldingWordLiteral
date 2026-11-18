@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="1PE" style="id">EN_ULT en_English_ltr Thu Aug 18 2022 16:10:25 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -62,20 +62,20 @@
 <ms style="ts"/>
 <verse eid="1PE 1:23"/><verse number="24" style="v" sid="1PE 1:24"/>For,
 </para>
-  <para style="q1">“All flesh {is} like grass,
+  <para style="q1" vid="1PE 1:24">“All flesh {is} like grass,
 </para>
-  <para style="q1">and all its glory {is} like the flower of the grass.
+  <para style="q1" vid="1PE 1:24">and all its glory {is} like the flower of the grass.
 </para>
-  <para style="q1">The grass was dried up, and the flower fell off,
+  <para style="q1" vid="1PE 1:24">The grass was dried up, and the flower fell off,
 <verse eid="1PE 1:24"/></para>
   <para style="q1"><verse number="25" style="v" sid="1PE 1:25"/>but the word of the Lord endures into eternity.”
 
 </para>
-  <para style="m">And this is the word that has been proclaimed to you.
+  <para style="m" vid="1PE 1:25">And this is the word that has been proclaimed to you.
 
 <ms style="ts"/>
 
-<verse eid="1PE 1:25"/><verse eid="1PE 1:25"/></para>
+<verse eid="1PE 1:25"/></para>
   <chapter eid="1PE 1"/>
   <chapter number="2" style="c" sid="1PE 2"/>
   <para style="p"><verse number="1" style="v" sid="1PE 2:1"/>Therefore, having put aside all evil and all deceit and hypocrisies and envies and all slanders,
@@ -89,29 +89,29 @@
 <ms style="ts"/>
 <verse eid="1PE 2:5"/><verse number="6" style="v" sid="1PE 2:6"/>Therefore, it stands in scripture:
 </para>
-  <para style="q1">“Behold, I am laying in Zion a stone, a cornerstone,
+  <para style="q1" vid="1PE 2:6">“Behold, I am laying in Zion a stone, a cornerstone,
 </para>
-  <para style="q1">chosen, precious.
+  <para style="q1" vid="1PE 2:6">chosen, precious.
 </para>
-  <para style="q1">And the one believing in him may certainly not be ashamed.”
+  <para style="q1" vid="1PE 2:6">And the one believing in him may certainly not be ashamed.”
 
 <ms style="ts"/>
 <verse eid="1PE 2:6"/></para>
   <para style="p"><verse number="7" style="v" sid="1PE 2:7"/>Therefore, the honor {is} to you, the ones believing. But to those not believing,
 </para>
-  <para style="q1">“A stone that the ones building rejected,
+  <para style="q1" vid="1PE 2:7">“A stone that the ones building rejected,
 </para>
-  <para style="q1">this has become the head of the corner,”
+  <para style="q1" vid="1PE 2:7">this has become the head of the corner,”
 
 <verse eid="1PE 2:7"/></para>
   <para style="p"><verse number="8" style="v" sid="1PE 2:8"/>and,
 </para>
-  <para style="q1">“A stone of stumbling
+  <para style="q1" vid="1PE 2:8">“A stone of stumbling
 </para>
-  <para style="q1">and a rock of offense.”
+  <para style="q1" vid="1PE 2:8">and a rock of offense.”
 
 </para>
-  <para style="m">They stumble, disobeying the word to which also they were appointed.
+  <para style="m" vid="1PE 2:8">They stumble, disobeying the word to which also they were appointed.
 
 <ms style="ts"/>
 <verse eid="1PE 2:8"/><verse number="9" style="v" sid="1PE 2:9"/>But you {are} a chosen family, a royal priesthood, a holy nation, a people for possession, so that you might proclaim the praiseworthy actions of the one having called you out from darkness into his marvelous light,
@@ -141,7 +141,7 @@
 <verse eid="1PE 2:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="1PE 2:22"/>“who did no sin,
 </para>
-  <para style="q1">neither was deceit found in his mouth;”
+  <para style="q1" vid="1PE 2:22">neither was deceit found in his mouth;”
 
 <verse eid="1PE 2:22"/></para>
   <para style="m"><verse number="23" style="v" sid="1PE 2:23"/>who being reviled, did not revile back; suffering, he did not threaten, but he entrusted {himself} to the one judging justly;
@@ -152,7 +152,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1PE 2:25"/><verse eid="1PE 2:25"/></para>
+<verse eid="1PE 2:25"/></para>
   <chapter eid="1PE 2"/>
   <chapter number="3" style="c" sid="1PE 3"/>
   <para style="p"><verse number="1" style="v" sid="1PE 3:1"/>Similarly, wives, be subjected to your own husbands so that even if some are being disobedient to the word, they will be won without a word through the behavior of their wives,
@@ -179,18 +179,18 @@
 <verse eid="1PE 3:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="1PE 3:10"/>For,
 </para>
-  <para style="q1">“Let the one wanting to love life and to see good days
+  <para style="q1" vid="1PE 3:10">“Let the one wanting to love life and to see good days
 </para>
-  <para style="q2">stop his tongue from evil, and his lips not to speak deceit.
+  <para style="q2" vid="1PE 3:10">stop his tongue from evil, and his lips not to speak deceit.
 <verse eid="1PE 3:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="1PE 3:11"/>But let him turn away from evil and let him do good.
 </para>
-  <para style="q1">Let him seek peace and let him pursue it,
+  <para style="q1" vid="1PE 3:11">Let him seek peace and let him pursue it,
 <verse eid="1PE 3:11"/><verse number="12" style="v" sid="1PE 3:12"/>for
 </para>
-  <para style="q1">the eyes of the Lord {are} on righteous ones, and his ears {are} toward their request,
+  <para style="q1" vid="1PE 3:12">the eyes of the Lord {are} on righteous ones, and his ears {are} toward their request,
 </para>
-  <para style="q2">but the face of the Lord {is} against those doing evil.”
+  <para style="q2" vid="1PE 3:12">but the face of the Lord {is} against those doing evil.”
 
 <ms style="ts"/>
 <verse eid="1PE 3:12"/></para>
@@ -213,7 +213,7 @@
 
 <ms style="ts"/>
 
-<verse eid="1PE 3:22"/><verse eid="1PE 3:22"/></para>
+<verse eid="1PE 3:22"/></para>
   <chapter eid="1PE 3"/>
   <chapter number="4" style="c" sid="1PE 4"/>
   <para style="p"><verse number="1" style="v" sid="1PE 4:1"/>Therefore, Christ having suffered in the flesh, also arm yourselves {with} the same way of thinking, for the one having suffered in the flesh has ceased from sin
@@ -250,14 +250,14 @@
 <verse eid="1PE 4:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="1PE 4:18"/>And, “If with difficulty the righteous is being saved,
 </para>
-  <para style="q1">where will the ungodly and sinner appear?”
+  <para style="q1" vid="1PE 4:18">where will the ungodly and sinner appear?”
 
 <verse eid="1PE 4:18"/></para>
   <para style="m"><verse number="19" style="v" sid="1PE 4:19"/>So then, also let those suffering according to the will of God entrust their souls to the faithful Creator in doing good.
 
 <ms style="ts"/>
 
-<verse eid="1PE 4:19"/><verse eid="1PE 4:19"/></para>
+<verse eid="1PE 4:19"/></para>
   <chapter eid="1PE 4"/>
   <chapter number="5" style="c" sid="1PE 5"/>
   <para style="p"><verse number="1" style="v" sid="1PE 5:1"/>Therefore, I—the fellow elder and witness of the sufferings of Christ and the sharer of the glory being about to be revealed—exhort the elders among you:
@@ -285,7 +285,7 @@
 <verse eid="1PE 5:13"/><verse number="14" style="v" sid="1PE 5:14"/>Greet one another with a kiss of love.
 
 </para>
-  <para style="p">Peace to you, all those in Christ.
+  <para style="p" vid="1PE 5:14">Peace to you, all those in Christ.
 <verse eid="1PE 5:14"/></para>
   <chapter eid="1PE 5"/>
 </usx>

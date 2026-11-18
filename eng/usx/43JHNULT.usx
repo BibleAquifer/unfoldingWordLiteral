@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="JHN" style="id">EN_ULT en_English_ltr Wed Dec 14 2022 14:59:15 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -59,13 +59,12 @@
 <verse eid="JHN 1:21"/><verse number="22" style="v" sid="JHN 1:22"/>Then they said to him, “Who are you, so that we might give an answer to the ones having sent us? What do you say about yourself?”
 <verse eid="JHN 1:22"/><verse number="23" style="v" sid="JHN 1:23"/>He said,
 </para>
-  <para style="q1">“I am a voice, crying out in the wilderness:
+  <para style="q1" vid="JHN 1:23">“I am a voice, crying out in the wilderness:
 </para>
-  <para style="q1">‘Make the way of the Lord straight,’
+  <para style="q1" vid="JHN 1:23">‘Make the way of the Lord straight,’
 
 </para>
-  <para style="b"/>
-  <para style="m">just as Isaiah the prophet said.”
+  <para style="m" vid="JHN 1:23">just as Isaiah the prophet said.”
 
 <ms style="ts"/>
 <verse eid="JHN 1:23"/><verse number="24" style="v" sid="JHN 1:24"/>And the ones that had been sent were from the Pharisees,
@@ -119,7 +118,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 1:51"/><verse eid="JHN 1:51"/></para>
+<verse eid="JHN 1:51"/></para>
   <chapter eid="JHN 1"/>
   <chapter number="2" style="c" sid="JHN 2"/>
   <para style="p"><verse number="1" style="v" sid="JHN 2:1"/>And on the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there.
@@ -172,7 +171,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 2:25"/><verse eid="JHN 2:25"/></para>
+<verse eid="JHN 2:25"/></para>
   <chapter eid="JHN 2"/>
   <chapter number="3" style="c" sid="JHN 3"/>
   <para style="p"><verse number="1" style="v" sid="JHN 3:1"/>Now there was a man from the Pharisees, Nicodemus {was} his name, a ruler of the Jews.
@@ -211,7 +210,7 @@
 
 <ms style="ts"/>
 <verse eid="JHN 3:18"/><verse number="19" style="v" sid="JHN 3:19"/>Now this is the judgment: that the light has come into the world, and men loved the darkness rather than the light, for their deeds were evil.
-<verse eid="JHN 3:19"/><verse number="20" style="v" sid="JHN 3:20"/>For everyone is doing evil hates the light and does not come to the light, so that his deeds might not be exposed.
+<verse eid="JHN 3:19"/><verse number="20" style="v" sid="JHN 3:20"/>For everyone doing evil hates the light and does not come to the light, so that his deeds might not be exposed.
 <verse eid="JHN 3:20"/><verse number="21" style="v" sid="JHN 3:21"/>But the one doing the truth comes to the light, so that his deeds might be revealed, that they have been worked in God.”
 
 <ms style="ts"/>
@@ -245,7 +244,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 3:36"/><verse eid="JHN 3:36"/></para>
+<verse eid="JHN 3:36"/></para>
   <chapter eid="JHN 3"/>
   <chapter number="4" style="c" sid="JHN 4"/>
   <para style="p"><verse number="1" style="v" sid="JHN 4:1"/>Then when Jesus knew that the Pharisees heard that Jesus is making and baptizing more disciples than John
@@ -355,7 +354,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 4:54"/><verse eid="JHN 4:54"/></para>
+<verse eid="JHN 4:54"/></para>
   <chapter eid="JHN 4"/>
   <chapter number="5" style="c" sid="JHN 5"/>
   <para style="p"><verse number="1" style="v" sid="JHN 5:1"/>After these things, there was a festival of the Jews, and Jesus went up to Jerusalem.
@@ -375,7 +374,7 @@
 <verse eid="JHN 5:8"/><verse number="9" style="v" sid="JHN 5:9"/>And immediately the man became healthy, and he took up his bed and began to walk.
 
 </para>
-  <para style="p">Now that day was a Sabbath.
+  <para style="p" vid="JHN 5:9">Now that day was a Sabbath.
 
 <ms style="ts"/>
 <verse eid="JHN 5:9"/><verse number="10" style="v" sid="JHN 5:10"/>So the Jews said to the one healed, “It is the Sabbath and not permitted for you to carry your bed.”
@@ -453,7 +452,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 5:47"/><verse eid="JHN 5:47"/></para>
+<verse eid="JHN 5:47"/></para>
   <chapter eid="JHN 5"/>
   <chapter number="6" style="c" sid="JHN 6"/>
   <para style="p"><verse number="1" style="v" sid="JHN 6:1"/>After these things, Jesus went away to the other side of the Sea of Galilee (of Tiberias).
@@ -590,7 +589,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 6:71"/><verse eid="JHN 6:71"/></para>
+<verse eid="JHN 6:71"/></para>
   <chapter eid="JHN 6"/>
   <chapter number="7" style="c" sid="JHN 7"/>
   <para style="p"><verse number="1" style="v" sid="JHN 7:1"/>And after these things, Jesus traveled about in Galilee, for he did not want to walk in Judea, because the Jews were seeking to kill him.
@@ -701,7 +700,7 @@
 
 <ms style="ts"/>
 
-<verse eid="JHN 7:53"/><verse eid="JHN 7:53"/></para>
+<verse eid="JHN 7:53"/></para>
   <chapter eid="JHN 7"/>
   <chapter number="8" style="c" sid="JHN 8"/>
   <para style="p"><verse number="1" style="v" sid="JHN 8:1"/><note style="f" caller="+"> <char style="ft" closed="false">See the note about John 7:53-8:11 on 7:53 above.</char></note>
@@ -814,7 +813,7 @@ Now Jesus went to the Mount of Olives.
 
 <ms style="ts"/>
 
-<verse eid="JHN 8:59"/><verse eid="JHN 8:59"/></para>
+<verse eid="JHN 8:59"/></para>
   <chapter eid="JHN 8"/>
   <chapter number="9" style="c" sid="JHN 9"/>
   <para style="p"><verse number="1" style="v" sid="JHN 9:1"/>And passing by, he saw a man blind from birth.
@@ -893,7 +892,7 @@ Now Jesus went to the Mount of Olives.
 
 <ms style="ts"/>
 
-<verse eid="JHN 9:41"/><verse eid="JHN 9:41"/></para>
+<verse eid="JHN 9:41"/></para>
   <chapter eid="JHN 9"/>
   <chapter number="10" style="c" sid="JHN 10"/>
   <para style="p"><verse number="1" style="v" sid="JHN 10:1"/>“Truly, truly, I say to you, the one not entering through the gate into the sheep pen but climbing up some other way, that one is a thief and a robber.
@@ -978,7 +977,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 10:42"/><verse eid="JHN 10:42"/></para>
+<verse eid="JHN 10:42"/></para>
   <chapter eid="JHN 10"/>
   <chapter number="11" style="c" sid="JHN 11"/>
   <para style="p"><verse number="1" style="v" sid="JHN 11:1"/>Now a certain man was sick, Lazarus from Bethany, from the village of Mary and her sister Martha.
@@ -1089,7 +1088,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 11:57"/><verse eid="JHN 11:57"/></para>
+<verse eid="JHN 11:57"/></para>
   <chapter eid="JHN 11"/>
   <chapter number="12" style="c" sid="JHN 12"/>
   <para style="p"><verse number="1" style="v" sid="JHN 12:1"/>Then, six days before the Passover, Jesus came to Bethany, where Lazarus was, whom Jesus had raised from the dead.
@@ -1162,32 +1161,30 @@ and Jesus was walking in the temple on the porch of Solomon.
 <verse eid="JHN 12:35"/><verse number="36" style="v" sid="JHN 12:36"/>While you have the light, believe in the light so that you may be sons of light.”
 
 </para>
-  <para style="p">Jesus said these things, and having departed, was hidden from them.
+  <para style="p" vid="JHN 12:36">Jesus said these things, and having departed, was hidden from them.
 
 <ms style="ts"/>
 <verse eid="JHN 12:36"/><verse number="37" style="v" sid="JHN 12:37"/>Although he had done so many signs before them, they were not believing in him
 <verse eid="JHN 12:37"/><verse number="38" style="v" sid="JHN 12:38"/>so that the word of Isaiah the prophet might be fulfilled, in which he said:
 </para>
-  <para style="q1">“Lord, who has believed our report,
+  <para style="q1" vid="JHN 12:38">“Lord, who has believed our report,
 </para>
-  <para style="q2">and to whom has the arm of the Lord been revealed?”
+  <para style="q2" vid="JHN 12:38">and to whom has the arm of the Lord been revealed?”
 
+<ms style="ts"/>
 <verse eid="JHN 12:38"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="39" style="v" sid="JHN 12:39"/>Because of this they were not able to believe, for Isaiah had again said,
 <verse eid="JHN 12:39"/></para>
   <para style="q1"><verse number="40" style="v" sid="JHN 12:40"/>“He has blinded their eyes, and he has hardened their heart;
 </para>
-  <para style="q2">so that they might not see with their eyes and might understand with their heart,
+  <para style="q2" vid="JHN 12:40">so that they might not see with their eyes and might understand with their heart,
 </para>
-  <para style="q2">and might turn,
+  <para style="q2" vid="JHN 12:40">and might turn,
 </para>
-  <para style="q2">and I will heal them.”
+  <para style="q2" vid="JHN 12:40">and I will heal them.”
 
+<ms style="ts"/>
 <verse eid="JHN 12:40"/></para>
-  <para style="b"/>
-  <ms style="ts"/>
   <para style="m"><verse number="41" style="v" sid="JHN 12:41"/>Isaiah said these things because he saw his glory and spoke about him.
 <verse eid="JHN 12:41"/><verse number="42" style="v" sid="JHN 12:42"/>But nevertheless, even many of the rulers believed in him; but because of the Pharisees, they were not confessing {it} so that they would not be put out of the synagogue.
 <verse eid="JHN 12:42"/><verse number="43" style="v" sid="JHN 12:43"/>For they loved the glory of men more than the glory of God.
@@ -1208,7 +1205,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 12:50"/><verse eid="JHN 12:50"/></para>
+<verse eid="JHN 12:50"/></para>
   <chapter eid="JHN 12"/>
   <chapter number="13" style="c" sid="JHN 13"/>
   <para style="p"><verse number="1" style="v" sid="JHN 13:1"/>Now before the Festival of the Passover, Jesus knew that his hour had come so that he might depart from this world to the Father. Having loved his own in the world, he loved them to the end.
@@ -1282,7 +1279,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 13:38"/><verse eid="JHN 13:38"/></para>
+<verse eid="JHN 13:38"/></para>
   <chapter eid="JHN 13"/>
   <chapter number="14" style="c" sid="JHN 14"/>
   <para style="p"><verse number="1" style="v" sid="JHN 14:1"/>“Do not let your heart be troubled. Believe in God; believe also in me.
@@ -1342,7 +1339,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 14:31"/><verse eid="JHN 14:31"/></para>
+<verse eid="JHN 14:31"/></para>
   <chapter eid="JHN 14"/>
   <chapter number="15" style="c" sid="JHN 15"/>
   <para style="p"><verse number="1" style="v" sid="JHN 15:1"/>“I am the true vine, and my Father is the farmer.
@@ -1397,7 +1394,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 15:27"/><verse eid="JHN 15:27"/></para>
+<verse eid="JHN 15:27"/></para>
   <chapter eid="JHN 15"/>
   <chapter number="16" style="c" sid="JHN 16"/>
   <para style="p"><verse number="1" style="v" sid="JHN 16:1"/>“I have spoken these things to you so that you might not fall away.
@@ -1461,7 +1458,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 16:33"/><verse eid="JHN 16:33"/></para>
+<verse eid="JHN 16:33"/></para>
   <chapter eid="JHN 16"/>
   <chapter number="17" style="c" sid="JHN 17"/>
   <para style="p"><verse number="1" style="v" sid="JHN 17:1"/>Jesus said these things and, having lifted up his eyes to the heaven, he said, “Father, the hour has come. Glorify your Son so that the Son might glorify you,
@@ -1513,7 +1510,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 17:26"/><verse eid="JHN 17:26"/></para>
+<verse eid="JHN 17:26"/></para>
   <chapter eid="JHN 17"/>
   <chapter number="18" style="c" sid="JHN 18"/>
   <para style="p"><verse number="1" style="v" sid="JHN 18:1"/>Having spoken these things, Jesus went out with his disciples across the brook of the Kidron, where there was a garden into which he and his disciples entered.
@@ -1595,7 +1592,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 18:40"/><verse eid="JHN 18:40"/></para>
+<verse eid="JHN 18:40"/></para>
   <chapter eid="JHN 18"/>
   <chapter number="19" style="c" sid="JHN 19"/>
   <para style="p"><verse number="1" style="v" sid="JHN 19:1"/>Therefore, Pilate then took Jesus and whipped {him}.
@@ -1643,12 +1640,12 @@ and Jesus was walking in the temple on the porch of Solomon.
   <para style="p"><verse number="23" style="v" sid="JHN 19:23"/>Then, when the soldiers crucified Jesus, they took his clothes and divided them into four shares—a share for each soldier—and the tunic. Now the tunic was seamless, woven in one piece from the top.
 <verse eid="JHN 19:23"/><verse number="24" style="v" sid="JHN 19:24"/>Therefore, they said to each other, “We should not tear it, but instead we should cast lots for it, whose it will be.” This happened so that the scripture would be fulfilled which says,
 </para>
-  <para style="q1">“They divided my garments among themselves
+  <para style="q1" vid="JHN 19:24">“They divided my garments among themselves
 </para>
-  <para style="q1">and cast lots for my clothing.”
+  <para style="q1" vid="JHN 19:24">and cast lots for my clothing.”
 
 </para>
-  <para style="m">Therefore, the soldiers did this.
+  <para style="m" vid="JHN 19:24">Therefore, the soldiers did this.
 
 <ms style="ts"/>
 <verse eid="JHN 19:24"/></para>
@@ -1688,7 +1685,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 19:42"/><verse eid="JHN 19:42"/></para>
+<verse eid="JHN 19:42"/></para>
   <chapter eid="JHN 19"/>
   <chapter number="20" style="c" sid="JHN 20"/>
   <para style="p"><verse number="1" style="v" sid="JHN 20:1"/>Now early on the first of the week, being still dark, Mary Magdalene comes to the tomb and sees the stone having been rolled away from the tomb.
@@ -1754,7 +1751,7 @@ and Jesus was walking in the temple on the porch of Solomon.
 
 <ms style="ts"/>
 
-<verse eid="JHN 20:31"/><verse eid="JHN 20:31"/></para>
+<verse eid="JHN 20:31"/></para>
   <chapter eid="JHN 20"/>
   <chapter number="21" style="c" sid="JHN 21"/>
   <para style="p"><verse number="1" style="v" sid="JHN 21:1"/>After these things, Jesus showed himself again to the disciples at the Sea of Tiberias. Now in this manner he showed himself:

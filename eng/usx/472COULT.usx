@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="2CO" style="id">EN_ULT en_English_ltr Wed Jan 18 2023 08:34:15 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -70,7 +70,7 @@ and sincerity of God, and not in fleshly wisdom, but in the grace of God, and mo
 
 <ms style="ts"/>
 
-<verse eid="2CO 1:24"/><verse eid="2CO 1:24"/></para>
+<verse eid="2CO 1:24"/></para>
   <chapter eid="2CO 1"/>
   <chapter number="2" style="c" sid="2CO 2"/>
   <para style="p"><verse number="1" style="v" sid="2CO 2:1"/>For I decided this for myself, not to come to you again in sorrow.
@@ -110,7 +110,7 @@ and sincerity of God, and not in fleshly wisdom, but in the grace of God, and mo
 
 <ms style="ts"/>
 
-<verse eid="2CO 2:17"/><verse eid="2CO 2:17"/></para>
+<verse eid="2CO 2:17"/></para>
   <chapter eid="2CO 2"/>
   <chapter number="3" style="c" sid="2CO 3"/>
   <para style="p"><verse number="1" style="v" sid="2CO 3:1"/>Are we beginning to commend ourselves again? Or we do not need, like some, letters of recommendation to you or from you, do we?
@@ -147,7 +147,7 @@ and sincerity of God, and not in fleshly wisdom, but in the grace of God, and mo
 
 <ms style="ts"/>
 
-<verse eid="2CO 3:18"/><verse eid="2CO 3:18"/></para>
+<verse eid="2CO 3:18"/></para>
   <chapter eid="2CO 3"/>
   <chapter number="4" style="c" sid="2CO 4"/>
   <para style="p"><verse number="1" style="v" sid="2CO 4:1"/>Therefore, having this ministry, just as we received mercy, we do not become discouraged.
@@ -185,7 +185,7 @@ and sincerity of God, and not in fleshly wisdom, but in the grace of God, and mo
 
 <ms style="ts"/>
 
-<verse eid="2CO 4:18"/><verse eid="2CO 4:18"/></para>
+<verse eid="2CO 4:18"/></para>
   <chapter eid="2CO 4"/>
   <chapter number="5" style="c" sid="2CO 5"/>
   <para style="p"><verse number="1" style="v" sid="2CO 5:1"/>For we know that if our earthly house of this tent is torn down, we have a building from God, an eternal house in the heavens, not made with hands.
@@ -230,18 +230,18 @@ and sincerity of God, and not in fleshly wisdom, but in the grace of God, and mo
 
 <ms style="ts"/>
 
-<verse eid="2CO 5:21"/><verse eid="2CO 5:21"/></para>
+<verse eid="2CO 5:21"/></para>
   <chapter eid="2CO 5"/>
   <chapter number="6" style="c" sid="2CO 6"/>
   <para style="p"><verse number="1" style="v" sid="2CO 6:1"/>Now working together with {him}, we also urge you not to receive the grace of God in vain—
 <verse eid="2CO 6:1"/><verse number="2" style="v" sid="2CO 6:2"/>for he says,
 </para>
-  <para style="q1">“At an acceptable time I listened to you,
+  <para style="q1" vid="2CO 6:2">“At an acceptable time I listened to you,
 </para>
-  <para style="q1">and in a day of salvation I helped you.”
+  <para style="q1" vid="2CO 6:2">and in a day of salvation I helped you.”
 
 </para>
-  <para style="m">Behold, now {is} a favorable time. Look, now {is} a day of salvation.
+  <para style="m" vid="2CO 6:2">Behold, now {is} a favorable time. Look, now {is} a day of salvation.
 
 <verse eid="2CO 6:2"/></para>
   <para style="p"><verse number="3" style="v" sid="2CO 6:3"/>Giving no cause for offense in anything so that our ministry might not be blamed,
@@ -269,35 +269,35 @@ and sincerity of God, and not in fleshly wisdom, but in the grace of God, and mo
 <verse eid="2CO 6:14"/><verse number="15" style="v" sid="2CO 6:15"/>And what harmony {does} Christ {have} with Beliar? Or what share {does} a believer {have} with an unbeliever?
 <verse eid="2CO 6:15"/><verse number="16" style="v" sid="2CO 6:16"/>And what agreement {does} the temple of God {have} with idols? For we are the temple of the living God, just as God said:
 </para>
-  <para style="q1">“I will dwell among them, and walk {among them};
+  <para style="q1" vid="2CO 6:16">“I will dwell among them, and walk {among them};
 </para>
-  <para style="q1">and I will be their God,
+  <para style="q1" vid="2CO 6:16">and I will be their God,
 </para>
-  <para style="q1">and they themselves will be my people.”
+  <para style="q1" vid="2CO 6:16">and they themselves will be my people.”
 
 <ms style="ts"/>
 <verse eid="2CO 6:16"/></para>
   <para style="m"><verse number="17" style="v" sid="2CO 6:17"/>Therefore,
 </para>
-  <para style="q1">“Come out from the midst of them,
+  <para style="q1" vid="2CO 6:17">“Come out from the midst of them,
 </para>
-  <para style="q1">and be separate,” says the Lord,
+  <para style="q1" vid="2CO 6:17">and be separate,” says the Lord,
 </para>
-  <para style="q1">“and touch no unclean thing,”
+  <para style="q1" vid="2CO 6:17">“and touch no unclean thing,”
 </para>
-  <para style="q1">and “I will welcome you.”
+  <para style="q1" vid="2CO 6:17">and “I will welcome you.”
 <verse eid="2CO 6:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="2CO 6:18"/>And
 </para>
-  <para style="q1">“I will be to you as a Father,
+  <para style="q1" vid="2CO 6:18">“I will be to you as a Father,
 </para>
-  <para style="q1">and you will be to me as sons and daughters,”
+  <para style="q1" vid="2CO 6:18">and you will be to me as sons and daughters,”
 </para>
-  <para style="q1">says the Lord Almighty.
+  <para style="q1" vid="2CO 6:18">says the Lord Almighty.
 
 <ms style="ts"/>
 
-<verse eid="2CO 6:18"/><verse eid="2CO 6:18"/></para>
+<verse eid="2CO 6:18"/></para>
   <chapter eid="2CO 6"/>
   <chapter number="7" style="c" sid="2CO 7"/>
   <para style="p"><verse number="1" style="v" sid="2CO 7:1"/>Therefore, beloved, having these promises, let us cleanse ourselves from every defilement of flesh and spirit, perfecting holiness in the fear of God.
@@ -329,7 +329,7 @@ that that letter grieved you, if only for an hour),
 <verse eid="2CO 7:12"/><verse number="13" style="v" sid="2CO 7:13"/>Because of this we have been encouraged.
 
 </para>
-  <para style="p">Now in addition to our own encouragement, we rejoiced even more abundantly at the joy of Titus, because his spirit had been refreshed by all of you.
+  <para style="p" vid="2CO 7:13">Now in addition to our own encouragement, we rejoiced even more abundantly at the joy of Titus, because his spirit had been refreshed by all of you.
 <verse eid="2CO 7:13"/><verse number="14" style="v" sid="2CO 7:14"/>For if I had boasted anything to him about you, I was not ashamed, but as we spoke everything to you in truth, in the same way also our boasting became the truth to Titus.
 
 <ms style="ts"/>
@@ -338,7 +338,7 @@ that that letter grieved you, if only for an hour),
 
 <ms style="ts"/>
 
-<verse eid="2CO 7:16"/><verse eid="2CO 7:16"/></para>
+<verse eid="2CO 7:16"/></para>
   <chapter eid="2CO 7"/>
   <chapter number="8" style="c" sid="2CO 8"/>
   <para style="p"><verse number="1" style="v" sid="2CO 8:1"/>Now we make known to you, brothers, the grace of God that has been given among the churches of Macedonia,
@@ -370,9 +370,9 @@ so also you should abound in this act of grace.
 <verse eid="2CO 8:13"/><verse number="14" style="v" sid="2CO 8:14"/>At the present time, your abundance {is} for the lack of those ones, so that also the abundance of those ones may be for your need, so that there may be equality,
 <verse eid="2CO 8:14"/><verse number="15" style="v" sid="2CO 8:15"/>just as it is written:
 </para>
-  <para style="q1">“The one {gathering} much did not have too much,
+  <para style="q1" vid="2CO 8:15">“The one {gathering} much did not have too much,
 </para>
-  <para style="q1">and the one {gathering} little did not have too little.”
+  <para style="q1" vid="2CO 8:15">and the one {gathering} little did not have too little.”
 
 <ms style="ts"/>
 <verse eid="2CO 8:15"/></para>
@@ -395,7 +395,7 @@ so also you should abound in this act of grace.
 
 <ms style="ts"/>
 
-<verse eid="2CO 8:24"/><verse eid="2CO 8:24"/></para>
+<verse eid="2CO 8:24"/></para>
   <chapter eid="2CO 8"/>
   <chapter number="9" style="c" sid="2CO 9"/>
   <para style="p"><verse number="1" style="v" sid="2CO 9:1"/>For concerning the ministry {that is} to the saints, it is excessive for me to write to you.
@@ -415,9 +415,9 @@ so also you should abound in this act of grace.
 <verse eid="2CO 9:7"/><verse number="8" style="v" sid="2CO 9:8"/>And God is able to make all grace abound to you, so that in everything, always, having all sufficiency, you may abound in every good work.
 <verse eid="2CO 9:8"/><verse number="9" style="v" sid="2CO 9:9"/>Just as it is written:
 </para>
-  <para style="q1">“He distributed {alms}, he gave to the poor,
+  <para style="q1" vid="2CO 9:9">“He distributed {alms}, he gave to the poor,
 </para>
-  <para style="q1">his righteousness endures to eternity.”
+  <para style="q1" vid="2CO 9:9">his righteousness endures to eternity.”
 
 <ms style="ts"/>
 <verse eid="2CO 9:9"/></para>
@@ -432,7 +432,7 @@ so also you should abound in this act of grace.
 
 <ms style="ts"/>
 
-<verse eid="2CO 9:15"/><verse eid="2CO 9:15"/></para>
+<verse eid="2CO 9:15"/></para>
   <chapter eid="2CO 9"/>
   <chapter number="10" style="c" sid="2CO 10"/>
   <para style="p"><verse number="1" style="v" sid="2CO 10:1"/>Now I, Paul, myself—who {am} meek {when} face to face among you, but being absent, am bold toward you—appeal to you by the meekness and gentleness of Christ.
@@ -478,7 +478,7 @@ so also you should abound in this act of grace.
 
 <ms style="ts"/>
 
-<verse eid="2CO 10:18"/><verse eid="2CO 10:18"/></para>
+<verse eid="2CO 10:18"/></para>
   <chapter eid="2CO 10"/>
   <chapter number="11" style="c" sid="2CO 11"/>
   <para style="p"><verse number="1" style="v" sid="2CO 11:1"/>I wish that you would bear with me in a little bit of foolishness, but you are indeed bearing with me!
@@ -547,7 +547,7 @@ so also you should abound in this act of grace.
 
 <ms style="ts"/>
 
-<verse eid="2CO 11:33"/><verse eid="2CO 11:33"/></para>
+<verse eid="2CO 11:33"/></para>
   <chapter eid="2CO 11"/>
   <chapter number="12" style="c" sid="2CO 12"/>
   <para style="p"><verse number="1" style="v" sid="2CO 12:1"/>It is necessary to boast. {It is} not profitable, but I will go on to visions and revelations of the Lord.
@@ -594,7 +594,7 @@ you more abundantly, am I to be loved less?
 
 <ms style="ts"/>
 
-<verse eid="2CO 12:21"/><verse eid="2CO 12:21"/></para>
+<verse eid="2CO 12:21"/></para>
   <chapter eid="2CO 12"/>
   <chapter number="13" style="c" sid="2CO 13"/>
   <para style="p"><verse number="1" style="v" sid="2CO 13:1"/>This {will be} the third {time} that I am coming to you. “Every matter must be established on the basis of the mouth of two or three witnesses.”

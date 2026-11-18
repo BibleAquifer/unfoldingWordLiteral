@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="2TH" style="id">EN_ULT en_English_ltr Tue Aug 23 2022 15:33:36 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -39,7 +39,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2TH 1:12"/><verse eid="2TH 1:12"/></para>
+<verse eid="2TH 1:12"/></para>
   <chapter eid="2TH 1"/>
   <chapter number="2" style="c" sid="2TH 2"/>
   <para style="p"><verse number="1" style="v" sid="2TH 2:1"/>Now about the coming of our Lord Jesus Christ and our gathering to him, we ask you, brothers,
@@ -79,7 +79,7 @@ for salvation in sanctification of the Spirit and belief in the truth.
 
 <ms style="ts"/>
 
-<verse eid="2TH 2:17"/><verse eid="2TH 2:17"/></para>
+<verse eid="2TH 2:17"/></para>
   <chapter eid="2TH 2"/>
   <chapter number="3" style="c" sid="2TH 3"/>
   <para style="p"><verse number="1" style="v" sid="2TH 3:1"/>Finally, brothers, pray for us so that the word of the Lord might run and might be glorified, just as also with you,

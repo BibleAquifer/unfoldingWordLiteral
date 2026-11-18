@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="LEV" style="id">EN_ULT en_English_ltr Tue Mar 11 2025 15:14:46 GMT-0500 (Central Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -52,7 +52,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 1:17"/><verse eid="LEV 1:17"/></para>
+<verse eid="LEV 1:17"/></para>
   <chapter eid="LEV 1"/>
   <chapter number="2" style="c" sid="LEV 2"/>
   <para style="p"><verse number="1" style="v" sid="LEV 2:1"/>And a person, when he presents an offering of a grain offering to Yahweh, his offering shall be flour. And he shall pour oil on it and he shall put frankincense on it.
@@ -87,7 +87,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 2:16"/><verse eid="LEV 2:16"/></para>
+<verse eid="LEV 2:16"/></para>
   <chapter eid="LEV 2"/>
   <chapter number="3" style="c" sid="LEV 3"/>
   <para style="p"><verse number="1" style="v" sid="LEV 3:1"/>And if his offering {is} a sacrifice of peace offerings, if he is presenting from the cattle, whether male or female, perfect, he shall present it to the face of Yahweh.
@@ -122,7 +122,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 3:17"/><verse eid="LEV 3:17"/></para>
+<verse eid="LEV 3:17"/></para>
   <chapter eid="LEV 3"/>
   <chapter number="4" style="c" sid="LEV 4"/>
   <para style="p"><verse number="1" style="v" sid="LEV 4:1"/>And Yahweh spoke to Moses, saying,
@@ -199,7 +199,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 4:35"/><verse eid="LEV 4:35"/></para>
+<verse eid="LEV 4:35"/></para>
   <chapter eid="LEV 4"/>
   <chapter number="5" style="c" sid="LEV 5"/>
   <para style="p"><verse number="1" style="v" sid="LEV 5:1"/>And a person, when he sins {in that} he hears the sound of a {judge’s} curse and he is a witness (whether he saw or he knew), if he does not declare {it}, then he shall bear his iniquity.
@@ -244,7 +244,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 5:19"/><verse eid="LEV 5:19"/></para>
+<verse eid="LEV 5:19"/></para>
   <chapter eid="LEV 5"/>
   <chapter number="6" style="c" sid="LEV 6"/>
   <para style="p"><verse number="1" style="v" sid="LEV 6:1"/>And Yahweh spoke to Moses, saying,
@@ -306,7 +306,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 6:30"/><verse eid="LEV 6:30"/></para>
+<verse eid="LEV 6:30"/></para>
   <chapter eid="LEV 6"/>
   <chapter number="7" style="c" sid="LEV 7"/>
   <para style="p"><verse number="1" style="v" sid="LEV 7:1"/>And this {is} the law of the guilt offering. It {is} a holy thing of holy things.
@@ -389,7 +389,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 7:38"/><verse eid="LEV 7:38"/></para>
+<verse eid="LEV 7:38"/></para>
   <chapter eid="LEV 7"/>
   <chapter number="8" style="c" sid="LEV 8"/>
   <para style="p"><verse number="1" style="v" sid="LEV 8:1"/>And Yahweh spoke to Moses, saying,
@@ -471,7 +471,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 8:36"/><verse eid="LEV 8:36"/></para>
+<verse eid="LEV 8:36"/></para>
   <chapter eid="LEV 8"/>
   <chapter number="9" style="c" sid="LEV 9"/>
   <para style="p"><verse number="1" style="v" sid="LEV 9:1"/>And it happened on the eighth day, Moses called to Aaron and to his sons and to the elders of Israel.
@@ -530,7 +530,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 9:24"/><verse eid="LEV 9:24"/></para>
+<verse eid="LEV 9:24"/></para>
   <chapter eid="LEV 9"/>
   <chapter number="10" style="c" sid="LEV 10"/>
   <para style="p"><verse number="1" style="v" sid="LEV 10:1"/>And the sons of Aaron, Nadab and Abihu, each took his censer, and they gave fire in them, and they put incense on it. And they offered to the face of Yahweh strange fire that he did not command them.
@@ -539,10 +539,10 @@
 <ms style="ts"/>
 <verse eid="LEV 10:2"/><verse number="3" style="v" sid="LEV 10:3"/>And Moses said to Aaron, “This is what Yahweh spoke, saying,
 </para>
-  <para style="q1">‘Among those who draw near to me, I will show myself to be holy. And on the faces of all the people, I will be honored.’”
+  <para style="q1" vid="LEV 10:3">‘Among those who draw near to me, I will show myself to be holy. And on the faces of all the people, I will be honored.’”
 
 </para>
-  <para style="m">And Aaron was silent.
+  <para style="m" vid="LEV 10:3">And Aaron was silent.
 <verse eid="LEV 10:3"/><verse number="4" style="v" sid="LEV 10:4"/>And Moses called to Mishael and to Elzaphan, the sons of Uzziel the uncle of Aaron. And he said to them, “Present {yourselves and} lift your brothers from the face of the Holy Place to {a place} on the outside of the camp.”
 
 <ms style="ts"/>
@@ -581,7 +581,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 10:20"/><verse eid="LEV 10:20"/></para>
+<verse eid="LEV 10:20"/></para>
   <chapter eid="LEV 10"/>
   <chapter number="11" style="c" sid="LEV 11"/>
   <para style="p"><verse number="1" style="v" sid="LEV 11:1"/>And Yahweh spoke to Moses and to Aaron, saying to them,
@@ -676,7 +676,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 11:47"/><verse eid="LEV 11:47"/></para>
+<verse eid="LEV 11:47"/></para>
   <chapter eid="LEV 11"/>
   <chapter number="12" style="c" sid="LEV 12"/>
   <para style="p"><verse number="1" style="v" sid="LEV 12:1"/>And Yahweh spoke to Moses, saying,
@@ -700,7 +700,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 12:8"/><verse eid="LEV 12:8"/></para>
+<verse eid="LEV 12:8"/></para>
   <chapter eid="LEV 12"/>
   <chapter number="13" style="c" sid="LEV 13"/>
   <para style="p"><verse number="1" style="v" sid="LEV 13:1"/>And Yahweh spoke to Moses and to Aaron, saying,
@@ -825,7 +825,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 13:59"/><verse eid="LEV 13:59"/></para>
+<verse eid="LEV 13:59"/></para>
   <chapter eid="LEV 13"/>
   <chapter number="14" style="c" sid="LEV 14"/>
   <para style="p"><verse number="1" style="v" sid="LEV 14:1"/>And Yahweh spoke to Moses, saying,
@@ -943,7 +943,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 14:57"/><verse eid="LEV 14:57"/></para>
+<verse eid="LEV 14:57"/></para>
   <chapter eid="LEV 14"/>
   <chapter number="15" style="c" sid="LEV 15"/>
   <para style="p"><verse number="1" style="v" sid="LEV 15:1"/>And Yahweh spoke to Moses and to Aaron, saying,
@@ -1014,7 +1014,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 15:33"/><verse eid="LEV 15:33"/></para>
+<verse eid="LEV 15:33"/></para>
   <chapter eid="LEV 15"/>
   <chapter number="16" style="c" sid="LEV 16"/>
   <para style="p"><verse number="1" style="v" sid="LEV 16:1"/>And Yahweh spoke to Moses after the death of the two sons of Aaron, when they presented {themselves} to the face of Yahweh and they died.
@@ -1090,7 +1090,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 16:34"/><verse eid="LEV 16:34"/></para>
+<verse eid="LEV 16:34"/></para>
   <chapter eid="LEV 16"/>
   <chapter number="17" style="c" sid="LEV 17"/>
   <para style="p"><verse number="1" style="v" sid="LEV 17:1"/>And Yahweh spoke to Moses, saying,
@@ -1129,7 +1129,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 17:16"/><verse eid="LEV 17:16"/></para>
+<verse eid="LEV 17:16"/></para>
   <chapter eid="LEV 17"/>
   <chapter number="18" style="c" sid="LEV 18"/>
   <para style="p"><verse number="1" style="v" sid="LEV 18:1"/>And Yahweh spoke to Moses, saying,
@@ -1192,7 +1192,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 18:30"/><verse eid="LEV 18:30"/></para>
+<verse eid="LEV 18:30"/></para>
   <chapter eid="LEV 18"/>
   <chapter number="19" style="c" sid="LEV 19"/>
   <para style="p"><verse number="1" style="v" sid="LEV 19:1"/>And Yahweh spoke to Moses, saying,
@@ -1290,7 +1290,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 19:37"/><verse eid="LEV 19:37"/></para>
+<verse eid="LEV 19:37"/></para>
   <chapter eid="LEV 19"/>
   <chapter number="20" style="c" sid="LEV 20"/>
   <para style="p"><verse number="1" style="v" sid="LEV 20:1"/>And Yahweh spoke to Moses, saying,
@@ -1374,7 +1374,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 20:27"/><verse eid="LEV 20:27"/></para>
+<verse eid="LEV 20:27"/></para>
   <chapter eid="LEV 20"/>
   <chapter number="21" style="c" sid="LEV 21"/>
   <para style="p"><verse number="1" style="v" sid="LEV 21:1"/>And Yahweh said to Moses, “Say to the priests, the sons of Aaron, and you shall say to them, ‘For a {dead} person, he shall not make himself unclean among his people,
@@ -1427,7 +1427,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 21:24"/><verse eid="LEV 21:24"/></para>
+<verse eid="LEV 21:24"/></para>
   <chapter eid="LEV 21"/>
   <chapter number="22" style="c" sid="LEV 22"/>
   <para style="p"><verse number="1" style="v" sid="LEV 22:1"/>And Yahweh spoke to Moses, saying,
@@ -1506,7 +1506,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 22:33"/><verse eid="LEV 22:33"/></para>
+<verse eid="LEV 22:33"/></para>
   <chapter eid="LEV 22"/>
   <chapter number="23" style="c" sid="LEV 23"/>
   <para style="p"><verse number="1" style="v" sid="LEV 23:1"/>And Yahweh spoke to Moses, saying,
@@ -1574,7 +1574,7 @@
 <ms style="ts"/>
 <verse eid="LEV 23:32"/></para>
   <para style="p"><verse number="33" style="v" sid="LEV 23:33"/>And Yahweh spoke to Moses, saying,
-<verse eid="LEV 23:33"/><verse number="34" style="v" sid="LEV 23:34"/>“Speak to the sons of Israel, saying, ‘On day 15 of this seventh month {is} the Feast of Booths {for} seven days to Yahweh.
+<verse eid="LEV 23:33"/><verse number="34" style="v" sid="LEV 23:34"/>“Speak to the sons of Israel, saying, ‘On day 15 of this seventh month {is} the Feast of Huts {for} seven days to Yahweh.
 <verse eid="LEV 23:34"/><verse number="35" style="v" sid="LEV 23:35"/>On the first day is an assembly of holiness. You shall not do any work of labor.
 <verse eid="LEV 23:35"/><verse number="36" style="v" sid="LEV 23:36"/>{For} seven days you shall present a gift to Yahweh. On the eighth day there shall be an assembly of holiness for you, and you shall present a gift to Yahweh. It is a holiday. You shall not do any work of labor.
 
@@ -1599,7 +1599,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 23:44"/><verse eid="LEV 23:44"/></para>
+<verse eid="LEV 23:44"/></para>
   <chapter eid="LEV 23"/>
   <chapter number="24" style="c" sid="LEV 24"/>
   <para style="p"><verse number="1" style="v" sid="LEV 24:1"/>And Yahweh spoke to Moses, saying,
@@ -1658,7 +1658,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 24:23"/><verse eid="LEV 24:23"/></para>
+<verse eid="LEV 24:23"/></para>
   <chapter eid="LEV 24"/>
   <chapter number="25" style="c" sid="LEV 25"/>
   <para style="p"><verse number="1" style="v" sid="LEV 25:1"/>And Yahweh spoke to Moses on Mount Sinai, saying,
@@ -1758,7 +1758,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 25:55"/><verse eid="LEV 25:55"/></para>
+<verse eid="LEV 25:55"/></para>
   <chapter eid="LEV 25"/>
   <chapter number="26" style="c" sid="LEV 26"/>
   <para style="p"><verse number="1" style="v" sid="LEV 26:1"/>You shall not make for yourselves worthless little gods, and a carved image and a pillar you shall not raise up for yourselves, and a stone of imagery you shall not put in your land to bow down to it, for I {am} Yahweh your God.
@@ -1855,7 +1855,7 @@
 
 <ms style="ts"/>
 
-<verse eid="LEV 26:46"/><verse eid="LEV 26:46"/></para>
+<verse eid="LEV 26:46"/></para>
   <chapter eid="LEV 26"/>
   <chapter number="27" style="c" sid="LEV 27"/>
   <para style="p"><verse number="1" style="v" sid="LEV 27:1"/>And Yahweh spoke to Moses, saying,

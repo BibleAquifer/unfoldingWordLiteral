@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="COL" style="id">EN_ULT en_English_ltr Thu Aug 25 2022 15:44:38 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -73,7 +73,7 @@
 
 <ms style="ts"/>
 
-<verse eid="COL 1:29"/><verse eid="COL 1:29"/></para>
+<verse eid="COL 1:29"/></para>
   <chapter eid="COL 1"/>
   <chapter number="2" style="c" sid="COL 2"/>
   <para style="p"><verse number="1" style="v" sid="COL 2:1"/>For I want you to know how great a struggle I have for you and the ones at Laodicea and as many as have not seen my face in the flesh
@@ -123,7 +123,7 @@
 
 <ms style="ts"/>
 
-<verse eid="COL 2:23"/><verse eid="COL 2:23"/></para>
+<verse eid="COL 2:23"/></para>
   <chapter eid="COL 2"/>
   <chapter number="3" style="c" sid="COL 3"/>
   <para style="p"><verse number="1" style="v" sid="COL 3:1"/>If, therefore, you were raised with Christ, seek the things above, where Christ is sitting at the right hand of God.
@@ -170,7 +170,7 @@ is revealed, then you also will be revealed with him in glory.
 
 <ms style="ts"/>
 
-<verse eid="COL 3:25"/><verse eid="COL 3:25"/></para>
+<verse eid="COL 3:25"/></para>
   <chapter eid="COL 3"/>
   <chapter number="4" style="c" sid="COL 4"/>
   <para style="p"><verse number="1" style="v" sid="COL 4:1"/>Masters, give to your slaves {what is} right and fair, knowing that you also have a master in heaven.

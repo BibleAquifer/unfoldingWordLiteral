@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="2PE" style="id">EN_ULT en_English_ltr Thu Aug 18 2022 16:10:54 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -54,7 +54,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2PE 1:21"/><verse eid="2PE 1:21"/></para>
+<verse eid="2PE 1:21"/></para>
   <chapter eid="2PE 1"/>
   <chapter number="2" style="c" sid="2PE 2"/>
   <para style="p"><verse number="1" style="v" sid="2PE 2:1"/>Now false prophets were also among the people, as false teachers will also be among you, who will bring in heresies of destruction, and denying the master who bought them, bringing swift destruction on themselves.
@@ -99,7 +99,7 @@
 
 <ms style="ts"/>
 
-<verse eid="2PE 2:22"/><verse eid="2PE 2:22"/></para>
+<verse eid="2PE 2:22"/></para>
   <chapter eid="2PE 2"/>
   <chapter number="3" style="c" sid="2PE 3"/>
   <para style="p"><verse number="1" style="v" sid="2PE 3:1"/>Beloved ones, this {is} now a second letter I write to you, in which I arouse your pure mind in remembrance,

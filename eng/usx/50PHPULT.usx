@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="PHP" style="id">EN_ULT en_English_ltr Thu Aug 25 2022 14:20:46 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -70,7 +70,7 @@
 
 <ms style="ts"/>
 
-<verse eid="PHP 1:30"/><verse eid="PHP 1:30"/></para>
+<verse eid="PHP 1:30"/></para>
   <chapter eid="PHP 1"/>
   <chapter number="2" style="c" sid="PHP 2"/>
   <para style="p"><verse number="1" style="v" sid="PHP 2:1"/>Therefore, if {there is} any encouragement in Christ, if any comfort of love, if any fellowship of the Spirit, if any affections and compassions,
@@ -85,35 +85,35 @@
 <verse eid="PHP 2:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="PHP 2:6"/>who, existing in the form of God,
 </para>
-  <para style="q1">did not consider being equal with God
+  <para style="q1" vid="PHP 2:6">did not consider being equal with God
 </para>
-  <para style="q1">something to be grasped.
+  <para style="q1" vid="PHP 2:6">something to be grasped.
 <verse eid="PHP 2:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="PHP 2:7"/>Instead, he emptied himself,
 </para>
-  <para style="q1">having taken the form of a servant,
+  <para style="q1" vid="PHP 2:7">having taken the form of a servant,
 </para>
-  <para style="q1">having been born in the likeness of men,
+  <para style="q1" vid="PHP 2:7">having been born in the likeness of men,
 </para>
-  <para style="q1">and having been found in appearance as a man,
+  <para style="q1" vid="PHP 2:7">and having been found in appearance as a man,
 <verse eid="PHP 2:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="PHP 2:8"/>he humbled himself, having become obedient to the point of death,
 </para>
-  <para style="q1">even death on a cross!
+  <para style="q1" vid="PHP 2:8">even death on a cross!
 
 <ms style="ts"/>
 <verse eid="PHP 2:8"/></para>
   <para style="q1"><verse number="9" style="v" sid="PHP 2:9"/>Therefore, God also highly exalted him
 </para>
-  <para style="q1">and gave him the name {that is} above every name
+  <para style="q1" vid="PHP 2:9">and gave him the name {that is} above every name
 <verse eid="PHP 2:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="PHP 2:10"/>so that at the name of Jesus every knee would bend,
 </para>
-  <para style="q1">in heaven and on earth and under the earth,
+  <para style="q1" vid="PHP 2:10">in heaven and on earth and under the earth,
 <verse eid="PHP 2:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="PHP 2:11"/>and every tongue would confess that Jesus Christ {is} Lord,
 </para>
-  <para style="q1">to the glory of God the Father.
+  <para style="q1" vid="PHP 2:11">to the glory of God the Father.
 
 <ms style="ts"/>
 <verse eid="PHP 2:11"/></para>
@@ -152,7 +152,7 @@
 
 <ms style="ts"/>
 
-<verse eid="PHP 2:30"/><verse eid="PHP 2:30"/></para>
+<verse eid="PHP 2:30"/></para>
   <chapter eid="PHP 2"/>
   <chapter number="3" style="c" sid="PHP 3"/>
   <para style="p"><verse number="1" style="v" sid="PHP 3:1"/>{As to} the rest, my brothers, rejoice in the Lord. For me to write these same things to you {is} no trouble, and {is} a safeguard for you.
@@ -194,7 +194,7 @@
 
 <ms style="ts"/>
 
-<verse eid="PHP 3:21"/><verse eid="PHP 3:21"/></para>
+<verse eid="PHP 3:21"/></para>
   <chapter eid="PHP 3"/>
   <chapter number="4" style="c" sid="PHP 4"/>
   <para style="p"><verse number="1" style="v" sid="PHP 4:1"/>Therefore, my brothers, beloved and longed for, my joy and crown, in this way stand firm in the Lord, beloved.

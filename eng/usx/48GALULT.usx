@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="GAL" style="id">EN_ULT en_English_ltr Mon Jan 09 2023 08:54:50 GMT-0600 (Central Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -61,7 +61,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 1:24"/><verse eid="GAL 1:24"/></para>
+<verse eid="GAL 1:24"/></para>
   <chapter eid="GAL 1"/>
   <chapter number="2" style="c" sid="GAL 2"/>
   <para style="p"><verse number="1" style="v" sid="GAL 2:1"/>Then after 14 years I went up again to Jerusalem with Barnabas, also taking Titus along with {me}.
@@ -103,7 +103,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 2:21"/><verse eid="GAL 2:21"/></para>
+<verse eid="GAL 2:21"/></para>
   <chapter eid="GAL 2"/>
   <chapter number="3" style="c" sid="GAL 3"/>
   <para style="p"><verse number="1" style="v" sid="GAL 3:1"/>O foolish Galatians! Who bewitched you, before whose eyes Jesus Christ was publicly portrayed {as} crucified?
@@ -160,7 +160,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 3:29"/><verse eid="GAL 3:29"/></para>
+<verse eid="GAL 3:29"/></para>
   <chapter eid="GAL 3"/>
   <chapter number="4" style="c" sid="GAL 4"/>
   <para style="p"><verse number="1" style="v" sid="GAL 4:1"/>Now I say, for as much time as the heir is a child, he is no different from a slave, being master of all.
@@ -216,13 +216,13 @@
 <verse eid="GAL 4:25"/><verse number="26" style="v" sid="GAL 4:26"/>But the Jerusalem above is free, which is our mother.
 <verse eid="GAL 4:26"/><verse number="27" style="v" sid="GAL 4:27"/>For it is written,
 </para>
-  <para style="q1">“Rejoice, you barren woman, the one not giving birth;
+  <para style="q1" vid="GAL 4:27">“Rejoice, you barren woman, the one not giving birth;
 </para>
-  <para style="q1">break forth and shout, you {who are} not suffering the pains of childbirth;
+  <para style="q1" vid="GAL 4:27">break forth and shout, you {who are} not suffering the pains of childbirth;
 </para>
-  <para style="q1">because the children of the desolate one {are} many more
+  <para style="q1" vid="GAL 4:27">because the children of the desolate one {are} many more
 </para>
-  <para style="q1">than of the one having a husband.”
+  <para style="q1" vid="GAL 4:27">than of the one having a husband.”
 
 <ms style="ts"/>
 <verse eid="GAL 4:27"/></para>
@@ -235,7 +235,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 4:31"/><verse eid="GAL 4:31"/></para>
+<verse eid="GAL 4:31"/></para>
   <chapter eid="GAL 4"/>
   <chapter number="5" style="c" sid="GAL 5"/>
   <para style="p"><verse number="1" style="v" sid="GAL 5:1"/>For freedom Christ set us free. Stand firm, therefore, and do not again be subjected to a yoke of slavery.
@@ -290,7 +290,7 @@
 
 <ms style="ts"/>
 
-<verse eid="GAL 5:26"/><verse eid="GAL 5:26"/></para>
+<verse eid="GAL 5:26"/></para>
   <chapter eid="GAL 5"/>
   <chapter number="6" style="c" sid="GAL 6"/>
   <para style="p"><verse number="1" style="v" sid="GAL 6:1"/>Brothers, even if a man is caught in any trespass, let you, the spiritual ones, restore such a one in a spirit of gentleness, considering yourself, lest you also be tempted.

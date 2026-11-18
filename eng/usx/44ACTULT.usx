@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="ACT" style="id">EN_ULT en_English_ltr Tue Dec 13 2022 15:50:40 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -53,11 +53,11 @@
 <ms style="ts"/>
 <verse eid="ACT 1:19"/><verse number="20" style="v" sid="ACT 1:20"/>“For it is written in the book of Psalms,
 </para>
-  <para style="q1">‘Let his habitation become desolate,
+  <para style="q1" vid="ACT 1:20">‘Let his habitation become desolate,
 </para>
-  <para style="q1">and let not one dwelling be in it,’ and
+  <para style="q1" vid="ACT 1:20">and let not one dwelling be in it,’ and
 </para>
-  <para style="q1">‘Let another take his overseership.’
+  <para style="q1" vid="ACT 1:20">‘Let another take his overseership.’
 
 <ms style="ts"/>
 <verse eid="ACT 1:20"/></para>
@@ -72,7 +72,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 1:26"/><verse eid="ACT 1:26"/></para>
+<verse eid="ACT 1:26"/></para>
   <chapter eid="ACT 1"/>
   <chapter number="2" style="c" sid="ACT 2"/>
   <para style="p"><verse number="1" style="v" sid="ACT 2:1"/>And when the day of Pentecost was completely filled, they were all together to the same.
@@ -106,33 +106,33 @@
 <verse eid="ACT 2:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="ACT 2:17"/>‘“And it will be in the last days,” God says,
 </para>
-  <para style="q1">“I will pour out from my Spirit on all flesh,
+  <para style="q1" vid="ACT 2:17">“I will pour out from my Spirit on all flesh,
 </para>
-  <para style="q1">and your sons and your daughters will prophesy
+  <para style="q1" vid="ACT 2:17">and your sons and your daughters will prophesy
 </para>
-  <para style="q1">and your young men will see visions
+  <para style="q1" vid="ACT 2:17">and your young men will see visions
 </para>
-  <para style="q1">and your old men will dream dreams.
+  <para style="q1" vid="ACT 2:17">and your old men will dream dreams.
 
 <ms style="ts"/>
 <verse eid="ACT 2:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="ACT 2:18"/>And even on my male servants and on my female servants in those days
 </para>
-  <para style="q1">I will pour out from my Spirit, and they will prophesy.
+  <para style="q1" vid="ACT 2:18">I will pour out from my Spirit, and they will prophesy.
 <verse eid="ACT 2:18"/></para>
   <para style="q1"><verse number="19" style="v" sid="ACT 2:19"/>And I will give wonders in the heaven above
 </para>
-  <para style="q1">and signs on the earth below,
+  <para style="q1" vid="ACT 2:19">and signs on the earth below,
 </para>
-  <para style="q1">blood and fire and vapor of smoke.
+  <para style="q1" vid="ACT 2:19">blood and fire and vapor of smoke.
 
 <ms style="ts"/>
 <verse eid="ACT 2:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="ACT 2:20"/>The sun will be turned to darkness,
 </para>
-  <para style="q1">and the moon to blood
+  <para style="q1" vid="ACT 2:20">and the moon to blood
 </para>
-  <para style="q1">before the great and remarkable day of the Lord comes.
+  <para style="q1" vid="ACT 2:20">before the great and remarkable day of the Lord comes.
 <verse eid="ACT 2:20"/></para>
   <para style="q1"><verse number="21" style="v" sid="ACT 2:21"/>And it will be, everyone who may call on the name of the Lord will be saved.”’
 
@@ -145,23 +145,23 @@
 <ms style="ts"/>
 <verse eid="ACT 2:24"/><verse number="25" style="v" sid="ACT 2:25"/>For David says about him,
 </para>
-  <para style="q1">‘I saw the Lord before me through all,
+  <para style="q1" vid="ACT 2:25">‘I saw the Lord before me through all,
 </para>
-  <para style="q1">for he is at my right so that I should not be moved.
+  <para style="q1" vid="ACT 2:25">for he is at my right so that I should not be moved.
 <verse eid="ACT 2:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="ACT 2:26"/>Because of this, my heart was glad and my tongue exulted.
 </para>
-  <para style="q1">And indeed, my flesh will also dwell in hope.
+  <para style="q1" vid="ACT 2:26">And indeed, my flesh will also dwell in hope.
 
 <ms style="ts"/>
 <verse eid="ACT 2:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="ACT 2:27"/>For you will not abandon my soul to Hades,
 </para>
-  <para style="q1">nor will you allow your Holy One to see decay.
+  <para style="q1" vid="ACT 2:27">nor will you allow your Holy One to see decay.
 <verse eid="ACT 2:27"/></para>
   <para style="q1"><verse number="28" style="v" sid="ACT 2:28"/>You made known to me the paths of life;
 </para>
-  <para style="q1">you will fill me with gladness with your face.’
+  <para style="q1" vid="ACT 2:28">you will fill me with gladness with your face.’
 
 <ms style="ts"/>
 <verse eid="ACT 2:28"/></para>
@@ -178,7 +178,7 @@
 <verse eid="ACT 2:33"/></para>
   <para style="m"><verse number="34" style="v" sid="ACT 2:34"/>For David did not ascend to the heavens, but he himself says,
 </para>
-  <para style="q1">‘The Lord said to my Lord, “Sit at my right
+  <para style="q1" vid="ACT 2:34">‘The Lord said to my Lord, “Sit at my right
 <verse eid="ACT 2:34"/></para>
   <para style="q1"><verse number="35" style="v" sid="ACT 2:35"/>until I make your enemies a stool for your feet.”’
 
@@ -208,7 +208,7 @@
 
 <ms style="ts"/>
 
-<verse eid="ACT 2:47"/><verse eid="ACT 2:47"/></para>
+<verse eid="ACT 2:47"/></para>
   <chapter eid="ACT 2"/>
   <chapter number="3" style="c" sid="ACT 3"/>
   <para style="p"><verse number="1" style="v" sid="ACT 3:1"/>Now Peter and John were going up to the temple at the hour of prayer, the ninth hour.
@@ -262,7 +262,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 3:26"/><verse eid="ACT 3:26"/></para>
+<verse eid="ACT 3:26"/></para>
   <chapter eid="ACT 3"/>
   <chapter number="4" style="c" sid="ACT 4"/>
   <para style="p"><verse number="1" style="v" sid="ACT 4:1"/>And as they were speaking to the people, the priests and the captain of the temple and the Sadducees came up to them,
@@ -310,17 +310,17 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 <verse eid="ACT 4:23"/><verse number="24" style="v" sid="ACT 4:24"/>And having heard, they raised their voice unanimously to God and said, “Lord, you {are} the one having made the heaven and the earth and the sea and all that {is} in them,
 <verse eid="ACT 4:24"/><verse number="25" style="v" sid="ACT 4:25"/>the one having said by the Holy Spirit from the mouth of our father David, your servant,
 </para>
-  <para style="q1">‘Why did the nations rage,
+  <para style="q1" vid="ACT 4:25">‘Why did the nations rage,
 </para>
-  <para style="q1">and the peoples imagine useless things?
+  <para style="q1" vid="ACT 4:25">and the peoples imagine useless things?
 
 <ms style="ts"/>
 <verse eid="ACT 4:25"/></para>
   <para style="q1"><verse number="26" style="v" sid="ACT 4:26"/>The kings of the earth took their stand
 </para>
-  <para style="q1">and the rulers were gathered to the same
+  <para style="q1" vid="ACT 4:26">and the rulers were gathered to the same
 </para>
-  <para style="q1">against the Lord and against his Christ.’
+  <para style="q1" vid="ACT 4:26">against the Lord and against his Christ.’
 
 <ms style="ts"/>
 <verse eid="ACT 4:26"/></para>
@@ -348,7 +348,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 4:37"/><verse eid="ACT 4:37"/></para>
+<verse eid="ACT 4:37"/></para>
   <chapter eid="ACT 4"/>
   <chapter number="5" style="c" sid="ACT 5"/>
   <para style="p"><verse number="1" style="v" sid="ACT 5:1"/>Now a certain man, Ananias by name, with Sapphira his wife, sold a piece of land,
@@ -430,7 +430,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 5:42"/><verse eid="ACT 5:42"/></para>
+<verse eid="ACT 5:42"/></para>
   <chapter eid="ACT 5"/>
   <chapter number="6" style="c" sid="ACT 6"/>
   <para style="p"><verse number="1" style="v" sid="ACT 6:1"/>Now in those days, when the disciples were multiplying, a complaint by the Hellenists happened against the Hebrews, because their widows were being overlooked in the daily serving.
@@ -465,14 +465,14 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 6:15"/><verse eid="ACT 6:15"/></para>
+<verse eid="ACT 6:15"/></para>
   <chapter eid="ACT 6"/>
   <chapter number="7" style="c" sid="ACT 7"/>
   <para style="p"><verse number="1" style="v" sid="ACT 7:1"/>Then the high priest said, “Are these things thus?”
 <verse eid="ACT 7:1"/><verse number="2" style="v" sid="ACT 7:2"/>Then he said,
 
 </para>
-  <para style="p">“Men, brothers and fathers, listen to me: The God of glory appeared to our father Abraham when he was in Mesopotamia, even before he lived in Haran;
+  <para style="p" vid="ACT 7:2">“Men, brothers and fathers, listen to me: The God of glory appeared to our father Abraham when he was in Mesopotamia, even before he lived in Haran;
 <verse eid="ACT 7:2"/><verse number="3" style="v" sid="ACT 7:3"/>and he said to him, ‘Go out from your land and from your relatives, and come into the land that I will show you.’
 
 <ms style="ts"/>
@@ -544,19 +544,19 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 <verse eid="ACT 7:40"/><verse number="41" style="v" sid="ACT 7:41"/>So they made an image of a calf in those days and brought a sacrifice to the idol and rejoiced in the works of their hands.
 <verse eid="ACT 7:41"/><verse number="42" style="v" sid="ACT 7:42"/>But God turned away and abandoned them to serve the host of heaven, as it is written in the book of the prophets,
 </para>
-  <para style="q1">‘You did not offer slain beasts and offerings to me
+  <para style="q1" vid="ACT 7:42">‘You did not offer slain beasts and offerings to me
 </para>
-  <para style="q1">for 40 years in the wilderness, did you, O house of Israel?
+  <para style="q1" vid="ACT 7:42">for 40 years in the wilderness, did you, O house of Israel?
 
 <ms style="ts"/>
 <verse eid="ACT 7:42"/></para>
   <para style="q1"><verse number="43" style="v" sid="ACT 7:43"/>And you took up the tabernacle of Molech
 </para>
-  <para style="q1">and the star of your god Rephan—
+  <para style="q1" vid="ACT 7:43">and the star of your god Rephan—
 </para>
-  <para style="q1">the images that you made to worship them—
+  <para style="q1" vid="ACT 7:43">the images that you made to worship them—
 </para>
-  <para style="q1">and I will remove you beyond Babylon.’
+  <para style="q1" vid="ACT 7:43">and I will remove you beyond Babylon.’
 
 <ms style="ts"/>
 <verse eid="ACT 7:43"/></para>
@@ -570,9 +570,9 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 <verse eid="ACT 7:48"/></para>
   <para style="q1"><verse number="49" style="v" sid="ACT 7:49"/>‘Heaven {is} my throne, and the earth {is} the footstool for my feet.
 </para>
-  <para style="q1">What kind of house will you build for me?’ says the Lord,
+  <para style="q1" vid="ACT 7:49">What kind of house will you build for me?’ says the Lord,
 </para>
-  <para style="q1">‘or what {is} the place for my rest?
+  <para style="q1" vid="ACT 7:49">‘or what {is} the place for my rest?
 <verse eid="ACT 7:49"/></para>
   <para style="q1"><verse number="50" style="v" sid="ACT 7:50"/>Did my hand not make all these things?’
 
@@ -598,13 +598,13 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 7:60"/><verse eid="ACT 7:60"/></para>
+<verse eid="ACT 7:60"/></para>
   <chapter eid="ACT 7"/>
   <chapter number="8" style="c" sid="ACT 8"/>
   <para style="p"><verse number="1" style="v" sid="ACT 8:1"/>And Saul was agreeing with his execution.
 
 </para>
-  <para style="p">And on that day a great persecution began against the church that {was} in Jerusalem, and they all were scattered throughout the regions of Judea and Samaria, except the apostles.
+  <para style="p" vid="ACT 8:1">And on that day a great persecution began against the church that {was} in Jerusalem, and they all were scattered throughout the regions of Judea and Samaria, except the apostles.
 <verse eid="ACT 8:1"/><verse number="2" style="v" sid="ACT 8:2"/>And devout men carried away Stephen and made great lamentation over him.
 <verse eid="ACT 8:2"/><verse number="3" style="v" sid="ACT 8:3"/>But Saul was harming the church. Entering by houses, dragging out both men and women, he was delivering them to prison.
 
@@ -663,17 +663,17 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 <ms style="ts"/>
 <verse eid="ACT 8:31"/><verse number="32" style="v" sid="ACT 8:32"/>Now the passage of Scripture that he was reading was this:
 </para>
-  <para style="q1">“He was led like a sheep to the slaughter,
+  <para style="q1" vid="ACT 8:32">“He was led like a sheep to the slaughter,
 </para>
-  <para style="q1">and like a lamb before its shearer {is} silent,
+  <para style="q1" vid="ACT 8:32">and like a lamb before its shearer {is} silent,
 </para>
-  <para style="q1">thus he does not open his mouth.
+  <para style="q1" vid="ACT 8:32">thus he does not open his mouth.
 <verse eid="ACT 8:32"/></para>
   <para style="q1"><verse number="33" style="v" sid="ACT 8:33"/>In humiliation his justice was taken away.
 </para>
-  <para style="q1">Who will describe his generation?
+  <para style="q1" vid="ACT 8:33">Who will describe his generation?
 </para>
-  <para style="q1">For his life is taken from the earth.”
+  <para style="q1" vid="ACT 8:33">For his life is taken from the earth.”
 
 <ms style="ts"/>
 <verse eid="ACT 8:33"/></para>
@@ -691,7 +691,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 8:40"/><verse eid="ACT 8:40"/></para>
+<verse eid="ACT 8:40"/></para>
   <chapter eid="ACT 8"/>
   <chapter number="9" style="c" sid="ACT 9"/>
   <para style="p"><verse number="1" style="v" sid="ACT 9:1"/>But Saul, still breathing threat and murder against the disciples of the Lord, going to the high priest,
@@ -728,7 +728,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 <verse eid="ACT 9:18"/><verse number="19" style="v" sid="ACT 9:19"/>and having taken food, he was strengthened.
 
 </para>
-  <para style="p">And he was with the disciples in Damascus for some days.
+  <para style="p" vid="ACT 9:19">And he was with the disciples in Damascus for some days.
 
 <ms style="ts"/>
 <verse eid="ACT 9:19"/><verse number="20" style="v" sid="ACT 9:20"/>And immediately in the synagogues he proclaimed Jesus, that this is the Son of God.
@@ -778,7 +778,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 9:43"/><verse eid="ACT 9:43"/></para>
+<verse eid="ACT 9:43"/></para>
   <chapter eid="ACT 9"/>
   <chapter number="10" style="c" sid="ACT 10"/>
   <para style="p"><verse number="1" style="v" sid="ACT 10:1"/>Now a certain man was in Caesarea, Cornelius by name, a centurion from the regiment called Italian,
@@ -822,7 +822,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 <verse eid="ACT 10:22"/><verse number="23" style="v" sid="ACT 10:23"/>Therefore, having invited them, he hosted them.
 
 </para>
-  <para style="p">And on the next day, arising, he went out with them, and some of the brothers from Joppa accompanied him.
+  <para style="p" vid="ACT 10:23">And on the next day, arising, he went out with them, and some of the brothers from Joppa accompanied him.
 
 <ms style="ts"/>
 <verse eid="ACT 10:23"/><verse number="24" style="v" sid="ACT 10:24"/>And on the next day they came to Caesarea. And Cornelius was awaiting them, having called together his relatives and close friends.
@@ -872,7 +872,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 10:48"/><verse eid="ACT 10:48"/></para>
+<verse eid="ACT 10:48"/></para>
   <chapter eid="ACT 10"/>
   <chapter number="11" style="c" sid="ACT 11"/>
   <para style="p"><verse number="1" style="v" sid="ACT 11:1"/>Now the apostles and the brothers being throughout Judea heard that the Gentiles had also received the word of God.
@@ -930,7 +930,7 @@ will raise up for you a prophet like me from your brothers. You will listen to h
 
 <ms style="ts"/>
 
-<verse eid="ACT 11:30"/><verse eid="ACT 11:30"/></para>
+<verse eid="ACT 11:30"/></para>
   <chapter eid="ACT 11"/>
   <chapter number="12" style="c" sid="ACT 12"/>
   <para style="p"><verse number="1" style="v" sid="ACT 12:1"/>Now at that time Herod the king laid on hands to harm some from the church.
@@ -988,7 +988,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 12:25"/><verse eid="ACT 12:25"/></para>
+<verse eid="ACT 12:25"/></para>
   <chapter eid="ACT 12"/>
   <chapter number="13" style="c" sid="ACT 13"/>
   <para style="p"><verse number="1" style="v" sid="ACT 13:1"/>Now in Antioch, in the church being {there}, were prophets and teachers: both Barnabas and Simeon called Niger, and Lucius the Cyrenian; both Manaen, the foster brother of Herod the tetrarch, and Saul.
@@ -1053,18 +1053,18 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 13:31"/><verse number="32" style="v" sid="ACT 13:32"/>And we are proclaiming to you the promise having been to {our} fathers,
 <verse eid="ACT 13:32"/><verse number="33" style="v" sid="ACT 13:33"/>that God has completely fulfilled this for our children, raising up Jesus. As it is also written in the second Psalm:
 </para>
-  <para style="q1">‘You are my Son; today I have fathered you.’
+  <para style="q1" vid="ACT 13:33">‘You are my Son; today I have fathered you.’
 
 <verse eid="ACT 13:33"/></para>
   <para style="m"><verse number="34" style="v" sid="ACT 13:34"/>And that he raised him up from the dead, never going to return to decay, he has spoken thus:
 </para>
-  <para style="q1">‘I will give you the holy, trustworthy things of David.’
+  <para style="q1" vid="ACT 13:34">‘I will give you the holy, trustworthy things of David.’
 
 <ms style="ts"/>
 <verse eid="ACT 13:34"/></para>
   <para style="m"><verse number="35" style="v" sid="ACT 13:35"/>For in another {place} he also says:
 </para>
-  <para style="q1">‘You will not allow your Holy One to see decay.’
+  <para style="q1" vid="ACT 13:35">‘You will not allow your Holy One to see decay.’
 
 <verse eid="ACT 13:35"/></para>
   <para style="m"><verse number="36" style="v" sid="ACT 13:36"/>For indeed David, having served the counsel of God in his own generation, fell asleep and was laid with his fathers and saw decay.
@@ -1079,9 +1079,9 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 13:40"/></para>
   <para style="q1"><verse number="41" style="v" sid="ACT 13:41"/>‘Look, you despisers, and marvel and be destroyed!
 </para>
-  <para style="q1">For I am doing a work in your days,
+  <para style="q1" vid="ACT 13:41">For I am doing a work in your days,
 </para>
-  <para style="q1">a work that you would not believe at all, even if someone announced it to you.’”
+  <para style="q1" vid="ACT 13:41">a work that you would not believe at all, even if someone announced it to you.’”
 
 <ms style="ts"/>
 <verse eid="ACT 13:41"/></para>
@@ -1097,9 +1097,9 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 13:45"/><verse number="46" style="v" sid="ACT 13:46"/>And Paul and Barnabas, speaking boldly, said, “It was necessary for the word of God to be spoken to you first. Since you reject it and judge yourselves not worthy of eternal life, behold, we are turning to the Gentiles.
 <verse eid="ACT 13:46"/><verse number="47" style="v" sid="ACT 13:47"/>For thus the Lord has commanded us:
 </para>
-  <para style="q1">‘I have placed you as a light for the Gentiles,
+  <para style="q1" vid="ACT 13:47">‘I have placed you as a light for the Gentiles,
 </para>
-  <para style="q1">for you to be for salvation as far as the end of the earth.’”
+  <para style="q1" vid="ACT 13:47">for you to be for salvation as far as the end of the earth.’”
 
 <ms style="ts"/>
 <verse eid="ACT 13:47"/></para>
@@ -1113,7 +1113,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 13:52"/><verse eid="ACT 13:52"/></para>
+<verse eid="ACT 13:52"/></para>
   <chapter eid="ACT 13"/>
   <chapter number="14" style="c" sid="ACT 14"/>
   <para style="p"><verse number="1" style="v" sid="ACT 14:1"/>And it happened that in Iconium they entered together into the synagogue of the Jews and spoke in such a way that a great multitude, both of Jews and of Greeks, believed.
@@ -1169,7 +1169,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 14:28"/><verse eid="ACT 14:28"/></para>
+<verse eid="ACT 14:28"/></para>
   <chapter eid="ACT 14"/>
   <chapter number="15" style="c" sid="ACT 15"/>
   <para style="p"><verse number="1" style="v" sid="ACT 15:1"/>And certain ones coming down from Judea were teaching the brothers, “Unless you are circumcised in the custom of Moses, you are not able to be saved.”
@@ -1187,7 +1187,7 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 15:6"/><verse number="7" style="v" sid="ACT 15:7"/>And much debate having happened, Peter, arising, said to them,
 
 </para>
-  <para style="p">“Men, brothers, you know that from original days God chose among you: By my mouth the Gentiles would hear the word of the gospel and believe.
+  <para style="p" vid="ACT 15:7">“Men, brothers, you know that from original days God chose among you: By my mouth the Gentiles would hear the word of the gospel and believe.
 <verse eid="ACT 15:7"/><verse number="8" style="v" sid="ACT 15:8"/>And God, the heart-knower, testified to them, giving them the Holy Spirit, just as also to us;
 <verse eid="ACT 15:8"/><verse number="9" style="v" sid="ACT 15:9"/>and he did not distinguish between us and them, having cleansed their hearts by faith.
 
@@ -1203,7 +1203,7 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 15:12"/><verse number="13" style="v" sid="ACT 15:13"/>And after they stopped speaking, James answered, saying,
 
 </para>
-  <para style="p">“Men, brothers, listen to me.
+  <para style="p" vid="ACT 15:13">“Men, brothers, listen to me.
 <verse eid="ACT 15:13"/><verse number="14" style="v" sid="ACT 15:14"/>Simeon has described how God first looked to take from the Gentiles a people for his name.
 
 <ms style="ts"/>
@@ -1211,15 +1211,15 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 15:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="ACT 15:16"/>‘After these things I will return,
 </para>
-  <para style="q1">and I will rebuild the fallen tent of David,
+  <para style="q1" vid="ACT 15:16">and I will rebuild the fallen tent of David,
 </para>
-  <para style="q1">and I will rebuild its ruins and restore it,
+  <para style="q1" vid="ACT 15:16">and I will rebuild its ruins and restore it,
 <verse eid="ACT 15:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="ACT 15:17"/>so that the remnant of men may seek the Lord,
 </para>
-  <para style="q1">even all the Gentiles upon whom my name has been called upon them,
+  <para style="q1" vid="ACT 15:17">even all the Gentiles upon whom my name has been called upon them,
 </para>
-  <para style="q1">says the Lord doing these things
+  <para style="q1" vid="ACT 15:17">says the Lord doing these things
 <verse eid="ACT 15:17"/><verse number="18" style="v" sid="ACT 15:18"/>known from eternity.’<note style="f" caller="+"> <char style="ft" closed="false">Some older versions read, </char><char style="fqa" closed="true">This is what the Lord says, to whom are known all his deeds from eternity.</char></note>
 
 <ms style="ts"/>
@@ -1267,7 +1267,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 15:41"/><verse eid="ACT 15:41"/></para>
+<verse eid="ACT 15:41"/></para>
   <chapter eid="ACT 15"/>
   <chapter number="16" style="c" sid="ACT 16"/>
   <para style="p"><verse number="1" style="v" sid="ACT 16:1"/>And he also came down to Derbe and to Lystra, and behold, a certain disciple was there, Timothy by name, the son of a believing Jewish woman but of a father, a Greek,
@@ -1347,7 +1347,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 16:40"/><verse eid="ACT 16:40"/></para>
+<verse eid="ACT 16:40"/></para>
   <chapter eid="ACT 16"/>
   <chapter number="17" style="c" sid="ACT 17"/>
   <para style="p"><verse number="1" style="v" sid="ACT 17:1"/>Now passing through Amphipolis and Apollonia, they came to Thessalonica, where a synagogue of the Jews was.
@@ -1394,7 +1394,7 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 17:21"/><verse number="22" style="v" sid="ACT 17:22"/>And Paul, having been stood in the middle of the Areopagus, was saying,
 
 </para>
-  <para style="p">“Men, Athenians, I see how you are more religious in everything.
+  <para style="p" vid="ACT 17:22">“Men, Athenians, I see how you are more religious in everything.
 <verse eid="ACT 17:22"/><verse number="23" style="v" sid="ACT 17:23"/>For passing through and observing your objects of worship, I even found an altar on which had been inscribed, ‘To an Unknown God.’ What therefore you worship not knowing, this I announce to you.
 
 <ms style="ts"/>
@@ -1409,7 +1409,7 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 17:27"/><verse number="28" style="v" sid="ACT 17:28"/>For ‘in him we live and are moved and are,’ and as some of your own poets have said,
 
 </para>
-  <para style="p">‘For we too are {his} offspring.’
+  <para style="p" vid="ACT 17:28">‘For we too are {his} offspring.’
 <verse eid="ACT 17:28"/><verse number="29" style="v" sid="ACT 17:29"/>Therefore, being offspring of God, we ought not to consider the Divine to be similar to gold or silver or stone—images of the skill and imagination of man.
 
 <ms style="ts"/>
@@ -1424,7 +1424,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 17:34"/><verse eid="ACT 17:34"/></para>
+<verse eid="ACT 17:34"/></para>
   <chapter eid="ACT 17"/>
   <chapter number="18" style="c" sid="ACT 18"/>
   <para style="p"><verse number="1" style="v" sid="ACT 18:1"/>After these things, having departed from Athens, he went to Corinth.
@@ -1484,7 +1484,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 18:28"/><verse eid="ACT 18:28"/></para>
+<verse eid="ACT 18:28"/></para>
   <chapter eid="ACT 18"/>
   <chapter number="19" style="c" sid="ACT 19"/>
   <para style="p"><verse number="1" style="v" sid="ACT 19:1"/>And it happened that while Apollos was in Corinth, Paul, passing through the upper parts, came down to Ephesus and found certain disciples.
@@ -1564,7 +1564,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 19:41"/><verse eid="ACT 19:41"/></para>
+<verse eid="ACT 19:41"/></para>
   <chapter eid="ACT 19"/>
   <chapter number="20" style="c" sid="ACT 20"/>
   <para style="p"><verse number="1" style="v" sid="ACT 20:1"/>And after the uproar had ended, Paul, having summoned the disciples and encouraged them, saying farewell, departed to go to Macedonia.
@@ -1604,7 +1604,7 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 20:17"/><verse number="18" style="v" sid="ACT 20:18"/>And when they came to him, he said to them,
 
 </para>
-  <para style="p">“You know, from the first day from which I set foot in Asia, how I was with you the whole time,
+  <para style="p" vid="ACT 20:18">“You know, from the first day from which I set foot in Asia, how I was with you the whole time,
 <verse eid="ACT 20:18"/><verse number="19" style="v" sid="ACT 20:19"/>serving the Lord with all humility and tears and trials happening to me in the plots of the Jews,
 <verse eid="ACT 20:19"/><verse number="20" style="v" sid="ACT 20:20"/>how I withheld nothing being useful in order not to declare it to you, and I taught you in public and by houses,
 <verse eid="ACT 20:20"/><verse number="21" style="v" sid="ACT 20:21"/>testifying to both Jews and Greeks repentance toward God and faith in our Lord Jesus.
@@ -1641,7 +1641,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 20:38"/><verse eid="ACT 20:38"/></para>
+<verse eid="ACT 20:38"/></para>
   <chapter eid="ACT 20"/>
   <chapter number="21" style="c" sid="ACT 21"/>
   <para style="p"><verse number="1" style="v" sid="ACT 21:1"/>And it happened that as we put to sea, having been parted from them, running a straight course, we came to Cos, and on the next day to Rhodes, and from there to Patara.
@@ -1724,7 +1724,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 21:40"/><verse eid="ACT 21:40"/></para>
+<verse eid="ACT 21:40"/></para>
   <chapter eid="ACT 21"/>
   <chapter number="22" style="c" sid="ACT 22"/>
   <para style="p"><verse number="1" style="v" sid="ACT 22:1"/>“Men, brothers and fathers, hear my defense to you now.”
@@ -1787,7 +1787,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 22:30"/><verse eid="ACT 22:30"/></para>
+<verse eid="ACT 22:30"/></para>
   <chapter eid="ACT 22"/>
   <chapter number="23" style="c" sid="ACT 23"/>
   <para style="p"><verse number="1" style="v" sid="ACT 23:1"/>And looking intently at the Sanhedrin, Paul said, “Men, brothers, I have conducted myself toward God in all good conscience up to this day.”
@@ -1862,7 +1862,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 23:35"/><verse eid="ACT 23:35"/></para>
+<verse eid="ACT 23:35"/></para>
   <chapter eid="ACT 23"/>
   <chapter number="24" style="c" sid="ACT 24"/>
   <para style="p"><verse number="1" style="v" sid="ACT 24:1"/>And after five days, Ananias, the high priest, with certain elders and a certain orator, Tertullus, came down, who appeared to the governor against Paul.
@@ -1919,7 +1919,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 24:27"/><verse eid="ACT 24:27"/></para>
+<verse eid="ACT 24:27"/></para>
   <chapter eid="ACT 24"/>
   <chapter number="25" style="c" sid="ACT 25"/>
   <para style="p"><verse number="1" style="v" sid="ACT 25:1"/>Now Festus, having set foot in the province, went up from Caesarea to Jerusalem after three days.
@@ -1973,7 +1973,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 25:27"/><verse eid="ACT 25:27"/></para>
+<verse eid="ACT 25:27"/></para>
   <chapter eid="ACT 25"/>
   <chapter number="26" style="c" sid="ACT 26"/>
   <para style="p"><verse number="1" style="v" sid="ACT 26:1"/>And Agrippa said to Paul, “It is permitted to you to speak about yourself.” Then Paul, stretching out {his} hand, was defending himself:
@@ -2035,7 +2035,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 26:32"/><verse eid="ACT 26:32"/></para>
+<verse eid="ACT 26:32"/></para>
   <chapter eid="ACT 26"/>
   <chapter number="27" style="c" sid="ACT 27"/>
   <para style="p"><verse number="1" style="v" sid="ACT 27:1"/>And when it was decided for us to sail to Italy, they were delivering both Paul and some other prisoners to a centurion, Julius by name, of the Augustan regiment.
@@ -2117,7 +2117,7 @@ having completed their service, bringing with them John, called Mark.
 
 <ms style="ts"/>
 
-<verse eid="ACT 27:44"/><verse eid="ACT 27:44"/></para>
+<verse eid="ACT 27:44"/></para>
   <chapter eid="ACT 27"/>
   <chapter number="28" style="c" sid="ACT 28"/>
   <para style="p"><verse number="1" style="v" sid="ACT 28:1"/>And having been brought safely through, we then learned that the island was called Malta.
@@ -2173,25 +2173,25 @@ having completed their service, bringing with them John, called Mark.
 <verse eid="ACT 28:24"/><verse number="25" style="v" sid="ACT 28:25"/>And being discordant with one another, they were leaving, Paul having spoken one word, “The Holy Spirit spoke well through Isaiah the prophet to your fathers,
 <verse eid="ACT 28:25"/><verse number="26" style="v" sid="ACT 28:26"/>saying, ‘Go to this people and say,
 </para>
-  <para style="q1">“By hearing you will hear but you will not understand at all,
+  <para style="q1" vid="ACT 28:26">“By hearing you will hear but you will not understand at all,
 </para>
-  <para style="q1">and seeing you will see but you will not perceive at all.”
+  <para style="q1" vid="ACT 28:26">and seeing you will see but you will not perceive at all.”
 
 <ms style="ts"/>
 <verse eid="ACT 28:26"/></para>
   <para style="q1"><verse number="27" style="v" sid="ACT 28:27"/>For the heart of this people has been thickened,
 </para>
-  <para style="q1">and with {their} ears they have hardly heard,
+  <para style="q1" vid="ACT 28:27">and with {their} ears they have hardly heard,
 </para>
-  <para style="q1">and they have shut their eyes,
+  <para style="q1" vid="ACT 28:27">and they have shut their eyes,
 </para>
-  <para style="q1">lest they might see with {their} eyes,
+  <para style="q1" vid="ACT 28:27">lest they might see with {their} eyes,
 </para>
-  <para style="q1">and they might hear with {their} ears,
+  <para style="q1" vid="ACT 28:27">and they might hear with {their} ears,
 </para>
-  <para style="q1">and they might understand with {their} heart and turn back,
+  <para style="q1" vid="ACT 28:27">and they might understand with {their} heart and turn back,
 </para>
-  <para style="q1">and I would heal them.’
+  <para style="q1" vid="ACT 28:27">and I would heal them.’
 
 <ms style="ts"/>
 <verse eid="ACT 28:27"/></para>

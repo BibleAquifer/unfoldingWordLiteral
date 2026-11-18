@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="MAL" style="id">EN_ULT en_English_ltr Thu Oct 10 2024 09:07:30 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -45,7 +45,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAL 1:14"/><verse eid="MAL 1:14"/></para>
+<verse eid="MAL 1:14"/></para>
   <chapter eid="MAL 1"/>
   <chapter number="2" style="c" sid="MAL 2"/>
   <para style="p"><verse number="1" style="v" sid="MAL 2:1"/>And now, this commandment {is} for you, O priests.
@@ -87,7 +87,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAL 2:17"/><verse eid="MAL 2:17"/></para>
+<verse eid="MAL 2:17"/></para>
   <chapter eid="MAL 2"/>
   <chapter number="3" style="c" sid="MAL 3"/>
   <para style="p"><verse number="1" style="v" sid="MAL 3:1"/>“Behold me, sending my messenger, and he will prepare the way to my face. Then suddenly he will come to his temple, the Lord whom you {are} seeking. And the messenger of the covenant, whom you {are} desiring, behold, {he is} coming,” says Yahweh of Armies.
@@ -131,7 +131,7 @@
 
 <ms style="ts"/>
 
-<verse eid="MAL 3:18"/><verse eid="MAL 3:18"/></para>
+<verse eid="MAL 3:18"/></para>
   <chapter eid="MAL 3"/>
   <chapter number="4" style="c" sid="MAL 4"/>
   <para style="p"><verse number="1" style="v" sid="MAL 4:1"/>For behold, the day is coming, burning like an oven, when all of the arrogant and all of the doers of wickedness will be stubble. And the coming day will kindle them,” says Yahweh of Armies, “so that it will not leave to them root or branch.

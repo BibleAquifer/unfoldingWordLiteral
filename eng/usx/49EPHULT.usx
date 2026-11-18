@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="EPH" style="id">EN_ULT en_English_ltr Wed Dec 14 2022 15:23:19 GMT-0500 (Eastern Standard Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -65,7 +65,7 @@ for all the saints,
 
 <ms style="ts"/>
 
-<verse eid="EPH 1:23"/><verse eid="EPH 1:23"/></para>
+<verse eid="EPH 1:23"/></para>
   <chapter eid="EPH 1"/>
   <chapter number="2" style="c" sid="EPH 2"/>
   <para style="p"><verse number="1" style="v" sid="EPH 2:1"/>And you were dead in your trespasses and sins,
@@ -106,7 +106,7 @@ for all the saints,
 
 <ms style="ts"/>
 
-<verse eid="EPH 2:22"/><verse eid="EPH 2:22"/></para>
+<verse eid="EPH 2:22"/></para>
   <chapter eid="EPH 2"/>
   <chapter number="3" style="c" sid="EPH 3"/>
   <para style="p"><verse number="1" style="v" sid="EPH 3:1"/>For this reason I, Paul, the prisoner of Christ Jesus on behalf of you Gentiles,
@@ -151,7 +151,7 @@ for all the saints,
 
 <ms style="ts"/>
 
-<verse eid="EPH 3:21"/><verse eid="EPH 3:21"/></para>
+<verse eid="EPH 3:21"/></para>
   <chapter eid="EPH 3"/>
   <chapter number="4" style="c" sid="EPH 4"/>
   <para style="p"><verse number="1" style="v" sid="EPH 4:1"/>Therefore I, the prisoner for the Lord, urge you to walk worthily of the calling by which you were called,
@@ -167,11 +167,11 @@ for all the saints,
 <verse eid="EPH 4:6"/><verse number="7" style="v" sid="EPH 4:7"/>And to each one of us this grace has been given according to the measure of the gift of Christ.
 <verse eid="EPH 4:7"/><verse number="8" style="v" sid="EPH 4:8"/>Therefore it says:
 </para>
-  <para style="q1">“Having ascended to the heights,
+  <para style="q1" vid="EPH 4:8">“Having ascended to the heights,
 </para>
-  <para style="q1">he led captives into captivity,
+  <para style="q1" vid="EPH 4:8">he led captives into captivity,
 </para>
-  <para style="q1">{and} he gave gifts to men.”
+  <para style="q1" vid="EPH 4:8">{and} he gave gifts to men.”
 
 <ms style="ts"/>
 <verse eid="EPH 4:8"/></para>
@@ -220,7 +220,7 @@ for all the saints,
 
 <ms style="ts"/>
 
-<verse eid="EPH 4:32"/><verse eid="EPH 4:32"/></para>
+<verse eid="EPH 4:32"/></para>
   <chapter eid="EPH 4"/>
   <chapter number="5" style="c" sid="EPH 5"/>
   <para style="p"><verse number="1" style="v" sid="EPH 5:1"/>Therefore, be imitators of God, as beloved children,
@@ -247,11 +247,11 @@ for all the saints,
 <verse eid="EPH 5:12"/><verse number="13" style="v" sid="EPH 5:13"/>But everything exposed by the light is revealed, for everything that is revealed is light.
 <verse eid="EPH 5:13"/><verse number="14" style="v" sid="EPH 5:14"/>Therefore it says,
 </para>
-  <para style="q1">“Awake, O sleeper,
+  <para style="q1" vid="EPH 5:14">“Awake, O sleeper,
 </para>
-  <para style="q1">and arise from the dead,
+  <para style="q1" vid="EPH 5:14">and arise from the dead,
 </para>
-  <para style="q1">and Christ will shine on you.”
+  <para style="q1" vid="EPH 5:14">and Christ will shine on you.”
 
 <ms style="ts"/>
 <verse eid="EPH 5:14"/></para>
@@ -288,7 +288,7 @@ for all the saints,
 
 <ms style="ts"/>
 
-<verse eid="EPH 5:33"/><verse eid="EPH 5:33"/></para>
+<verse eid="EPH 5:33"/></para>
   <chapter eid="EPH 5"/>
   <chapter number="6" style="c" sid="EPH 6"/>
   <para style="p"><verse number="1" style="v" sid="EPH 6:1"/>Children, obey your parents in the Lord, for this is righteous.

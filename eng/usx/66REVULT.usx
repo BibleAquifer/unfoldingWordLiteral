@@ -1,4 +1,4 @@
-<usx version="3.1">
+<usx version="3.1.2">
   <book code="REV" style="id">EN_ULT en_English_ltr Wed Apr 19 2023 12:29:52 GMT-0400 (Eastern Daylight Time) tc</book>
   <para style="ide">UTF-8
 </para>
@@ -29,14 +29,14 @@
 <verse eid="REV 1:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="REV 1:7"/>“Behold, he is coming with the clouds,”
 </para>
-  <para style="q2">and “every eye will see him,
+  <para style="q2" vid="REV 1:7">and “every eye will see him,
 </para>
-  <para style="q1">even those who pierced him,”
+  <para style="q1" vid="REV 1:7">even those who pierced him,”
 </para>
-  <para style="q2">and all the tribes of the earth “will mourn because of him.”
+  <para style="q2" vid="REV 1:7">and all the tribes of the earth “will mourn because of him.”
 
 </para>
-  <para style="m">Yes, Amen.
+  <para style="m" vid="REV 1:7">Yes, Amen.
 
 <verse eid="REV 1:7"/></para>
   <para style="p"><verse number="8" style="v" sid="REV 1:8"/>“I am the alpha and the omega,” says the Lord God, “the one being and the one having been and the one coming, the Ruler of All.”
@@ -67,13 +67,13 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 1:20"/><verse eid="REV 1:20"/></para>
+<verse eid="REV 1:20"/></para>
   <chapter eid="REV 1"/>
   <chapter number="2" style="c" sid="REV 2"/>
   <para style="p"><verse number="1" style="v" sid="REV 2:1"/>To the angel of the church in Ephesus write:
 
 </para>
-  <para style="p">‘The one holding the seven stars in his right hand, the one walking in the midst of the seven golden lampstands, says these things:
+  <para style="p" vid="REV 2:1">‘The one holding the seven stars in his right hand, the one walking in the midst of the seven golden lampstands, says these things:
 <verse eid="REV 2:1"/><verse number="2" style="v" sid="REV 2:2"/>“I know your works and labor and your endurance and that you can not tolerate evil ones and {that} you have tested the ones calling themselves apostles but are not and you have found them {to be} false
 
 <ms style="ts"/>
@@ -90,7 +90,7 @@
   <para style="p"><verse number="8" style="v" sid="REV 2:8"/>And to the angel of the church in Smyrna write:
 
 </para>
-  <para style="p">‘The first and the last, who became dead but lived, says these things:
+  <para style="p" vid="REV 2:8">‘The first and the last, who became dead but lived, says these things:
 <verse eid="REV 2:8"/><verse number="9" style="v" sid="REV 2:9"/>“I know your affliction and poverty—but you are rich—and the slander of the ones saying themselves to be Jews, but they are not, but {are} a synagogue of Satan.
 
 <ms style="ts"/>
@@ -102,7 +102,7 @@
   <para style="p"><verse number="12" style="v" sid="REV 2:12"/>And to the angel of the church in Pergamum write:
 
 </para>
-  <para style="p">‘The one having the sharp, double-edged sword says these things:
+  <para style="p" vid="REV 2:12">‘The one having the sharp, double-edged sword says these things:
 <verse eid="REV 2:12"/><verse number="13" style="v" sid="REV 2:13"/>“I know where you live, where the throne of Satan {is}, yet you hold my name and you did not deny my faith even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan lives.
 
 <ms style="ts"/>
@@ -118,7 +118,7 @@
   <para style="p"><verse number="18" style="v" sid="REV 2:18"/>And to the angel of the church in Thyatira write:
 
 </para>
-  <para style="p">‘The Son of God, the one having his eyes like a flame of fire and his feet like bronze, says these things:
+  <para style="p" vid="REV 2:18">‘The Son of God, the one having his eyes like a flame of fire and his feet like bronze, says these things:
 <verse eid="REV 2:18"/><verse number="19" style="v" sid="REV 2:19"/>“I know your works and love and faith and service and your endurance, and your last works {are} greater than the first.
 
 <ms style="ts"/>
@@ -142,13 +142,13 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 2:29"/><verse eid="REV 2:29"/></para>
+<verse eid="REV 2:29"/></para>
   <chapter eid="REV 2"/>
   <chapter number="3" style="c" sid="REV 3"/>
   <para style="p"><verse number="1" style="v" sid="REV 3:1"/>And to the angel of the church in Sardis write:
 
 </para>
-  <para style="p">‘The one having the seven spirits of God and the seven stars says these things: “I know your works, that you have a name that you are alive, but you are dead.
+  <para style="p" vid="REV 3:1">‘The one having the seven spirits of God and the seven stars says these things: “I know your works, that you have a name that you are alive, but you are dead.
 <verse eid="REV 3:1"/><verse number="2" style="v" sid="REV 3:2"/>Becoming waking and strengthen the remainder that is about to die, for I have not found your works completed before my God.
 
 <ms style="ts"/>
@@ -163,15 +163,15 @@
 <verse eid="REV 3:6"/></para>
   <para style="p"><verse number="7" style="v" sid="REV 3:7"/>And to the angel of the church in Philadelphia write:
 </para>
-  <para style="q1">‘The Holy One, the True One,
+  <para style="q1" vid="REV 3:7">‘The Holy One, the True One,
 </para>
-  <para style="q2">the one having the key of David,
+  <para style="q2" vid="REV 3:7">the one having the key of David,
 </para>
-  <para style="q1">the one opening and no one will shut
+  <para style="q1" vid="REV 3:7">the one opening and no one will shut
 </para>
-  <para style="q2">and shutting and no one opens,
+  <para style="q2" vid="REV 3:7">and shutting and no one opens,
 </para>
-  <para style="q2">says these things:
+  <para style="q2" vid="REV 3:7">says these things:
 <verse eid="REV 3:7"/><verse number="8" style="v" sid="REV 3:8"/>“I know your works (behold, I have put before you an opened door that no one is able to shut it), that you have little power, yet you have kept my word and you have not denied my name.
 
 <ms style="ts"/>
@@ -188,7 +188,7 @@
   <para style="p"><verse number="14" style="v" sid="REV 3:14"/>And to the angel of the church in Laodicea write:
 
 </para>
-  <para style="p">‘The Amen, the faithful and true witness, the beginning of the creation of God, says these things:
+  <para style="p" vid="REV 3:14">‘The Amen, the faithful and true witness, the beginning of the creation of God, says these things:
 <verse eid="REV 3:14"/><verse number="15" style="v" sid="REV 3:15"/>“I know your works, that you are neither cold nor hot. I wish you were cold or hot!
 <verse eid="REV 3:15"/><verse number="16" style="v" sid="REV 3:16"/>So, because you are lukewarm and neither hot nor cold, I am about to spew you out of my mouth.
 
@@ -206,7 +206,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 3:22"/><verse eid="REV 3:22"/></para>
+<verse eid="REV 3:22"/></para>
   <chapter eid="REV 3"/>
   <chapter number="4" style="c" sid="REV 4"/>
   <para style="p"><verse number="1" style="v" sid="REV 4:1"/>After these things I looked and behold, a door opened in heaven and the first voice like a trumpet that I had heard speaking with me saying, “Come up here and I will show you what must happen after these things.”
@@ -224,9 +224,9 @@
 <verse eid="REV 4:6"/><verse number="7" style="v" sid="REV 4:7"/>And the first living creature {was} like a lion, and the second living creature {was} like a calf, and the third living creature having a face as of a man, and the fourth living creature {was} like a flying eagle.
 <verse eid="REV 4:7"/><verse number="8" style="v" sid="REV 4:8"/>And the four living creatures, each one of them having six wings apiece, being full of eyes around and underneath, indeed do not have rest night and day, saying,
 </para>
-  <para style="q1">“Holy, holy, holy, Lord God, the Ruler of All,
+  <para style="q1" vid="REV 4:8">“Holy, holy, holy, Lord God, the Ruler of All,
 </para>
-  <para style="q1">the one having been and the one being and the one coming.”
+  <para style="q1" vid="REV 4:8">the one having been and the one being and the one coming.”
 
 <ms style="ts"/>
 <verse eid="REV 4:8"/></para>
@@ -235,15 +235,15 @@
 <verse eid="REV 4:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="REV 4:11"/>“Worthy are you, our Lord and God,
 </para>
-  <para style="q2">to receive glory and honor and power,
+  <para style="q2" vid="REV 4:11">to receive glory and honor and power,
 </para>
-  <para style="q1">because you have created all things,
+  <para style="q1" vid="REV 4:11">because you have created all things,
 </para>
-  <para style="q2">and by your will they existed and were created.”
+  <para style="q2" vid="REV 4:11">and by your will they existed and were created.”
 
 <ms style="ts"/>
 
-<verse eid="REV 4:11"/><verse eid="REV 4:11"/></para>
+<verse eid="REV 4:11"/></para>
   <chapter eid="REV 4"/>
   <chapter number="5" style="c" sid="REV 5"/>
   <para style="p"><verse number="1" style="v" sid="REV 5:1"/>And I saw in the right hand of the one sitting on the throne a scroll, written on the inside and on the back, having been sealed with seven seals.
@@ -264,30 +264,30 @@
 <ms style="ts"/>
 <verse eid="REV 5:8"/><verse number="9" style="v" sid="REV 5:9"/>And they sing a new song, saying,
 </para>
-  <para style="q1">“You are worthy to take the scroll
+  <para style="q1" vid="REV 5:9">“You are worthy to take the scroll
 </para>
-  <para style="q2">and to open its seals,
+  <para style="q2" vid="REV 5:9">and to open its seals,
 </para>
-  <para style="q1">because you were slaughtered and with your blood you bought {people} for God
+  <para style="q1" vid="REV 5:9">because you were slaughtered and with your blood you bought {people} for God
 </para>
-  <para style="q2">from every tribe and language and people and nation.
+  <para style="q2" vid="REV 5:9">from every tribe and language and people and nation.
 <verse eid="REV 5:9"/></para>
   <para style="q1"><verse number="10" style="v" sid="REV 5:10"/>And you made them a kingdom and priests to our God,
 </para>
-  <para style="q2">and they will reign on the earth.”
+  <para style="q2" vid="REV 5:10">and they will reign on the earth.”
 
 <ms style="ts"/>
 <verse eid="REV 5:10"/></para>
   <para style="m"><verse number="11" style="v" sid="REV 5:11"/>And I looked and heard the sound of many angels around the throne and the living creatures and the elders, and the number of them was myriads of myriads and thousands of thousands,
 <verse eid="REV 5:11"/><verse number="12" style="v" sid="REV 5:12"/>saying in a loud voice,
 </para>
-  <para style="pi1">“Worthy is the Lamb having been slaughtered to receive power and wealth and wisdom and strength and honor and glory and blessing.”
+  <para style="pi1" vid="REV 5:12">“Worthy is the Lamb having been slaughtered to receive power and wealth and wisdom and strength and honor and glory and blessing.”
 
 <ms style="ts"/>
 <verse eid="REV 5:12"/></para>
   <para style="p"><verse number="13" style="v" sid="REV 5:13"/>And I heard every creature in heaven and on earth and under the earth and on the sea and everything in them saying,
 </para>
-  <para style="pi1">“To the one sitting on the throne and to the Lamb {be} praise and honor and glory and power to the ages of the ages.”
+  <para style="pi1" vid="REV 5:13">“To the one sitting on the throne and to the Lamb {be} praise and honor and glory and power to the ages of the ages.”
 
 <verse eid="REV 5:13"/></para>
   <para style="p"><verse number="14" style="v" sid="REV 5:14"/>And the four living creatures said, “Amen!” and the elders fell down and worshiped.
@@ -295,7 +295,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 5:14"/><verse eid="REV 5:14"/></para>
+<verse eid="REV 5:14"/></para>
   <chapter eid="REV 5"/>
   <chapter number="6" style="c" sid="REV 6"/>
   <para style="p"><verse number="1" style="v" sid="REV 6:1"/>And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder, “Come!”
@@ -335,7 +335,7 @@
 
 <ms style="ts"/>
 
-<verse eid="REV 6:17"/><verse eid="REV 6:17"/></para>
+<verse eid="REV 6:17"/></para>
   <chapter eid="REV 6"/>
   <chapter number="7" style="c" sid="REV 7"/>
   <para style="p"><verse number="1" style="v" sid="REV 7:1"/>After this, I saw four angels standing at the four corners of the earth, holding the four winds of the earth so that wind would not blow on the land or on the sea or on any tree.
@@ -347,43 +347,43 @@
 <verse eid="REV 7:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="REV 7:5"/>from the tribe of Judah, 12 thousands having been sealed;
 </para>
-  <para style="q1">from the tribe of Reuben, 12 thousands;
+  <para style="q1" vid="REV 7:5">from the tribe of Reuben, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Gad, 12 thousands;
+  <para style="q1" vid="REV 7:5">from the tribe of Gad, 12 thousands;
 <verse eid="REV 7:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="REV 7:6"/>from the tribe of Asher, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Naphtali, 12 thousands;
+  <para style="q1" vid="REV 7:6">from the tribe of Naphtali, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Manasseh, 12 thousands;
+  <para style="q1" vid="REV 7:6">from the tribe of Manasseh, 12 thousands;
 
 <ms style="ts"/>
 <verse eid="REV 7:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="REV 7:7"/>from the tribe of Simeon, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Levi, 12 thousands;
+  <para style="q1" vid="REV 7:7">from the tribe of Levi, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Issachar, 12 thousands;
+  <para style="q1" vid="REV 7:7">from the tribe of Issachar, 12 thousands;
 <verse eid="REV 7:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="REV 7:8"/>from the tribe of Zebulun, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Joseph, 12 thousands;
+  <para style="q1" vid="REV 7:8">from the tribe of Joseph, 12 thousands;
 </para>
-  <para style="q1">from the tribe of Benjamin, 12 thousands having been sealed.
+  <para style="q1" vid="REV 7:8">from the tribe of Benjamin, 12 thousands having been sealed.
 
 <ms style="ts"/>
 <verse eid="REV 7:8"/></para>
   <para style="p"><verse number="9" style="v" sid="REV 7:9"/>After these things I looked, and behold, a great multitude that, to number it, no one was able, from every nation and tribe and people and language, standing before the throne and before the Lamb, having been clothed in white robes, and palm branches {were} in their hands,
 <verse eid="REV 7:9"/><verse number="10" style="v" sid="REV 7:10"/>and they cry out in a loud voice, saying,
 </para>
-  <para style="pi1">“Salvation {is} to our God, the one sitting on the throne, and to the Lamb!”
+  <para style="pi1" vid="REV 7:10">“Salvation {is} to our God, the one sitting on the throne, and to the Lamb!”
 
 <ms style="ts"/>
 <verse eid="REV 7:10"/></para>
   <para style="m"><verse number="11" style="v" sid="REV 7:11"/>And all the angels had stood around the throne and the elders and the four living creatures, and they fell on their faces before the throne and worshiped God,
 <verse eid="REV 7:11"/><verse number="12" style="v" sid="REV 7:12"/>saying,
 </para>
-  <para style="pi1">“Amen! Praise and glory and wisdom and thanks and honor and power and strength {be} to our God, to the ages of the ages! Amen!”
+  <para style="pi1" vid="REV 7:12">“Amen! Praise and glory and wisdom and thanks and honor and power and strength {be} to our God, to the ages of the ages! Amen!”
 
 <ms style="ts"/>
 <verse eid="REV 7:12"/></para>
@@ -394,25 +394,25 @@
 <verse eid="REV 7:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="REV 7:15"/>Because of this they are before the throne of God,
 </para>
-  <para style="q2">and they worship him day and night in his temple.
+  <para style="q2" vid="REV 7:15">and they worship him day and night in his temple.
 </para>
-  <para style="q2">And the one sitting on the throne will dwell with them.
+  <para style="q2" vid="REV 7:15">And the one sitting on the throne will dwell with them.
 <verse eid="REV 7:15"/></para>
   <para style="q1"><verse number="16" style="v" sid="REV 7:16"/>They will not hunger anymore, nor will they thirst anymore,
 </para>
-  <para style="q2">nor will the sun fall on them at all,
+  <para style="q2" vid="REV 7:16">nor will the sun fall on them at all,
 </para>
-  <para style="q2">nor any heat,
+  <para style="q2" vid="REV 7:16">nor any heat,
 <verse eid="REV 7:16"/></para>
   <para style="q1"><verse number="17" style="v" sid="REV 7:17"/>because the Lamb at the midst of the throne will shepherd them
 </para>
-  <para style="q2">and guide them to springs of the waters of life,
+  <para style="q2" vid="REV 7:17">and guide them to springs of the waters of life,
 </para>
-  <para style="q1">and God will wipe away every tear from their eyes.”
+  <para style="q1" vid="REV 7:17">and God will wipe away every tear from their eyes.”
 
 <ms style="ts"/>
 
-<verse eid="REV 7:17"/><verse eid="REV 7:17"/></para>
+<verse eid="REV 7:17"/></para>
   <chapter eid="REV 7"/>
   <chapter number="8" style="c" sid="REV 8"/>
   <para style="p"><verse number="1" style="v" sid="REV 8:1"/>And when he opened the seventh seal, silence happened in heaven for about half an hour.
@@ -452,7 +452,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 8:13"/><verse eid="REV 8:13"/></para>
+<verse eid="REV 8:13"/></para>
   <chapter eid="REV 8"/>
   <chapter number="9" style="c" sid="REV 9"/>
   <para style="p"><verse number="1" style="v" sid="REV 9:1"/>And the fifth angel trumpeted, and I saw a star having fallen from the sky to the earth, and the key of the shaft of the abyss was given to it.
@@ -498,7 +498,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 9:21"/><verse eid="REV 9:21"/></para>
+<verse eid="REV 9:21"/></para>
   <chapter eid="REV 9"/>
   <chapter number="10" style="c" sid="REV 10"/>
   <para style="p"><verse number="1" style="v" sid="REV 10:1"/>And I saw another mighty angel coming down from heaven clothed in a cloud, with a rainbow above his head and his face like the sun and his feet like pillars of fire
@@ -523,7 +523,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 10:11"/><verse eid="REV 10:11"/></para>
+<verse eid="REV 10:11"/></para>
   <chapter eid="REV 10"/>
   <chapter number="11" style="c" sid="REV 11"/>
   <para style="p"><verse number="1" style="v" sid="REV 11:1"/>And a reed like a measuring rod was given to me, saying, “Get up and measure the temple of God and the altar and the ones worshiping in it.
@@ -557,37 +557,37 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 <verse eid="REV 11:14"/></para>
   <para style="p"><verse number="15" style="v" sid="REV 11:15"/>And the seventh angel trumpeted, and loud voices happened in heaven, saying,
 </para>
-  <para style="q1">“The kingdom of the world has become {the kingdom} of our Lord and of his Christ,
+  <para style="q1" vid="REV 11:15">“The kingdom of the world has become {the kingdom} of our Lord and of his Christ,
 </para>
-  <para style="q1">and he will reign to the ages of the ages.”
+  <para style="q1" vid="REV 11:15">and he will reign to the ages of the ages.”
 
 <ms style="ts"/>
 <verse eid="REV 11:15"/></para>
   <para style="m"><verse number="16" style="v" sid="REV 11:16"/>And the 24 elders sitting on their thrones before God fell upon their faces and worshiped God,
 <verse eid="REV 11:16"/><verse number="17" style="v" sid="REV 11:17"/>saying,
 </para>
-  <para style="q1">“We give thanks to you, Lord God, Ruler of All, the one being and the one having been,
+  <para style="q1" vid="REV 11:17">“We give thanks to you, Lord God, Ruler of All, the one being and the one having been,
 </para>
-  <para style="q1">because indeed you have taken your great power and have reigned.
+  <para style="q1" vid="REV 11:17">because indeed you have taken your great power and have reigned.
 <note style="f" caller="+"> <char style="ft" closed="false">Some copies read </char><char style="fqa" closed="true">the ruler over all, the one {who} is, and {who} was, and {who} is to come,</char> but most modern versions do not.</note>
 
 <ms style="ts"/>
 <verse eid="REV 11:17"/></para>
   <para style="q1"><verse number="18" style="v" sid="REV 11:18"/>And the nations were enraged,
 </para>
-  <para style="q2">but your wrath has come
+  <para style="q2" vid="REV 11:18">but your wrath has come
 </para>
-  <para style="q2">and the time for the dead to be judged,
+  <para style="q2" vid="REV 11:18">and the time for the dead to be judged,
 </para>
-  <para style="q1">and to give a reward to your servants
+  <para style="q1" vid="REV 11:18">and to give a reward to your servants
 </para>
-  <para style="q2">the prophets and to the saints
+  <para style="q2" vid="REV 11:18">the prophets and to the saints
 </para>
-  <para style="q2">and to the ones fearing your name,
+  <para style="q2" vid="REV 11:18">and to the ones fearing your name,
 </para>
-  <para style="q2">the small and the great,
+  <para style="q2" vid="REV 11:18">the small and the great,
 </para>
-  <para style="q1">and to destroy the ones destroying the earth.”
+  <para style="q1" vid="REV 11:18">and to destroy the ones destroying the earth.”
 
 <ms style="ts"/>
 <verse eid="REV 11:18"/></para>
@@ -595,7 +595,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 11:19"/><verse eid="REV 11:19"/></para>
+<verse eid="REV 11:19"/></para>
   <chapter eid="REV 11"/>
   <chapter number="12" style="c" sid="REV 12"/>
   <para style="p"><verse number="1" style="v" sid="REV 12:1"/>And a great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and a crown of 12 stars on her head,
@@ -618,33 +618,33 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 <ms style="ts"/>
 <verse eid="REV 12:9"/><verse number="10" style="v" sid="REV 12:10"/>And I heard a loud voice in heaven saying,
 </para>
-  <para style="q1">“Now have come the salvation and the power
+  <para style="q1" vid="REV 12:10">“Now have come the salvation and the power
 </para>
-  <para style="q2">and the kingdom of our God,
+  <para style="q2" vid="REV 12:10">and the kingdom of our God,
 </para>
-  <para style="q2">and the authority of his Christ,
+  <para style="q2" vid="REV 12:10">and the authority of his Christ,
 </para>
-  <para style="q1">because the accuser of our brothers has been thrown down,
+  <para style="q1" vid="REV 12:10">because the accuser of our brothers has been thrown down,
 </para>
-  <para style="q2">the one accusing them before our God day and night.
+  <para style="q2" vid="REV 12:10">the one accusing them before our God day and night.
 
 <ms style="ts"/>
 <verse eid="REV 12:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="REV 12:11"/>And they conquered him through the blood of the Lamb and by the word of their testimony,
 </para>
-  <para style="q1">indeed, they did not love their lives unto death.
+  <para style="q1" vid="REV 12:11">indeed, they did not love their lives unto death.
 <verse eid="REV 12:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="REV 12:12"/>Therefore, rejoice, heavens,
 </para>
-  <para style="q2">and the ones dwelling in them!
+  <para style="q2" vid="REV 12:12">and the ones dwelling in them!
 </para>
-  <para style="q1">Woe to the earth and the sea,
+  <para style="q1" vid="REV 12:12">Woe to the earth and the sea,
 </para>
-  <para style="q2">because the devil has gone down to you,
+  <para style="q2" vid="REV 12:12">because the devil has gone down to you,
 </para>
-  <para style="q1">having great anger,
+  <para style="q1" vid="REV 12:12">having great anger,
 </para>
-  <para style="q2">knowing that he has little time!”
+  <para style="q2" vid="REV 12:12">knowing that he has little time!”
 
 <ms style="ts"/>
 <verse eid="REV 12:12"/></para>
@@ -659,7 +659,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 12:18"/><verse eid="REV 12:18"/></para>
+<verse eid="REV 12:18"/></para>
   <chapter eid="REV 12"/>
   <chapter number="13" style="c" sid="REV 13"/>
   <para style="p"><verse number="1" style="v" sid="REV 13:1"/>And I saw a beast coming up from the sea, having ten horns and seven heads, and on its horns {were} ten crowns, and on its heads {was} a blasphemous name.<note style="f" caller="+"> <char style="ft" closed="false">Some manuscripts include </char><char style="fqa" closed="true">Then he stood on the sand of the seashore</char> at the beginning of this verse, but the best manuscripts include it as 12:18.</note>
@@ -700,7 +700,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 13:18"/><verse eid="REV 13:18"/></para>
+<verse eid="REV 13:18"/></para>
   <chapter eid="REV 13"/>
   <chapter number="14" style="c" sid="REV 14"/>
   <para style="p"><verse number="1" style="v" sid="REV 14:1"/>And I looked and behold, the Lamb standing on Mount Zion, and with him {were} 144 thousands having his name and the name of his Father written on their foreheads.
@@ -750,7 +750,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 14:20"/><verse eid="REV 14:20"/></para>
+<verse eid="REV 14:20"/></para>
   <chapter eid="REV 14"/>
   <chapter number="15" style="c" sid="REV 15"/>
   <para style="p"><verse number="1" style="v" sid="REV 15:1"/>And I saw another great and marvelous sign in heaven: seven angels having seven final plagues, for with them the wrath of God was finished.
@@ -762,25 +762,25 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 <ms style="ts"/>
 <verse eid="REV 15:2"/><verse number="3" style="v" sid="REV 15:3"/>And they sing the song of Moses the servant of God and the song of the Lamb, saying,
 </para>
-  <para style="q1">“Great and marvelous {are} your deeds,
+  <para style="q1" vid="REV 15:3">“Great and marvelous {are} your deeds,
 </para>
-  <para style="q2">Lord God, Ruler of All.
+  <para style="q2" vid="REV 15:3">Lord God, Ruler of All.
 </para>
-  <para style="q1">Righteous and true {are} your ways,
+  <para style="q1" vid="REV 15:3">Righteous and true {are} your ways,
 </para>
-  <para style="q2">King of the Ages.<note style="f" caller="+"> <char style="ft" closed="false">Some manuscripts read </char><char style="fqa" closed="true">nations</char> instead of<char style="fq" closed="true">ages.</char></note>
+  <para style="q2" vid="REV 15:3">King of the Ages.<note style="f" caller="+"> <char style="ft" closed="false">Some manuscripts read </char><char style="fqa" closed="true">nations</char> instead of<char style="fq" closed="true">ages.</char></note>
 <verse eid="REV 15:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="REV 15:4"/>Who will certainly not fear {you}, Lord,
 </para>
-  <para style="q2">and glorify your name?
+  <para style="q2" vid="REV 15:4">and glorify your name?
 </para>
-  <para style="q1">For {you} alone {are} holy.
+  <para style="q1" vid="REV 15:4">For {you} alone {are} holy.
 </para>
-  <para style="q2">For all the nations will come
+  <para style="q2" vid="REV 15:4">For all the nations will come
 </para>
-  <para style="q2">and worship before you,
+  <para style="q2" vid="REV 15:4">and worship before you,
 </para>
-  <para style="q1">because your righteous deeds have been manifested.”
+  <para style="q1" vid="REV 15:4">because your righteous deeds have been manifested.”
 
 <ms style="ts"/>
 <verse eid="REV 15:4"/></para>
@@ -793,7 +793,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 15:8"/><verse eid="REV 15:8"/></para>
+<verse eid="REV 15:8"/></para>
   <chapter eid="REV 15"/>
   <chapter number="16" style="c" sid="REV 16"/>
   <para style="p"><verse number="1" style="v" sid="REV 16:1"/>And I heard a loud voice from the temple saying to the seven angels, “Go and pour out the seven bowls of the wrath of God onto the earth.”
@@ -811,23 +811,23 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
   <para style="p"><verse number="4" style="v" sid="REV 16:4"/>And the third poured out his bowl into the rivers and the springs of water, and it became blood.
 <verse eid="REV 16:4"/><verse number="5" style="v" sid="REV 16:5"/>And I heard the angel of the waters saying,
 </para>
-  <para style="q1">“You are righteous, the one being and the one who was, the Holy One,
+  <para style="q1" vid="REV 16:5">“You are righteous, the one being and the one who was, the Holy One,
 </para>
-  <para style="q2">because you have judged these.
+  <para style="q2" vid="REV 16:5">because you have judged these.
 <note style="f" caller="+"> <char style="ft" closed="false">Some older copies read </char><char style="fqa" closed="true">You are righteous, Lord—the one who is and who was and who is to be, because you have judged these things.</char></note>
 <verse eid="REV 16:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="REV 16:6"/>Because they poured out the blood of the saints and prophets,
 </para>
-  <para style="q2">you have also given blood to them to drink;
+  <para style="q2" vid="REV 16:6">you have also given blood to them to drink;
 </para>
-  <para style="q1">they are worthy.”
+  <para style="q1" vid="REV 16:6">they are worthy.”
 
 <verse eid="REV 16:6"/></para>
   <para style="m"><verse number="7" style="v" sid="REV 16:7"/>And I heard the altar saying,
 </para>
-  <para style="q1">“Yes, Lord God, Ruler of All,
+  <para style="q1" vid="REV 16:7">“Yes, Lord God, Ruler of All,
 </para>
-  <para style="q2">your judgments {are} true and righteous.”
+  <para style="q2" vid="REV 16:7">your judgments {are} true and righteous.”
 
 <ms style="ts"/>
 <verse eid="REV 16:7"/></para>
@@ -861,7 +861,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 16:21"/><verse eid="REV 16:21"/></para>
+<verse eid="REV 16:21"/></para>
   <chapter eid="REV 16"/>
   <chapter number="17" style="c" sid="REV 17"/>
   <para style="p"><verse number="1" style="v" sid="REV 17:1"/>And one of the seven angels holding the seven bowls came and spoke with me, saying, “Come, I will show you the judgment of the great prostitute sitting on many waters,
@@ -903,78 +903,78 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 17:18"/><verse eid="REV 17:18"/></para>
+<verse eid="REV 17:18"/></para>
   <chapter eid="REV 17"/>
   <chapter number="18" style="c" sid="REV 18"/>
   <para style="p"><verse number="1" style="v" sid="REV 18:1"/>After these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated by his glory.
 <verse eid="REV 18:1"/><verse number="2" style="v" sid="REV 18:2"/>And he cried out in a mighty voice, saying,
 </para>
-  <para style="q1">“Babylon the Great has fallen!
+  <para style="q1" vid="REV 18:2">“Babylon the Great has fallen!
 </para>
-  <para style="q2">And she has become a habitation of demons
+  <para style="q2" vid="REV 18:2">And she has become a habitation of demons
 </para>
-  <para style="q1">and a hold of every unclean spirit
+  <para style="q1" vid="REV 18:2">and a hold of every unclean spirit
 </para>
-  <para style="q2">and a hold of every unclean and detested bird.<note style="f" caller="+"> <char style="ft" closed="false">Some manuscripts read </char><char style="fqa" closed="true">Fallen, fallen.</char></note>
+  <para style="q2" vid="REV 18:2">and a hold of every unclean and detested bird.<note style="f" caller="+"> <char style="ft" closed="false">Some manuscripts read </char><char style="fqa" closed="true">Fallen, fallen.</char></note>
 <verse eid="REV 18:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="REV 18:3"/>For all the nations have drunk from the wine of her immoral passion
 </para>
-  <para style="q2">and the kings of the earth have committed sexual immorality with her
+  <para style="q2" vid="REV 18:3">and the kings of the earth have committed sexual immorality with her
 </para>
-  <para style="q1">and the merchants of the earth have become rich from the power of her luxury.”
+  <para style="q1" vid="REV 18:3">and the merchants of the earth have become rich from the power of her luxury.”
 
 <ms style="ts"/>
 <verse eid="REV 18:3"/></para>
   <para style="q1"><verse number="4" style="v" sid="REV 18:4"/>And I heard another voice from heaven saying,
 </para>
-  <para style="q2">“Come out from her, my people,
+  <para style="q2" vid="REV 18:4">“Come out from her, my people,
 </para>
-  <para style="q3">so that you might not share in her sins
+  <para style="q3" vid="REV 18:4">so that you might not share in her sins
 </para>
-  <para style="q2">and so that you might not receive from her plagues.
+  <para style="q2" vid="REV 18:4">and so that you might not receive from her plagues.
 <verse eid="REV 18:4"/></para>
   <para style="q1"><verse number="5" style="v" sid="REV 18:5"/>For her sins have been heaped as far as heaven,
 </para>
-  <para style="q2">and God has remembered her offenses.
+  <para style="q2" vid="REV 18:5">and God has remembered her offenses.
 <verse eid="REV 18:5"/></para>
   <para style="q1"><verse number="6" style="v" sid="REV 18:6"/>Give back to her even as she has given,
 </para>
-  <para style="q2">and double doubles {to her} according to her deeds;
+  <para style="q2" vid="REV 18:6">and double doubles {to her} according to her deeds;
 </para>
-  <para style="q2">in the cup that she mixed, mix double for her.
+  <para style="q2" vid="REV 18:6">in the cup that she mixed, mix double for her.
 
 <ms style="ts"/>
 <verse eid="REV 18:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="REV 18:7"/>As much as she glorified herself and lived in luxury,
 </para>
-  <para style="q2">give her just as much torture and grief.
+  <para style="q2" vid="REV 18:7">give her just as much torture and grief.
 </para>
-  <para style="q1">For she says in her heart,
+  <para style="q1" vid="REV 18:7">For she says in her heart,
 </para>
-  <para style="q2">‘I sit {as} a queen
+  <para style="q2" vid="REV 18:7">‘I sit {as} a queen
 </para>
-  <para style="q1">and I am not a widow
+  <para style="q1" vid="REV 18:7">and I am not a widow
 </para>
-  <para style="q2">and I will certainly not see mourning.’
+  <para style="q2" vid="REV 18:7">and I will certainly not see mourning.’
 <verse eid="REV 18:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="REV 18:8"/>Because of this in one day her plagues will come:
 </para>
-  <para style="q2">death and mourning and famine,
+  <para style="q2" vid="REV 18:8">death and mourning and famine,
 </para>
-  <para style="q1">and she will be consumed by fire,
+  <para style="q1" vid="REV 18:8">and she will be consumed by fire,
 </para>
-  <para style="q2">for the Lord God judging her {is} mighty.”
+  <para style="q2" vid="REV 18:8">for the Lord God judging her {is} mighty.”
 
 <ms style="ts"/>
 <verse eid="REV 18:8"/></para>
   <para style="m"><verse number="9" style="v" sid="REV 18:9"/>And the kings of the earth, the ones having committed sexual immorality and having lived in luxury with her, will weep and wail over her when they see the smoke of her burning,
 <verse eid="REV 18:9"/><verse number="10" style="v" sid="REV 18:10"/>standing from afar because of the fear of her torment, saying,
 </para>
-  <para style="q1">“Woe, woe, the great city,
+  <para style="q1" vid="REV 18:10">“Woe, woe, the great city,
 </para>
-  <para style="q2">Babylon, the mighty city!
+  <para style="q2" vid="REV 18:10">Babylon, the mighty city!
 </para>
-  <para style="q1">For in one hour your judgment has come.”
+  <para style="q1" vid="REV 18:10">For in one hour your judgment has come.”
 
 <ms style="ts"/>
 <verse eid="REV 18:10"/></para>
@@ -991,151 +991,151 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 <verse eid="REV 18:15"/></para>
   <para style="m"><verse number="16" style="v" sid="REV 18:16"/>saying,
 </para>
-  <para style="q1">“Woe, woe to the great city
+  <para style="q1" vid="REV 18:16">“Woe, woe to the great city
 </para>
-  <para style="q2">having been dressed in fine linen
+  <para style="q2" vid="REV 18:16">having been dressed in fine linen
 </para>
-  <para style="q3">and purple and scarlet
+  <para style="q3" vid="REV 18:16">and purple and scarlet
 </para>
-  <para style="q2">and adorned with gold
+  <para style="q2" vid="REV 18:16">and adorned with gold
 </para>
-  <para style="q3">and precious stones and pearls,
+  <para style="q3" vid="REV 18:16">and precious stones and pearls,
 <verse eid="REV 18:16"/></para>
   <para style="q2"><verse number="17" style="v" sid="REV 18:17"/>for in one hour so much wealth has been destroyed.”
 
 </para>
-  <para style="m">And every shipmaster and every one sailing to a place and sailors and as many as work the sea stood from afar
+  <para style="m" vid="REV 18:17">And every shipmaster and every one sailing to a place and sailors and as many as work the sea stood from afar
 
 <ms style="ts"/>
 <verse eid="REV 18:17"/></para>
   <para style="m"><verse number="18" style="v" sid="REV 18:18"/>and were crying out, seeing the smoke of her burning, saying, “What {is} like the great city?”
 <verse eid="REV 18:18"/><verse number="19" style="v" sid="REV 18:19"/>And they threw dust on their heads and cried out, weeping and mourning, saying,
 </para>
-  <para style="q1">“Woe, woe, the great city,
+  <para style="q1" vid="REV 18:19">“Woe, woe, the great city,
 </para>
-  <para style="q2">by which all the ones having ships in the sea
+  <para style="q2" vid="REV 18:19">by which all the ones having ships in the sea
 </para>
-  <para style="q2">became rich from her wealth,
+  <para style="q2" vid="REV 18:19">became rich from her wealth,
 </para>
-  <para style="q1">for in one hour she has been destroyed.”
+  <para style="q1" vid="REV 18:19">for in one hour she has been destroyed.”
 <verse eid="REV 18:19"/></para>
   <para style="q1"><verse number="20" style="v" sid="REV 18:20"/>(“Rejoice over her, heaven,
 </para>
-  <para style="q2">also you saints and apostles and prophets,
+  <para style="q2" vid="REV 18:20">also you saints and apostles and prophets,
 </para>
-  <para style="q1">for God has judged your judgment against her!”)
+  <para style="q1" vid="REV 18:20">for God has judged your judgment against her!”)
 
 <ms style="ts"/>
 <verse eid="REV 18:20"/></para>
   <para style="p"><verse number="21" style="v" sid="REV 18:21"/>And a mighty angel took up a stone like a great millstone and threw {it} into the sea, saying,
 </para>
-  <para style="q1">“Thus Babylon, the great city,
+  <para style="q1" vid="REV 18:21">“Thus Babylon, the great city,
 </para>
-  <para style="q2">will be thrown down with violence,
+  <para style="q2" vid="REV 18:21">will be thrown down with violence,
 </para>
-  <para style="q2">and she will certainly not be seen anymore,
+  <para style="q2" vid="REV 18:21">and she will certainly not be seen anymore,
 <verse eid="REV 18:21"/></para>
   <para style="q1"><verse number="22" style="v" sid="REV 18:22"/>and the sound of harpists and musicians
 </para>
-  <para style="q3">and flutists and trumpeters
+  <para style="q3" vid="REV 18:22">and flutists and trumpeters
 </para>
-  <para style="q2">will certainly not be heard in you anymore,
+  <para style="q2" vid="REV 18:22">will certainly not be heard in you anymore,
 </para>
-  <para style="q1">and every craftsman
+  <para style="q1" vid="REV 18:22">and every craftsman
 </para>
-  <para style="q2">will certainly not be found in you anymore,
+  <para style="q2" vid="REV 18:22">will certainly not be found in you anymore,
 </para>
-  <para style="q1">and the sound of a mill
+  <para style="q1" vid="REV 18:22">and the sound of a mill
 </para>
-  <para style="q2">will certainly not be heard in you anymore.
+  <para style="q2" vid="REV 18:22">will certainly not be heard in you anymore.
 
 <ms style="ts"/>
 <verse eid="REV 18:22"/></para>
   <para style="q1"><verse number="23" style="v" sid="REV 18:23"/>And the light of a lamp
 </para>
-  <para style="q2">will certainly not shine in you anymore,
+  <para style="q2" vid="REV 18:23">will certainly not shine in you anymore,
 </para>
-  <para style="q1">and the voice of a bridegroom and a bride
+  <para style="q1" vid="REV 18:23">and the voice of a bridegroom and a bride
 </para>
-  <para style="q2">will certainly not be heard in you anymore,
+  <para style="q2" vid="REV 18:23">will certainly not be heard in you anymore,
 </para>
-  <para style="q1">for your merchants were the great ones of the earth
+  <para style="q1" vid="REV 18:23">for your merchants were the great ones of the earth
 </para>
-  <para style="q2">because all the nations were deceived by your sorcery.
+  <para style="q2" vid="REV 18:23">because all the nations were deceived by your sorcery.
 <verse eid="REV 18:23"/></para>
   <para style="q1"><verse number="24" style="v" sid="REV 18:24"/>And in her was found the blood of prophets and saints
 </para>
-  <para style="q2">and of all the ones having been slain on the earth.”
+  <para style="q2" vid="REV 18:24">and of all the ones having been slain on the earth.”
 
 <ms style="ts"/>
 
-<verse eid="REV 18:24"/><verse eid="REV 18:24"/></para>
+<verse eid="REV 18:24"/></para>
   <chapter eid="REV 18"/>
   <chapter number="19" style="c" sid="REV 19"/>
   <para style="p"><verse number="1" style="v" sid="REV 19:1"/>After these things I heard as it were the loud voice of a large crowd in heaven saying,
 </para>
-  <para style="q1">“Hallelujah!
+  <para style="q1" vid="REV 19:1">“Hallelujah!
 </para>
-  <para style="q1">Salvation and glory and power to our God,
+  <para style="q1" vid="REV 19:1">Salvation and glory and power to our God,
 <verse eid="REV 19:1"/></para>
   <para style="q2"><verse number="2" style="v" sid="REV 19:2"/>for his judgments {are} true and righteous,
 </para>
-  <para style="q1">for he has judged the great prostitute
+  <para style="q1" vid="REV 19:2">for he has judged the great prostitute
 </para>
-  <para style="q2">who was corrupting the earth with her sexual immorality,
+  <para style="q2" vid="REV 19:2">who was corrupting the earth with her sexual immorality,
 </para>
-  <para style="q1">and he has avenged the blood of his servants
+  <para style="q1" vid="REV 19:2">and he has avenged the blood of his servants
 </para>
-  <para style="q2">from her hand.”
+  <para style="q2" vid="REV 19:2">from her hand.”
 
 <ms style="ts"/>
 <verse eid="REV 19:2"/></para>
   <para style="m"><verse number="3" style="v" sid="REV 19:3"/>And they spoke a second {time}:
 </para>
-  <para style="q1">“Hallelujah!
+  <para style="q1" vid="REV 19:3">“Hallelujah!
 </para>
-  <para style="q1">Yes, the smoke of her rises to the ages of the ages.”
+  <para style="q1" vid="REV 19:3">Yes, the smoke of her rises to the ages of the ages.”
 
 <verse eid="REV 19:3"/></para>
   <para style="m"><verse number="4" style="v" sid="REV 19:4"/>And the 24 elders and the four living creatures fell down and worshiped God, the One sitting on the throne, saying,
 </para>
-  <para style="q1">“Amen. Hallelujah!”
+  <para style="q1" vid="REV 19:4">“Amen. Hallelujah!”
 
 <ms style="ts"/>
 <verse eid="REV 19:4"/></para>
   <para style="m"><verse number="5" style="v" sid="REV 19:5"/>And a voice came out from the throne, saying,
 </para>
-  <para style="q1">“Praise our God,
+  <para style="q1" vid="REV 19:5">“Praise our God,
 </para>
-  <para style="q2">all his servants
+  <para style="q2" vid="REV 19:5">all his servants
 </para>
-  <para style="q1">and the ones fearing him,
+  <para style="q1" vid="REV 19:5">and the ones fearing him,
 </para>
-  <para style="q2">the small and the great.”
+  <para style="q2" vid="REV 19:5">the small and the great.”
 
 <ms style="ts"/>
 <verse eid="REV 19:5"/></para>
   <para style="m"><verse number="6" style="v" sid="REV 19:6"/>And I heard as it were the sound of a great crowd and as it were the sound of many waters and as it were the sound of powerful thunder, saying,
 </para>
-  <para style="q1">“Hallelujah!
+  <para style="q1" vid="REV 19:6">“Hallelujah!
 </para>
-  <para style="q1">For the Lord our God, the Ruler of All, reigns.
+  <para style="q1" vid="REV 19:6">For the Lord our God, the Ruler of All, reigns.
 
 <ms style="ts"/>
 <verse eid="REV 19:6"/></para>
   <para style="q1"><verse number="7" style="v" sid="REV 19:7"/>Let us rejoice and exult
 </para>
-  <para style="q2">and give glory to him
+  <para style="q2" vid="REV 19:7">and give glory to him
 </para>
-  <para style="q1">because the wedding of the Lamb has come
+  <para style="q1" vid="REV 19:7">because the wedding of the Lamb has come
 </para>
-  <para style="q2">and his bride has made herself ready
+  <para style="q2" vid="REV 19:7">and his bride has made herself ready
 <verse eid="REV 19:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="REV 19:8"/>and it has been granted to her that she might be dressed
 </para>
-  <para style="q2">in bright, clean fine linen.”
+  <para style="q2" vid="REV 19:8">in bright, clean fine linen.”
 </para>
-  <para style="q1">(For fine linen is the righteous acts of the saints.)
+  <para style="q1" vid="REV 19:8">(For fine linen is the righteous acts of the saints.)
 
 <ms style="ts"/>
 <verse eid="REV 19:8"/></para>
@@ -1168,7 +1168,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 19:21"/><verse eid="REV 19:21"/></para>
+<verse eid="REV 19:21"/></para>
   <chapter eid="REV 19"/>
   <chapter number="20" style="c" sid="REV 20"/>
   <para style="p"><verse number="1" style="v" sid="REV 20:1"/>And I saw an angel coming down from heaven having the key to the abyss and a great chain in his hand.
@@ -1202,7 +1202,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 20:15"/><verse eid="REV 20:15"/></para>
+<verse eid="REV 20:15"/></para>
   <chapter eid="REV 20"/>
   <chapter number="21" style="c" sid="REV 21"/>
   <para style="p"><verse number="1" style="v" sid="REV 21:1"/>And I saw a new heaven and a new earth, for the first heaven and the first earth had gone away, and the sea was no more.
@@ -1258,7 +1258,7 @@ flying in mid-heaven saying in a loud voice, “Woe, woe, woe, to the ones livin
 
 <ms style="ts"/>
 
-<verse eid="REV 21:27"/><verse eid="REV 21:27"/></para>
+<verse eid="REV 21:27"/></para>
   <chapter eid="REV 21"/>
   <chapter number="22" style="c" sid="REV 22"/>
   <para style="p"><verse number="1" style="v" sid="REV 22:1"/>And he showed to me the river of the water of life, clear as crystal, flowing out from the throne of God and of the Lamb,
